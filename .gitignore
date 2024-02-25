@@ -1,0 +1,4 @@
+chatglm-6b/pytorch_model-0000*
+checkpoints/*
+__pycache__/*
+log/*

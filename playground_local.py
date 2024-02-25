@@ -43,7 +43,7 @@ st.set_page_config(
 
 device = 'cuda:0'
 max_new_tokens = 300
-model_path = "checkpoints/model_1000"
+model_path = "checkpoints/ptuning/model_best"
 
 LOG_PATH = 'log'
 DATASET_PATH = 'data'
