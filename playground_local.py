@@ -252,7 +252,7 @@ def start_label_page():
                         'context': context,
                         'target': answer
                     }
-                    f.write(json.dumps(current_sample, ensure_ascii=False) + '\n')
+                    f.write('\n' + json.dumps(current_sample, ensure_ascii=False))
                 st.success('数据已保存！', icon="✅")
                 st.session_state['dataset_df'] = read_dataset_file()
     
