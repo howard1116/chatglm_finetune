@@ -1,0 +1,496 @@
+Thermostability and flame retardance of green functional two-component
+waterbornepolyurethane
+coatingswithnanoparticles
+Xuan Yin, Chenghao Dong, Chunpeng Chai, Yunjun Luc
+Schoal af Materiabr Scintce snd Enginering Beuing Jssntutr ef Terhmology, Beymg Z0o08I, PR Chins
+1.Introductiot
+With increasingly restrictive volatile organic compound dischar-
+ging, water-based coatings, adhesives, and leather finishing have been
+rapidly developed. Two-component waterborme polyurethane has
+gained an important place in these applications because of its excellent
+physical and chemical properties [1]. Two-component waterborne
+polyurethane consists of hydroxyl component and an isocyanate com-
+functionalization characteristics such as flame-retardance, non-toxicity
+hias
+and weather resistance in previous research [24]. Therefore, it is im-
+oparticles.
+brilliant reactive phosphoru
+amm
+onia gas (NHs), nitrogen
+dilutethe
+oxygen free
+with
+d hyd
+to further inhibit combustibility during burning [9,10]. Nanc
+caniumdioxide（nanoTiO)is
+sature,
+sl addremi:yjoSbitecn (Y.Lo)
+teceiwed 7 May 2017; Received n r
+7d00p/10.1016/j.p0go
+at.2018.01.02
+0300-9440/  2018 Elser
+eimedfarm SD
+2017:
+were symthesized through adding polyurethane polyol dispersions, hydrophilic nanoTiO and bydrophilic curing
+TGA-FTTR, LOI tester, SEM, UVris spectrum, water and solvent resistance. The results showed the tensile
+agent. The properties and analysis were characterized via FTTR, laser partidle analyzer, rheometer, TEM, TGA,
+strength coumld reach 22.3 MPa. And the nanoTiO, delayed speed of thermal decomposition to improve ther-
+mostability of two-component waterborne polyurethane. Larger quantities of hydrophilic nanoTiO did not
+produce a larger unbroken carbon yield surface or thicker carbon layers, but effectively produced a condensed
+pue %'6z raso papea ose b61n pre 1o1 'sapisg Buumq Buump ossdo qpm 1soga uepuea-sueg aseqd
+V0 respectively. The UV and visible light shielding noticeably increased with the adding namoTiO The 0.5%
+content of nanoTiO had the optimal properties in green and functional two-component waterborne poly-
+urethane coatings
+ultraviolet and mechanical properties for matrix [11]. Adding TiO
+with different crystalline forms (anatase, rutile and brookite) could
+cause different properties in the system [12]. The rutile TiO is the most
+mmonly used as a UV blocker among the thre kinds of TiO, but it
+has a needlelike structure, which prejudices dispersion during pre
+paration andstorage [1113 AnataseTiis very effectiv as stabilier
+and restrained light oxidant [14,15]. Moreover, its spherical structure
+and hydrophilic groups can incorporate well with water or disperse into
+aqueous emulsions. Furthermore, some spherical nanoparticles are
+widely used for improving properties of polymers [1618]. Incorpora-
+with superior 
+tion of nanoTiO in commercial coatings might form novel coatings
+thermostability.
+In this paper, we prepared a series of hydroxyl components with
+hydrophilic nanoTiO2, and then prepared two-component waterborne
+polyurethanes and films. We researched the effect of hydrophilic
+nanoTiO on emulsion and ilm properties in order to obtain the anti-
+2. Experimental
+2.1.Materab
+Polypropylene glycol (PPG, M, = 1o00 ± 50, industrial grade
+Dawson International Inc.) was dried at 90 °C under vacuum for 6 h;
+isophorone disocyanate (IPDI, analytical grade, Aladdin); dimethylol
+propionic acid (DMPA, chemically pure, Aladdin) was dried at 90 °C
+under vacuum for 6 h; hydrophilic anatase nanoTiO (30 ± 10 nm,
+99%, Aladdin) was dried at 80 °C under vacuum for 12 h; halogen free
+dried at 90 °C under vacuum for 4 h; acetone (chemically pure, Beijing
+poly phosphate (OP550, M = 831, industrial grade, Clariant AG) was
+Chemical Reagents Company) was soaked by a 4 A molecular sieve
+CTEA, chemically pure, Beijing Yili Fine Chemicals Co., Ltd.) was soaked
+(Beijing Pengcai Chemical Reagent Co., Ltd.) for 72h; triethylamine
+by 4 A molecular sieve for 72h; hydrophilic curing agent (Lab home-
+made [19]); antifoaming agent (BYK 001, chemically pure, BYK Ad-
+ditives & Instruments) was dried at 80°C under vacuum for 4 h; wetting
+agent (BYK348, chemically pure, BYK Additives & Instruments) was
+dried at 80°C under vacuum for 4h; flow control agent (BYK333,
+chemically pure, BYK Additives & Instruments) was dried at 80 °C under
+vacuum for 4 h.
+2.2.Method
+100.0 g PPG, 27.0 g OP550, 41.8 g IPDI and nanoTIO, were added
+into four flasks with a condenser pipe at 80°C for 23h. We then added
+9.9 g DMPA and some acetone for 12 h. Subsequently, the temperature
+was cooled to 40 °C. Next, 9.9 g TEA was added to four fasks at 40°C
+for 30 min. The polyurethane prepolymer was mixed with 376.0 g
+deionozed water at high-speed shear mixing for 30 min. Final, the
+polyurethane polyol dispersion (TOPUD) was removed with acetone at
+40 °C rotary evaporation for 2 h. The synthesis is displayed in Scheme 1.
+Six different TOPUD samples were prepared, with various nanoTiO
+content of 0 (for control experiment) 0.1, 0.2, 0.3, 0.5 and 1.0 wt.%.
+These samples were named as TOPUD-x, with *x* representing the
+nanoTiO, content. We added a hydrophilic curing agent (the stoichio.
+metric ratio of  NCO to  OH was 1.6) into the emulsion with 0.3 g
+antifoaming agent, 0.45 g weting agent and 0.75 g flow control agent.
+The reaction was under ultrasonic vibration for 30 min, waiting for a
+complex reaction. The ultima emulsion was two-component waterborne
+polyurethane (TOWPU). Six diferent TOWPU samples were prepared,
+with various nanoTiO content of 0, 0.1, 0.2, 0.3, 0.5 and 1.0 wt.% The
+TOWPU was dropped into a Teflon plate at 60 °C for 48 h on 
+cheme i.Syntmesis ot two-coupoexent waberbonnepolynretmane coatiig:
+2.3. Characterization
+The grain size and zeta potential of the hydrophilic curing agent and
+TOWPU emulsion were laser particle sized at 25 °C for 120 s with a laser
+particle size instrument (Malvem Zetasizer Nano ZS90). The hydro-
+philic curing agent and TowPU emulsion were diluted to 1 wt% by
+deionized water. The viscosity of hydrophilic curing agent and TOWPU
+rotor was zero size at 34 s~2 at 25 °C. A transmission electron micro-
+were tested by Brookfield programmable DV-II + Pro Viscometer. The
+scope (Hitachi H-s00 TEM) was used to observe the surface morphology
+of emulsion particles. The TOWPU emulsion were diluted to 1 wt% by
+mixed solvent (the molar ratio of absolute ethyl alcohol and deionized
+water was 1:1), and then dropped into a copper mesh to wait for dry at
+room temperature.
+The TOWPU was cut to 25mm × 25emm × 2mm quartz plate and
+then placed into a vacuum drying oven at 80 °C for 12 h. The Nicolet
+Corporation) was used to test the films of the quartz plates. The me-
+8700 Fourier transformed infrared spectroscopy (FTIR, Thermo Nicolet
+chanical properties (tensile strength and fracture elongation) of
+TOWPU films were tested through an electronic and mechanical testing
+machine (AGS-J electronic and mechanical testing machine, Japan
+Shimadzu Ltd. Co.) with a strain rate of 100 mm/min at room tem-
+perature. The dimensions of the samples were 20 mm × 4 mm × 2 mm
+(length, width, thickness). For each sample, five specimens were tested
+and the average value is reported. The thermal degeneration TOWPU
+films and char yield of TOwPU coatings were tested by thermogravi-
+metric analysis (Switzerland Mettler TGA/DSC differential thermal
+scanners). The measurements were tested at nitrogen condition from 30
+to 500 °C at a warming speed 10 °C/min. The samples were dried at
+80 °C for 24 h. The gaseous product of thermal degeneration of TOWPU
+coatings were tested by thermogravimetric infrared analysis (Mettler
+Toledo TGA/DSC1-Ncolet 6700 FTIR). The measurements were tested
+at nitrogen condition from 30 to 500 °C at a warming speed 10 °C/min.
+a tube fumaoe at nitrogen condition. The procedure of the tube furnace
+The samples were dried at 80 °C for 24 h. The TOwPU films were set in
+500 °C for 10 min for each stage. Next, the residue was tested by FTIR.
+was set at 150 °C, 200°C, 250 °C, 300°C, 350 °C, 400°C, 450°C and
+The resicue was mixed with dried KBr and then pressed into tablets.
+The limiting oxygen index (LOI) of TOwPU was determined using the
+digital display oxygen index apparatus LFY606 B (China Shandong
+textile academy of sciences institute of instrument) according to the
+combustion performance of the oxygen index standard test ASTM
+D2863-77 by LFY606 B digital display oxygen index apparatus
+(Shandong Academy of Sciences). The TOWPU films were cut to
+150 mm × 50 mm splines (each sample had five strips). UL-94 of
+TOWPU films were conducted by a CZF-II horizontal and vertical
+burming tester (Jiang Ning Analysis Instrument Co.). The specimens
+(ASTM D3801-1996 standard). Scanning electron microscopy (SEM,
+used were 150 mm × 50 mm × 2mm according to the UL-94 tests
+Hitachi S-4800 field-emission scanning electron microscopy, Hitachi,
+Co., Japan) was used to investigate the 100mm × 50 mm surface of
+char residues under a 15 kV accelerating voltage. The char residues of
+the TOPWU- films were warmed at 500 °C in a tube furnace. The U.
+3010 Hitachi ultraviolet-visible (UVvis) spectrophotometer was used
+to test the films of quartz plates by scanning between 200 and 800 nm.
+The TOWPU were spun on a 25.6 mm × 72.4 mm × 2 mm glass slide
+and then dried in a vacuum drying oven at 80 °C for 12h. The trans-
+mission of light was determined using a Ref101N-min 60° glossmeter
+(Sheen Instruments, England). The water resistance of TOWPU coatings
+was expressed by a water absorption measurement. The TOWPU
+coating films were cut into 20 mm × 20 mm pieces which were dried at
+60 °C for 24 h. The cut pieces were soaked in deionized water at room
+temperature for 24 h, and then remove to absorb the surface water of
+Finally, the mixed latex becomes to be homogcncous latex, which means real film after solidification
+Scheme 2. The solidification process of two-component waterbome polyurethan
+calculate the water absorption by the formula (2)
+soaking. The solvent rest
+ted by the wiping
+of film was dipped in acetone, methylbenzene, ethyl alcohol (EG)
+diethyl ether, ethylene glycol, cyelohex:
+and tetrahydrofuran (THF
+dissolved, which meant the film passed the measurement. The rating
+The wiped films did not appear to be vanishing, dulling or thoroughly
+standard was as follow. *o (Swelling) mean that waterborne poly-
+urethane completely swelled in solvent (there was nothing remained on
+glass pane). 1 (Adherence) mean that waterborme polyurethane still
+adhered on glass pane, but the film was sticky by hand. 2 (White) mean
+that waterborme polyurethane still adhered on glass pane, and the film
+was white and tack-free by hand except recovery. 3 (Tinted white)
+mean that waterbome polyurethane still adhered on glass pane,
+meanwhile, the film was white and tack-free by band, and recovered
+within an hour. 4 (No change) mean that the film was tack-free and not
+to be white (there 
+3. Results and discussion
+3.1.1. FTTR analysis
+In the FTIR of hydrophilic nanoTiO, the vibration absorption was
+1623 cm ~2 of C  C skeleton (Fig. 1). The absorption peak of hydro-
+philic Ti0, was from 681 cm~1 to 539 cm~1. The samples where na-
+noTiO was added did not appear to have the same absorption peak of
+ OH, which meant that  OH had reacted with NCO. The absorp-
+tions of NH at 3349 cm~2, OH at 140 cm1
+3421 cm ~1 belonged to main chain of waterbome polyurethane. The
+Npue
+stretching vibration absorption of CHs and
+2965 cm *1 to 2866 cm~1, which did not change with the addition of
+CHz was from
+nanoTiO2. The stretching vibration absorption of CO at 1685 cm1
+and the in-plane bending absorption of N  H at 1560 cm produced a
+stronger change, because the  OH of nanoTiOz had reacted with
+ NCO to produce more carbamate groups. Meanwhile, the The ab-
+sorption peaks of P  C at 1461 cm^1 and of P = O at 1259 cm 
+vibration absorptions of P  0  C at 1107 cm~ and 938 cm ~2 and the
+',the
+weak vibration absorptix
+of P-C at 834 cm
+1, were typical of ab-
+2965 cm ~1 to 2866 cm , which did not change with the addition of
+nanoTiO2. The stretching vibration absorption of C — O at 1685 cm
+and the in-plane bending absorption of N  H at 1560 cm produced a
+stronger change, because the OH of nanoTiO had reacted with
+ NCO to produce more carbamate groups. Meanwhile, the The ab-
+sorption peaks of P  C at 1461 cm~ and of P = O at 1259 cm ,the
+vibration absorptions of P  0  C at 1107 cm ~2 and 938 cm ~ and the
+weak vibration absorption of P-C at 834 cm~, were typical of ab-
+sorption peaks of OPS50, in terms of intensity which did not change
+with nanoTiO, content; neither did it influence the near infrared region
+(from 681 cm  to 539 cm 2) because there was too little content
+which inflt
+nent and structure of two-component waterborne polyurethanes.
+curing agent to create a second chemical crosslinking networlk, which
+Besides, hydrophilic nanoTiO could react with NCO of hydrophilic
+triggered the movement and relative slippage of the hard macro-
+molecule chain. Meanwhile, emulsion viscosity was influenced by the
+macromolecule structure of waterbome polyurethanes, aggregation
+structure of grain particles, particle morphology and particle size. From
+viscosity of 19.1 mPa s. This result was slightly larger than TOWPU-0
+Table 1, the average grain size of TOWPU-0.5 was 222.1 nm, with
+(203.8 nm and 17.9 mPa s), which meant the little amount of nanoTiO2
+could not distinctly influence the grain size and viscosity of waterborne
+polyurethanes [20]. However, too much nanoTiO would mean losing
+the characters of nanoparticles. These nanoTiO showed aggregation in
+the waterborne polyurethane matrix, and they either clad outside of
+waterborme polyurethane emulsion particles or independently dis
+persed in waterborne polyurethanes (Fig. 2). Consequently, the grain
+size and viscosity sharply increased with the addition of nanoTiO [15].
+Grain size, Zeta potential and viscosity of TOWPU, and mechanical properties of
+TOWPU flms
+mutual repulsion caused by the micelle adsorbing electric double layer.
+And the zeta potential was the potential difference between the sliding
+plane and the solvent bodywhich could characterize emulsion stability
+for anionic waterborme polyurethanes [21,22]. The larger the absolute
+value of zeta potential signified better electrostatic stability in the s
+condition [23,24]. From Table 1, the TOwPU had nice stability with
+oues
+little nanoTiO because the absolute value of zeta potential was larger
+than 30. However, surplus samples did not have adequate stability
+3.2. Mechanicel testing
+18.4 MPa to 22.3 MPa with nano/TiO content below 0.5%, This meant
+As can be seen in Table 1, the tensile strength increased from
+the nanoTiOz improved tensile strength because anatase nanoTiO was
+able to lhomogeneously disperse in two-component waterborme poly-
+urethanes and break the stress concentration caused by inorganic rigid
+particles to provide a wide interface to reinforoe marix [13,25]. In
+addition,  SOF persisted as  CH;CHSO, in polyurethane chain to
+increase hard segment content. Although tensile strength of the films
+was weakened from 22.3 MPa to 20.0 MPa with over 0.5% content, the
+jo nuaedg a 0-ndo ue aaen pueau qluans asua
+tensile strength was due to aggregation of too much nanoTiO, Fig. 2c
+and d). NanoTiO clad outside of emulsion particles or independently
+dispersed in waterborne polyurethanes to weakene the interfacial in-
+teraction between nanoTiOg and two-component waterborme poly-
+urethanes [26,27]. Meanwhile, the hydroxide radical of the hydroxyl
+component reacted with the isocyanato of the hydrophilic curing agent
+to create chemical croslinking to harden materials, which promoted
+strong acing force among hard segments that was beneficial for forming
+lamella or microcrystalline structure. All results of the above factors
+improved tensile strength simultaneously. The fracture elongation was
+weakened with the adlition of nanoTiO because hydrophilic nanoTiO
+could incorporate with two-component waterborme polyurethanes by
+chemical bond. It created a chemical crosslinking network to enhance
+the interaction among two-component waterborne polyurethane chains
+[28,29]. As a result, it was hard to produce relative slippage of the
+macromolecule chains by extemal force, which caused the decline of
+fracture elongation.
+3.3. Thermal behevior
+From Fig. 3, the thermal degradation of TOWPU coatings was di-
+vided into four stages: 180°C245 °C, 245 °C324°C, 324°C391 °C,
+and 391 °C480 °C. And relative parameters were listed in Table 2. The
+falling and the maximum degradation speed (Vnas) increased after
+initial degradation temperature (Te) of the fist stage increased, before
+falling (the inflexion was at 1.0% content of hydrophilic nanoTiO).
+Meanwhile, the maximum degradation temperature (Taax) of this stage
+declined with the addition of hydrophilic nanoTiO,. It meant that some
+hydrophilie nanoTiO delayed tbe tbermal degradation processing,
+except excess nanoTiO because of the cladding defects caused by the
+aggregation of n
+ing hydro
+philic
+to the
+aple [30,31]
+basically unchanged. It meant that the hydrophilic nanoTiO, did not
+influence this stage. The T and Tms of the third stage were undet
+sdoupu jo uogpe a m Apaagoadsau . ise pue 0.8te
+nanoTiO, Meanwhile, Vnax almost remained the same. There may be
+heat-resisting and degradation resistant material, which had out-
+three explanations for this. Firstly, nanoTiO itself was an inorganic,
+standing thermostability and effectively improved the thermostability
+of the polymer. Altermatively, nanoTiO could incorporate with wa-
+q as u s  o sd o
+forming chemical bonds and intermolecular forces like a hydrogen
+bond. At last, the crolinking network could have become denser with
+more nanoTiO2, and restrained the molecular chain movement of
+polyurethane. Hence the movement and degradation of molecular chain
+degradatio
+Fig. 3. TGA (a) and DTG (b) curves of TOWPU coatings
+which could have played a role in cladding the waterbome poly-
+urethane to obstruct the products of volatile gases during the polymer
+degradation and reduced outside transport pathways. Finally, the last
+stage showed an obvious change of Vzex with the addition of nanoTiO
+[17,29,32]. It declined to below 0.0036 °C/min, which was much lower
+than TOWPU-0. The thermal degradation speed retarded because of the
+new crosslinking network caused by nanoTiO [33,34]. Meanwhile, the
+synergistic effect between the SO and phosphate groups produced at
+the second stage could accelerate the products of carbon layers and
+prohibit the growth of energy [28,35].
+3.4.Thermal degradation and mecfhanism
+3.4.I.Gaseots decomposttion
+The T。 Vuax and Tuax of TOWPU coatings.
+first was at 180 °C, which had a small amount of the gase
+The second release of gases occurred between 227 °C and 318 °C. The
+ous product
+third stage included large amounts of gases between 318°C and 392°C.
+The fourth also released large amounts of gases after 392 °C. In further
+exploration, an analysis was conducted to determine the molecular
+Talble 3. At 200°C, there were the peaks of O (2325cm~) HCN
+structure of the released gases, which was illustrated in Fig. 4b and
+(2365 cm ~). The characteristic absorption peak of sulfonate radical
+was at 1051 cm. At 250 °C (Fig. 4b), ether bond and O were at
+1117 cm 2 and 1047 cm respectively. It meant that the stage was
+decomposed to release SO, CO and HCN. At 350 °C (Fig. 4b), the
+characteristic absorption peak of methyl or methylene groups appeared
+[uoqes pue OH  jo suopdosqe aL °; _u 98   _u 067 woj
+was at 2802 cm ~ and 1724 cm ~. The ether bond of ketone, aldehyde
+and ether was obvious at 1109 cm *? meaning it occurred at the de-
+composition of the hard-segment and chemical crosslinking segment,
+The characteristic absorption peak of NHa appeared at 926 cm
+which meant that the hard-segment product would continually de.
+compose to inert gases. From Fig. 4b, 450 °C represented the fourth
+thermal decomposition (from 392 °C to 480 °C). As noted in Table 3, the
+characteristic absorption peak which occurred between 2972 cm  and
+2875 cm   was methyl or methylene groups. Carbonyl stretching vi-
+bration occurred at 1720 cm while the characteristic absorption peak
+of ether bond occurred at 1075 cm~ 1. These results suggest that at that
+stage ketone and ether were created, which would have derived from
+the thermal decomposition of the soft-segment and polyether or poly-
+ether polyhydric alcohols., Meanwhile, the characteristic absorption
+gos [enpsa aq se ueu p * _u IE6 1 paeade HN o yead
+segment was further decomposed to release gases, At 500 °C, there was
+no gas release, which meant the decomposition had completed.
+3.4.2.Sofidphese decomposition
+Fig. 4. TGA-FTIR (a) 3D and (b) 2D spectrums of TOWPU coatings
+depredated at 200 °C because the symmetrical stretching vibration of
+spectrum had no change at 25 °C. The neutralization chain segment was
+COO  was at 1450 cm ~. The phosphate was decomposed at 250°C
+because the absorption peak of P-OH could be seen at 1709 cm ~′. The
+stretching vibration of carbamate (1731 cm~1) and C O C
+(1227 cm~2), and the flexural vibration of NH (1536 cm1) had
+weakened. Meanwhile, the symmetry and dissymmetry stretching vi
+bration absorption peaks of  SO, were still seen at that time, but they
+were weaker due to the decomposition of  SO3 [36], which was in
+accordance with TGA. The formation of carbon layers was in con-
+formity with TGA and TGA-FTIR (Figs. 3 and 4). At 350°C, phosphoric
+acid was further formed polyphosphoric acid through polycondensa-
+tion. The formation of SO (the decomposed production of  SO,) and
+polyphosphoric acid could catalyze the decomposition of segmersto
+form carbon layers (1630 cm1). At 450°C, the COC of the soft-
+segment of TOWPU was weakened at 1100 cm, which signified the
+complete decomposition of hard segments. It was consistent with TGA
+and TGA-FTIR (Figs. 3 and 4). The strong absorptions of P = O,
+P  O C and P  C were at 1256 cm ~, 990 cm ~2 and 753 cm ~ re-
+spectively. Besides, the symmetric absorption peak of P-O-P derived
+from the decomposition of phosphate was at 1110 cm1 [36,37]. The
+peak of P-O-P verified the existence of polyphosphoester in TOWPU
+during decomposition. When warmed at 50o °C, there were only the
+[] ( _o s pue _u z9) amns uoqe a o sead
+3.4.3.Thermal degradation mechanism
+The thermal degradation mechanism of TOWPU is summarized ac-
+cording to TGA, SEM and FTIR of the gaseous and solidoid decom-
+CO at between 180°C to 227 °C. Secondly, thermal degradation of
+position. Firstly, neutralization chain segments depredated to produce
+sulfonate radical and organic phosphate of TOWPU started between
+227 °C to 318 °C to produce SO and phosphate groups (phosphoric acid
+and polyphosphoric acid). Thirdly, the thermal degradation of the hard-
+segment of the hydroxyl component and the chemical croslinking
+Ihe charactenistikc absorptic
+Fig. S, The solid phase infrared spectrogram of TOWPU coatings
+segment of TOWPU occurred between 318°C to 392°C. SO and
+tion of the stage to produce polyetber main chains and volatilize non-
+phosphate groups created by the second stage promoted the degrada-
+flammable gases such as CO, HCN and NH, Finally, the thermal de-
+gradation of the soft-segment of the hydroxyl component and polyether
+segment derived from the hydrophilic curing agent from between
+392 °C to 480 °C. Polyether main chains created carbon by phosphate
+groups (phosphoric acid and polyphosphoric acid) and were decom
+posed to produce micromolecular ether, ketone and aldehyde.
+Meanwhile, residual hard-segments and chemical crosslinking chains
+were further decomposed to NH, [3840].
+The LOI value, char residues and UL-94 testing results of TOWPU
+are listed in Table 4. The char
+LOl valve, carbon yield and UL-94 testing results
+the addition of hydrophilic nanoTiO, which meant better flame re-
+tardant. A higher amount of hydrophilic nanoTiO, accelerated the
+production of carbon layers. The LOI value was the most important
+index for measuring the material flame retardant performance [17,32].
+A high LOI value meant that materials could not be fired. As seen in
+Table 4, the LO1 value of TowPU was over 29.0%, indicating that
+TOWPU were nonflammable [17]. The reason was that P-C bond firstly
+fractured due to its low bonding energy during combustion. Meanwhile,
+finally formative poly (metaphosphoric acid) acted as the catalysis of
+nonflammable carbon layers covered the surface of polymer to barrier
+“Acid induced dehydrogenation reaction mechanism" The formative
+supply of oxygen outside. And then carbon layers interrupted com-
+bustion chain reaction so as to delay combustion speed of the whole
+94 testing results showed that all of the TOWPU coatings reached V-0
+materials. Finally, combustion was effectively hindered [41]. The UL-
+level. The self-extinguishing fire time of all materials was within 30s,
+noTiO could create a oertain cladding on the surface of two-component
+which indicated TOWPU had good flame retardancy. Hydrophilic na-
+waterborme polyurethanes (Fig 6). Still more hydrophilic nanoTiO
+could produce a larger unbroken carbon surface and layers, which was
+in accordance with TGA. The cladding layer controlled energetic
+growth which declined energy density and prevented surface heat
+transmission from combustible gas in the matrix during burning [42].
+Therefore hydrophilic nanoTiO accelerated the condensed phase
+flame-retardant effect in two-component waterborme polyurethaneto
+3.6, UVvis enafysis and photoperrmteabilip
+From Fig 7a, TOWPU-0 had certain anti-ultraviolet fumctions be-
+cause two-component waterborne polyurethanes had large numbers of
+tween 250 nm to 300 nm), which had anti-UV properties within the UV
+dis-conjugation and carbanyl chromophores with n electronics (be-
+region (from 200 nm to 400 nm). The UV shielding effect obviously
+increased from 200 nm to 400 nm by adding nanoTiO,. Near the UV
+light region, there was an anti-UV phenomenon, which could delay
+aging of TOWPU films. The reason for this was that the grain size in-
+creased with the addition of nanoTiO and caused the high refractive
+index to weaken absorption and reflectivity of ultraviolet rays [35].
+Meanwhile, the peak showed a blue shift because there were large
+numbers of conjugate chromophore carbonyl groups which influenced
+the location of the absorption peak. In combination, TOWPU could
+induce, absorb and reflect ultraviolet with nanoTiO> In the region of
+visible light (from 400 nm to 750 nm), the tran
+by adding nanoTiO, as nanoTiO, had a shielding effect on absorption
+crease the transmittance of waterborne polyurethane films. The more
+and reflection of visible light. From Fig. 7b, nanoTiO, was sure to de-
+nanoTiO, the lower was the transmittance because
+nanoTiO: could
+induce the formation of a domain-like structure of the resulting mate
+rial (Fig. 7c). Henoe TOWPU had good light shielding property.
+3.7.1. Water resstnce
+polyurethanede-
+monstrates its water resistance, The higher the water absorption, the
+weaker the water resistance [43]. The results of water resistance are
+listed in Table 5. The water absorption decreased from 29.3% to 16.3%
+by adding nanoTiOz, highlighting the high water resistance properties
+of nanoTiO> There were two reasons for this. Firstly, nanoTiO was
+spherical, which exis
+uUaMp
+Fig. 7. The UVvis of TOWPU coatings and photopermeability TOWPU coatings
+two-component, waterborne polyurethane matrix. TOWPU acted as a
+paqpuq emoa t peq 1 “f[puooas semed osmus Suonpa
+kind of cross-linking polymer structure that played a role as a barrier by
+structure which became tighter with the addition of nanoTiO [44]. In
+summary, the water resistance 
+noTiO
+3.7.2. Socvent resstance
+Pe, u paqosap sy
+: 5, solvent resistance :
+nanoTiO, which did not exhibit swe
+mostly solvent was over grade 3, espec
+ce to strong polarity
+polarity of TOWPU was strong. Besides, the 0
+tibility betw
+the
+stronger binding force during the addition of the solvent, which acted
+Water and solrent resistance results of TOWPU coatings.
+similarity-intermiscibility theory [47]. The barrier action became more
+[45,46]. However, the resistance of THF was only grade 2 because of
+effective with greater amounts of nanoTiO to improve the solvent re-
+4.Conclusioms
+The TOwPU showed nice stability. The nanoTiO could effectively
+improve tensile strength and inhibit the decomposition of TOWPU. A
+greater component of hydrophilic nanoTiO could produce a larger
+unbroken carbon yield surface and thicker carbon layers. Besides, the
+LOl and UL-94 testing results showed that all the TOWPU coatings
+reached over 29.4% and V.0 level respectively. There was an anti-UV
+phenomenon, which could delay the aging of films afer
+nanoTiO. By adding nanoTiO, the water absorption decreased from
+adding
+29.3% to 16.3%, With the adition of nanoTiO2, the solvent resistance
+of TOWPU became exceptional. Combing with emulsion properties,
+property, the TOWPU-0.5 had the best cempreh
+tensile strength, flame retardancy, thermostability and light shielding
+TOWPU system
+icknowledgemen
+of China (2016YFC0204400)
+References

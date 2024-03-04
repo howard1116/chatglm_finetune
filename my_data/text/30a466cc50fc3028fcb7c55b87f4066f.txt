@@ -1,0 +1,1060 @@
+Bio-BasedWaterbornePolyurethaneCoatingswithHigh
+andAnticorrosive
+Properties
+Zhiming Ha, Lei Lei,* Mengyu Zhou, Yuzheng Xia, Xiaonong Chen, Peng Mao, Bifa Fan,
+and ShuxianShi*
+Cite This: AC5 Appl. Mater. Interfoces 2023, 15, 74277441
+sdu
+the utmost relevance to the development of transparent
+(WPU) coating with antismudge property, it is challenging to
+antismudge coatings. To prepare a waterborne polyurethane
+coating.Herein, we pare a transparent bi-based WPU coaing
+balance the stability of dispersion and the antismudge property of
+grafted with a minor proportion of poly(dimethylsiloxane) (WPU.
+g-PDMS) using renewable castor oil, monocarbinol-terminated
+PDMS, hexamethylene disocyanate trimer, and 2,2-bis-
+(hydroxymethyl)propionic acid as raw materials. Efects of the
+dosage of monocarbinol-terminated PDMS, the curing temper-
+ature, and the curing time on the antismudge performance were
+ (da oooe) s su  ps sns pss
+necessary to obtain a stable WPU-g-PDMS dispersion with a storag
+°C) and a period of curing time (>1 h) are indispensable to obtain
+necessary to obtain a stable WPU-g-PDMS dispersion with a storage time longer than 6 months. A high curing temperature (>160
+C) and a period of curing time >1 h) are indispensable to obtain the excellent antismudge property because they would faclitate
+the grafted low-surface-tension PDMS chains to migrate from the interior to the coating surface. The facts that simulated
+contaminated liquids such as water, HCl solution, NaOH solution, articial blood, and tissue fluid could slide off easily and cleanly,
+and marker ink lined on the coating surface could shrink, indicated that the WPU-g-PDMS coating has good antismudge properties,
+[opod qeuogsunymu Aq pasnes aa8ap Buu-ssous uq au o an( uoenouaap rage Aoqs papesuaduoo-gps aq pmos upum
+and isocyanate, the WPU-g-PDMS coating has high hardness and good anticorrosive performance. The antismudge functionalization
+and waterborme technology of bio-based polyurethane coatings proposed in this work could be a promising contribution to the green
+and sustainable development of functional coatings. This kind of WPU-g-PDMS coating is expected to protect and decorate
+WORDS:casto
+1. INTRODUCTION
+widely used as a protection and decoration layer on various
+substrates, such as electronic screens, vehicles, ships, and
+transparency to visualize the shape and texture of substrate
+materials, high hardnes to protect the substrate from external
+physical damage (e.g, wear resistance), and resistance to
+corrosion from unexpected chemicals and harsh environments.
+Especially in some environments with high wear and corrosion, 
+the application value of the coating is more obvious. For
+instance, a protective coating applied on the endoscope could
+protect its critical lens from corrosion through direct contact
+with bodily fluids, such as gastric juice, blood, and tissue fluid
+the coating will be polluted, resulting in the lens of the
+endoscope being unable to clearly show the condition in the
+body, which is not conducive to doctors’ diagnosis.
+It is very necessary to coat the
+corrosion resistance, high transparency, and high hardness but
+endo
+with
+also good antismudge performance, which can make the
+endoscope have an excellent display effect even under the
+Aus&ums 1age ueap o Asea aq pue quauruoaua panpod s,Apoq
+antismudge surfaces. The first technique, knc
+own as the *lotus
+influence the
+coating's roughness
+The
+involves introducing low-surface-tension
+materials to the
+coating. This could be realized by either constructing a
+aseans snosod pasnyun-pnbq Auaddips pandsu-saqudau
+ofits losuface-tension lubricant during long-term usage and
+coating surface.
+of lubricant, but the monolayer’s functional dewetting surface
+of a low-surface-energy layer could temporarily prevent the loss
+is not durable and is easily damaged by extermal force or wear
+and poor antismudge durability have been effectively resolved
+by the strategy demonstrated by Liu to introduc
+GLIDE) of functional antismudge coatings.
+method, the low-surface-tension component is grafted
+Inthis
+throughout the coating, To minimize the coating’s s
+surface
+the coating could migrate to the cozting surface and create a
+energy, the low-surface-tension component on the top layer of
+polymer brush layer that enables antismudge capabilities.
+The low-surface-tension component inside the coating forms
+microphase separation and generates localized nanodomains
+that act as nanopoolsof a ewetting agent. In addition, th
+coating's transparency will not be impacted because these
+nanometer-sized domains are smaller than the visible light
+coating is damaged, the antismudge component supply from
+used to functionalize epoxy and polyurethane (PU) coatings
+Since 2015,
+widely
+due to their excellent wear resistance, flexibility, and trans-
+parency.
+Another advantage of the NP-GLIDE technol-
+ogy is that it can replace the fluorinated component with eco-
+friendly poly(dimethylsiloxane) (PDMS) with low surface
+ u rg o e Sum a se r
+concept of environmental sustainability, it is very important to
+use renewable bio-based resources instead of compos
+synthesized from petroleum-based fossil resources for the
+nents
+preparation of NP-GLIDE polyurethane coatings.
+based polyurethanes have been successfully prepared from
+The bio-
+starch,~
+β-cyclodextrin,* cottonseed oil,*
+soybean oil,*
+manufacturing of a transparent NP-GLIDE PU coating by
+acetylated starch. Howerer, the biomass polyol starch needs
+to be chemically modified to increase its compatibility with
+other coating ingredients, and the synthesis process as well as
+the final PU-PDMS products contain organic solvents Zhou
+used castor oil as bio-polyol for the synthesis of NP-GLIDE
+PU coating with excellent antismudge properties and an
+multiple hydroxyl groups that could be used as polyol for
+polyurethane synthesis without modification.° Due to the
+average hydroxyl functionality of castor oil up to 2.7, the
+degree of cross-linking and the hardness of the PU coating
+could be improved by using the castor oil as bio-polyol.3
+synthesis is more enviror
+at-triendly,
+rent woriks on NP-
+the
+human beings.
+a promising way to solve the VOCs
+Nowadays, waterborme polyurethane (WPU) coating has been
+emission issu
+extensively researched for a long time and applied widely in
+many felds. However, in the waterborme system, masive polar
+hydrophilic groups existed, and hydrophobic PDMS chains are
+usually trapped inside the latex particles, which restrict the
+hydrophobic PDMS polymer chains to 1
+migrate from
+coating's interior to its surface to provide
+the
+a8pnusgue
+performance. Besides, the polar groups on the coating surface
+are easy to adhere to various types of pollutants. This
+hinders the development of NP-GLIDE WPU coating
+greatly
+antismudge properties of NP-GLIDE WPU coating, One is to
+At present,
+shield the polar hydrophilic groups by a lot of PDMS for
+dN u pauodau Surn uadod apnusque aq uodu
+GLIDE WPU coating by adding 4.812.0 wt % PDMS, much
+higher than that in conventional NP-GLIDE coatings of 0.5
+5.0 wt %.4° The stability of WPU dispersion, however, might
+be greatly decreased by using excess PDMS, during both the
+procedures of dispersion preparation and dispersion storage.
+To stabilize the dispersion, hydrophilic groups (COOH)
+need to be typically introduced; however, this would go against
+the antismudge property of coating.
+940 The balance between
+the stability of dispersion and the antismudge property of
+the cros-linking degree of the PU prepolymer for improving
+coating is difficult to control. Another technique is to reduce
+the stability of WPU dispersion. However, the antismudge
+property of coatings was unsatisfactory due to the low cross-
+ sdnou& seod oqdopq assu pue aaap Suu
+improve the antismudge property of coatings, a second
+component with a few functional reactive groups, such as
+hexamethoxymethylmelamine (HMMM) and hexamethylene
+disocyanate trimer (HDIT), should be added additionally in
+the dispersion, prior t the coating forming stage, to ensure the
+hydrophilic polar groups are consumed during the coating
+curing_process.
+Although this method could obtain NP.
+PDMS content (1.05.0 wt %), the coating preparation
+GLIDE WPU coatings with antismudge property at a low
+process is complicated by adding the second reactive
+component to compensate for the lack of cros-linking degree
+to improve the water-resistance properties.
+WPU
+functionality of 2.7) and hexamethylene disocyanate trimer
+(functionality of 3.0) as raw materials and 2,2-bis-
+(hydroxymethyl)propionic acid (DMPA) as a hydrophilic
+chain extender. The problem of the balance between the
+property of the matching coating could be solved by
+stability of WPU-g-PDMS dispersion and the antismudge
+controlling the stirring speed during the dispersion process
+and the curing temperature and time during the flm-forming
+process. Rigorous stirring is necesary to obtain a stable WPU.
+period of curing time, which would facilitate the grafted low.
+g-PDMS dispersion. In addition, high curing temperature and a
+surface-tension PDMS chain migration to overcome the
+adsd apnusue quaaxa m Sueo NdM 
+influence of polar groups, are indispensable to obtain a NP.
+Furthermore, the hardness and anticorrosive performance of
+WPU-g-PDMS coatings could be improved by the high cross
+linking degree caused by the reaction of castor oil and HIDT.
+ethane coating with antismudge property could make a
+promising contribution to the green and sustainable develop-
+ment of functional coatings. And this kind of WPU-g-PDMS
+coating is expected to protect and decorate electronic screns,
+vehicles, and buildings, especially endoscopes.
+2.EXPERIMENTALSECTION
+2.1. Materials. Hexamethylene disocyanate trimer (HDIT) was
+supplied by Wanhua Chemical Group Co, Lad (Shandong, China).
+Co., Ltd. (Shanghai, China). Monocarbinol-terminated poly-
+Castor oil (95%) was obtained fom Meryer Chemical Technology
+(dimethylsiloxane) (PDMS-OH, M, = 5.0 kDa) was purchased
+ppau (1enrog uoqsr) ssue soy uog noq stm (%66
+from
+Gelest Inc. 2,2-Bis(bydroxymethyl)propionic acid (DMPA,
+amine (TEA, 99%) was acquired from Fuchen Chemical Reagent Co.,
+Ltd. (Tianjin, China). Butanone was purchased from Beijing
+Tongguang Fine Chemical Co., Ltd. (Beijing, China). Di-n-butyf.
+amine (95%) was supplied by Sinopharm Chemical Reagent Co., Ltd.
+aam (%66) 1oqooe doados pue (%66) auax (euu “eufueqs)
+and HCI were suple by Beljing Chemial Worls Co,Lad (Bejing
+obtained from Madkin Reagent Co, Ltd. (Shanghai, China). NaCl
+China). Synthetic blood (simulated fuid) was supplied by Guangjian
+Testing Technology Co, Ltd. (Guangdong, China).
+ of WPU
+PDMS, (x = 1, 2, 3, 4, and S), were prpred in this study. The va
+grafted with PDMS polymer chain dispersions,
+of *x" represents the mas percentage of PDMS. Specifically, the
+SNCd Jo % m 0z Burueuoo SWGd-8-ndM po saooud spauAs
+was described as follows. First, HDIT (6.00 g, 10.74 mmol) and
+PDMS-OH (0.28 g, 0.06 mmol) predissolved in 5.00 mL of butanone
+were added to a 100 mL three-neck flask with mechanical stiring
+(100 rpm) to react with each other at 68 °C. Afer 1 h, castor oil (5.61
+g, 6.01 mmol) and DMPA (1.30 g 9.69 mmol) were added to the
+reaction flask. Ten minutes later, S0 mL of butanone was added to
+decrease the viscosity of the solution. After a 3 h reaction, TEA (1.08
+g, 10.67 mmol) with a 1.1 time molar dosage of DMPA was added
+after the system temperature decreased to 30 °C. The WPU-g-PDMS
+prepolymer was dispersed in water with rigorous stirring at 3000 rpm
+paddles, with a maximum length of 5.0 mm and a maximum wridth of
+Bus podeqs-uaosas ou qm ppou soefe ue q  1 1og
+9.5 mm. Finally, the residual oeganic solvent (butanone) and part of
+Japum 。 0g re uogeaodra Aueau yfnonp paaotuaa auam 1aem
+vacuum to obtain the WPU-g-PDMS, dispersion with a solid content 
+of around 35.0%.
+2.3. Preparation of WPU-g-PDMS Coating. WPU-g-PDMS, (x
+= 1, 2, 3, 4, and 5) dispersions were coated on glass slides to form
+coatings to examine the transparency, hardness, and antismudge
+am (u S × uu t) sps se8 feogads ssae
+pretreated by soaking in 10.0% sodium hydroxide solution for 12 h,
+rinsed with water, and dried in an oven at 80 °C. Specificall, the
+roll-coated on the glass slide. Then, WPU-g-PDMS, coating was cured
+WPU-g-PDMS, dispersion (0.74 mL, 350 mg/mL) was uniformly
+at 160 °C for 3 h. Similarly, the same procedure was used to prepare
+WPU-g-PDMS, coatings coated on ^different substrates, such as
+tinplate, ceramics, plastic, and wood.
+Dispersion. The particle size and distribution of WPU-g-PDMS, (x =
+2.4. Characterization. 2.4.1. Particle Size and Stability of WPU
+1, 2, 3, 4, and 5) dispersions were determined by the zeta potential
+and particle size analyzer (90Plus Zeta, Brookhaven Instruments Co.,
+Germany). The diluted dispersion at 1:20 (v/v) was flled into a
+g-PDMS, (x = 1, 2, 3, 4, and 5) dispersions was judged according to
+standard cuvette after ultrasonication for 1 min. The stability of WPU.
+the phenomena of whether there was delamination and precipitation
+occurred after 60 days of storage at room temperature.
+of WPU and WPU-g-PDMS, dispersions
+2.4.2. Tronsmission Electron Micros
+mission electron microscope (JEM-2100F, JEOL
+ohseredby
+trans
+kV. The diluted dispersion
+Tlesl
+supported by carbon flm. The sample was fully dried before
+characterization.
+2.4.3. Fourier Troansform Infrared Specroscopy (FTIR). Atteu
+ated total reflection Fourier transform infrared spectroscopy (ATR.
+FTIR) was utilized to mo
+onitor the molecular structure of the WPU-g-
+PDMS coatings Specifically, the coatings with a thickness of around
+70 μm were cut to a sample size of 20.0 mm × 20.0 mm. The Fourier
+infrared spectrometer (Nicolet 6700, Thermo Fisher) was utilied to
+scan at a resolution of 4000400 cm~2 with a resolution of 4 cm~
+The location and strength of the distinctive abseption peaks were
+coatings
+2.4.4. X-ray Photoelectron Spectroscopy (XPS). X-ray photo-
+electron spectroscopy (K-α, Thermo
+Scientific)was utilized  to
+examine the elemental compositions of the WPU-g-PDMS coatings.
+× 10.0 mm. The elements of C, N, O, and Si were analyzed
+Coatings with a thickness of around 70 μm were trimmed to 10.0 mm
+) sI uoqes go enpads uoμnosaa-saufq Bumboe 4q fjagegurnb
+pue (sz IS) sz uoxgs (sI O) s[ ua&&xo *(s1 N) sI ua8onqu (s1
+silicon 2p (Si 2p).
+WPU-g-PDMS Coatings. The thickness of WPU.g-PDMS coatings
+2.4.5. Thickness,Tra
+was measured by the coating thickness gauge (Shenzhen Yowesa
+induction principle and calculated from the average valuc of five
+Sensor System Co., Ltd., China) through the electromagnetic
+could be tested according to the principle of the instrument
+randomly selected test points. Only the coating coated on the tinplate
+measurement. If the same amount of dispersion is coated on the
+glass slides or other substrates with the same area, the thicknes of
+PDMS coatings was evaluated using an ultraviolet spectrophotometer
+coatings may be considered identical. The transparency of WPU-g
+(UV-6100S, Shanghai Metash Instruments Co, Ltd., China) at a
+ jo s [d  wu 00 yo m
+coatings was tested accoeding to the ASTM D3363 protocol. The
+se) ueoo (Sd) uaafsijod jo soneA (H) ssoupueq uopeupoueu
+the control), WPU coating and WPU-g-PDMS coating with a
+thickness of 70 μm coated on glass slides were measured by the
+nanoindentation instrument (NHT2, CSM Instruments, Switzerland).
+The maximum load was set at 500 mN, while the rates of loading and
+for 15 s after the maximum load was reached. The nanoindentation
+unloading extemal forces were controlled at 17 mN/s and maintained
+hardness values were calculated by the OliverPharr method. The
+water absorption of WPU.g-PDMS coatings was measured via the
+weight method described in the ASTM D570 standard. Using a
+tinplate-based flm elasticity tester (QTX, Tianjin Kexin Electronic
+was followed to test the flexibility of WPU.g-PDMS coatings.
+Control Engineering Company, China), the ASTM D522 protocol
+WPU-g-PDMS coatings
+2.4.6. Surface Weftabiry. The contact angle (CA) and sliding
+angle (SA) of WPU-g-PDMS coatings were measured on an optical
+contact angle meter (OCA20, Dataphysics, Germany) to indicate
+liquid droplet was injested onto the coating surface through asyringe.
+their surface wettability. To test the contact angle, S.0 μL of a test
+The arerage contact angle was calculated after testing five distinct
+uo pmbr sa po f or$1 Buμmod 6g aoens paproo oq uo suogeso]
+the coating surface, the sliding angle was evaluated. The sliding angle
+was found by videotaping while the test platform was tilted from 0 to
+90°. The droplet’s angle of departure from the coating surface was
+known as the sliding angle.
+2.4.7. Ink Resistonce. Before testing the ink resistance of coatings,
+the cured coatings should be stored at room temperature for at least 8
+h. Oily and water-based marker pens were used to draw traces on the
+the ink on the coating surface stopped shrinlking, The area of the ink
+coating surface at a speed of 4 cm/s. The photograph was taken after
+trace left on the coating surface after ink shrinkage was analyzed by
+Image] software. The ink residue on the coating surface was removed
+using a soft wipe.
+2.4.8. Anticorrosion. The anticorrosion was characterized by
+L
+wt % NaCl aqueous solution. The uncoated tinplate was used as the
+control The condition of corrosion was periodically monitored. The
+corrosion resistance of the coatings was evaluated by macroscopic
+phenomena, such as rasting and discoloration of the sample.
+3. RESULTS AND DISCUSSION
+In this
+graftec
+step
+polyolasisyaatndMAsyhl hin
+prepolyn
+with hydrophilic
+usingc
+extender. In particular, PDMS-OH, an eco-friendly dewetting
+agent, should be reacted first with HDIT. The second step is to
+with TEA ating as a neutralizing agent. The thid step is t
+emulsify the PU prepolymer for preparing WPU dispersion,
+coat the WPU dispersion on glass slides or other substrates for
+obtaining the NP-GLIDE WPU coating.
+procedures are displayed in Sche
+Figure 2. (a) Optical photos of WPU and WPU-g-PDMS, (x = 1, 2, 3, 4, and 5) coatings on the glass slides. (b) Optical photos of WPU-g-PDMS
+PDMS Dispersion. WPU-g-PDMS disper
+by the classic water-based polyurethane process To obtain a
+stable dispersion, a few important factors should be considered.
+To ensure that all PDMS-OH connected with HDIT, PDMS-
+OH was first prereacted with excess HDIT. A particular
+amount of butanone, which would be
+:removedby rotary
+evaporation after emulsification, was added to the system to
+adjust the viscosity during the subsequent process. Before TEA
+sdnoi8 6xoe3a zgeu 0%#12pumdx
+was added, the residual content of NCO groups needed to be
+(COOH) from DMPA, which could increase the hydro
+philicity and the stability of the system. To successfully
+emulsify polyurethane, rigorous stirring at a high speed of up to
+3000 rpm is required. A series of WPU-g-PDMS, (x = 1, 2, 3,
+4, and 5) dispersions were prepared in this study (Figure 1),
+where “x” denotes the weight percentage (wt %) of PMDS.
+Figure la illustrates that ater 6 months of storage at room
+temperature, the control of WPU dispersion without PDMS
+and WPU-g-PDMS, (x = 1, 2, 3, 4, and 5) dispersions with
+different contents of PDMS are all stable and no evidence of
+delamination and precipitation could be seen. As the PDMS
+content was increased, the color of the WPU-g-PDMS,
+dispersions gradually changed from translucent blue to millky
+white. A particle size analyzer was used to determine the latex
+particle size of the WPU-g-PDMS, dispersions.
+From Figure 1b, it could 
+ugh the particle
+size of WPU-g-PDMS, was different, the particle size
+distribution was nearly equal, suggesting that the WPU-g
+chains might be distributed in water uniformly to produce a
+PDMS, grafted with different amounts of hydrophobic PDMS
+stable dispersion. Compared to the WPU disperion with an
+average particle size of 33.0 nm, the particle size of WPU-g
+PDMS, dispersions increased from 61.9 nm to 78.6, 94.2,
+119.5, and 121.6 nm, as the PDMS content increased from 1.0
+wt % to 2.0, 3.0, 4.0, and 5.0 wt %, respectively.
+Generally, the hydrophobic PDMS chains
+WPU-g-PDMS,
+of PDMS increased, which caused an increase in free volume
+Dunt
+and, ultimately, a bigger particle size. Furthermore, the latex
+color andparticle size a
+dispersion typically has latex particles between 40 and 100
+nm in size, while milky white dispersion has latex particles
+dispersions listed in Figure Ia clearly showed color changes in
+ WPU-g-PDMS
+latex particles of WPU and WPU-g-PDMS, had a uniform size
+ined by TEM. As shc
+distribution. The particle size for WPU ranged from 30 nm to
+80
+am,
+3.2. Preparation andProperties of WPU-g-PDMS
+g-PDMS Cooting. The WPU-g-PDMS, dispersions could be
+used to produce NP-GLIDE WPU coatings.
+3-dA snorea jo sopoqd qeogdo sqsdap ez amb!g uorsiadsp
+PDMS, (x = 1, 2, 3, 4, and 5) coatings on glass slides. It was
+found that each coating was highly transparent and had a
+smooth surface. Figure S1 shows the SEM-characterized
+morphology of WPU and WPU-g-PDMS, coatings with
+smooth surfaces without cracks or shrinkage. Similarly,
+WPU-g-PDMS, dispersion could be coated on a variety of
+substrates, including wood, ceramics, plastic, and tinplate,
+which are shown in Figure 2b. All of these coatings
+excellent coating surfaces and transparency. The only differ-
+have
+ence is that there was an orange-peel effect if the wood was
+used as a substrate. The easy adsorption of water by wood
+leads to an increase in the solid content of the dispersion,
+which may prevent the polymer chains from flowing freely and
+the lack of the distinctive absorption peak of the isocyanate
+emulsification. The stretching vibration absorption peaks of
+and
+NH at 3321 cm* and C=O at 1683 cm~ also show that
+the polyurethane was made by HDIT and castor oil by
+generating the carbamate structure (NHCOO). Although
+PDMS-OH was introduced to react with HDIT through a
+chemical grafting process, the typical rocking vibration
+as shown in Figure 3a. The reference claims that when
+the
+Figure 3. (a) ATR-FTIR spectra. (b) XPS characterization of WPU
+and WPU-g-PDMS, (x = 1, 2, 3, 4, and 5) coatings. The embedded
+tables represent the element content of O, N, C, and Si existing on the
+coating surface.
+PDMS content increases, the rocking vibration absorption
+peak of SiCH, from PDMS would gradually shift to the low
+wavenumber (blue shift).*° From Figure 3a, it was determined
+that the peak at S06 cm1, which was present in WPU-g-
+PDMS, coating but lacking in WPU coating, belonged to Si
+CH, The higher the content of PDMS in WPU-g-PDMS
+SiCH, at 806 cm.
+coatings, the stronger the rocking vibration absorption peak of
+Theoretically, the Si content of WPU-g-PDMS, (x = 1, 2, 3
+andS
+is0.4%
+0.8%
+1.1%
+1.9%
+Figure 4. (a) Nanoindentation load-c
+respectively. Generally, the grafted hydrophobic PDMS
+polymer chains with low surface energy in NP-GLIDE coating
+would migrate from the coating's interior to its surface and
+enrich to enable the WPU-g-PDMS, coating with antismudge
+properties. To verify whether the obtained WPU-g-PDMS
+coating is NP-GLIDE r not, X-ray photoelectron spectroso-
+Py was utlized to emine the lemntal mpostions ofWPU
+and WPU.gPDMS, ctings. The typical peaks of O 1s, N 1s,
+u! paquasaud are ssugeos ug Bugsra dz IS pue 'st !S 'sI 
+Figure 3b. It was noticed that the higher the content of PDMS
+in WPU-g-PDMS, coatings, the stronger the peaks of Si 2s and
+Si 2p displayed. From the tables containing the element
+content of O, N, C, and Si embedded in Figure 3b, it could
+also be found that as the PDMS content in WPU-g-PDMS,
+coatings increased, the proportions of Si and O elements in the
+coating surface increased, while N and C elements decreased.
+For example, the surface Si content of WPU-g-PDMS, (x = 1,
+2, 3, 4, and 5) coatings detected by XPS is 9.1%, 11.1%, 14.0%,
+15.5%, and 17.0%, respectively, which is much higher than the
+theoretical Si content calculated above. This result is consistent
+with other comparable NP-GLIDE coatings* because PDMS
+segments migrate from the interior to the coating surface at a
+certain temperature and eventually enriched to lower the
+coating surface energy.However, even though noPDMS was
+introduced in the WPU coating, the element of Si was still
+detected, and the Si content reached up to 4.7%, which is
+attributable to the Si conductive adhesive used to attach the
+the Si content ofWPU, the surface Si content of WPUg
+coating to the test bench before XPS testing.33 After deducting
+PDMS, (x = 1, 2, 3, 4, and 5) coatings is 4.4%, 6.4%, 9.3%,
+10.8%, and 12.3%, respectively, still much higher than the
+PDMS Coating. The physical peoperties of the WPU-g-PDMS,
+[uad *Kouaredsuen se qpns sBuyeoo (S pue ° ′ ‘z ‘I = x)
+hardness, adhesion, and water absorption, were evaluated using
+various techniques and are presented in Table S1. It could be
+found that all of the WPU-g-PDMS, coatings exhibit excellent
+transparency, with a transmittance higher than 95.0% at 500
+nm. This is due to the microphase-separated PDMS domain
+size being smaller than the visible light wavelength, which
+prevents light scattering.*
+8The transmittance of WPU-g
+PDMS coatings at wavelengths from 400 to 700 nm is shown
+in Figure S2. It could be found that the transmittance of
+coatings increased as the wavelength increased, with the lowest
+transmittance exceeding 92.0% at 400 nm and the highest
+transmittance above 98.0% at 700 nm. Besides, as the PDMS
+decreased.
+decreased.
+The pencil hardness of 6H for WPU and WPU-g-PDMS,
+coatings is significantly higher than that of 3H for the
+conventional PU coatings due to the high crosslinking of
+coatings caused by reacting between the HDIT with a
+functionlity of 3.0 and the castor oil with an average
+functionality of 2.7.35s0 To characterize the hardness more
+accurately,the nanoindentation hardness of WPU and WPU-g-
+PDMS, coatings coated on the glass slides was characterized,
+and the curve of nanoindentation load-displacement and the
+corresponding nanoindentation hardnes values (H) calculated
+a q paedad ugeos (Sd) auaz(siod a1 6pagadsa
+by the OliverPharr method are shown in Figure 4a,b,
+same method was used as the control to compare with the
+WPU and WPU-g-PDMS coatings It could be found from
+Figure 4 that the hardness of the WPU and WPU-g-PDMS2
+coatings was much higher than that of the control, 2.5 and 2.2
+times of PS coating, respectively. As shown in Figure 4a, the
+depths of traces leff on the WPU coating and WPU-g-PDMS
+coating were 6.1 and 6.7 μm, respectively, while 8.8 μm for the
+better hardness of coatings. It can be seen from Figure 4b that
+control of PS coating, Generally, the lower depth of traces, the
+the nanoindentation hardness value of PS in this study is 259
+MPa, very close to 250 MPa that was measured in the
+literature. In addition, the hardness values of WPU coating
+(657 MPa) and WPU-g-PDMS, coating (567 MPa) are higher
+than 460 MPa (corresponding pencil hardness of 4H) but
+lower than 1400 MPa (corresponding pencil hardness of 9H)
+measured in the literature. Therefore, it could be inferred
+that the nanoindentation hardness of WPU and WPU-g-
+PDMS coatings matches the penil hardess of 6HHoweer,
+the introduction of PDMS would decrease the nano-
+indentation hardness to a certain extent due to the lower
+cross-linking degree of the coating? and the higher phase
+separation degree of the WPUgPDMS coating than the
+WPU coating.
+2.53 The result indicates that the waterborne
+could resist extemal damage.
+NP-GLIDE coating of WPU-g-PDMS has high hardness, which
+discermible difference of coatings with or without PDMS, or
+with different contents of PDMS, on the basic coating
+fexibility, an A1 foe adhesion, and a 6H for pencil hardness.
+coatings whose thickness was around 70 μm scored an F7 for
+Renewable castor oil, which was introduced in large quantities
+as soft segment polyol, provides WPU-g-PDMS, coatings with
+chain extenders,the coting polarity increases, improving the
+remarkable flexibility.* With the addition of polar DMPA
+film’s ability to adhere to a variety of surfaces.$* In addition,
+the latex particles of WPU-g-PDMS, around 100 nm could
+increasing the contact surface area and thus enhancing
+occupy the substrate’s microscopic concave-convex surface,
+ a a o gq  ue u se
+resistance of coatings. In this work, all of the obtained WPU-g-
+PDMS, coatings have low water absorption (<0.7%) due to the
+3.3. Surface Wettability of WPU-g-PDMS Coating. The
+3.3. Surface Wettability of WPU-g-PDMS Coating. The
+surface wettability of WPU and WPU-g-PDMS, (x = 1, 2, 3, 4,
+suogezuapeseup (VSA) a@ue Busps raem pue (VOM) aflue
+As seen in Figure 5, the water contact angle for the WPU
+Figure 5. Water contact angle and water sliding angle of WPU and
+coating is 80.4°, and it increased to 101.5° for WPU-g-PDMS;
+PDMS,coating, 103.2° for WPU-g-PDMS coating, and 103.2
+coating, 103.1° for WPU-g-PDMS, coating, 103.1° for WPU-g-
+for WPU-g-PDMS, The WPU coating was hydrophilic with a
+high afinity for water due to the abundance of polar
+hydrophilic groups (COOH from DMPA). In WPU-g
+PDMS, coatings, the low-surface-tension PDMS segments
+moved to the coating surface to cover the hydrophilic
+COOH groups and dramatically enhance the hydrophobic
+property of WPU-g-PDMS, coatings. It was notied that the
+water contact angles for the WPU-g-PDMS, coatings did not
+2.0 wt %. The enrichment of PDMS chains on the coating
+increase significantly when the PDMS content was higher than
+surface may have reached equilibrium as a result. In addition,
+the water sliding angle of WPU coating could not be measured
+since the —COOH groups make the coating surface hydro-
+philic.9 The water droplet was able to slide off the WPU-g
+PDMS was introduced to the coatings (higher than 2.0 wt %),
+PDMS, coating surface at an angle of 3.8°. However, as more
+the water sliding angle rapidly decreased and remained stable.
+As shown in Figure 5, the water sliding angle for WPU-g-
+PDMS, coating reached 28.7°. The reason here is the same as
+that in the water contact angle test. In the sliding angle test of
+WPU coating, water adhered to the hydrophilic surface of the
+coating. With the introduction of PDMS, the coating surface
+changed from hydrophilic to hydrophobic. Therefore, water
+droplets can slip offthe surface of WPU-g-PDMS, coating. And
+sliding angle is almost unchanged.
+when the coating surface is fully covered by PDMS, the water
+of the WPU
+g-PDMS, c
+angle
+Table 1. Wettability Characterization of WPU-g-PDMS
+Coating for Different Test Liquids
+'Miscibility refers
+and PDMS
+by (b)
+er or
+percentage of the
+was found that the contact angle reduced as the test liquids
+surface tension decreased if the test liquids have similar
+miscibility, which fits into Young’s equation,
+29 When the test
+the WPU-g-PDMS, coating surface enriched with a lot of low-
+liquids are immiscible or have poor compatibility with PDMS)
+surface-energy PDMS chains allowed the liquids to slide down
+naturally at a specific sliding angle. However, the test liquid
+incompatible with PDMS, hexadecane, and dodecane could
+easily slide off the coating surface at a very low angle (<2.0°)
+due to the fact that the liquid compatible with PDMS may
+increase the mobility of the grafted PDMS chains on the
+coating surface, which could dramatically facilitate the mobility
+of test liquid correspondingly.
+3.4.1. Marker Ink Resist
+object's surface to ensure the mark remains clear. However, the
+ink would shrink if the coating surface has
+properties Then, it is god and convenient to evaluate the
+antismudge
+antismudge property of coating by whether the ink can write
+and shrink, how well the ink shrinks, and whether the ink trace
+can be wiped on the coating surface. In this study, both ol-
+and water-based markers were used to write on the WPU-g-
+PDMS, (x = 1, 2, 3, 4, and 5) coatings. The degree of ink
+shrinkage was analyzed via ImageJ software by calculating the
+percentage of the ink residual area after ink shrinkage. In
+addition, whether the ink trace could be cleaned or not by a
+dust-free soft wipe is used to evaluate how smudge-resistant
+(oily marker, water-based marker) u
+of uncoated glass and the control of WPU
+coating, thick and
+up to nearly 100%, Furthermore, the ink traces can hardly be
+removed by wiping, indicating that none of them possess
+antismudge properties. On the contrary, it was evident that the
+ink shrank greatly on the WPU-g-PDMS, (x = 1, 2, 3, 4, and 5)
+coating surfaces and the percentage of the ink residual area fell
+to a low level, for example, only 5.4% for WPU-g-PDMS, by
+water-based marker and 18.1% for WPU-g-PDMS, by an oily
+marker. This result nicely demonstrated that the WPU-g-
+PDMS, coatings have excellent antismudge performance.
+Although the content of PDMS varies in the WPU-g-PDMS,
+layer of low-surface-energy PDMS on the surface, making the
+(x = 1, 2, 3, 4, and 5) coatings, all of them have a simila thin
+percentage of the ink residual area without a big difference,
+marker in Figure 6b and for the water-based marker in Figure
+How
+6c are very different. Unlike the water-based ink trace on
+WPU-g-PDMS, coatings, which could be completely removed,
+the oily ink trace on those coatings could hardly be cleaned,
+of the ink residual area in Figure
+ indicate that the antismudge
+6b was higher than that in
+Figure 6c. Relevant literatures
+performance of waterborne coatings is mainly affected by two
+factors: the polar groups and the cross-linking degree of
+coatings. The existence of polar groups will increase the
+coating’s affinity to the polar ink molecules. Previously, our
+research group reported a solvent-based polyurethane
+antismudge coating prepared from similar raw materials
+(castor oil, HDIT) with excellent antismudge performance
+against various liquid contaminants, including the oil-based
+marker ink.3 Diferent from the solvent-based system,
+the
+polar groups of COOH were necessarily introduced by
+Figure 7. Effects of (a)
+polar groups of COOH with the polar contaminates from the
+oily marker, the oil-based inks were harder to remove from the
+waterborne coating surface than from the solvent-based
+coating surface.°o For the efect of cross-linking degree of
+coatings, it has been reported that increasing the cross-linking
+degree can resist ink penetration. In this study, multifunc-
+2.7) and isocyanate (e.g, HDIT with functionalities of 3.0)
+tional polyol (e.g, castor oil with an average functionality of
+linking degree. However, the greater cross-linking degree might
+were used to ensure coatings with a suffcient high cross-
+also prevent PDMS from migrating to the coating surface.
+Especially in the waterborne system, hydrophobic PDMS
+chains are usually trapped inside the latex particles, which
+hardly migrate to the coating surface due to the block of the
+polar groups. Hence, if the cross-linking degree of waterborne
+PU coating is too high, the trapped PDMS chains hardly
+ s  d pqs 
+migrate to the coating surface, which is more diffcult than that
+in the water-based marker ink has high surface tension and
+poor compatibity with the PDMS enriched on the coating
+surface, which made it more probable for ink contraction. This
+proved that the WPU-g-PDMS, coatings could repel the water-
+based ink from penetrating the coating’s interior successfully.
+Property of WPU-g-PDMS Coating. During the marker ink
+3.4.2.Enect or cuning
+resistance test, it was noticed that the WPU-g-PDMS, (x = 1,
+2, 3, 4, and 5) coatings cured at 160 °C for 3 h have excellent
+lacked any antismudge properties, which are show in Figure
+antismudge properties; however, those cured at 100 °C for 1 h
+S3. This is due to the fact that without enough PDMS could
+migrate to the coating surface to prevent polar groups from
+attaching to contaminants. Obviously, the migration of the
+PDMS segment and the overal coating surface energy are
+strongly influenced by the curing temperature and the curing
+time. Therefore, the effects of curing temperature, curing time,
+and storage time at room temperature after curing on the
+antismudge performance of the WPU-g-PDMS, coating were
+investigated in detail. The detailed results are illustrated in
+Figure 7.
+example, the percentage of the ink residual area of the WPU-g-
+PDMS, coating cured at 100 °C for 1 h reached up to 99.6%;
+however, if the curing temperature increased to 180 °C for 1 h,
+same curing time, the higher the curing temperature, the lower
+it dropped significantly to 19.2%. Obviously, controlling for the
+the percentage of the ink residue area, and the better the
+antismudge property. This is because the migration of PDMS
+polymer chains has been greatly enhanced by the elevated
+temperature, which leads to PDMS enrichment on the coating
+ink shrinkage. The percentage of the ink n
+curing temperature was controlled at 120, 140, or 160 °C and
+migration of PDMS segments to the coated surface was a
+u Suumo s po uosupa aeadodde ue rsaod sau
+beneficial for achieving the optimum
+surface
+with
+enriching
+PDMS chains and antismudge performance. However, if the
+curing temperature was controlled at 100
+08110
+°C,
+the
+percentage of the ink residue area is almost constant. The only
+difference for samples cured at 100 or 180 °C is the percentage
+of the ink residue area at 100 °C remained at a high value
+(>97.6%) even with a curing time delay of 6 h, but for thos
+cured at 180 °C, it decreased at a low value (<19.3%) even
+performance,
+condition
+WPU-g-PDMS, coating is
+We also found during the marker
+freshly cured WPU-g-PDMS, coating (160 °C, 3 h) does not
+ink resistance test that:
+have excellent antismudge performance, with the percentage of
+freshly cured coating was exposed to room temperature for
+the ink residual area only being 44.9%. However, after the
+about 8 h, the WPU-g-PDMS, coating showed excellent
+antismudge properties, and the area was reduced to 18.1%
+(Figure 6b). Obviously, the freshly cured coating needs to be
+aged at room temperature for some time to achieve the best
+antismudge performance. As shown in Figure 7b, the effect of
+the storage time at room temperature on the antismudge
+property of WPU-g-PDMS, coating after curing at 160 °C for 3
+h was investigated. It is easily found that the shrinkage degree
+of the ink trace grew significantly, and the morphology of the
+ink trace changed from a linear strip to a liquid drop, indicating
+an enhancement in the coating’s antismudge property. In
+addition, the percentage of the ink residual area is calculated by
+Figure 8. Screenshot of simulated liquids (water, HCI solution, NaOH solution, artifcial blood, artificial tissue fluid, collagen peptide, and gelatin)
+falling off (a) the uncoated glass substrate, (b) WPU coating, and (c) WPU-.g-PDMS, coating surface. The corresponding time of the sliding
+process was inserted. Water, HCl solution, NaOH solution, artificial tissue fluid, collagen peptide, and gelatin were stained with a cresol red
+indcatoe.
+a xu 1axeu fo oa o a8epuasuad ouL (q) Auodond a8pnsgue o jo ys uogesuds-gas ou yo sureulp seuaps (e) 6 amli
+shrinkage on the WPU-g-PDMS, coating surface after soaking in HCI solution (pH = 1), NaOH solution (pH = 13), and water (pH = 7) for 112
+h. (c) The percentage of the oily marker ink trace shrinkage on the WPU-g-PDMS, coating surface after soaking in different pH solutions (pH =
+erature for 3 h, or heated at 160 °C for 3 h.
+Image] software, and the results revealed that it decreased
+dramatically during the first 8 h and then tended to a stable
+level of roughly 17.0%. The main factor was that the
+3.4.3. Contaminated Liquid Repelling Test.The anti
+smudge coating surtace has the ability to repel a variety of
+surface and keep the coating clean.
+Asinthecaseotmedica
+endoscopes that are frequently contaminated by body fluids,
+such as tissue fluid, gastric juice, and intestinal juice,
+investigate the antismudge properties of the WPU-g-PDMS
+coating by using simulated body fluids as well as acid, alkaline,
+and aqueous solutions as the contaminated liquids. Except for
+artificial blood, all solutions were stained with a cresol red
+indicator to observe them clearly during the falling process.
+Specifically, 0.05 mL of simulated contamination liquid was
+dropped on the coating surface inclined at 30.0°, and its sliding
+motion on the coating surface was recorded. A screenshot of
+artificial blood, artifcial tisue fuid, collgen peptide, and
+simulated liquids (water, HCl solution, NaOH solution,
+any coating), the control (WPU coating without PDMS
+gelatin) falling off the surface of the blank (glass slide without
+grafted), and WPU-g-PDMS, coating is listed in Figure 8. The
+corresponding sliding time was recorded to compare. As
+shown in Figure Sa, the test liquids with low viscosity, such as
+water, HCI solution, NaOH solution, blood (ART), and tissue
+fluid (ART), were able to naturally slide off the glass slides
+within a few seconds, leaving behind deep traces on the glass
+surface. And the test liquids with high viscosity, such as
+collagen peptide and gelation, were difficult to slide off the
+glass. As shown in Figure Sb, all test liquids (even the test
+anp Hugeo dA au go apgs (pzrq (4soosi mo qm pnby]
+sdno pxoqes zepod yo 1 e  ues auqm
+to the strong adhesion between the polar test liquids and the
+could easily and quickly fall off the WPU.g-PDMS, coating
+However, as evidenced in Figure Sc, all test liquid droplets
+without leaving any residual traces, which is different from the
+blank in Figure Sa and the control in Figure Sb. In addition,
+the time for contaminated liquid droplets to slide off the WPU.
+g-PDMS, coating was dramatically reduced compared to the
+blank, allowing the coating to maintain the surface clean
+quickly once it contacts the contaminated liquids.
+medical endoscopes.
+This
+Endoscope lens is often bathed in body fuids with different pH
+8.4.4.
+values during detection, which demands that the coating must
+keep its antismudge properties, especially in acidic or basic
+environments, for a certain time. To know whether the
+Hd quaagip u paonsap aze ugeo po saudod s8pnusgue
+3q Xeu souadaud a8pnusgue aq paua pue suonpos
+recovered or self-compensated after destruction, a series of
+experiments are designed to investigate. As shown in Figure 9a,
+the WPU-g-PDMS: coating coated on glass slides was soaked
+in different pH solutions for a certain time before being taken
+out to be tested for antismudge properties using an oily
+marker.
+H “( = Hd) aem u paxeos sem Sueoo SNId--∩dM
+acid solution (pH = 1), or NaOH base solution (pH = 13).
+Effects of the solution types and soaking times on the
+percentage of the ink residual area are investigated in detail,
+and the results are shown in Figure 9b. It could be found that
+the percentage of ink residual areas of the WPU-g-PDMS
+coating after exposure to water or in acid within 5 h, or in base
+within 3 h, is lower than 20%, similar to the original, indicating
+that the coating remains its outstanding antismudge property
+well. However, as long as the time was more than 6 h, the
+percentage of the ink residual area increased dramatically,
+which indicates that the antismudge peoperty deteriorated. It is
+attributed to the hydrophobic PDMS tending to move away
+from the hydrophilic environment, which causes the PDMS
+layer to disappear from the coating surface. In general, the
+endoscopic procedure usually takes 30 min or less. A period of
+35 h is suficient for the coating on the endoscopy lens to
+maintain its excelent antismudge properties.
+a liquid environment with different pH values, this is still a big
+functional dewetting layer enriched with PDMS chains c
+could reconstruct their antismudge
+propertiesafter the
+the coating surface was damaged. In this work, the antismudge
+restoration ability of the WPU-g-PDMS; coating was evaluated.
+The WPU-g-PDMS, coating was immersed in acidic-to-basic
+taken out and placed at room temperature (RT) or 160 °C for
+3 h to reconstruct its antismudge function. The reconstruction
+aq Kq paqenqeaa stem Xadoud s8pnusque aq jo Kuqedes
+shrinkage of oily marker
+(18%)without soaking,After soaking
+PDMS, coating increased, higher than
+solutions for 12 h, the residual ink trac
+1 of the WPU-g
+indicating that the WPU-g-PDMS, coating practically lost its
+70%(pH
+8
+antismudge properties and could not immediately recover
+without treatment. This is caused by the migration of PDMS
+the PDMS layer due to their poor 
+their original antismudge properties with the percentage of the
+soaked in solutions with pH 410 almost r
+nanaged to regain
+ink residual area being close to 18%, especially the sample in
+neutral water (pH = 7). It means PDMS segments can migrate
+back and reestablish the PDMS-enriched layer on the coating
+surface to offer the antismudge property. However, the
+restoration capability became worse as the soaking solution
+changed to either an acidic or basic solution. Under these
+conditions, PDMS chains may be degraded over time in severe
+environments. Due to the attenuated PDMS enrichment, the
+antismudge performance could not be fully regained on the
+regenerated coating surface. As the acidity or alkalinity of the
+soaking solution continues to increase, the solution erosion
+could worsen the antismudge property of the WPU-g-PDMS,
+coating. Under these circumstances, the surface reconstruction
+significantly influenced by curing temperature. As evidenced in
+reduced dramatically when the samples were heated at 160 °C
+for 3 h. Particularly, the residual ink trace area of samples
+soaked in solutions with pH 48 was les than 18%, indicating
+that their antismudge property was well recreated. Comparing
+amqeradua qq ‘, 091 pue aunqeuadus woou pe sqmsau aq
+is more conducive to the reconstruction of antismudge
+performance. This is consistent with the result obtained from
+Figure 7a that high temperature
+facilitates  PDMS  chain
+migration easier. Once the antismudge property of such NP.
+GLIDE coating was damaged, the internal PDMS chains stored
+in domains, which act as “nanopools* to constantly support
+PDMS chains, migrate to the surface, were moved under the
+simultaneous effects of microphase separation and high
+temperature, forming a new PDMS-enriched surface.°
+WPU-g-PDMS, coating
+within pH
+capability of antismudge property, the
+212
+ink trace
+WPU-g-PDMS, coating soaked in extremely acidic (pH = 1) or
+alkaline (pH = 13) soluti
+and 42.9%,
+respectively.
+This is likely
+WPU-g
+PDMS, coating is
+damaged by the
+Generally, devices are exposed to difter
+as humid, salted, acidic, or basic conditions. For example,
+iueh
+endoscopes are frequently used in harsh environments that
+contain tissue fluid, blood, collagen peptide, and gelatin, as well
+as gastric juice that contains hydrochloric acid to provide an
+acidic solution for pepsin or intestinal juice that may provide
+an alkaline environment for food to decompose and be
+important as the antismudge property for the WPU-g-PDMS
+digested. Therefore, the anticorrosive property is just as
+coating. To investigate the anticorrosive property in 5.0 wt %
+NaCl solution, the control of WPU coating and the WPU-g-
+PDMS, (x = 1, 2, 3, 4, and 5) coatings coated on tinplate slides
+were chosen in this study.
+To compare the corrosive
+phenomena clearly, the bottom third of the tinplate slide was
+coated and soaked in 5.0 wt % NaCl solution, while the
+0°S u pauswqns-geq snq papeooun ssam spuq-omq Bupueuas
+wt % NaCl solution and the other half exposed to the air, as
+illustrated in Figure 10a. The optical photos of the blank
+(naked tinplate without coating), the control (WPU coating),
+Figure 10. (a) Schematic ilustration of the anticorrosion test and (b)
+optical photos with diferent surface corrosive results of the blank
+“(edu uo paeoo Bureo NdA) joguo a (aedu payeooun)
+and the WPU-g-PDMS, (x = 1, 2, 3, 4, and S) coatings coated on
+tinplate submerged in 5.0 wt % NaCl solution for different times
+and the
+displayed
+antic
+sive
+oerto
+uncoated tinplate progressively changed from dazzling silver to
+a dark and dull black after being submerged in NaCl solution
+over time, indicating that the tinplate suffered severe corrosion.
+Compared to the uncoated tinplate, the degree of surface
+corrosion decreased if the tinplate was coated with WPU or
+WPU-g-PDMS, coatings. For example, no corrosive phenom-
+ena could be found in the WPU and the WPU-g-PDMS, after 5
+days, except for the edges. The WPU-g-PDMS, exhibits
+stronger corrosion resistance than the WPU because visible
+rust could be found in WPU after 15 and 30 days; however,
+large-scale rust did not exist in WPU-g-PDMS, The traditional
+uapsfis snoonbe ue uog paedaud fugeoo Nd auoquaqem
+exhibits low corrosion resistance to NaCl solution.°° However,
+the corrosion resistance of WPU.g-PDMS, coating against
+NaCl solution is compatible with the solvent-based PU
+coating26 because of the highly cross-linked network
+produced by castor oil and HDIT and the chemically inert 
+PDMS component. Generall, the higher the cros-linking
+degree, the better the corrosion resistance due to fewer
+channels for water molecules to immerse themselves in the
+coating. As the content of PDMS in WPU-g-PDMS, increased, 
+the corrosion resistance was improved obviously, due to the
+fact that the hydrophobic PDMS chains enriched on the
+coating surface would prevent the water molecules from
+geting closer, improving the corrosion resistance of WPU-g-
+PDMS, coating.
+4. CONCLUSIONS
+WPU-g-PDMS was prepared successfully using castor oil and a
+LICIH (ofjod aq se (% m 0'S>) HO-SWId yo qunoure eus
+as the isocyanate, and DMPA as the hydrophilic chain extender
+via polymerization, neutralization, and emulsification with
+rigorous stirring at 3000 rpm. The corresponding coatings
+prepared by WPU-g-PDMS dispersion, which could be
+adhered to a variety of substrates, have high transparency
+and hardness, good adhesion, and flexibility. The pencil
+hardness of WPU-g-PDMS, coating was higher than 6H, while
+the nanoindentation hardness value reached 567 MPa. A high
+temperature could facilitate the low-surface-tension PDMS
+polymer chain migration, and an excessive time after coating
+curing is necessary for PDMS to move from the interior to the
+coating surface, which was confirmed by the result of the
+influence of traditional WPU’s polar groups on the antismudge
+higher Si content on the coating surface. To overcome the
+properties of coating the WPU-g-PDMS coating might be
+cured at an optimal condition of 160 °C for 3 h and then held
+at room temperature for 8 h. Several kinds of simulated liquids
+can easily and cleanly slide off the WPU-g-PDMS coating
+surface. If the WPU-g-PDMS coatings were soaked in harsh
+environments,the antismudge properties could be maintained
+within 5 h. Even though long-term immersion would cause the
+antismudge properties to deteriorate, they could be self
+The WPU-g-PDMS coating has good anticorrosive properties
+compensated shortly after leaving the immersion environment.
+netrorks and the thin hydrophobic PDMS layer on the coating
+that are provided by both the highly cros-linked polyurethane
+surface. This study offers a practical and eco-friendly method
+for producing a waterborne functional bio-based polyurethane
+This kind of WPU-g-PDMS coating is expected to protect and
+coating with excellent antismudge and anticorrosive properties.
+endoscopes.
+ASSOCIATED CONTENT
+ Supporting Information
+available free of charge
+mi.2c21525.
+AUTHOR INFORMATION
+Corresponding Authors
+Author Contributions
+the manuscript
+Notes
+The authors declare no competing financial interest
+ACKNOWLEDGMENTS
+IT°his
+BUCT-CJFH)* (XK2020-13).
+Bior
+REFERENCES
+f. S.; Li, H. J.; Zha
+L. I.; Zhal, I.
+(7) Yoshimitsu, Z.; Nakajima, AL; Watanabe,
+T:Hashim
+Beh
+82
+SAGd)(
+(21) Zh
+ting
+382, No. 123042
+(23) Cai, J.; Murugadoss, V.; Jiang, J.; Gao, X; Lin, Z.; Huang, M,
+Polyurethane and Its Nanocomp
+oosites: A Mini-Review for Anti
+Adv. Compos. Hybrid Mater. 2022, S, 641650.
+(32)
+Poly
+Oil-Ba
+2021,3,5612-3622.
+(33) Zhou, M.; Ha, Z.; Lei, L; Xia, Y.; Mao, P.; Chen, X,; Fan, B.;
+Shi, S. Castor Oil-Based Transparent and Omniphobic Polyurethane
+Coatings with High Hardness, Anti-Smudge and Anti-Corrosive
+Properties. Prog. Org. Cout 2022, 172, No. 107120.
+W
+(41) Luo, H.; Wei, HL; Wang, L,; Gao, Q; Chen, Y.; Xiang, J.; Fan,
+H. Anti-Smudge and Self-Cleaning Characteristics of Waterborne
+Polyurethane Coating and Its Construction. J. Colloid Interface Sc.
+2022, 628, 10701081.
+Epoxy-Thiol Decorated Silica Sol-Gel Coatings: Impact of Cross-
+linking on Corrosion Prevention. J. SolGel Sci TechnoL 2018, 87,
+S04-513.
+304-315
+(S1) Dong, X.; Ren, J.; Duan, Y.; W'u, D.; Lin, L; Shi, J.:; Jia, R.; Xu,
+X; He, X. Preparation and Properties of Green UV-Curable Itaconic
+Acid Cross-Linked Modified Waterborne Polyurethane Coating. J
+Appl Poiwm Sci. 2022, 139, No.eS2042
+X; Lu, Y. Rational Design of Durable Anti-fouling Coatings with High
+(S3) Gao, P.; Wang, Y.; Wang, J; Wang, F,; Ma, W.; Zhang, Z.; Men,
+Transparency, Hardness, and Flexibiity. ACS Appl. Mater. Interfaces
+2022, 14, 2915629166.
+(56) Yu, F
+Waterbc
+8922
+(60) Yao, C.; Xu, S; Jiang, X.; Chen, J.; Yua
+an, X. A. Sin
+nple Way tc
+Achieve Self-Cle
+Chen
+uasedsursL XuH pue
+Photo
+inatedPolyurethan
+Influc
+M. O.; Ral
+(62) Khan
+M. Self-Healir
+g, K.; Li, Z.; Tuhir
+$77, 311318
+7655
+L; Ta, Y.; Mol, J. M. C.; Terry, H. AL Dual-Action Smart Coutings
+(67) Qian, H.; Xu, D.; Du, C.; Zhang, D,; Li, X; Huang, L; Deng
+with a Self-Healing Superhydrophobic Surface and Anti-Corrosion
+Properties. J. Mater, Chem, A. 2017, 5, 235S2364.
+RecommendedbyACS
+Get More Suggesticus >

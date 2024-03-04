@@ -1,0 +1,1032 @@
+BEIJINGUNIVERSITYOFCHEMICALTECHNOLOGY
+COMPUTATIONALSTUDYONINDUSTRIALGAS
+STORAGEANDSEPARATIONPERFORMANCE
+Youshi Lan
+SupervisedbyProfessorChongliZhong
+May2019
+本人郑重声明：所呈交的学位论文，是本人在导师的指导下，独立进
+行研究工作所取得的成果。除文中已经注明引用的内容外，本论文不含任
+何其他个人或集体已经发表或撰写过的作品成果。对本文的研究做出重要
+何其他个人或集体已经发表或撰写过的作品成果。对本文的研究做出重要
+责献的个人和集体，均已在文中以明确方式标明。本人完全意识到本声明
+责献的个人和集体，均已在文中以明确方式标明。本人完全意识到本声明
+的法律结果由本人承担。
+关于论文使用授权的说明
+学位论文作者完全了解北京化工大学有关保留和使用学位论文的规
+学。学校有权保留并向国家有关部门或机构送交论文的复印件和磁盘，
+以允许采用影印、缩印或其它复制手段保存、汇编学位论文。
+多孔骨架材料用于工业气体荐储和分离的计算研究
+摘要
+多孔骨架材料因孔道表面积大、类型丰富、结构可设计、性能可
+周控等特性在气体的吸附和分离上有良好的应用前景。由于多孔骨架
+材料可能的种类是无限多的，单纯依靠实验手段针对特定应用进行材
+科设计与制备内
+因此，在本工作中我们引入了材料基因组学
+息想，融合高通量计算和专用数据库，结合实验，
+架材料中的MOF和COF两类材料进行了一系列研究
+1）通过文献收集，搭建了目前已被实验报道的COF材料结构，建
+了共享数据库。在
+在“相似相溶”原理的指导下，将具有纯有机特性的
+COF材料用于非极性分子及有机分子的捕获，研究了COF材料
+工业领域的放射性碘和甲基碘的存储性能，分
+计碘捕获的高性能材料提供了理论指导。
+（2）基于材料基因组学的学术思想，提出了带化学反应位点的“遗付
+反应组装算法”，开发了高通量晶体材料组装的程序，构筑了471，990
+2D-COF材料，提出了“自适应算法”，为高通量组装2D-COF材料
+提供了有效的层间距调控方式，而对于3D-COF材料，本工作发现
+大量的具有新拓扑结构的材料。
+（3）为了验证材料基因组学的方法高通量构筑材料数据库的有用性，
+采用了高通量分子模拟将组装出的COF材料应用于甲烷存储和二甲
+苯同分异构体的分离。发现了材料在CH存储上的体积工作容量和质
+量工作容量的trade-off效应，利用COF骨架密度低的特性筛选出了
+兼有高体积工作容量和质量工作容量的材料。通过二甲苯同分异构体
+的分离筛选，发现了可以靶向识别对二申苯的材科孔道类型，打被吸
+附量和选择性的trade-off效应获得兼具高选择性高吸附量的材料。
+要通过分子动力学（MD）的方法来构建模型，过程紧复杂，很
+进行大批量的计算分析。在材料基因组学的学术思想指导下，本工作
+采用本课题组开发的晶体材料组装程序，组装了330.991个MOF材
+料，并基于构型依赖的蒙特卡洛（CBMC）方法，开发了高通量IL/MOF
+材科构筑方法。
+通过将此方法与MD方法、实验数据进行对比，充分
+交替纳米线，构成“芯-管”构型的协同吸附位点。
+提出了协同吸附位的概念，为复合材料设计提出了新思路。
+改途径，但L/MOF复合材料的系统计算研究很少，其主要原因是需
+性，成功实现了IL/MOF复合物的高通量组装
+。通过分析发现ILs在孔径合适的MOF管柱状孔道中可形成严
+COMPUTATIONALSTUDYONINDUSTRIALGAS
+Porous framework materials withhighspecificsurface area,high
+orosly,r
+1controllable
+separation.Chemically,the possible typesofporousframework materials
+methodologyofMaterial
+1Genomics,combininghigh-throughpu
+1)wefirstlybuiltan
+experimental-synthesizedCOFdatabase，and
+tieshaveadvantages for
+thestorageofradioactive1odineandmethyliodide,whichoftenappear1
+structure-pertormance
+(2)Guidedbytheidea
+named“genetic structural unit",that is structuralunits with chemical
+reactionsitesfordividingmaterialgenes,anda"quasi-reactive assembl
+whichgreatlyenrichedthenumberofCOFandtopologytypes.Fo
+2D-COFmaterials,weproposeda"self-adaptivealgorithm"toprovidear
+effectivelayerspacingcontrolmethodforhigh-throughputassemblyof
+onstructionofCOFs,and
+andexperimentalsynthesisofCOFmaterials
+computationalscreeningforvehiclemethanestorageandxyleneisomers
+identified owning to the merits of low skeleton density of COFs.By
+nspecificp
+thatcan automaticallyrecognizep-xylene moleculeswerefound,and thus
+obtainmaterialswithbothhighselectivityandhighadsorptioncapacity
+calculation studies on IL/MOF composites.The mainreasonis that the
+method in the traditional calculation.The process is cumbersome anc
+analysis.IntheguidanceofMaterialGenomics,weassembled330.991
+MOFmaterialsbyu
+feasibility of the CBMCmethod is fully proved,and the high-throughpu
+assemblyoftheIL/MOFcompositesissuccessfullyrealized
+CO2/CH4 separation.Through analysis,it is found that ILs are strictly
+confinedascationandanionalternatingnanowiresinMOFswith
+site of the “core-tube"structure.The formation of this site can
+simultaneously increase the amount ofadsorption capacity.selectivity
+andworkingcapaci
+ofsynergistic adsorptionsitesandproposenovelideasandconceptsfor
+composite materials design
+ids,MaterialGenomics,MolecularSimulation
+Contents
+ChapterZComputationalscreeningofcovalentorganicframeworks
+nethodsforhigh-throughput
+nstructionofCOFs
+andxyleneisomerseparation
+ofIL/MOFsand
+第一章绪论
+多孔骨架材料是具有周期性和连接性的纳微结构材料，包
+其中MOF和COF材料因为具有规整的晶体结构，且在
+优异的性能而备受重视。MOF材料是由金属离子（或相应的金属氧
+与有机配体以配位键形成的晶体材料2i2]。COF材料是一类完全由有机配体通
+对于一些特殊分离体系会表现出独特的优势
+来说，其结构的可能性是无限多的，通过遍历法针对特定体系开展研究的方式是
+更好地理解材料的特性，
+由此可见学科之间地交叉融合、相互延伸，对于促进该领域的研究其有极大
+研发的思路，通过理论计算对材料的结构、性能进行预测，在获得材料针对具体
+材料的研究中，并开展了一系列工作。
+1.2多孔骨架材料及其应用
+1.2.1MOF材料
+MOF材科领域的发展
+奠定了很好的开端。该种材料由过渡金属离子（或相应的金属氧化物团）与羧
+的应用前景。经历了20多年的发展，MOF材料的种类得到了极大的拓展。目
+也已经非常丰富，从少齿短链到多齿长链的芳环羧酸或含氮杂环均有使用1229]。
+前已近10万个MOF材料被实验合成了，数目紧多、种类复
+选一些常用于研究且骨架结构规整的系列进行介绍。
+MOF材料，从直观的孔道形状上大致可以分成两种类：一类是由正八面体的金属
+以IRMOF-1最为出名，也就是在1999年由Yaghi课题组率先报道的首个具有稳
+定构型的MOF-5。通过改变该类型材料羧酸配体的长短，可以精确地调控材料
+管柱状的孔道结构.通过拓展配体上的苯环个数，也能生成
+科（图1-2），解决了长配体骨架会导致结构互穿或孔道明增的问题，实现大
+科的合成。由于材科具有良好的稳定性，应用于生物学上的大分子（如蛋白、核
+1995年Yaghi等人报道了首个MOF材料的合成I25]，不过该MOF还不具有
+定性，需要溶剂分子内嵌在MOF孔道中来保证骨架的完整性。19
+是一类通过锌、钻等金属元素与咪唑或苯并咪唑等含氮芳香环配体形成的
+MOF材料（ZeoliticImidazolateFrameworks），也是由Yaghi课题率先发现的另
+非常类似的骨架结构（图1-3），且具有很好的化学特性如，热稳定
+性、水稳定性以及酸碱稳定性，因此被认为在工业催化领域和液相吸附分离有很
+大的应用前景3。其中以具有s0d拓扑类型的ZIF-8最为出名，因其合成过程相
+容易，自前已毅巴斯夫公司实现了批量化生产，主要月
+的柔性，特别是与金属原子配位连接的咪喔环可以在外界
+法国Versailles大学的Ferey课题组合成报道了另一系列著名的MOF材料
+钒等形成金属氧化物团与对苯二甲酸或均苯三甲酸组装而成3940。它们具有较
+维管柱状孔道的MIL-47、MLL-53、ML-68之外，另一种是具有球状堆积的介
+结构，MIL-100和MIL-101系列材料，常用于大分子的液相吸附分离方面的研究
+和金属位点，因此，被广泛用于工业催化方面的研究42-4
+高的水稳定性和化学稳定性，因此广泛用于液相吸附研究。而因其骨架极具柔韧
+UiO（UniversityofOslo）是以大学名字命名的一类材料。由Lillerud课题组
+率先合成的一类以锆（Zr）为金属原子为连接中的新型MOF材料5。该系列材
+料具成本低廉且制备过程容易，并具有很好的耐高温、耐酸碱性以及很好的机械
+性能，在实际操作的温度可高达500℃。以Ui0-66为最典型，由正八面体的
+[ZrsO4（OH)]和十二个对苯二甲酸有机配体相互连接，形成多孔的立方晶体，具
+有八面体的中心大孔和八个四面体小空的骨架结构（图1-5）。该材料在混合气体
+体系选择性分离上具有很大的潜力H6.47，被认为是继ZIF-8系列材料之后最有可
+能实现工业化应用的MOF材料，
+六氟化硅（SiFs）系列材料最早报道于1995年，由Subranmenian等人率先
+片层相连形成拓扑类型为pcu的三维立方型晶体结构，提供了切面为方条形的四
+整完美，且由于四氟化硅具有很强的作用力，使得
+希经炔经的存储和分离中展示出非比寻常的性能331。但该材料的尺寸效应和
+谢作用力太强，使得被吸附的客体分子滩以脱附，因而在
+合成。该MOF是由双船桨型铜金属氧化物团簇与四个均苯三甲酸连接，九
+形成这种船桨型的团结构之外，锌原子在适合的反应条件下也会形成类似的
+构，但是稳定性不如铜。通过此种船桨型团族形成的孔笼-孔道材料出了Cu-BTO
+在MOF的研究中，还有一类材料经常涉及，是孔笼-孔道（Pockect-Channel）
+型的材料35]（图1-7）。该系列材料最大的特征就是材料内部具有多种不同的孔
+：且相互连通，最出名当属Cu-BTC（HKUST-1）B6]，由Williams等人报
+料可以通过共价键对有机单元进行连接，并能形成长程有序的晶体，由此开辟了
+存在明显的极性力，从相似相溶的角度来看，对于非极性分子或有机分子的存储
+上具有优势。且背架中没有金属原子使得它们的骨架密度相对于MOF材料的更
+是因为COF材料的有机单元之间的连接是通过共价键连接的，而共
+不如配位键灵活，这同时也导致了3D-COF材料的合成上要比2D-COF材料困难
+得多。因此，400多个COF材科中将近90%的材料都属于2D类型，这与MOF
+材料的结构类型上有很大的区别。2D-COF材料是有机单元通过共价键连接形成
+平面片层，然后片层与片层之间通过分子间的相互作用进行堆叠。研究表明90%
+的2D-COF材料都是采用的正位堆叠方式（AA-stacking）或是有少许的倾斜
+而有少部分的2D-COF材科会呈现出错位堆叠的方式（AB-stacking）。正是因为
+2D-COF材料的层与层之间是通过范德华作用堆叠的，因此它很容易通过机械剥
+离的方式将材料剥离成薄片，用于超薄膜材料的研究。目前已报道的2D-COF材
+料包含了7种拓扑类型分别是heb、sql、hxl、fes、fxt、kgm、bex，包含了三角
+形、四边形、六边形、八边形等孔道类型641。而3D-COF材料在晶体结构上与
+MOF材料非常的相似，目前主要是包含了6种拓扑类型。ctn、bor、dia、pts
+都是通过四苯基甲烷、四苯基硅烷或是金刚烷这些正
+四面体的有机单元作为结构中心，与平面二连接、三连接、四连接的有机配体红
+装而成的16S.COF材料可以通过多种不同的反应方式得到，对应的连
+应和乌尔曼反应形成的COF个数很少，因此文中我们主要针对前三种进行介绍，
+酚类或硅酸上的羟基脱水缩合形成COF材料，例如COF-5I67、COF-105[68]
+该系列材料中的两个有机单元是通过亚胺键进行连接的（图1-9）。从形成亚胺键
+是目前认为形成COF晶型最好的一种。从反应物的角度上还可以细分为两种
+COF-103168。第二种是含有芳香环的硼酸分子与醇类
+亚胺型COF材料是由Yaghi课题组合成报道的另一类代表性的COF材料
+上来说，也可以细分成两种：一种是通过席关碱反应获得，通过醛酮或
+它是在高福集
+车下形成的，反应三聚反应的可逆性很弱，导致了材料的
+且相对硼酸型和业胺型的COF材料更容易合成，故受到
+1.2.3多孔骨架材料用于工业气体存储和分离简介
+存储和分离是化工生产过程中的重要操作。高性能的吸附剂在这些操作中起
+到至关重要的作用。高效存储是为了转型使用清洁能源保护环境，高效分离
+而吸附分离是通过寻找分离体系中的组分之间在相互作用力、分子形状或尺寸上
+的差异，选用真有特定识别的吸附剂实现选择分离的，是更绿色
+因此，针对不同的分离体系寻找高效的吸附剂是至关重要的。相对于自前
+1.3计算化学简介
+物质性质研究的手段。目前计算化学主要有两大类分支：量子力学和分子力学。
+排斥能、核与核排斥能。由于薛定方程求解困难，目前只有氢气
+坐标可获得精确解。对于大多数分子，则需要对方程采用分子轨道逼近的方法做
+近似，这样的求解方法通常称之为自洽场，
+第一种方法。通过对薛定谔方程进行近似处理直接求解，需要原子坐标就可求解
+的量化体系的计算，在计算方法上，还引入了很多半经验的计算方法，加快程序
+能够处理的体系大小也非常有限，因此，人们希望在处理非化学反应过程的时候，
+只简单的考虑分子与分子之间的相互作用，用比较简单的计算方法来得到分子的
+的，利用量子物理
+和统计力学的理论方法，结合计算机运算在微观状态下进行
+量子力学算法的核心观点是体系的总能量是所有电子能量原子核能的总和，
+通过对薛定谔方程求解获得体系的总能量。最终，可以得到体系的原子坐标、体
+Hartree-Fock，简称HF法，也叫第一性原理或者从头算，是自洽场求解的
+限。于是，人们从Hohenberg-Kohn的两大定律出发衍生出了密度泛函
+由于量子力学的计算容易发散，且计算量非常大，对计算机的运算负荷很高，
+[(g)s0 +1] spoP +(b0-0)y sue +(b)y sq 1eo
+面角（dihedrals），范德华作用（vanderWaalsinteraction）、静电势（Coulombic
+potential）。前三项属于“价键力"作用，是根据经典牛顿力学理论得到的能量表达
+式。而范德华作用、库伦势属于“非价键力”，分别采用兰纳德-琼斯（Lennard-Jones）
+的势能模型和库伦力方程来表达。K、Kg、V、6、c、6o、g等是力场参数，是
+经验数值，针对不同的计算体系需要不同的力场参数。目前主
+Universa]l8sj,Dreidingl89],Compassl90],Amber(91],Charml921,CVFF[93]
+分子力学模拟最早采用的主要方式是分子动力学模拟（MolecularDynamics）。
+根据牛顿运动定律构造了分子动力学过程，还原粒子运动的微观世界。根据麦克
+斯韦-玻尔兹曼分布律来标定体系内各个粒子的运动速度，进面通
+律让粒子在体系内自由运动，让体系逐渐达到平衡，再通过数据采集阶段获得想
+要的体系的物理性质
+随若计算需求的不断提高和计算尺度的不断扩大，人们发现，采用分子动力
+的方法模拟粒子从初始状态到达平衡的时间很长，这样的计算速度显然不利于
+快速大批量的计算。加上分子力学的研究逐渐成熟，数学
+根据波尔兹曼分布律可以知道，体系的某一个状态存在的概率是该状态的配
+从公式可看出，
+其他所有状态的配分函数是未可知的，直接求解p是不太可能的。于是Metropolis
+状态[S-]通过一个适当的跃迁概率p[S一S]决定的，并且该概率能够使得在马
+你科夫链的运行步数无限多时，产生的状态的分布函数p[S]也是趋于波尔兹曼分
+通过这种重要抽样的过程可以构造出符合麦克斯韦-波尔兹曼定律的体系，这
+此，蒙特卡洛方法在很多情况下就取代了分子动力学，
+通过计算化学，我们可以计算物质之间的相互作用能，前
+子结构，寻找反应给过渡态、激发态，计算反应活化能。从微观层面探究物质相
+于材料合成的可能性和可行性具有指导性作用，在新材料设计和研发领域具有举
+足轻重的地位。相信未来，计算化学能够发挥更突出的作用，更好地与实验相结
+合，促进性能材料的研发。
+1.4材料基因组计划
+国于1999年也加入该计划并承担了其中的3号染色体短臂上的近3000万对藏基
+的测序任务，虽然在效率和质量上得到了HGP项目组的好评，但加入的时间晚，
+完成的部分少，错过了很好的探寻人类生命本质科学的一项机遇。随着工业生产
+的发展和社会生活品质的提升，材料的发展已经成为了与人类生活息息相关的领
+奥巴马在美国宣布启动一项价值超过五亿美元的“先进制造业伙伴关系计划
+拨款启动，随后中国也提出了相应的材料基因组计划。该计划旨在揭示物质构成、
+不同元素排列与材料功能之间关系，进而实现针对具体需求而进行设计的新材料
+料基因组计划“指出，新材料的研发要改变从前的经验指导模式，结合大规模高
+的流程相对与分子动力学就大大减少了运行的时间，并且计算的结果还有较高的
+1985年率先美国提出了“人类基因组计划”（HumanGenomeProject），并
+计算机信息技术的高速发展使其已经渗透到了生产生活中的各个领域。“材
+生计算，高效率有自
+目的实验合成手段，以及可共享的材料结构数据库三项技术，
+的手段加以验证，实现有目的，有价值的材料合成。减少不必要的时间
+的认知和设计能力，为新材料的研发带来一种全新的模式%
+材科基因组计划的具体实施可大体按照如下五个步骤进行
+并公开共享，例如常用的沸石数据库ZEOMIC，英国剑桥大学专门针对晶体材料
+构建的CSD数据。这些数据库大都通过收集文献报道材料的方式，个数
+类型有限。从化学的角度上来说，材料可能存在的种类是无限多的，而且更高性
+能的材料往往是在人们未曾发现的材料里，因此，也有很多人致力于通过计算机
+程序结合人工智能的方法进行材料数据库的构筑
+行排序，而研究比较有希望的材科可以减省盲目实验尝试的时间成本。
+能够获得对材料性能预测的排序之外，还可以将材料的性能与其结构参数进行关
+中的作用机制，针对具体目标进行有目的的材料设计。
+（5）实验验证。根据计算化学的预测给出的结果，针对具有实验合成可能性的
+或，并通过系列表征和测定手段证明材料的有效性
+是无疑问，材料基因组计划是一项非常有科学依据的正确的材料研发计划
+充分发挥多学科交叉的优势，将计算机技术充分融入到材料研发中来。从而减少
+了盲目的尝试和探索的过程，并可以通过计算化学细致探究内在作用机理，实现
+性质基础。尤其是多孔材科方面的数据库正在逐步完善成形，
+更高更好的材料设计，但是材料基因组的推进是依赖于多方面的发展的，包括
+未米，计算化字在材科研发领域会占据更主导的地位，提供更有效的指导
+依据，而材料基因组计划所倡导的材料研究理念和模式也一定会成为未
+材料包含了金属团续和有机配体两个部分，因此同时具有有机和无机材料两种特
+的，面且性能更高结构更好的材科往往在未曾发现的材料上，因此，可
+算化学的手段构造数量更为庞大的材料结构库，但对于数以方计的材料来说，逐
+个尝试和测试在实验上是几乎不可能完成的事情，所以在工作中，
+规模高性能的计算手段，加以实验辅助验证地方式，针对自标体系进行
+的性能预测，并根据材料的构效关系进行有目的材料设计。通过该工作可以促
+多孔骨架材料的研究进程，同时为新材料的研发引入新的模式。
+是我们仍需努力发展方向，而且还有很长的路要走。但是无论如何，我们相信，
+气体存储和吸附分离与工业生产、人类生活息息相关，高效的存储手段和
+控的特点，广泛用于存储和分离方面的研究并取得很好的效果。MOF
+的结构基础。但从化学的角度上来说，MOF和COF材料可能的种类是无限多
+1.6论文创新点
+论文中南述的工作是在材料基因组学的指导思想下，针对
+（1）在“相似相溶”原理的指导思想下，将具有纯有机特性的COF材料应用于核
+工业中的放射性碘和核燃烧废料中的甲基碘的存储研究，并获得了超过目前文献
+（3）采用高通量计算的手段，大规模筛选由材料基因组学方法生成的COF材料
+数据库，针对有实际应用意义的甲烷能源气体存储和二甲苯同分异构体分离进行
+了材料性能预测，发现气体存储中体积工作容量和质量工作容量的trade-off效应
+利用COF材料骨架密度低的特点得到体积和质量工作容量都很高的材料。发现
+择性和吸附量都很高的材科，通过这些筛选工作充分证明了材料基因组学方
+长步骤平衡的过程。通过将CBMC的方法与MD的方法以及实验数据进行对比
+吸附位点的概念。该工作对IL/MOFs的设计方式，作用机理进行详细的闸述，
+为复合材料设计提出了新颖的观点和理念，
+性，证明了材料基因组学理论指导实验的先进性
+行性，并通过程序实现IL/MOF复合物高通量组装
+第二章COFs捕获放射性碘和甲基碘的计算筛选研究
+考虑到化石燃料的逐渐耗尽和对温室气体减排的强烈要求，开发可替代的清
+洁和可持续能源被视为确保全球经济繁荣的关键。与其他
+成本较低且没有碳排放，是非常具有潜力的能源类型，目前，
+种高挥发性污染物，具有极长的半衰期（~107年），它的单质形式（L2）对公众
+健康和环境的危害巨大1103。另外，131的半衰期虽然只有8大，但是它的排
+放量很高，且易与其他碳氢化合物结合生成有机化合物如甲基碘（CHI)，对人体
+的代谢系统有严重的影响I4-1%。因此，有效地捕获和存储I和CHI对公共安
+气态放射性碘污染物的去除有多种方法，包括沉淀、干燥、湿法洗涤、吸附
+能力较低13.114。因此，探寻环境友好、吸附量高、成本低廉的吸附剂具有重要
+意义。最近，有一些实验和理论计算工作研究了MOFs的储碘性能15.116。例如，
+Nenoff等人117-119通过实验和理论计算系统地研究了Cu-BTC和ZIF-8的I2吸附
+性能。与AgZ相比，Cu-BTC和ZIF-8的I存储量要高很多。此外，一些实验研
+究表明用氨基和硫醇基对MOF[120-122进行修饰可以提高其I捕获性能。Assfou
+下ZIF-10的吸附量最高（2.39gg）。尽管MOF的性能可观，但这些研究主要
+共价有机骨架材料（COFs）是一种结构新颖的结品纳米多孔材料
+结构单元通过强共价键组装在一起形成周期性网络25）。这种结构高度有序的材
+科具有很多优异特性，如框架密度低，孔隙率可调，热稳定性高，化学稳定性好
+文献调研可知，有关COFs捕获碘的研究仍然非常稀缺[13,136，值得深入探索
+187个COFs进行了高通量计算以探索COFs吸附1和CHI的构效关系。两种碘
+物质的吸附行为都是按照工业操作条件（423K和1bar）进行考察的。与目前已
+报道的吸附剂相比，本工作发现了两种COF分别对L和CH3I具有更高的吸附容
+量，所获得的构效关系可为用于碘捕获的薪材料的设计和合成提供有用的指导。
+奠定基础。为此，我们收集了187种典型的COF材料结构，包括一些著名的
+结构特性，包括孔隙率、直径，表面积和自由体积的计算由开源软件包Ze0+I137
+作用。采用联合原子模型，将1分子描述为球形模型，并采用文献中的兰纳德
+构型多样的、具有代表性的材料数据库可以为探索COFs的碘捕获构效关系
+的COF材料。所有的骨架结构都是从这些材料对应的合成文献
+究中，通过兰纳德-琼斯势和库仑静电势的组合描述原子之间的相互
+琼斯势能参数[138，该文献中的势能参数通过对纯L进行粘度计算得到。
+设置已被广泛用于研究各种MOFs的I吸附中[123,124]，并且计算数
+表2-1和CH143的力场参数
+Table2-1Potentialparametersiodine andmethyliodidein thiswork
+Table 2-2Potential parameters for the framework atoms of COFs
+2.2.3模拟细节与参数设置
+高通量吸附扩散模拟软件完成。在模拟过程中，气体分子会涉及到4种类型的运
+动：平移、旋转、随机插入、随机翻除分子。COF材料被视为刚性骨架，原子
+在其晶体位置保持不动。对分子向的长程范德华作用将截止半径设定为14.0A，
+并使用Ewald求和技术处理长程静电相互作用，并考虑周期性边界条件问题。每
+的热力学量是恒温吸附热（Qst）。根据系综理论，它可以从下式进行计算44]。
+式中的方括号<.>表示系综平均值，R是气体常数，N是吸附分子的数量。
+一项和第二项分别是分子热能和吸附质-吸附质之向的相互作用能的贡献U
+第二项是吸附质-吸附剂相互作用能的责献U
+的Q的贡献分别表示为Qg和Qf
+佳的COFs，具有ctn，bor，dia和pts拓扑结构的3D-COF性能表现最突出，表
+明了3D-COFs在吸附中的优势。此外，具有六边形和方形孔结构的2D-COFs也
+显示出相当高的L吸附量。这些高L吸附量的材料都具有介孔结构，提醒我们
+客体分子之间的相互作用可能主导了1吸在这些材料中的吸附行为。为验证这种
+推测，进一步计算了前10个COFs在423K，1bar下L的吸附热，如图2-2所示，
+用力（Qafm）。实际上，Hughes等人17先前在对ZIF-8吸附I的实验研究中得
+对于1和CHsI得GCMC筛选在423K，1bar下进行。使用本课题组开发的
+为了获得COFs吸附L的构效关系，我们将187个COFs的碘吸附量与它们
+积（Sac）或空隙率（）也会得到较高的1吸附量。表2-3列出了10个表现最
+了同样的推测，但没有给出直接证据。为了在分子水平上了解那些性能最好的
+于它们之间的强烈相互作用，L在材料孔道中倾向于形成团状结构。
+图2-1COFs吸附L的构效关系：a，COFs的LCD（通道上的最大孔径）与h吸附量之间的
+关系，图中散点的颜色是比表面积：b，COFs的（空隙率）与h吸附量之间的关系：两
+幅图中由蓝色虚线圈包围的点对应于本工作中讨论的材料PI-COF-5
+Fig, 2-1 Structure-property relationships of I adsorption in COFs: (a) Relationship between the
+LCD (largest cavity diameter) of COFs and the I uptake, colored by surface area. (b) Relationship
+between the p (void fraction) value of COFs and the I uptake. The blue point enclosed by the
+dashed circles in the two figures corresponds to the material PI-COF-5 discussed in this work
+图2-2筛选的材料中排名前10的COFs对L的吸附热：在横坐标中，L-代表I分子之间
+相互作用的贡献（Qg），I-COF代表L和COFs之间相互作用的贡献（Qm），total代表总
+吸附热，模拟条件：423K和1bar
+Fig. 2-2 Isosteric heats of adsorption of I in the top 10 COFs. In the abscissa, the I-l2 represents
+the contribution (Qsug) from the interactions between I2 molecules, the I2-COF represents the
+contribution (Ost,fin) from the interactions between I2 and COF frameworks, and the total
+epresents the totalheat ofadsorption.Simulation conditions:423Kand1be
+表2-31吸附性能排名前10的COFs的结构参数
+Table 2-3 Structure features and the uptakes of the top 10 COFs identified for I2 adsorption
+图2-31吸附构型：a，3D-Py-COF；b，PI-COF-5；COF骨架以球棍模型表示（H，白色；C
+灰色；N
+蓝色）
+能最好的那些材料如3D-Py-COF具有类似的结构特征（孔径，比表面积和空隙
+率），但其1吸收量却非常低。表2-4对两种COF的结构特性和吸附性能给出了
+然而，这并不意味着L可以在任何具有高空隙率的COFs中被大量吸附。
+拓扑的3D-Py-COF的方形孔道结构具有明显的约束效应，可以很好地封装L分
+子.相比之下，PI-COF-5的类金刚石结构（dia）是通过线性配体连接，因此其薄
+子，相比之下，P1-COF-5的类金刚石结构（dia）是通过线性配体连接，因此其“薄
+司内：2
+缩构单元
+etr（p-aminophenyl)-methane换成tetra（p-aminonaphthyl)methane，
+表2-43D-Py-COF，P1-COF-5和3D-Py-COF-TANM的结构特征和吸附性能（423K，1bar）
+Table 2-4 Structure features and adsorption properties (423 K and 1 bar) of 3D-Py-COF,
+PI-COF-5and3D-Py-COF-TANM
+图2-4新设计的3D-P-OF-TANM的结构
+Fig. 2-4 Structure of the newly designed 3D-Py-COF-TANM
+的吸附量。该材料的晶胞参数和详细原子坐标信息见表
+Table 2-5 Fractional atomic coordinates for the designed 3D-Py-COF-TANM in this work
+越这些典型的沸右和其他无定形多孔有机骨架，如PAF-24（2.76g/g）13。此外
+同拓扑的MOF的L吸附性能。从剑桥结构数据库（CSD）中选取了12个具有
+编码），表面积约为5200m²/g、孔隙率为0.88。该材
+除1非常有潜力的吸附剂
+表2-53D-Py-COF-TANM的晶体分数坐标
+Table 2-5 Fractional atomic coordinates for the designed 3D-Py-COF-TANM in this worl
+计算的筛选结果显示在已有COFs中，1捕获量最高的是3D-Py-COF，达到
+（0.20g/g）和丝光沸石（0.17gg）1o21。实际上，图2-1表明许多COFs可以超
+内佳能优十NU-110
+D-Py-COF仍然具有最高的吸附量19.8g/g-1。考虑到具有
+pts拓扑结构的3D-COFs有良好的性能，进一步通过GCMC模拟考察了具有相
+大的可接触表面积（范围从2213到5353m²g-1）和高孔隙率（范围从0.65到
+D-Py-COF低得多，与具有相似空隙率的COF相当。以上结果表明COFs是去
+dashed linerepres
+best MOF (NU-110) reported so fal
+dashed line represents the I uptake of the best MOF (NU-110) reported so fa
+表2-610个具有pts拓扑类型的MOF材料结构参数和I吸附性能
+表2-610个具有pts拓扑类型的MOF材料结构参数和1吸附性能
+Table 2-6St
+Mitnptstopology
+Table 2-6 Structural properties and I uptake of MOFs with pts topology
+2.3.2COFs吸附甲基填的计算筛选
+CHI是核燃料使用后的排放物中的主要成分，通常被认为比L分子
+2-7列出了COFs吸附甲基碘排名前10的结构信息。
+道的数量占了近90%的COFs，但是3D-COF显示出更好的性能。值得注意的是
+不同的有结构单元，但是具有相似的结构特征，说明了孔道形貌在CHI吸附中
+回惠婴作用：户
+PI-COF-4-2P和COF-300是其有dia拓扑结构的3D-COF，具有
+适的孔径（~9A），这主要归因于它们骨架的适当互穿，但互
+不具有非常明确的调控性，因此在本工作中不作为主要讨论的对象
+图2-6187个COFs的CHI吸附构效关系：a，LCD（通道上的最大孔径）和CHI吸附性
+能之间的关系，图中的散点颜色为比表面积：b，（空限率）和CH3I吸附量之间的关系
+Fig. 2-6 Structure-property relationships of CHI adsorption in the 187 COFs: (a) Relationship
+between the LCD (largest cavity diameter) and CHsl uptake, colored by materials surface area; (b)
+Relationship between the  (void fraction) and CHyI uptake
+图2-7筛选的材料中排名前10个COFs对CHsI的吸附热：在横坐标中，CHyI-CHI代表I
+分子之间相互作用的贡献（Qg），CHI-COF代表CHI和COFs之间相互作用的责献（），
+total代表总吸附热，模拟条件：423K和1bar
+Fig. 2-7 Isosteric heats of adsorption of CHI in the top 10 COFs identified from the 187 materials:
+The CHsl-CHI represents the contribution (Qxg) from the interactions between CHI molecules,
+the CHI-COF represents the contribution (Qxfs) from the interactions between CHsI and COFs,
+ons: 423 K and 1 bar
+图2-8CHsI吸附构型：a，COF-103；b，3D-Py-COF；COF骨架以球棍模型表示（H，白色
+灰色：N
+益色）
+大型填充球体表示CH
+Fig. 2-8 CH;I adsorption configurations in the structures of: (a) COF-103, and (b) 3D-Py-COF
+Frameworks are display in ball-and-stick style (H, white; C, grey; N, blue; Si, yellow); the
+molecules displayed in space-fill style represent the methyl iodide
+molecules displayed in space-till style represent the methyl iodide
+表2-7CHI吸附性能排名前10的COFs的结构参数
+表2-7CHsI吸附性能排名前10的COFs的结构参数。
+and the CHsI uptakes of the top 10 COF
+Table 2-7 Structure features and the CH;I uptakes of the top 10 COFs
+所示。与COF中吸附L的结果（图2）相比，在CHI吸附的情况下，Qr和Q
+十分接，表明来自CHI分子之间相互作用和与COF框架间的相互作用力同样重
+可话说，要实现CHI的大量吸附，需要一个限制力很强的骨架材料。
+然，具有合适孔径（9.7A）的COF-103在很大程度上可以最大化CHI的分子间
+相互作用以及CHI和骨架之间的作用，对于3D-Py-COF，它的孔径为24.4A，
+使得我们只能在其孔整附近处观察到少量的分子吸附，而孔
+限制作用的重要性也解释了3D-COF对于2D-COF的优越性，因为3D生长的框
+别为1.70和1.65g/g）。与ctn拓扑结构相比，dia拓扑需要一个较小的孔对CH3l
+吸附施加限制。这也证明了ctn型框架具有更强的限制能力.至于其他3D-COF
+F-103，COF-102和BF-COF-1）具有更好的吸附性能
+表2-8三个甲基镇吸附性能最好的COF材料与其他的吸附材科性能的对比
+这种不利的介孔环境导致了CHI分子之间的相互作用非常弱（Ωa=1.2kJ/mol）
+供多个表面发生相互作用，而且可以对客体分子施加更
+它们的表现不佳可归因于孔尺寸过大或过小。例如NPN（dia，~6A），COF-105
+要集中在活性炭，氧化铝和沸石。与这些传统材料相比（见表2-8），前三种COF
+于非极性分子或有机物分子的吸附上有优势。针对187个实验C0F在423K和
+3D-COFs具有比2D-COFs更好的性能，L吸附量与COF的孔隙率之间呈单调增
+同材料的容量。此外，发现L在骨架材料内部的堆积作用是主导驱动力。基于获
+吸附，吸附能力和结构特征参数之间没有单调对应的关系，一
+的ctn拓扑结构的3D-COF被鉴定为表现最好的材料。说明具有螺旋环绕孔道的
+CHI的吸附，这主要是因为CHI过程的主导因素是骨架材料的束
+第三章COFs高通建构筑的材料基因组学方法建立
+先进纳微材料在很多的领域都有非常重要的用途。目前，该种材料的研发主
+是基于一些科学直觉的设想和实验合成的尝试等策略.这些传统的方式通
+常会消耗极大的人力、物力、财力，为了缩短材料的研发周期，减少材料的研发
+构想149-152)，随后欧洲的Horizon2020和中国的材料基因组计划也逐渐
+这方面，前人做了很多杰出的工作1153.15，Snurr和他的团队115s-57基于连接导向
+共价有机骨架材科（COFs）是纳微材料的另外一个重要的分支，与MO
+体的类型不同，COF材料可以形成二维（2D）或三维（3D）的结构[166-168]。虽
+然与MOF材料有着非常相似的晶体结构，但无论是实验报道的还是模拟组装的
+Main等人
+先通过拓扑结科导回法先构筑了620个3-0止材料：再用大素
+模互穿的方法组装出了4.147个互穿的虚拟COF材料。最近，他们进一步通过
+该方法构建出了数量更大的COF材料库I172。从理论上说，COF材料可能的种类
+就当下已有的COF材料的总数还远远不能达到材料基因组
+计划的高通量计算的需求。此外，虽然2D-COF材料已经被广泛用于很多领域的
+科基因组学法对于大规模构筑COF材料地有效性和高效性，
+COF材料基因库。MOF材料的构筑主要是通过有机配体与金属盐的连接来实现
+日能够得到保持。根据这个理念，提出了一种材料基因划分的方法，称之为，遗
+反应位点的结构单元。因结构单元的反应位点决定了其连接的方式，因此认为材
+割必须要方便在反应位点处定义连接信息，根据实验上已报道的几类常用于合成
+提出的基因片段划分方法得到了130个GSU，包含了多种几何构型，反应位点
+改性基团（functionalgroup），图3-2中给出了程序构筑过程中使用到的所有GSU
+研究I3但目前，还没有数量很大的2D-COF材料数据库报道。因此，为了很好
+图3-1a展示了本工作的核心思想，高通量构筑COF材料库的第一步是构建
+学特性，进一步将这些GSU细分成三种类别，中心（center）、配体（linker）、
+图3-2COF材料GSU表：58个center，64个linker，8个functionalgroups:图中的粉色虚
+线和粉色字母"A用来指代了centerGSU反应位点处的连接信息，在成功组装材料之后，它
+们将会被删除掉：根据合成COF材料常见的反应类型，“AAA"符号可以代表“BOO"，“CNN”
+Fig. 3-2 Full list of the GSUs used to generate the database of COFs: a, 58 centers. b, 64 linkers. C.
+eliminated after successful connection; according to the chemical reaction types reported for
+,the “AAA"notations can stand for BOO,CNN, CNH,NBB and
+3.2.2基于材料基因组学的C0F材料组装方法
+着很大的不同。为此提出了一种“似化学反应算法（QreaxAA）"的组装方式。首
+互排列组合的可能性，而不是像Wilmer一样先罗列处所有的单元模块的连接序
+列。而且，在材料生成的过程中，程序是先生成母体材料，然后再进行后改性。
+这种类似于实验上的合成后改性的方法可以极大地提高材料地组装效率。
+为了能够大规模组装2D-COF材料，程序中专门为2D层状材料引入了自适应算
+图3-32D-和3D-COF材料的QReaxAA构筑过程原理图：a，通过左侧的两种GSU可以组
+成2D-COF材料：当程序在连接过程中找到了X和Y方向上的重复连接之后，便确定了材
+料在这两个方向上的周期性，再进一步通过自适应算法来调整材料的层间距；b，左侧的两
+个GSU可以用于生成3D-COF材料，生成的过程基本和2D-COF材料的基本过程相似，只
+除了需要定义好材料基因片段的划分方法之外，高通量组装COF材料的
+很大的启发，但由于组装对象是COF材料使得组装软件与在方法上有
+在COF材料的组装过程中，先逐步连接center和linker类型的GSU.在连
+-E.center和linke
+能够成功连接组成品体材料，就尝试对生成母体材料进行多
+Wilmer等人的差不
+则通过我们提出的自适应算法来调整材料来预测材
+料的层间距，自适应算法的主要思想是通过考察已有的2D-COF材料的层间距来
+确定每一个GSU对于材料层间距的贡献值，
+3.2.3遗传结构单元的三种定位方式
+图3-4三种不同的GSU定位方式：在centerGSU中定位原子是标识为1，2.3：在linker
+GSU中标识为1'，2'，3：在成功定义定位原子之后，实心原子将保留，而带有纹理的原子
+连接成功后将被删除；其中灰色，橙色，黄色，橄榄色和粉红色的圆球分别代表了C，0，
+SS和B原于：
+Fig. 3-4 Three different positioning methods for the connection of GSUs: The positioning atoms
+marked by 1, 2 and 3 in center GSUs respectively correspond to the positioning atoms 1′, 2’ and 3
+in linker GSUs; after successful positioning, the solid atoms will be reserved while the textural
+atoms will be removed; grey, orange, yellow, olive and pink spheres represent C, O, S, Si and B
+atoms, respectively; H atoms are omitted for clarity
+决定了centerGSU的连接取问，因为对于这种类型的结构，我们根本无法从center
+生成类似于ZIF-8这种sod拓扑类型的材料.最后一种方法是用来组装cente
+在前两种连接方法的基础之上，在centerGSU的上下两端增加了自周期原子的
+3.2.4遇传结构单元的连接原理
+位原子转化成用来表征一个单位向量的3额虚拟原子，如图3-5中展示的3赖绿
+了清晰地展示GSU之间的连接原理，我们采用图3-5a中的反应位点1（reactive
+site1）和图3-5b中的反应位点4（reactivesite4）的连接作为例子。起初，center
+接过程亦是如此。当所有的反应位点都被连接，并找到了足够的周期性之后，晶
+体材料就成功生成了。
+为了能够方便地为GSU段定义连接信息，我们对材料的GSU采用了三种不
+方式。首先对于三种定位方式都需要在GSU的每一个反应位点先定义3个不共
+具有很明显的界限，就像MOF中的金属团簇和有机配体一样。两种GSU在定
+义定位原子的时候能够轻易地找到“先中间后两边"的两颗原子。而第二种方法是
+会将这三种定位方式都转化成一种几何信息。就是将每一个反应位点上的3赖定
+连接，另一方面是为了降低连接过程中的偏差提高程序组装材料的成功率。为
+线的时候，说明两个反应位点连接成功。其他反应位点的连
+图3-5通过虚拟原子定义GSU的反应位点：a，具有3个反应位点的centerGSU；b，具有
+4个反应位点的GSU：图中的绿色星星是虚拟定位原子，紫色箭头是虚拟定位向量
+Fig. 3-5 Definition of the reactive sites by virtual points: a, One kind of center GSUs with three
+3.2.5COF材料高通组装原理
+动后，就先逐步连接GSU。每次组装只能选取一种center类型GSU和至多两种
+的linker类型GSU。如果在连接过程中出现了原子重叠的问题，程序将回退到上
+连接的方向出现了重复连接，则认为在该方同上找到了一个周
+到3个方向上的周期性才能认为晶体组装成功。对于2D-COF材料，只需要找到
+两个方向上的周期，之后再通过自适应程序来调整材料的层间距即可获得第三个
+functionalgroups的改性。为了能够加速组装的过程，我们
+进人下一次值环
+：由于当前近95%的2D-COF材料都是皇现的面对面
+积的构型，对于3D-COF的互穿行为收到多方面因素的影响，比如合成条件等[175]
+国此，在本工作中呈现的材料数据库都是没有任何穿插类型的结构的
+此，在高通量构筑COF材料的过程中，不可能通过一个固定的数值来定义每一
+2D-COF材料的共价键形成层状结构，通过范德华力来实现层与层之间的堆
+献已报道的2D-COF发现，大部分的材料的层间距都是在3.0至4.0A之间。然
+而，对于一些特殊的材料，比如IL-COF-11176]和TD-COF-5LI771，他们层间距会
+6.6和7.5A。这主要是因为这些材料的结构单元中存在非平面的构型。因
+d=max（d
+.式（3-1）
+图3-7自适应算法调控2D-COF材料层间距原理图：a，因TP-COF17上的center和linker
+都是平面型分子，因此二者层间距贡献值都等于材料的层间距是3.38A：b，CTC-COFl19
+的linker和TP-COF的一样都是平面型分子，因此其贡献值也设置成3.38A；而其center是
+非平面分子，故CTC-COF的层间距主要由其造成，其层间距设置成材料层间距4.30A；C，
+CTC-COF的center和TP-COF的linker组装的新COF材料的层间距等于center和linker中
+较大的一者，为4.30A：面FGSU贡献值为0.126，故最终获得F改性材料层间距为4.43A
+Fig. 3-7 Illustration of the principle of the self-adaption-algorithm for constructing 2D-COFs: a,
+the interlayer spacing of TP-COF reported experimentally is 3.38A; since the center and linker
+GSUs are planar, both the contributions of them are set to 3.38 A; b, the linker GSU of the
+synthesized CTC-COF has a planar configuration similar to that of TP-COF, thus its contribution
+can be set to 3.38 A; since the center GSU is non-planar and dominates the interlayer spacing, its
+contribution is equal to the interlayer spacing (4.30 A) of this material; c, assembly of a new
+2D-COF from the linker GSU of TP-COF and the center GSU of CTC-COF; the interlayer
+spacing of the generated-COF is equal to the larger contribution of the center GSU (4.30 A); for
+its F-functionalized form, the interlayer spacing is approximately set to 4.43 A by adding the
+contribution of this functional group (0.126 A)
+值设置成被手动改性并进行分子力学结构优化的COF结构的层间距与未改性前
+COF材料的平均结果，functionalgroupGSU的贡献值列于表3-1中。为了能能
+够更直观地理解自适应算法的原理，在图3-7中给出了2D-COF的组装以及改
+的过程，
+表3-1FunctionalgroupGSU对2D-COF材料层间距的贡献值
+为了确认通过基因组学的方法来实现的材料组装的可靠性，我们用程序
+center和linker类型的GSU的层间距贡献值是通过考察已有的COF材料来
+过构型相似的GSU来进行推测的。因为当前改性的COF材料在文献报道中还是
+比较少，因此，关于functionalgroup类型的GSU的层间距贡献值很难通过已合
+成的COF材料来推算。为了解决这个问题，我们将functionalgroupGSU的贡献
+改性，所有建立好的材料都使用MaterialsStudio的
+rcite模块进行政件
+最终每一个functionalgroupGSU层间距贡献值是这5个
+Table 3-1 Contribution of functional-group GSUs to the interlayer spacing of 2D-COFs
+些实验已报道的COF材料，并将程序生成的晶体与实验给出的晶体结构
+表3-3中的对比数据可以发现，在各项参数上，程序生成的和计算合成的材料之
+间非常接近。同时关于改性的材料，也对比了程序生成的，以及程序生成后进
+步优化的品体结构（表3-4），发现也相合得很好。这些
+基因组学的方法可以实现了可靠的大规模COF材料组装
+表3-2比较10个实验已报道的COF材料及其相应由程序组建出的晶体结构和组装后进一步
+分子力学优化的品体结构之间的晶胞参数：其中，晶胞长度单位为A，角度单位为度
+Table 3-2 Comparison of the cell parameters of 10 synthesized COFs with those of the built
+tructures and the built structures after optimization; the cell lengths and angles are in units of.
+Table 3-3 Comparison of some common structural descriptors calculated for the synthesized
+COFs, the built structures and the built structures after molecular mechanics optimization
+Table 3-4 Comparison of the cell parameters of the built structures and the built-optimized
+structures of 8 generated functionalized 2D-COFs; These COFs are composed of different center
+and linker GSUs and modified using different GSUs of the functional groups; The cell lengths and
+angles are in units of A and degree, respectively
+3.3.2C0F材科数据库
+比，我们的数据库极大地扩展了COF系列材料地拓扑类型和材料个数。表3
+数据库的主要目的是探究GSU後此之间所有连接的可能，因此
+包含的都是非互穿的结构。近来Mercado等人通过遍历所有可能互穿的方法
+的互补关系
+些因素在高通量的计算化学中都是非常难以考察的.未来，我们的算法中还需要
+庞大的且具形态异的COF材料，这些COF材料的孔径、比表面积、自由体
+等结构参数相较于目前实验报道的~400个COF材料，覆盖了更宽的数值范围（图
+2D-COFs和305.306个3D-COFs，其中也包括实验上已经报道地~400个COF材
+构建出的数据库只是给出了单体之间连接的可能性，但要考察相应的材料是
+否在实验合成上可行，依照文献，还需要引入量化计算等更精确的算法才能判定
+该材料在热力学上的可行性。由于量化计算需要的时问久，消耗的计算资源也很
+料，数据库中存在两种新拓扑结构。其中mcm是通过采
+式实现的，面tth则是通过（6，4）连接的方式实现的（图3-9a）。
+除此之外，通过采用自周期方法和（4.2），（4.4）连接分别生成
+图3-10展示了上面提到的相关孔道类型。生成的COF材料数据包含了数量
+3-11），为后续的材料大规模筛选提供了充足的结构基础。该数据库已经公布在
+表3-5数据库中COF材科的结构信息
+Table 3-5 Structural information of the existing and designed COFs in our database
+图3-8已有 2D-和3D-COF 材料的连接方式和拓扑结构
+Fig. 3-8 Linkages
+and 3D-COFs
+图3-102D-和3D-C0F新拓扑结构材料孔道结构图：对于每一个结构都标注出了连接方式，
+拓扑符号，以及结构名称：灰色，红色，蓝色，橙色，粉红色和紫色球体分别代表了C，0，
+N，S，B原子以及甲基：图中的蓝色或清色多面体代表了C-C或SiO四面体机构：为了表
+Fig. 3-10 Some respresentatives of the generated 2D- and 3D-COFs with new topologies: under
+and methylgroups,
+组学的COF组装程序可以实现可靠的高通量材料组装。针对2D
+出了“自适应算法”有效地根据材料地基因片段调控材料的层间距，让
+拓扑类型，丰富了3D-COF材料的结构类型，为新结构的实验合成提供了大量的
+和305，306个3D-COFs，为高通量计算筛选提供庞大的结构基础。因此，本工
+中提出的材料基因组学的方法实现COF材料的高通量构筑可以为材料设计、
+database, coloured by material largest cavity diametel
+在材科基因组学思想的引导之下，我们在本工作中提出了一种带化学反应
+自然生长过程的提出了“似化学反应”算法。根据这些理念开发了基于材料基因
+材料高通量构筑成为可能。针对3D-COF材料我们通过程序组装发现了大量的新
+第四章COFs存储甲烷和分离二甲苯异构体的高通重筛选
+为了说明提出的材料基因组学方法高通量构筑COF材料数据库的实用性
+针对两个实际应用体系进行了高通量的材料筛选，一
+DOE）的高级能源研究项目署（ARPA-E）提出的采用高性能吸附剂实现CH
+存储量为315cm（CH4，STP)cm（吸附剂）.或者是按质量标定的存储量达0.5
+（CH4）g（吸附剂）i15o,541，其中STP指的是273.15K，1bar的环
+计划的实际工业意义是，在满足经济效益的前提下，通过实现CH能源气体的
+容度存储，将汽车的燃科类型转为甲烷气，减少对化石燃料的消耗。另一个
+石油化工工艺具有非常重要意义，同时也存在技术挑战的二甲苯同分异构体进行
+分离。二甲苯共有4种同分异构体，分别是对二甲苯（para-xylene，pX）、间二
+四种同分异构体中，对二甲苯最具有商业价值，是非常重要的化工原料，可以用
+于合成对苯二甲酸，进而与醇类发生酯化反应生成纤维，是中空容器的重要原料。
+此，本工作将选择性吸附对二申苯的材科作为筛选目标
+Table 4-1 DOE target for CH4 storage at 2012
+目前，CH4燃料汽车发动机的入口压力认为是5.8bar，将CH输入储罐的二级压缩机的极限
+压力为65.0bar。因此，DOE目标的实际含义是在65.0至5.8bar的压力差中，储罐能够释放的
+CH气体量，即CH4工作容量。在考虑25%的循环使用填充损失后，DOE规定CHa的体积能
+量密度目标为12.5MJ/L，CH燃烧热为-0.889MJ/mol，因此工作容量需要达到：12.5/0.889
+X22.4=315cm（STP/em²的目标
+表42二甲苯同分异构体的物理性质[3
+Table 4-2Physicalproperties ofC8-alkylaromatics
+图 4-1
+本工作中，使用兰纳德-琼斯势和库仑静电势相结合的方式来描述吸附质-吸
+子球体，其兰纳德-琼斯势能参数取自TraPPE力场84。二甲苯
+子模型是通过密度泛函（DFT）量化计算得到的，采用了MaterialsStudio中的
+Dmol模块。计算中采用Perdew-Burke-Emzertof（PBE）GGA函数结合带极化作
+用的双精度基组（DNP）。对二甲苯（PX）、间二甲苯（MX）、邻二甲苯（OX）
+均采用刚性多位点分子模型，势能参数取自OPLS力场L18S1：乙苯（EB）也采用
+多位点分子模型，势能参数取自Lahoz-Martin等人的研究工作{a。二甲苯和
+苯的模型中，构成芳香环的C和H原子（C-aro和H-aro）的作用势是单独考虑的，
+等人开发的QEq程序计算原子的静电势电荷得到的4]。
+表4-3CH和二甲苯的作用势参数
+Table 4-3 Potential parameters for CH and Cs-alkylaromatics considered in this work
+表4-4COF材料骨架原子的兰纳德-琼斯作用势参数
+Table 4-4 LJ potential parameters for the framework atoms of COFs
+Ewald求和技术处理处理长程静电势作用，采用Lorentz-Berthelot混合规则确定
+学性质的数据。对所确定的性能突出的材料，进行了
+拟平衡和数据采集阶段的模拟。在计算四组分PX/MX/OX/EB混合物的分离时，
+PX对其他三种组分的整体吸附选挣性为如式41
+式中g为吸附相中组分的量，为该组分在气相中的部分选度。更多的模拟细
+采用高通量的GCMC模拟，对数据库中COF材料进行了CH存储和二甲苯
+的较小步骤的内循环组成，内循环的最小步数为20个。为了快速高通量筛选目
+4.2.3力场参数验证
+材料计算筛选的可靠性有赖于计算方法的准确性。为了说明计算筛选的可靠
+性，我们选取了4个具有CH4吸附等温线实验数据的COF材料（COF-5，COF-10，
+COF-102,COF-103）进行了GCMC模拟计算298K下CH4的吸附等温线[189]。图
+4-2中可以看出，通过力场参数模拟的结果与实验值能够很好吻合，证明
+套力场参数是合理的
+图42四种COF材料的CH4模拟计算吸附等温线与实验数据的比较（红色方块：模拟结果；
+关于二甲苯同分异构的分离，由于目前没有COFs吸附等温线的实验报道
+有合理性。
+1.3.1COF材料数据库的甲烧存储高通筛选
+含了其他筛选工作中报道的代表性的虚拟MOF、COF和PPM
+间表现出最佳的折衷，其品体结构和吸附效果图如图4-4所示
+图4-3COF材料数据库CH4存储大规模筛选：a，体积工作容量和总吸附量之间的关系：b，
+Fig. 43 Computational materials screening of COFs for Vehicular methane storage performance:
+a, relationship between the volumetric deliverable and total capacities; b, relationship between the
+volumetric and gravimetric deliverable capacities, where the horizontal black line is the
+图43a展示了程序构建的数据库中COF材料通过高通量GCMC模拟获得
+但远高于COF-TBPM（182Vsrp/V）和hPPN-Adamantane（196Vstp/V），表4-5
+比较。此外，计算的筛选结果表明，在质量工作容量和体积工作容量
+从构建的数据库中识别的性能最好的COF材料在体积和质量工作容量特性之
+and 65-5.8bar fordeliverable capacities)
+Mason等人证明的该实验数信存在争议L
+图4-4从构建的数据库中筛选出的CH存储性能最佳COF材料的晶体结构：COF命名
+为GCOF-MP，左图为晶体骨架结构，空间群对称性是I-43D，表现出类似于COF-102的三
+维结构：右图为65bar，298K下CH4吸附效果图（C，灰色；O，红色；N，蓝色：B，粉
+4.3.2C0F材科数据库的二甲苯分离高通量筛选
+使用沸右BaX作为吸附剂2。为了提高分离效率，人们做了很
+同分异构体具有更小的动力学直径，因此可以通过孔道形貌对该混合体系进行筛
+MOF材料（MAF-X8L2和CoRE-MOF20小）。通过考察性能突出材料的吸附效
+图可以发现了这些COF材料可以打破吸附量和选择性之间的trade-off效应是因
+自前工业上最先进的pX分离工艺是基于模拟移动床（SMB）吸附技术，通常
+选择性吸附剂，尤其是在MOF材料方面1182,205-207。而目前有关
+433K，1bar，等摩尔比的条件下进行四元混合体系的大规模筛选[26]。
+选择性，远远超过了目前工业上使用的BaX1204以及一些
+为材料在结构上形成了方条形的管柱状孔道，而这些孔道能够恰好让PX分子以
+个被命名为G
+F-CP的材料的吸附效果图，该材料的几乎达到了无穷大的P
+的孔道中，这种精准的尺寸识别下，其他的同分异构体是无法穿过的
+材料孔道的，从而导致了材料具有很高的选择性。这个
+COF材料可以塑造出作用力均匀且孔道规则识别度高的材料，在二甲苯同
+构体的分离上存在很大的潜力，
+图4-4二甲苯同分异构体的大规模筛选
+Fig. 4-4 Computational materials screening of COFs for C8-alkylaromatic:
+图4-5GCOF-CP的PX吸附效果图（左为前视图，右为侧视图），甲基采用灰色球来表示
+Fig, 4-5 Snapshots of PX molecules adsorbed in the generated GCOF-CP whose separation
+performance is labeled in (left, front view; right, side view), and the methyl groups of pX
+的吸附量，且图中可以发现PX是以对角线的方式斜插入
+4.4本章小结
+基因组学的方法构筑出的COF材料数据库，针对两个具有工业应用背景的体系，
+甲烷能源气体存储和二甲苯同分异构体分离，进行了高通量的计算筛选。在甲烷
+的筛选中，我们发现了多孔骨架材料在进行能源气体存储中存在体积工作容量和
+地工作卷量止
+-of效应。而因为COF材料具有纯有机特性，骨架
+表明了COF材料在甲烷气体的高密度存储上具有很大的潜力。此外，从数据库
+中数选孔径为3~12A的COF材料进行了二甲苯同分异构体的分离筛选，发现可
+以通过合理的孔道设计实现对二甲苯进行靶向识别，从面打破选择性和工作容量
+小，使得其同时存在体积容量和质量容量上的优势。通过筛选找到了在体积工作
+f效应，找到对二甲苯选择性和吸附量都很高的COF材料结构，为
+第五章IL/MOFs的高通量组装及其CO2/CH4分离研究
+金属有机骨架材料（MOFs）是纳微材料中应用非常广泛的一个系
+同时，CO2的捕集和分离也引起了众多科研工作者的关注12091。在近20年的研究
+中显示，MOF材料对于CO2气体分离具有显著的效果I210，也因此触发了很多科
+研人通过计算模拟的方法构建数量庞大的MOF数据库来寻求高性能的结构
+2.21。除此之外，也有人通过向MOF材料中置入特殊功能的化学成分，比
+如改性基团等，来提高MOF对CO的分离选择性，并得到
+量的IL/MOF复合物中，就有希望找到最佳的IL/MOF组合方式，获得更高性能
+展开-个大规模的IL/MOF复合物计算研究是很有必要的
+就是要开发一种快速且合理的方法组装IL/MOF复合物。在本工作中，我们采用
+了效率相对更高的蒙特卡洛（MC）模拟取代MD的过程。同时在插入的过程中
+使用构型依赖的蒙特卡洛（CBMC）插入方式在NVT系综下，不断变换IL的构
+我们采用了本实验室根据材料基因组学的方法开发的晶体结构组装软件
+91个，包含18种拓扑结构的MOF材料数据库。
+究表明，含有咪唑环的离子液体通常会具有更好的化学稳定性。本工
+我们将2种咪唑类的IL（1.3-dimethyl-imidazoliumtetrafluoroborale
+357个IL/M0
+选的结果发现，对于性能突出的材料，IL会很好地被束缚在MOF孔道中，并形
+成了阴-阳交替排列连接续不间断的ⅡL纳米线，从而使得IL和MOF形成了一种
+复合物具有目前文献未报道过的最佳的CO2/CH4分离综合性能，选择性为197
+CO的吸附量为4.2mmol/g，工作容量为0.95
+构筑出了包含18个拓扑结构，数量为303.991的MOF结构数据库（图5-2）。该
+材料库已经发布在网站上（https://figshare.c0m/s/ec378d7315581e48f1e4）可以共
+于研究MOF孔道形状对于材料构效关系的分析。
+分子动力学直径为3.68A的氮气分子作为探针分子计算（图5-4）.材料的自由
+为了获得数量庞大，拓扑结构丰富的MOF材料数据库，我们使用实验室自
+主研发的基于几何连接的晶体组装程序I23，从已报道的MOF中获取17个金属
+OF材料，但找们的数据库在拥有丰富的拓扑结构的同时，在材料不同拓扑结
+L直径（LD
+可接近表面积（Sace）和自由体积（V）。材料的比表面积使用
+本积的计算中则设置探针分子的直径为0.0A从而获得材料的儿何自由孔体积。
+图5-1程序组装材料的基本结构单元列表：a，17个金属团；b，32个有机配体；c，9个
+改性基团：d，对于列表中列出的采用羧酸配位连接的有机配体，程序可以自动将羧酸类型
+连接转换成吡啶类型的氮原子配位连接
+Fig. 5-4 Relationship betw
+database,
+coloredby
+material largest cavity diameter
+建立高效的方法高通量地将ILs合理地负载入MOF孔道中是快速组装
+L/MOF复合物的关键问题。传统的方法是来用MD的方法松弛被放置在MOF
+地变换分子地结构，因此，它需要很长的平衡时间才能妥善地将IL分子以合理
+的构型放置合适的位置。在本工作中，我们通过在NVT系综下使用CBMC的方
+3：二是需要将Ⅱs以合理的构型放置在相应的位置上。为了
+在MOF的孔道中合
+置Ⅱs，我们将ⅡIs拆分成等摩尔比地阴离子和阳离子
+在插入的过程中，兰纳德-琼斯势能和库伦静电势用于描述L-IL和IL-MOF之间
+的相互作用，同时阴阳离子使用CBMC的方式插入。在本工作中，2个具有显
+著构型差异的咪唑类IL（[MMIM][BF4]和[BMIM][TfN]）被用于高通量负载过
+CBMC的过程中需要考虑离子内部的原子的相互作用，包
+[MMIM][BF4]/MOF和267,739个[BMIM][TfN]/MOF复合物。
+通过采用MaterialsStudio中的Dmol模块进行量化计算获得。在Dn
+方法进行扩散校正，并使用有效核心势（ECP）。能量
+以忽略的构型影响，在程序处理上，我们直接对该ⅡLs的阴阳离子进行刚性处理
+本工作中的[MMIM][BF4]被视为刚性分子，因此只考虑其非化学键力的部分
+MMMr的兰纳德-
+Amber力场S获取的，而其原子的静电荷参数是
+和表5中列
+出了本工作中涉及的ⅡLs的所有相关力场参数。对于MOFs
+办子，兰纳微-探斯粉能多
+cH./kg=148.0K.u
+非键作用的表达式如方程5-1所示，作用势的混合规则米用了Lorentz-Berthelot
+式中的e和o是兰纳德-琼斯势能常数，E是库伦势常数，g是原子的静电势电荷
+对于受柔性处理的部分，除了需要考虑非键作用外，还需进一步考虑化学键
+用，包括键的伸缩，弯曲，扭转和异面扭转。这些化学键的作用表达式入下：
+中的K，Ka
+分别代表了不同的化学键作用的作用力参数。b，0，
+状态下的常熟之，指代的是周期性，
+图5-6与力场参数中定义原子ID号相对应的IL分子构型
+Fig.5-6 Configuration of ILs in this work and corresponding atomic ID
+Table 5-1 Force field parameters and point charges for the ionic liquids studied in this work
+5.2.4横拟细节与参数设置
+[BMIMTN]）负载入组装好的MOF材料中。整个分子模拟是在三维空间中进
+行的，计算中设置截断半径为14.0A并对长程的作用力采用了Ewald方法进行
+随者程序自行扩增品胞来满足裁断半径的需求时，1Ls日
+同，在插入的这个过程中，并没有设置阴阳离子之间相互交换的概率以保证组装
+上，接照每一个单元晶题插入一个ⅡLs的方式向MOFs中插入
+入时，被当作两个等摩尔的独立组分（阴离子和阳
+进一步使用GCMC模拟进行IL/MOFs的CO/CH吸附分离的大规模筛选。筛选
+的条件设置为298K，1bar，CO:CH=50:50，并采用Peng-Robinson方程变换压
+力与逸度之间的相互关系，模拟过程中涉及了5中分子运动，分别是：平动（0.15）
+转动（0.15），随机插入或删除（0.65），以及分子相互交换（0.05）。为了实现高
+通量的筛选，本工作对体系采用50.000的MC平衡步骤，再使用另外一个50.000
+MC步骤统计热力学数据。在模拟过程中，还设定了最好为20步的内循环步骤
+都是通过本实验室开发的高通量吸附扩散模拟软件（HT-CADSS）实现的。
+为了证明基于CBMC生成来组装IL/MOFs的有效性，
+法的处理过程与上面提到的模拟细节相同，而MD的模拟过程则是在常温常压
+法构建出的IL/MOFs都被进一步采用GCMC模拟来计算CO/CH的吸附分离性
+能。IL/MOFs的总体能量值通过MaterialsStudio中的Forcite模块采用ultrafin
+电势电荷直接保留在GCMC计算中的数值，从表5-2和5-3中也可以看到CBM
+进行内循环，面且内循环的最小步骤设置为20步。最终获得的GCMC负载构型
+见的MOFs（Cu-BTCI238],IRMOF-1IZ31,MIL-68A120）.UiO-66l241].ZIF-8l1741)
+用于将体系内的粒子按照麦克斯书-玻尔兹曼分布的来速度值对粒子进行标
+的精度进行计算，非键作用和化学键作用的力场参数均采用采用UFF，原子的静
+和MD两种方法得到的构型在整体能量上只有细微的差别。进一步地，我们计
+法得到的数值都非常接近。此外，我们还将Koyuturk的实验工作作为参照[245]。
+的[BMIM]BF4]/ZIF-8复合物，并通过GCMC模拟计算该复合物的CO和CH
+图5-9申司以者出，通过计算得到的吸附等温线数
+通过文献给出的方法进行优化后的曲线与实验给出的吸附等温线基本吻合，这些
+证据都说明了该工作所提出的方法是可以有效可靠地实现高通量将ILs负载入
+Table 5-2 Comparison of the structural energy and CO/CHi separation performance of the
+CBMC
+indMD
+derived[MMlM]BF4yMOF
+Table 5-3 Comparison of the structural energy and CO/CH separation performance of the
+CBMC-andMD-derived[BMIM][TfN]/MOFcomposites
+图5-7通过CBMC和MD两种方法获得的[MMIM][BF4]/MOFs的构型对比
+Fig.5-7Configurat
+ved[MMIM][BF4]/MOFs
+图5-8通过CBMC和MD两种方法获得的[MMIM][BF4]/MOFs的构型对比
+ed [MMIM][BF]/MOFs
+5.3.1IL/MOFs用于CO/CH4分离的高通量筛选
+复合物采用高通量GCMC模拟进行CO/CH4大规模筛选。筛选
+分子可以在孔道中扩散（CO分子的动力学直径是3.3A，CH4分子动力学直
+材料的CO/CH选择性和CO吸附量都得到了明显的提升。以CO/CH
+大于100和CO2吸附量1mmol/g为标准来看，相对纯MOF，负载了[MMIM][BF4]
+之后材料的个数由16个增加到了66个。在本工作中，表现最优异的材料CO/CH
+HIBMMIt
+作为MOF材料的孔道改进剂上存在很大的差异性。
+为了更好地了解ILs负载入MOFs带来的效果，又
+MOF材科和IL/MO
+composites and (b) [BMIM][TfN/MOF composite
+正如我们所知，将ILs负载入MOFs中会改变MOFs的孔道环境，面
+相互关系在图5-11中展示。对于纯MOF来说，选择性大于
+间，但是他们的吸附量却可以高达7mmol/g（图5-11b）。这些表现突出的复合
+和[MMIM][BF4]/MOFs在表现优异的材料上都是集中在相似的孔径，但
+负载入MOFs的孔道中不仅是简单地减少了MOFs的孔尺寸提高了性能，同时
+也一定是在ILs和MOFs之间具有某种协同效应，形成非常有利于CO分子吸
+之间。考虑原始MOFs就是孔径非常小的材料，将[BMIM][TfN]负载入孔道后
+料也主要是因为原始MOF材科中孔径小的材料而已
+BF4]/MOFs，选择性大于100的材料的PLD也集中在3.3~5.0A之
+Fig. 5-11 Relationship between the CO/CH separation performance and PLD: (a) Pristine MOFs,
+(b) [MMIM][BFa]/MOFs, (c) performance of [MMIM][BFa]/MOFs and PLD of original MOFs,
+(d)[BMIM][TfN]/MOFs, (e) performance of [MMIM)[TfN]/MOFs and PLD of original MOFs
+图5-11 MOFs，IL/MOFs与 PLD 的相互关系：a，纯MOFs:b.[MMIM][BF4]/MOFs:c,
+[MMIM][BF4]/MOFs的分离性能与其对应的原始MOFs的PLD的关联；d，
+[BMIM][TGN]/MOFs:e，[BMIM][TGN]/MOFs的分离性能与其对应的原始MOFs的 PLD的
+关联（ScoCH表示CO/CH选择性，Nco表示CO吸附量）
+除了孔径之外，材料的拓扑结构也是影响MOFs性能重要因素.图5-12中
+领色代表了材料的拓扑类型，其中，New类型的拓扑是用来表示目前网
+格化学资源库（RCSR）[246,247还没有识别的拓扑类型。对于纯MOFs，CO2/CH4
+材料主要是sql，cds和pcu
+u。对于[MMIM][BF4]/MOFs来说，选择性高于100
+吸附量高于3mmol/g的材料类型是可以兼得的，基本都体现在了sgl这种类型的
+[BMIM][TfN]/MOFs来说，是sql和cdq这两种
+拓扑的材料在负载后CO/CH选择性大于30且CO吸附量大于3mmol/g
+5.3.2协同吸附位点
+[MMIM][BF4]会被很好地束缚在这些孔道内，形成严格地阴阳相间排序不间断的
+强静电效应的微孔，在材料内部为CO2分子形成大量的协同吸附位点（“芯-管
+对于这两个材料来说，将[BMIM][TGN]负载入孔道后在CO/CH4选择性上还是
+是很难将其在MOFs的孔内束缚成纳米线的，而且就算有少数情况下形成大致的
+并不能非常适合CO吸附的环境
+为了揭示孔径为8.0~1.0A的sql类型的MOFs在负载了MMIMBF4之后
+CMC模拟中输出的吸附效果图可发现，sqI-MOFs形成的管柱状的孔道，且
+L纳米线。易被极化地CO分子被吸附在ILs和MOF形成的环系孔道之间（图
+）。相反地，通过观察[BMIM][TGN]/MOFs表现最好的两个材科的吸附效果
+米线，但由于该ⅡLs构型太不规整导致形成的IL-MOF环系空间也很不规则
+表5-4表现突出的2个[BMIM][TfN]/MOF及对应MOFs的CO/CH分离性能和结构特征
+Table5-4CO/CH
+图5-13a，sql-MOFs中形成了[MMIM][BF]带电纳米线以及形成的[MMIM][BF4]/MOFs的构
+ILs的原子，CO的原子和CH的原子采用球形展示：C：灰色，O：红色，N：蓝色，F：
+Fig. 5-13 (a) [MMIM][BF4] electronic nanowires formed in sql-MOFs and the corresponding
+configuration of [MMIM][BF4]/sql-MOF composites; (b) Ilustration of the wire-tube type
+structure of the outperformed [MMIM][BF4]/sql-MOF composites (The MOF atoms are displayed
+in lines; the atoms of ILs, CO2 and CHa are displayed in balls; C: gray, O: red, N: blue, F: cyan, H:
+white)
+5.3.3配位数表征离子液体分布
+为了能够直观地说明ILs和MOFs形成芯-管结构，分析工作中引入了北
+刘志平等人242）等人提出的ⅡLs的“配位数"的概念（方程5-8和方程5-9）。该配位
+IL/MOFs的配位数基本上都是2.0~2.5，这就是说，一个阳离子旁边平均是由2
+与之相配位，但为了保证整个复合物是呈电中性的，ILs的阴阳离子在
+MOF孔道（管）中只能是阴阳相隔不间断排布形成Ⅱ纳米线（芯）。而数值
+轻微大于2.0的原因是表明要想材料的性能突出必须要保证纳米线是不可间断的
+P是总体密度，n（r)是粒子个数，Rmnl是径向分布
+个密集的球壳区域的阴离子的个数，可以获知对于一个阳离子与之相配位的阴
+离子的概率平均数值。
+的街量指袜
+BMIMTI2NPN
+CO/CH选择性大于30的材料的工作容量。在计算中，
+中可以很明显地看到
+现在图5-10中原本选择性很高的很多材料在图5-15中就消失了，这主要
+这些材料的工作容量太过接近0了，因此这些材料在变压吸附过程中几乎是可以
+对于工业上的CO2变压吸附过程来说，CO2的工作容量是更具有实际操作意
+olVg的工作容量。对于纯MOFs，很多选择性的材料主要是因为孔尺
+在本工作中，我们采用了一种基于CBMC生长过程的方法实现了高通量的IL
+我人MO
+专统的MD松弛的过程来说，提出的方法不仅更高效，
+同时也被证明同样具有很好的可靠性，为实现大规模的IL/MOF筛选提供了可能
+分离中表现突出的IL/MOFs主要是由孔径大致为9A的sqI拓扑类型的MOFs
+为，并被通过引入配位数的方法来确认了。对于纯MOFs来说，具有“芯
+构型的IL/MOFs可以在对材料的综合性能进行提升的同时，还可以很好地平衡
+料地选择性，吸附量和工作容量，我们将ⅡLs和MOFs之间很好地配合效果称
+同吸附效应，
+个概念地提出不仅能很好地指导IL/MOFs的高效设计，
+还能引用到其他复合材料领域中
+第六章结论
+MOF和COF材科作为多孔骨架材科中的两个备受关注的系列，在气体的
+储和分离上有若优异的性能。随着材料研发地不断前进和工业需求的不断提高，
+多孔骨架材料会在更多领域发挥作用。计算化学是材料研发的有效手段，利用计
+组学的指导思想，我针对MOF和COF两系列材料构建了共享的晶体结构数据
+库，结合大规模高性能计算化学的手段对材科进行了分子模拟研究，得到的主要
+（1）构建并共享了实验文献已发表COF的数据库（CoRECOF）。在“相似相溶
+优势，因为碘单质分子之间的作用力强于碘与COF骨架之间的作用。发现小孔
+隙率的材料、四周环绕型对甲基碘吸附更有利，因为甲基碘分子间的作用弱于甲
+明理论计算具有预测性
+材料基因库。模仿材科的自然生长过程提出了“似化学反应组装算法”，开发
+料基因组学方法构筑材料具有可行性。
+（3）将高通量构筑出的COF材料数据库应用于甲烷存储和二甲苯异构体分离。
+发现了甲烧在体积工作容量和质量工作容量上的trade-off效应，利用
+密度较低的特点找到了找到兼优的材料。发现对二甲苯可被方条形孔道靶问识别
+科。证明了材料基因组学方法高通构筑材料数据库的有用性，
+通量分子模拟的方法预测了IL/MOFs对CO2/CH4的分离性能，发现在
+合适的情况下，Ⅱ可在MOF的孔道内形成严格的正负交替的Ⅱ纳米线，
+时提升材料的选择性和吸附量。提出了协同吸附位点的概念为复合材料设计提出
+拓扑类型。基于柔性随机胜场过程开发了高通量组装IL/MOFs的方法。采用高
+ions[J]. Nature, 2002, 417(6891):
+URIBE-ROMO F J, DOONAN C J, FURUKAWA H,et al. Crystalline covalent organic
+frameworks with hydrazone linkages[J]. J. Am. Chem. Soc., 2011, 133(30): 11478-11481
+KANDAMBETH S, MALLICK A, LUKOSE B, et al. Construction of crystalline 2D
+covalent organic frameworks with remarkable chemical (acid/base) stability via a combined
+reversible and irreversible route[J]. J. Am. Chem, Soc., 2012, 134: 19524,
+rSimulationofLiquidsMjClarendonPress
+YOSHIDA Y, KITAGAWA H. lonic Conduction in Metal-Organic Frameworks with
+em. Eng., 2018, 7(1): 70-81,
+XING H, ZHAO X, YANG Q, et al. Molecular dynamics simulation study on the absorption
+of ethylene and acetylene in ionic liquids[J]. Ind. Eng. Chem. Res., 2013, 52(26): 9308-9316.
+WELLS B A, DE BRUIN-DICKASON C, CHAFFEE A L. Charge equilibration based on
+atomic ionization in metalorganic frameworks[J]. J. Phys. Chem. C, 2014, 119(1): 456-466.
+CHUI S S Y, LO S M F, CHARMANT J P H, et al. A chemically functionalizable nanoporous
+致谢
+面自己也从曾经的少不经事逐渐变得成熟稳重。求学的这段经历增长了我的学识
+磨练了我的意志，开阔了我的视野，回望走过的一切，依旧历历在目，感概万千。
+我的导师仲崇立教授是一位治学严谨、思维灵活、崇尚节俭、勤奋认真的老
+让我少走弯路，希望我更准确更高效地做事。除了科研学习，仲老师在我的日常
+生活中也给与了很多的关照，让我拥有了一个安静安心的环境认真的从事科学研
+究。他常说希望我能好好磨砺自已地性格，做一个坚强果断的人，做一个顶天立
+男子汉。临近毕业的自已回忆若老师的语重心长，深刻体会到老师对学生
+感谢实验室的阳庆元老师、刘大欢老师和黄宏亮老师。感谢曾经陪我一起
+伴使得我在实验室的科研生活充盈若阳光和快乐。
+感谢我的父母，他们一生劳苦，耕作于亩之间，却初心不改，用他们勤劳
+惭愧。未来，我会更努力做更好的自己，回报他们多年的养育。做一个品学优良，
+对社会有用的人，回报社会，回报国家。感谢一直关心我、爱护我的家人和朋友，
+家们的一路上不离不弃的陪伴和帮助是我前行的勇气和动力。
+感谢百忙之中为我评阅论文以及参加我的毕业答辩的专家老师们，希望我的
+月如梭。一转眼已经在北京化工大学度过了人生的九年光阴。
+受益良多。五年的研究工作，每一个环节仲老师都亲自指导
+研究成果及发表的学术论文
+ighputconstructionofCOFs
+esis[0].Naturecommunicafion,2018,9:5274
+covalentorganic frameworksfor the capture ofradioactive iodinc andmethyl
+iodide[J].CrystEngComm,2017,19:4920-4926
+emistry&Engineering.2018.7:1220-1227.（共-f作）
+M.TONG,Y.LAN,Z.OIN.A.C.ZHONG.Computation-ready.experimental
+elationships of covalent organic frameworks for noble gas separations[]. Chie
+dioxidecapture].GreenEnergy&Environment,2018,3:107-119
+JournalofMaterialsChemistryA,2018,6:19954-19959
+10. Z. Ma, Y. Ji, Y. Lan, G. Kuang, X. Jia. Two novel rhodamine-based molecules
+with different mechanochromic and photochromic properties in solid statel
+JournalofMaterialsChemistryC,2018.6:2270-2274
+COcaptureJ].Journalofenergychemistry.2017.26:902-908
+发表的专利
+ultramicroporousmetal-organicframeworkmaterialthrough quantumsieving[5]
+11. K. WANG, Y. TANG, Q. JIANG, Y. LAN, H. HUANG, D. LIU, C. ZHONG. A
+thiophene-containing covalenttriazine-basedframework with ultramicropore fo
+作著和导师简介
+2010.09-2014.07北京化工大学学
+2014.09-2016.07北京化工大学
+硕
+2016.09-2019.07北京化工大学博
+2000年入选“北京市科技薪星资助计划
+2000年入选教育部“高校骨干教师资助计划
+2002年人选国务院“享受政府特殊津贴专家
+2004年获“北京市教育创新标兵"称号
+2009年入选“新世纪百千万人才工程”国家级人选
+2012年人选教育部长江学者特聘教授太原理工大学客座教投《中国大百科全书》
+第三版化工学科编委
+IheopenThermodynamicsJourmal编委
+2004年获高校科学技术奖自然科学二等奖（1）
+2002年获教育部“高校青年教师奖
+2002年获“霍英东教育基金会优秀青年教师奖"研究类三等奖
+主要研究方向
+基于材料基因组学的新材料设计与合成，主要开展如下三个方向
+（1）新型纳米多孔材料设计与构效关系研究
+采用分子模拟（MC和MD）与量化计算相结合的方法，从事金属-有机骨架材料
+（metal-organicframeworks，MOFs）和共价有机骨架材料（covalentorganic
+（2）薪型纳米复合材料设计与制备
+制备高性能的新型复合材料，
+（3）MOF膜和MOF@polymer复合膜的设计与制备
+提高分离过程的效率。
+北京化工大学
+1.答辩委员会成员中博士生导师不少于3人，
+，其中外单位的专家不少于2人。
+2.
+，此表用于存档，除本人签名务必用钢笔填写外，
+其余处必须用计算机打印。

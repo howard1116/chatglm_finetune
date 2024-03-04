@@ -1,0 +1,702 @@
+硕士学位论文
+含-NCO或-OH聚氨酯水分散体的
+设计、制备与性能
+Design,preparationandpropertiesofpolyurethane
+dispersionscarrying-NCOor-OHgroups
+ADissertationSubmittedfortheDegreeofMaster
+Supervisor:Prof.QuJinqing
+号：201420120198
+含一NCO或-OH聚氨酯水分散体的设计
+学校代号：10561
+本人郑重声明：所呈交的论文是本人在导师的指导下独立进行研究所
+取得的研究成果。除了文中特别加以标注引用的内容外，本论文不包含任
+何其他个人或集体已经发表或撰写的成果作品。对本文的研究做出重要贡
+献的个人和集体，均已在文中以明确方式标明。本人完全意识到本声明的
+法律后果由之
+本学位论文作者完全了解学校有关保留、使用学位论文的规定，即：
+研究生在校攻读学位期间论文工作的知识产权单位属华南理工大学。学校
+有权保存并向国家有关部门或机构送交论文的复印件和电子版，允许学位
+论文被查阅（除在保密期内的保密论文外）：学校可以公布学位论文的全
+部或部分内容，可以允许采用影印、缩印或其它复制手段保存、汇编学位
+论文。本人电子文档的内容和纸质论文的内容相一致。
+不保密，同意在校园网上发布，供校内师生和与学校有共享协议的
+单位浏览：同意将本人学位论文提交中国学术期刊（光盘版）电子杂志社全
+文出版和编入CNKI《中国知识资源总库》，传播学位论文的全部或部分内
+K-W口因县
+优异的涂膜性能成为世界涂料的研究热点。2K-WPU
+由水性聚多元醇和水可分散性多异氰酸酯组成，二者的结构
+混合改性制备性能优良的WDP，研究改性剂的添加量、摩尔比对WDP及其涂膜性能的
+影响规律，发现采用DMBA/MPEG亲水改性多异氰酸酯可制备性能较优的WDP，但其
+储存稳定性随DMBA含量增加而变差。将蔬水环状二醇引入到WDP分子链上可改善固
+摩尔比为3/7/3，NCO%为18.39%时，制得的WDP及其2K-WPU涂膜综合性能最佳
+即WDP可稳定储存6个月以上，其制备的涂膜吸水率为10.87%，摆杆硬度为0.64。
+以磺酸型聚酯二醇（SPED）为亲水扩链剂，通过醇胺类化合物封端端-NCO聚要
+封端剂种类等对OH-PUD和2K-WPU涂膜性能的影响。研究发理
+枝聚氨酯链中，可有效提高OH-PUD固含量：（2）先分散再封端的工艺制得的OH-PUD
+性能最稳定：（3）以聚酯二元醇制得的OH-PUD其涂膜透明度高于以聚醚二元醇制得
+Tris作封端剂，制得的OH-PUD综合性能最佳：固含量高达47%，2K-WPU涂膜摆杆硬
+度达0.73，吸水率低至3.38%。
+关键词：双组分水性聚氨酯：水可分散性多异氰酸酯：羟基聚氨酯水分散体
+禁尔比提高、聚醚二醇分子量降低，2K-WPU涂膜透明度提
+Abstract
+Water-based coating has recently become a trend in the world coating industry
+hardness,seriously restricted its application and development.To s
+A series of novel water-dispersible polyisocyanates (WDPs) were synthesized with
+stance of 2K-WPU films due to the rigid cyclic
+excellent storage st
+goodwaterresi
+DMBA/MPEG/CHDM
+hydrophilic chain extender,and alcohol-amine compounds as end-cappers
+ents.However, the introduction of CHDM could efficiently improve the
+The high-functionality OH-PUDs were synthesized with sulfonic polyester diolas a
+molar ratio and decreasing the molecular weight of polyether diol. (4)
+ebetter with increasing NCO/OH
+种基于HIDI的磺酸型水可分散性聚异氰酸酯
+种含-OH聚氨酯水分散体
+1.3.2含-OH聚氨酯水分散体的研究进展
+前期，人们对于水性聚氨酯的研究焦点主要集中于单组分水性聚氨酯分散体，对于
+于双组分水性木器涂料，机械稳定性好，涂膜光泽度高。但制得的多元醇多为线形结构，
+元醇官能度的提高有助于提高双组分聚氨酯的涂膜性能。孟件
+涂料，涂膜光泽高，机械性能、耐性优良。文章通过正交实验法采用直观分析法和方差
+分析法详细筛选出了制备OH-PUD配方的最佳比例，但也因此忽略了配方之外的其他可
+能、工艺优化以及配方优化背后的机理分析，
+聚氨酯分子主链进行改性，经扩链得端-NCO聚氨酯预聚体，然后通过TMP进行封端，
+之间不等。早期的产品还含有N-甲基吡咯烷酮（NMP）有机溶剂，如U241中含有4.5%
+后续绝大部分的含-OH聚氨酯水分散体是以无有机溶剂的状态提供，且更适用于双组分
+成熟产品出售，其开发前景相当可观，
+异氰酸酯固化剂是水性双组分聚氨酯涂料的重要组成部分。其应用于双组分水性聚
+氨酯要求在水性体系中的分散性、与羟基树脂的相容性良好，并且拥有较高的异氰酸酯
+等性，未改性的多异氰酸酯与水性体系的相容性仍然很差，有
+莫，最根本的途径还是制备水可分散性多异氰酸酯
+含-NCO聚氨酯水分散体（WDP）是指含有聚氨酯结构和端-NCO、可在水中稳定
+分散的多异氰酸酯，其固体含量一般为100%或含有其他有机溶剂，但不能含水。由亲
+水组分接枝多异氰酸酯生成，配漆时形成亲水基团在水相、疏水异氰酸酯段在油相的水
+包油结构，从而稳定分散于水性体系中。根据亲水基团的不同，含一NCO聚氨酯水分散
+十。要想异氰酸酯固化剂与羟基组分均匀混合进而形成性能优良
+1.4.1.1非离子型多异氰酸酯
+非离子型多异氰酸酯，即由含烷氧基等非离子亲水基团的聚醚改性而成的含-NCO
+二异氰酸酯（HDI）型多异氰酸酯得来的，具有普遍适用性、温和亲水性。
+Fig.1-4 Schematic of the first generation WDP
+支化的多异氰酸酯，然后用羟基聚氧乙烯醚改性制得了高官能度含-NCO聚氨酯水分散
+体，用其制得的双组分涂膜硬度更高
+非离子型多异氰酸酯的亲水性由链上非离子亲水基团提供，多
+烷氧基含量越多，WDP的水分散性越好，与羟基组分的相容性越佳。Rudolf、Jacobs
+亲水基团过多引入而影响涂膜最终耐性。但由于烷氧基亲水性较弱，往往需加入较大
+2所示，它是由不足量的单官能度聚坏氧乙烷聚醚醇改性六业甲基
+少亲水链段的添加量
+针对这个问题，Laas"等将聚乙二醇单醚与HDI异氰酸酯反应，NCO%达理论值后，
+加入有机锌类催化剂使异氰酸酯与氨基甲酸酯进行脲基甲酸酯反应，所得的亲水改性多
+图1-5第二代亲水改性异氰酸酯固化剂的结构图
+Fig.1-5SchematcofthesccondgencrationWDF
+除聚醚类可用来亲水改性多异氰酸酯外，也可使用聚乙烯吡咯烷酮等其他亲水物
+1.4.1.2离子型多异氰酸酯
+离子型多异氰酸酯是在多异氰酸酯中引入阴离子或阳离子改性物质，再中和成盐
+基氧杂环丁烷树脂亚乙氧基化，再将其与异佛尔酮二异氰酸酯三聚体、羟乙基甲基吗啉，
+基硅烷、甲基三甲氧基硅烷等改性来提高涂膜的耐水性。
+分散体，一般分为阳离子型和阴离子型多异氰酸酯。含阳离
+硫酸二甲酯反应，经乳酸中和得到阳离子型多异氰酸酯
+磷酸盐等。通过含羧基或磺酸基等阴离子基团的化合物改性异氰酸酯，再中和成盐，制
+得的多异氰酸酯可分散于水中，理想结构示意图如图1-6所示：
+图1-6磺酸盐（左）和载酸盐（右）亲水改性异氰酸酯的结构示意图
+Fig. 1-6 Schematic of sulfonic (L) and carboxylic (R) hydrophilically modified WDP?
+Christian等采用二羟甲基烷基酸亲水改性二异氰酸酯与多元醇的加聚物，制得亲
+高、黏度小，对亲水改性多异氰酸酯固化剂的发展具有很好的指导意义
+图1-7CAPS或CAES亲水改性HDI三聚体
+Fig.I-7SchematicofCAPSorCAESmoditiedHDltrimei
+1.4.1.3非离子/离子混合改性型多异氰酸酯
+性对体系的酸碱度有限制，且储存稳定性较差。而非离子/阴离子混合改性则可取长补短，
+为达到延长涂料的适用期、提高涂膜硬度等目的，有时也会在异氰酸酯体系中引入
+亲油基团。亲油基团的引入可降低异氰酸酯对水的敏感性同时保持亲水改性多异氰酸酯
+1.4.2含-NCO聚氨酯水分散体的影响因素
+1.4.2.1改性剂的影响
+改性剂能赋予异氰酸酯水可分散性，
+水中稳定分散。但中和后的磺酸盐脂溶性差，其与聚氨酯体系的相容性差成为其主
+存稳定、性能优良的水可分散性多异氰酸酯的关键。不同添
+多则会影响WDP的黏度、2K-WPU的涂膜耐性
+多异氰酸酯是WDP的主体组成，其结构与特性直接决定了WDP的性能
+TDI-TMP加成物、HDI三聚体、HDI缩二腺、IPDI三聚体等。芳香族多异氰酸酯活性
+基于高固含、高官能度、适当反应活性以及低成本的考虑，HDI三聚体成为目前WD
+合成运用最多的多异氰酸酯
+1.4.2.3中和剂的影响
+中和剂对于WDP的影响主要体现在WDP的亲水性以及储存稳定性上。阴离
+该问题的有效手段
+1.4.2.4反应条件的影响
+异氰酸酯基反应活性很强，在亲水改性过程中除了会和改性剂反应外，它还可以发
+生自聚反应19。而选择合适的反应条件则可以大大降低异氰酸酯的自聚倾向。异氰酸酯
+应速率，提高生产效率的同时，又避免异氰酸酯副反应的过多产生、影响产品质量。
+4.3含-NCO聚氨酯水分散体的研究进展
+含-NCO聚氨酯水分散体最早在国外发现，其在国外研究发展较快。Hombach等[74]
+采用EO数为10个以上的羟基聚醚改性多官能度芳香族异氰酸酯，制得
+和多异氰酸酯氨基甲酸酯化反应的基础上，添加催
+二醇单甲醚改性HDI三聚体中引入IPDI三聚体或其亲水改性物，可明显提高涂膜硬度
+化，并探讨了MPEG分子量及漆加量对WDP机械性能的影响。
+目前市场上已有多种WDP固化剂产品，如拜耳的第一代水
+代水性异氰酸酯固化剂Bayhydur304和Bayhydur305，用两
+胺基）1-内烷磺酸（CAPS）改性的多异氰酸酯BayhydurXP2655，以
+有大量销售的市场化产品。
+双组分水性聚氨酯成膜是一个多相成膜的复杂过程，与热塑性聚合物分散体的粒子
+指成膜过程包含物理
+影响双组分水性聚氨酯的成膜因素有很多
+水性涂料的成膜过程受成膜环境影响很大，环境温度和湿度直接影响水分的挥发速
+率从而影响涂膜干燥速度，影响-NCO与水的反应几率进而影响涂膜光泽等性能。而激
+理论和蛇行理论等大分子扩散理论，成膜温度的提高还有助于加强聚合物大分子的
+手动搅拌的搅拌速率低，当聚合物黏度较大或者分散性较差时，羟基组分无法将固
+晚、技术落后、研发经费不足等因素，国内水性聚氨酯固化剂主要还处于
+水分产生的毛细管力必须克服粒子变形产生的张力。用式子表示为：G<35yR，G为
+成膜过程。在粒径和黏度平衡的前提下，聚合物多元醇的粒径越小，其对颜料和固化剂
+的分散乳化能力越强，更有利于获得高性能的涂层，
+和单组分涂料不同，双组分涂料的相容性是涂膜性能提高的首要问题。从微
+二分析，固化剂粒子与羟基组分粒子间的相容性影响者两组分间化学交联反应。两组分
+影响了其与多元醇的相容性进而影响最终涂膜性能。女
+图1-8水分散性好和差的WDP的粒径分布
+Fig. 1-9 Film formation of 2K-WPU with good and poor compatibility""
+中和剂的种类和添加量对成膜过程的影响主要体现在对聚合物水溶性的影响和对
+成膜反应催化作用上。中和剂的适当选择和添加，可在保证聚合物亲水性足够的同时还
+合物粒子的羧基都有可能和异氰酸酯中的-NCO反应，成膜过程可能涉及的-NCO与
+性氢的具体反应如图1-10所示。
+图1-10成膜过程-NCO基可能涉及的反应
+Fig. 1-10 Possible chemical reactions of NCO
+活性氢的亲核性愈大，其与-NCO的反应性愈强（图1-11）[19]。而异氰酸酯的反应
+活性则取决于异氰酸酯基邻位基团的吸电子性和分子的空间结构。一般
+的反应是水性双组份聚氨酯体系的主反应，其余均为副反应"。体系中主副反应、催化
+聚腺层阻正了水与粒子内部异氰酸酯的反应，
+图1-11活泼氢与异氰酸酯的反应活性顺序
+Fig. 1-11 Reactivity of active hydrogen with isocyanates
+1.6双组分水性聚氨酯涂料存在的问题
+目前，水性双组分聚氨酯涂料在性能方面已有很大提高，但总体仍不及溶剂型双组
+分聚氨酯涂料，其受施工和干燥环境影响较大，目前还存在干燥速率慢、涂膜透明度低
+水基团的过多引入导致涂膜的耐水性下降，非离子聚醚软链的大量存在则会降低涂膜
+储存稳定性差的问题。多异氰酸酯本身对于活性氢十分敏感，亲水改性后的异氰酸酯尤
+.1研究思路
+双组分水性聚氨酯涂料因具有环保和高性能的优点，在工业涂料领域具有广阔的应
+聚氨酯水分散体市场化产品也少见，相关的研究论文较少。本文选择
+剂混合改性HDI三聚体来制备含-NCO聚氨酯水分散体，非离
+透明的水可分散性产品，仅有个别磺酸型改性剂在大量聚髓或NN-二甲基坏己胺的作用
+以落于MPEG，无需溶剂即可制得性能稳定的改性多异氰酸酯。为
+丝9%。磺酸型亲水改性剂的高昂价格也严重阻碍了其在产业化生
+本文从双组分水性聚氨酯的相容性和交联反应出发，采用DMBA/MPEG/CHDM混
+合改性HDI三聚体制备了储存稳定、NCO%较高、水分散性良好的含-NCO聚氨酯水分
+散体（WDP），研究改性剂、中和剂对WDP储存稳定性、水分散性等以及2K-WPU涂
+散体（WDP），研究改性剂、中和剂对WDP储存稳定性、水分散性等以及2K-WPU涂
+度低、耐水性差的问题
+1）采用二羟甲基」酸（DMBA）/聚乙二醇单甲醚（MPEG600）和环己烷二甲醇
+还可提高2K-WPU涂膜的机械性能和耐化学品性
+有高装饰性和耐化学品性，
+第二章含-NCO聚氨酯水分散体的制备与性能研究
+国内部分学者和企业对含-NCO聚氨酯水分散体的合成和性能进行了探究，但均以非离
+子型多异氰酸酯为主，国内尚无与之相媲美的成熟产品。国内外含-NCO聚氨酯水分散
+体的差异主要体现在水分散性差，NCO%低，储存稳定性差，以其制备的2K-WPU涂膜
+外观、硬度和耐性差等病。本章采用非离子/阴离子亲水改性剂以及疏水环状二醇混合
+散性和储存稳定性以及2K-WPU性能的影响规律进行了探究，确定了较优的合成条件和
+本研究实验主要原料如表2-1所示
+将MPEG于120C减压除水后备用。在装有机械搅拌器、温度计、回
+500mL圆底烧瓶中加入一定量的HDI三聚体，将DMBA、CHDM、MPEG和PMA混
+合为均一溶液，然后在氮气保护下逐滴加入烧瓶中，在40-90C反应4-6h，反应过程
+图2-1含-NCO聚氨酯水分散体（WDP）的合成路线图
+Fig. 2-1 Synthcsis routes of WDP
+将制备的含-NCO聚氨酯水分散体与水性羟基树脂H2D012A按照NCO/OH摩尔比
+7天后测试双组分水性聚氨酯涂膜性能
+Tab. 2-1 Specification and sources of main raw materials
+2.2.4.1红外测试
+对HDI三聚体和WDP进行红外光谱分析，
+熔剂对HDI三聚体和WDP进行核磁共振氢谱分析，
+2.2.4.3WDP额度测试
+采用旋转黏度计（LVT型，Brookfield公司，USA）在25C下测定WDP黏度。
+2.2.4.4NCO%测试
+采用盐酸-二正丁胺滴定法测定NCO含量。具体操作步骤如下：用分析天平准确称
+取WDPMg于锥形瓶中，向其中加入25.00mL甲苯-二正丁胺溶液（0.5mol/L），用磁
+力搅拌器搅拌3min左右，加入少量乙醇助溶，混合均匀后滴入2-3滴溴甲酚绿-乙醇指
+水手动搅拌观察乳液外观的方法来判断，也有的通过测定异氰酸酯水分散体的离心稳定
+的粒径测试方法来测定WDP的水分散性，具体操作如下：
+取1gWDP加入30g去离子水中，立即开启磁力搅拌器，设置转速240r/min模
+手动搅拌，3min后，将其放入超声仪中超声2min，然后采用马尔文纳米粒度分析仪（ZS
+WDP水分散体的粒径越小，WDP的水分散性越好
+2.2.4.6储存稳定性测试
+关于水可分散性异氰酸酯固化剂的储存稳定性测试，目前并
+验，本章储存稳定性测试方法如下：将异氰酸酯固化剂用除锈铁罐密封，铁罐空余体
+稳定性的内部指标、表观指标和应用指标。储存前后异氰酸酯的NCO%、黏度、涂膜光
+泽和耐水性无明显变化，即记为稳定储存，
+关于WDP水分散性测试方法的报道较多，大部分采取往少量异氰酸酯中加入大量
+2.2.4.82K-WPU涂膜透明度测试
+为科学表征涂膜透明度，尽可能避免人为因素导致的误差，涂膜透明度通过透光率
+来表征(99.100)，目测法辅助说明。利用紫外可见光分光光度计（U-3010，Hitachi公司，
+2.2.4.102K-WPU涂膜耐性测试
+2K-WPU涂膜的耐水性、耐介质性根据GB/T23999-2009测定。其吸水率测
+如下：将干膜重W的涂膜在去离子水中浸泡3天，取出后用滤纸吸干表面水分，立即
+称重记为W，涂膜吸水率W%按照式2-2计算：
+2.2.4.112K-WPU涂膜接触角测试
+利用接触角测定仪（JC2000C1，上海中晨数字技术设备有限公司）测定水滴在
+2K-WPU涂膜的接触角，直观、精确测定涂膜耐水性[10
+2K-WPU涂膜表干时间、光泽、摆杆硬度、柔韧性、耐冲击性、附者力分别按照
+应速率逐渐加快。在45C、55C下，需要反应7-8hNCO%才能达到理论值。在65C
+应效率、节省能耗，同时控制产物结构，反应温度控制为65C，反应时间以达到NCO%
+图2-2不同反应温度下体系NCO%随时间的变化图
+Fig. 2-2 NCO% changes with time in different reaction temperatures
+采用红外光谱和核磁共振氢谱对产物结构进行分析。图2-3、图2-4分别为HDI三
+1IMBAM
+HDM改性WDP的红外光谱图和HNMR谱图
+由图2-3可知，HDI三聚体的红外光谱图在2272cm”（-NCO的反对称拉伸振动吸
+1462cm（-CH-反对称弯曲振动吸收峰）处出现了强的特征峰。而在WDP的红外光
+谱上除了有上述多异氰酸酯典型特征峰外，在1109cm处还出现有-C一0-C-的吸收峰，
+处的特征峰增强，表明-NCO参与反应转化为了氨基甲酸酯基，-OH
+cm）的消失也进一步证明了改性剂中的羟基与-NCO完全反应。
+图2-3HDI三聚体和WDP的红外光谱图
+Fig. 2-3 FTIR spectra of HDl trimer andWDF
+如图2-4，由于反应过程的复杂性和不可控性，WDP的氢谱中并无单峰。然而，与
+三聚体的HNMR谱图相比，WDP的HNMR谱图在2.16-2.20ppm（六元环中的
+峰，这进一步证明了WDP的化学结构
+图2-4HDI三聚体和WDP的核磁氢谱图
+Fig. 2-4 'H NMR spcctra of HDI trimer and WDP in CDC1
+通常，作为水性涂料的固化剂，含-NCO聚氨酯水分散体会被稀释到80%固含量使
+用。因此本文将含一NCO聚氨酯水分散体均稀释成80%固含量加以考察。选用不同摩尔
+2.3.3.1亲水改性剂对WDP黏度和水分散性的影响
+图2-5DMBA/MPEG摩尔比对WDP黏度及其水分散体的平均粒径的影响
+水分散性是含-NCO聚氨酯水分散体应用于水性体系的最基本性能，取决
+的粒径判定V
+BA/MPEG摩尔比的WDP豁度及其水分散体的
+平均粒径如图2-5月
+径均较大，即WDP的水分散性差。而且，随者二官能度改性剂DMBA含量的增多
+酯黏度有关。本文根据在固定转速下制得固定浓度的WDP水分散
+增多，WDP在水中的粒径又逐渐增大。这说明WDP的水分散性不仅与亲水基团含量和
+种类有关，还和多异氰酸酯的黏度紧密相关94.102]
+2.3.3.2亲水改性剂对2K-WPU涂膜性能的影响
+装饰、保护是涂料的基本作用，而透明度作为2K-WPU涂膜外观质量的重要指标之
+异氰酸酯制得2K-WPU涂膜的透光率曲线。对比可发现，透光率表征法和表2-2中目测
+法得出的结果大致相同。单独MPEG或DMBA改性的WDP涂膜透光率均低于70%，
+摩尔比的增加，涂膜透光率先增加后下降，在DMBA/MPEG摩尔比为2：8和3：7时达
+星地分散在水性羟基乳液中，不能和羟基树脂粒子充分融合反应，局部生成大颗粒粒子，
+造成涂膜不均匀、透明度低，涂膜性能也受到影响
+Fig. 2-6 UV-vis spectra of 2K-WPU films based on WDPs with different molar ratios
+下降，分别在DMBA/MPEG摩尔比5：5和3：7时达到最大值。随者DMBA/
+尔比的增大，体系中MPEG柔性链减少，WDP分子量和官能度稍有增加，涂膜硬度、
+以大珠滴的形式分布在羟基树脂中，WDP分子尤其是珠滴内部的分子不能与羟基树脂
+其在水中的平均粒径小，与羟基树脂粒子更容易充分反应，形成的涂
+性差，因而涂膜成膜不均，失去光泽。为制得黏度较低、涂膜硬度高、光泽佳、耐水
+性好的WDP，合适的DMBA/MPEG摩尔比为3：7。
+表2-2不同摩尔比DMBA/MPEG的WDP对应的2K-WPU涂膜性能
+Tab. 2-2 Properties of 2K-WPU films based on WDPs with different molar ratios of DMBA/MPEG
+The"for transparen
+Id whitish, “±” mcans partial
+whitish, "+" means almost transparent, and "++" means glass-like transparen
+hrough 24-h water immersion and restored to its origin state after several hours
+2.3.3.3亲水改性剂对WDP储存稳定性的影响
+的大量引入使得WDP更加难以稳定储存。为加速判定WDP储存稳定性，WDP于50C
+水性测试结果列于表2-3
+表2-3不同摩尔比DMBA/MPEG的WDP储存前后其2K-WPU涂膜耐水性
+Tab. 2-3 Water resistance of 2K-WPU films based on WDPs before and after stored with different
+molar ratios of DMBA/MPEG
+Water resistance: grade 2, 3 and 4 mean 2K-WPU film became slight whitish, obvious whitish and
+whitish (unable to be restored to its original state) through 24-h water immersio
+其中单独M
+独DMBA改性的WDP体系黏度增长最多，涂膜光泽下降最严重，
+力下难以在水性羟基树脂中稳定分散，亲水性乙氧基的减少使得WDP的水分散性更差，
+后的黏度增长速率稍有变大。这是因为随着DMBA量的增加，体系中的羧酸铵盐逐潮
+至于形成胶粒附于罐壁。总而言之，固含量为80%、
+and after stored with different molar ratios of DMBA/MPEG
+为考察NCO%对WDP及其2K-WPU涂膜性能的影响，本节采用摩尔比为3：7
+DMBA/MPEG改性，控制固含为80%，制备了不同NCO%的WDP。本节中NCO%均
+WDP稀释前的NCO%值。
+2.3.4.1NCO%对WDP黏度和水分散性的影响
+图2-8为不同NCO%的WDP黏度及其水分散体的平均粒径图。由图
+水分散体平均粒径逐渐减小，水分散性
+逐渐变好。NCO%下降，即亲水改性剂含量增多，HDI三聚体与DMBA的扩链反应、
+MPEG的封端反应增多，WDP分子量变大，体系黏度增大。亲水基团的增多有利于
+WDP在水中分散，WDP水分散性逐渐改善
+Fig. 2-8 Viscosities of
+csormcituisttsion
+2.3.4.2NCO%对2K-WPU涂膜性能的影时
+NCO%对2K-WPU涂膜透明度的影响结果如图2-9所示。当NCO%很高时，亲水改
+性剂添加量少，WDP难以被乳化成稳定的细小颗粒，使
+图2-9不同NCO%时WDP对应的2K-WPU除膜繁外可见光光译
+Fig. 2-9 UV-vis spectra of 2K-WPU films based on WDPs with different NCO9
+少，WDP滩以被乳化成稳定的细小颗粒，使得其无法和经基树脂粒子充分
+基树脂反应形成交联密度更大的网状结构，阻碍了水分子的渗入，涂膜耐水性逐渐改善
+亲水改性剂含量的减少使得涂膜亲水性下降，也会提高涂膜耐水性。NCO%逐渐增大，
+的水分散性严重下降，分散不均的大颗粒WDP难以与羟基树脂充分融合反应，而局部
+硬化凝结，使得涂膜失去光泽，外观差，交联度下降，涂膜硬度也有所下降，
+表2-4不同NCO%的WDP对应的2K-WPU涂膜性能
+Tab. 2-4 Properties of 2K-WPU films based on WDPs with different NCO%
+Theoretical values based on HT-1O0 and hydrophilic modifiers excluding solvent
+ue and whitish, “+” means almost
+vhitish through 24-h water immersion and restored to its origin state after several hour
+不同NCO%WDP的储存稳定性检测结果如图2-10所示。
+可以发现WDP热储前
+外观均无变化，为无色透明，但NCO%、涂膜光泽和耐性均明显下降，体系黏度增长较
+17%-20%时热储稳定性均较差。综合WDP的涂膜性能和储存稳定性，适宜的NCO%为
+图2-10不同NCO%的V
+2K-WPU涂胰光泽（
+f 2K-WPU films based on WDPs before
+and after stored with different NCO%
+为降低羧酸铵盐对-NCO副反应的催化作用，提高WDP的储存稳定性，同时又保
+正WDP良好的水分散性，本节选取儿种常见有机胺类：三乙
+表2-5不同中和剂的WDP及其2K-WPU涂膜性能
+Tab. 2-5 Properties of WDPs with different neutralizers and their 2K-WPU films
+whitish (unable to be restored to its original state) through 24-h water immersion
+的情况下，中和剂的中和效率越高，羧酸铵盐含量越高越稳定，WDP的亲水性越好，
+在水中分散形成的粒子粒径越小。而有机胺中和剂的中和效率又与胺的碱性相关，一般
+碱性越强其越容易与羧基中和成盐。如表2-6所示，其中NMM的pK。最小，碱性最弱，
+致使体系黏度增长较多，因而影响WDP的水分散性。这进一步证明了WDP的水分散
+性不仅和WDP的亲水性有关还和WDP的黏度紧密相关。此
+DMEA接枝于异氰酸
+分散性较差，制得的2K-WPU涂膜60°光泽度不足60。其余条件均相同
+Tab.2-6 Structure and properties of neutralizers
+socyanate with BDO at 39.6 °
+图2-11不同中和剂的WDP储存前后NCO%（a），黏度（b），2K-WPU涂膜光泽（c
+and after stored with different neutralizers
+为探究中和剂对WDP储存稳定性的影响，将上述不同中和剂中和的WDP于50℃
+著存一周，储存前后WDP的NCO%、霜度及其2K-WPU涂膜光泽度如图2-11，涂膜的
+耐水性见表2-5。可以发现，采用这四种中和剂中和的WDP储存稳定性均较差。其中
+膜在水滴中浸泡24h后泛白并无法恢复，完全无法应用。这可能和有机胺对-NCO与活
+化活性，因而其WDP储存稳定性差。DMCA中和的WDP储存前后上述指标变化最小
+TEA中和的WDP水分散性路优于DMCA中和的，而DMCA
+性优良的涂膜，且其价廉易得。综合考虑，后续实验均采用TEA作为WDP中和剂。
+为解决WDP储存不稳定的问题，疏水环状二醇1.4-环已烷二甲醇（CHDM）被引
+添加量对WDP及其涂膜性能的影响。不同CHDM添加量的WDP分别标记为WDP-1
+WDP-2，以此类推
+2.3.6.1硫水改性剂对WDP及其2K-WPU涂膜性能的影响
+CHDM添加量对WDP及其2K-WPU涂膜性能的影响如图2-12和表2-7所示
+光泽度下降。和之前报道1相同，由于CHDM中刚性环状结构的存在和其疏水特性
+CHDM在链中的引人可有效提高涂膜的硬度和耐性。但当
+摩尔比为3：7时，WDP的综合性能最佳
+活性最强，一定程度上表明了NMM对WDP中-NCO反应具有较强的催
+Fig. 2-12 UV-vis spectra of 2K-WPU films based on WDPs with different contents of CHDM
+表2-7不同CHDM含量的WDP对应的2K-WPU涂膜性能
+Tab. 2-7 Properties of 2K-WPU films based on WDPs with different contents of CHDM
+Theoretical values based on HT-1O0 and hydrophilic modifiers excluding solvent
+The "_"for transpa
+nd whitish, “+” means almost
+2.3.6.2疏水改性剂对WDP储存稳定性的影响
+不同CHDM漆加量的WDP储存前后的NCO%、黏度
+如图2-13所示。由图可知，添加了CHDM的WDP的热储稳定性得到明显改善，热储
+后WDP制备的2K-WPU涂膜在水滴中浸泡24h后均为轻微泛白，数小时后恢复，表明
+涂膜耐水性无明显差别。说明CHDM改性的WDP热储稳定。这可能是因为CHDM通
+过反应接枝于多异氰酸酯结构外围，因其疏水性和较大的空间效应，在一定程度上对残
+能够避免和减缓其与水等亲水性基团的直接接触和反应，
+从而有效提高了WDP的储存稳定性
+图2-13不同CHDM含量的WDP储存前后NCO%（a），黏度（b），2K-WPU涂膜光泽（c）
+Fig. 2-13 Properties (a: NCO%, b: Viscosity, c: Gloss/60 ) of 2K-WPU films based on WDPs before
+andafterstoredwith different contents of CHDM
+为更清楚地探明CHDM对WDP储存稳定性的影响，分别
+（不含CHDM的最佳
+最佳配方）制得2K-WPU涂膜，
+接与周围的水反应产生大量气泡，因而造成涂膜表明粗糙02.10）（图2-14d）。
+(b) WDP-1 betore storage, (c)
+WDP-3 after storage. (d) WDP-1 after storage
+将CHDM改性的WDE
+-1进行热稳定性分析，得到女
+图2-15所示的TG/DTG曲线，不同质量损失对应的温度如表2-8所示。图2-15表明，
+别。但仔细对比表2-8中二者涂膜的热分解温度，可以发
+膜的所有质量损失下对应的热分解温度均略局于
+WDP-1的2K-WPU涂膜。这说明
+DM的少量人x
+对2K-WPU涂膜热稳定性的改善稍有帮助[104]
+Fig. 2-15 TG (a) and DTG (b) curves of 2K-WPU based on WDP-1 and 2K-WPU based on WDP-3
+Tab. 2-8 Thermal properties of 2K-WPU films based on WDP-1 and WDP-3
+ Ts%, Tio%, Tsos denote temperatures corresponding to 5%, 10% and 50% of weight loss
+iaximtmdecomposition
+涂膜接触角测试可以直观反映涂膜对水的润湿情况，是测量涂膜耐水性的有效方法
+知，未经CHDM改性的WDP-1对应的涂膜水满接触角为61°，而CHDN
+对应涂膜的水滴接触角为69”，明显高于前者。这进一步证明了CHDM的引入可有效
+高2K-WPU
+这可能是CHDM的蔬水性及其六元环的空间位阻效应使
+得涂膜的亲水性下降的结果。
+Fig. 2-16 Visual perfc
+ie surface of 2K-WPU films based
+图2-17WDP-1、WDP-3和BayhydurXP2487的水分散体的平均粒径
+Fig. 2-17 Particle size distrib
+各自水分散体的粒径分布图如图2-17以及其他综合性能如表2-9所示。由图可见，WI
+CHDM改性
+的WDP-3水分散体平均粒径稍大，为314nm。这可能是因为CHDM疏水性化合物引
+入所致。但总体而言，三者在手动搅拌速率下均能在水中分散为小粒径粒子，说明三者
+的水分散性均良好，为优良涂膜性能打下了基础，
+表2-9WDP-1、WDP-3和BayhydurXP2487及其2K-WPU的综合性能
+Tab. 2-9 Properties of WDP-1, WDP-3, Bayhydur XP 2487 and their 2K-WPU
+The “++" for transparency means that the 2K-WPU film is glass-like transparen
+and restored to its origin state after several hours
+和耐冲击性能均优良。其中，CHDM改性制备的WDP-3对应的2K-WPU干速快、涂膜
+硬度和耐性明显提升，可很好应用于双组分水性涂料。
+采用DMBA/MPEG/CHDM阴离子/非离子亲水改性剂及疏水改性剂混合改性HDI
+J涂料，探究了亲水
+剂比例和添加量、中和剂、CHDM添加量等对WDP储存稳定性和2K-WPU性能的影响
+相关，DMBA/MPEG改性的WDP水分散性明显优于MPEG改性的WDP，随者
+而WDP的水分散性文很大程度上影响涂膜性能
+（3）疏水环状二醇CHDM的引入可明显改善WDP的储存稳定性，CHDM改性后
+WDP于50C热储一周后性能儿乎不变：刚性六元坏结构的引人世使得涂膜硬度、
+第三章含-OH聚氨酯水分散体的制备与性能研究
+含一OH聚氨酯水分散体（OH-PUD）具有软硬段比例可调、易于设计分子结构的优
+点，以其制备的2K-WPU具有良好的外观和颜填料润湿性，涂膜机械性能优良，是一种
+的问题。采用磺酸型亲水改性剂有利于提高固含量，但目前仅限于单组分聚氨酯水分散
+及其2K-WPU涂膜的影响，并确定最优工艺和配方。
+3.2.2含-0H聚氨酯水分散体的合成
+将二元醇真空脱水处理后，与IPDI、SPED、丙酮一起加入装有搅拌器、温度计
+丙酮得到含-OH聚氨酯水分散体OH-PUD。其中，在预聚物合成阶段、在水分散前、在
+为例，采用Tnis封端，其合成路线如图3-1所示
+3.2.3双组分水性聚氨酯涂料的配制
+分水性聚氨酯涂料。分别在末板、玻璃板及马口铁片上制备涂膜，在
+25C，相对湿度50%）十燥7大后测试双组分水性聚氨酯涂膜性能
+第三章含-OH聚氨酯水分散体的制备与性能研究
+CHOH
+HNHCHCI
+3.2.4.1分散体外观和稳定性
+采用目测法观察含-OH聚氨酯水分散体的颜色、分散均匀性。取5mL分散体样品
+3000r/min转速下用离心机离心15min，观察离心管中是否有分层、沉淀等现象。
+无沉降现象即认为该分散体可稳定储存至少6个月
+利用傅里叶变换红外光谱仪（FTIR，Spectrum2000，PERKINELMER公司，USA）
+对OH-PUD及其2K-WPU涂膜进行红外光谱分析
+3.2.4.3粒径测试
+分布，测定温度：25±0.5C。
+为科学表征涂膜透明度，尽可能避免人为因素导致的误差，涂膜透明度通过透光率
+来表征I99.100)，目测法辅助说明。利用紫外可见光分光光度计（U-3010，Hitachi公司，
+2K-WPU涂膜的耐水性、耐介质性根据GB/T23999-2009测定。其吸水率测试方注
+如下：将干膜重W的涂膜在去离子水中浸泡3天，取出后用滤纸吸干表面水分，立即
+称重记为W，涂膜吸水率W%按照式3-1计算：
+2K-WPU涂膜表干时间、光泽、摆杆硬度、柔韧性、耐冲击性、附者力分别按贴
+3.3.1结构表征
+图3-2为水可分散性聚异氰酸酯BayhydurXP2487（a）、以PCL220为聚二元醇
+链剂合成的含-OH聚氨酯水分散体（b）、以及2K-WPU涂膜（c）的红外光谱图。OH-PUD
+图3-2BavhydurXP2487（a），OH-PUD（b）及2K-WPU涂膜（c）的红外）
+Fig. 3-2 IR spectra of Bayhydur XP2487 (a), OH-PUD (b), and its 2K-WPU film (c
+以常见价廉易得的聚醚二元醇N220为聚二醇扩链剂，在不同阶段加入封端剂Tri
+与-NCO反应封端，制得的OH-PUDs性能如表3-1所示
+双组分涂料涂膜透明度与两组分间相容性有关，主要
+这可能是因为在预聚物水分散前加人封端剂水溶液，封端剂与十
+官能团的引入能增强OH-PUD-1分子极性及其与固化剂之间的相互作用，提高2K-WPU
+在分散前加入封端剂，由于封端剂的-NH及-OH基可能会同时与预聚物的-NCC
+分子量、温度和界面性质.%。表3-1中的涂膜均有不同程度的偏蓝相
+民，时水性较差。这可能是由于在高速剪切下，预聚物与封端剂中一OH基接触、反
+剂的工艺制得的OH-PUD-3性能较优异，此时分散体粒径最小，稳定性好
+Tab. 3-1 Properties of OH-PUDs with different feeding process and their 2K-WPU film:
+3-Slightly fuzzy. 2-Whitish, 1-Terribly opaque
+以聚醚二醇N220为聚二醇扩链剂，采用OH-PUD-3先分散后封端的合成工艺，改
+柔韧性下降，同时OH-PUD胶粒外层氨酯键含量增加，氢键作用力增强，使得粒子
+的OH-PUD体系最稳定、涂膜性能最佳
+用先分散后封端的
+控制NCO/OH摩尔比为1.5，分别采用聚醚二醇
+聚己二酸丁二醇PBA220、PBA210，聚碳酸酯二醇PCDL220、PCDL210，制得了含一C
+膜性能的影响，其结果列于表3-3，涂膜的紫外-可见吸收光谱图见图3-3。其中编号
+S-PCL2”是指以PCL220为聚二元醇制备的分散体样品，其他标记含义依此类推
+Fig. 3-3 UV-vis s pectra of 2K-WPU films based on OH-PUDs with different macro-diol
+如图3-3所示，含聚酯二醇的2K-WPU涂膜透明度高于含聚醚二醇的2K-WPU涂
+2K-WPU涂膜，这
+分子量稍小，降低分子量则有助于改善OH-PUD与固化剂组分间的相容性、提高涂膜透
+极性的酯基，内聚能密度较大，其与高极性磺酸型水性固化剂BayhydurXP248
+表3-3不同二元醇制备的OH-PUD及其2K-WPU涂膜性能
+Iab. 3-3 Properties of OH-PUDs with different macrodiols and their 2K-WPU films
+Transparencyot
+3-Slightly fuzzy, 2-Whitish, 1-Terribly opaque
+OH-PUD的粒径小于聚醚型
+PUD的粒径，以分子量2000的二元醇制备的OH-PUD
+粒径小于以分子量1000的同种多元醇制备的OH-PUD。这可能是
+极性强于聚醚二醇的醚键，聚酯型OH-PUD分子内及分子间相互作用力较大，分子链缠
+尧紧密，粒径较小2。在软段含量相同的情况下，分子链数随二元醇分子量增加而减
+力大，刚性强，以其制备的2K-WPU涂膜硬度高于聚醚型OH-PUD。聚碳酸酯二醇PCDI
+含有大量的碳酸酯基，其内聚能最大，对应的2K-WPU涂膜硬度最高。聚氧化烯醇型的
+相容性，使得聚醚型OH-PUD制得的2K-WPU涂膜耐水性差。PTMEG链段规整性较高
+为考察软段含量对OH-PUD及其2K-WPU性能的影响，本节以PCL220为OH-PUD
+减小，涂膜硬度和耐水性逐渐下降。这是因为软段含量的增加使得聚氨酯分子链柔顺性
+质量比最佳为40/60
+nt, 4-Almost transparehl
+3-Slightly fuzzy. 2-Whitish, 1-Terribly opaquc
+在3.3.5的最佳配方的基础上，采用不同量亲水扩链剂制备OH-PUD
+如表3-5所示
+由表3-5可知，采用磺酸型亲水扩链剂制得OH-PUD固含量可达47%左右，较DMPA
+等羧酸型聚氨酯分散体固含量高（最高一般为40%）：无需中和，工艺简单：采用丙酮
+等类似物作溶剂即可，不需添加吡络烷酮类有毒试剂，合成过程无毒安全。与常见羧酸
+等类似物作溶剂即可，不需添加吡络烷酮类有毒试剂，合成过程无毒安全。与常见羧酸
+型聚氨酯分散体相比具有明显优势
+表3-5不同亲水扩链剂含量的OH-PUD及其2K-WPU涂膜性能
+Iab. 3-5 Properties of OH-PUDs with different SPED contents and their 2K-WPU films
+采用EDA后扩链制备聚氨酯分散体，可有效提高聚氨酯的交联密度，改善涂膜性
+能：在分散后扩链还可降低溶剂的使用，有助于分散体固含量的提高。为考察
+表3-6不同EDA扩链度的OH-PUD及其2K-WPU涂膜性能
+3-Slightly fuzzy. 2-Whitish, 1-Terribly opaquc
+因而随着EDA扩链度增加，分散体平均粒径逐渐增加。采用EDA后扩链，聚氨酯分子
+氨基实际需要添加量少于理论-NCO摩尔数量。当ED
+致表层涂膜早已固化，但下层水汽未完全挥发：还会加剧固化剂中的-NCO与环境中
+0%左右。下一步实验控制EDA扩链度为40%来进行。
+封端剂是聚氨酯分散体引入羟基的关键，是OH-PUD的重要组成部分。基于上述优
+4、5个轻基的醇胺类化合物作为封端剂，考察封
+端剂种类对OH-PUD及其2K-WPU性能的影响，结果如表3-7所示
+表3-7不同封端剂制备的OH-PUD及其2K-WPU涂膜性能
+s: 5-Glassily transparent, 4-Almost transparent.
+ent, 4-Almost transparent
+活性较低，这两种封端剂与端-NCO预聚物反应不完全会降低OH-PUD的羟基官能度及
+2K-WPU涂膜交联密度，导致其吸水率比以Tris封端制得的2K-WPU吸水率高。因此
+选用三羟基的Tris为封端剂为宜
+表3-8不同羟基含量的OH-PUD及其2K-WPU涂膜性能
+Tab. 3-8 Properties of OH-PUDs with different hydroxyl contents and their 2K-WPU films
+parent, 4-Almost transparent,
+3-Slightly fuzzy. 2-Whitish, 1-Terribly opaquc
+不同羟基含量（质量百分数）的OH-PUD及其2K-WPU涂膜性能如表3-8所示
+选用最佳配万：以软/硬段比为40/60的PCL220为聚二元醇软段、Tnis为封端剂
+比，得到各自粒径图如图3-4所示，各自2K-WPU性能如表3-9所示
+图3-4BayhydrolUXP 2750、H2D012A和自制OH-PUD的粒径分布
+Fig. 34 Particle size distribution of Bayhydrol U XP 2750, H2D012A, and OH-PUL
+由表3-9可得
+2K-WPU涂膜均表现出优良的柔韧性、抗冲击力和外
+观装饰性，但BayhydrolUXP2750和自制OH-PUD对应的2K-WPU涂膜硬度和光泽度
+羟基含量过大，本文中增加到4%时，涂膜硬度并无增加，时水性稍
+表3-9BayhydrolUXP2750、H2D012A和自制OH-PUD对应2K-WPU的综合性能
+Iab. 3-9 Properties of 2K-WPU coating based on Bayhydrol U XP 2750, H2D012A and OH-PU)
+（）由由（）二
+摩尔比、SPED含量、软段组分和含量、EDA扩链度、封端剂种类等对OH-PUD及其
+（1）不同合成工艺制备的OH-PUD稳定性、粒径不同，其中，采用先分散再封端
+（3）以聚酯二元醇制得的OH-PUD其2K-WPU涂膜透明度高于聚醚二元醇对应的
+2）以SPED作
+0的亲水扩链剂接枝聚氨酯分子链中，可有效提高OH-PUD
+（4）采用高官能度封端剂封端有助于提高OH-PUD平均羟基官能度，进而
+SPED添加量为12.5wt%
+，EDA扩链度为40%，此时OH-PUD固含可达47%左右，用其
+稳定性及各自2K-WPU涂膜性能的影响规律，得出主要结论如
+（1）采用DMBA/MPEG/CHDM阴离子/非离子亲水改性剂及蔬水改性剂混合改性
+HDI三聚体，制得含-NCO聚氨酯水分散体，探究了亲水改性剂比例和添加量、中和剂、
+和储存稳定性，其制备的2K-WPU涂料具有干燥速率快、涂膜硬度高和耐介质性能优异
+OH-PUD其2K-WPU涂膜透明度高于聚醚二元醇对应的2K-WPU涂膜：选用三羟基封
+端剂Tris制备的OH-PUD具有较高的羟基官能度，其2K-
+本文自制的含-NCO聚氨酯水分散体和含-OH聚氨酯水分散体，分别与市售的另
+与自制OH-PUD的配漆研究工作有待进一步完成。涂料应用范围广泛，不同场合要求的
+的WDP与市售羟基树脂配漆制得的2K-WPU适用期超过4h，但自制OH-PUD与市售
+化齐利制得的2K-
+U适用期较短，关于2K-WPU适用期问题有待进一步研究
+applications]. Int. J. Adhes
+olyurethane coating[J]. Advanced Materials Research, 2013, 634: 2993-2996
+Ymuesisalmucnaac
+cterization[3]- 3. Appl. Polym. Sc1., 2001, 80(4): 566-5/2
+oatings[J]. Prog. Org. Coat., 2012, 75(4): 435-443
+拜耳材料科技有限公司.拜耳双组份水性聚氨酯介绍R].江T]：2010
+coating[J]. Prog. Org. Coat., 2016, 90: 309-316
+12GeZ.,LuoY.J
+loxane-modified two-componeni
+uZ..WangH..
+1. Surface and mechanical properties of hydrophobic silic:
+kbarianM.(
+anosilver on thermal and
+waterborne polyurethane[J]. Prog. Org. Coat., 2013, 76: 15221526
+[18]Guo L., Wang L., Huang S., et al. Synthesis and properties of novel water-dispersible
+polyis0cyanates[0]. J.Appl. Polym. Sci., 2017, 134(17): 44735
+9]刘登良.涂料工艺[M].北京：化学工业出版社，2010.312-326
+ polyisocyanates with
+improved storage stability[P]. US:0232609-A1,2015
+[27]Morikawa Y.,Konishi S.,Uehara K. Self-emulsifiable polyisocyanate mixture and
+彦，社秀才，等.相对分子质量和聚醚含量对双组分水性聚氨酯性能
+[34]Yue S.J.,Zhang Z.Y.,F
+iopropyltrethoxysilane on solvent
+resistance.thermalstability, andmechanicalproperties oftwo-componentwaterborne
+oolyurethane[].Int.J.Polym.Anal.Ch.2015.20: 285-297
+lispers10nsP]. US: 5389/18, 1995
+the cathodic electrophoretic deposition method[J]. RSC Adv., 2016, 6: 28089-28102
+0]李培礼，李鹏浩，崔建东，等.有机硅改性双组分水性聚氨酯的制备与性能山].精
+，等.一种双组分水性木器的聚氨酯多元醇分散体及其制备
+韦康，张志英，单建林
+.中和剂用量和种类对双组份水性聚氨酯性能的影响[]]
+[42]程飞.有机硅-氟改性聚氨酯多元醇水分散体的合成与性能[D].合肥：安徽大学，
+54]AsahinaY.Nev
+ungoosnoenbepuguonisoduo
+composition using the same[P]. JP: 044649, 2000
+use as additive for aqueous adhesives[P]. EP: 206059, 1986
+朱延安，瞿金清，混合改性可水分散型异氰酸酯固化剂的制备与性能研究]]
+and their use in coating andsealing compositionsP. US:854338,1998
+and their use for coating water-resistant substrates[P]. US: 5459197, 1995
+64Christian Z.,R
+ic acids, a method for thein
+preparation and their use[P]. EP: 548669. 1995
+[66]  Laas H.-J., Halpaap R. Modified polyisocyanates[P]. US: 6767958, 2004
+[68]Laas H.-J.,Rettig R.,Halpaap
+preparation and their use as cross-linking agents in coating compositions[P].U
+[72]纪学顺，普云全，赵伟国.高性能、易分散水性多异氰酸酯固化剂的合成与应用研
+[74]Hombach R., Reiff H.,Wenzel W., et a
+polyis0cyanate preparations[P]. US: 4433095, 1984
+lispersible in water[P]. US: 6777523, 2004
+80]Laas H.-J., Halpaap R., Wamprecht C. Water-dispersable
+e polyether-modified mixtures of
+polyis0cyanates[P]. EP: 959087, 2003
+mproved propertiesP. US:7553902B2,2009
+[82]Steinbrecher A.M..H
+emulsifiable isocyanates for coatings
+having an improved gloss[P]. US: 0075912A1, 2016
+84]Tawa T, Ito S. Preparation and reacti
+of hydrophilic isocyanate micelles dispersed 1r
+water[]. Colloid. Polym. Sci., 2005, 283: 731-737
+吴胜华，姚伯龙，陈明清.亲水性多异费酸酯固化剂的制备及其性能：策氨酯工
+88]张旭东，乔营，王雪，等.双重改性水性聚氨酯固化剂的合成[J].湖南大学学报（自
+然科学版），2015，42（6）：84-89
+92]Zimm B.H. Dynamics of polymer molecules in dilute solution: viscoelasticity, flow
+93De Gennes P.GiGra
+wsofModemPhysics,1999
+oetween cr0sslinking and side reactions[D]. Prog. Org. Coat., 2002, 45(2-3): 205-209
+curable coating[]]. Prog. Org. Coat., 2016, 99:1-10
+iloxane-polyurethane[J]. Prog. Org. Coat., 2016, 90: 304-308
+[102]Geurink PJ.A., Scherer T., Buter R., et al. A complete new design for waterborne 2-pacl
+PUR coatings with robust
+Prog.Org.Coat.,2006,55
+红，周长忍，等.羟乙基壳聚糖的合成及其与聚乳酸的相容性团].化
+103]徐培林，张波琴.聚氨酯材料手册[M].北京：化学工业出版社，2002
+104Wang B.T.,Zhang Y.,Song P.A.,et al.Synthesis, characterization, an
+1,4-cyclohexanedimethanol[J]. J.Appl. Polym. Sci., 2011, 120(5): 2985-299
+Prog. Org. Coat., 2002, 44(2): 161-183
+[107]汪昆华，罗传秋，周啸.聚合物近代仪器分析[M].第2版.北京：清华大学出版社
+olvurethane2.Enzyme.Microb.1ech.,2011,38(1):49-54
+09]李伟生，施良和，沈德言.聚合物共混相容性的理论和实验团.高分子材料科学与
+0张开.高分子界面科学[M].北京：中国石化出版社，1997：36-40
+[111]董萌，王汝敏，姚梅.改善聚合物共混材料界面相容性的研究进展门].涂料涂装与
+containing different soft segments[J].J.Adhes. Sci.Technol., 2007, 21(1): 81-96
+and mechanical properties of water-based polyurethane dispersion[-]. Colloids Surf. A
+Chemical Engineering Journal, 2014, 253: 518-525
+攻读硕土学位期间取得的研究成果
+、已发表（包括已接受待发表）的论文，以及已投稿、或已成文打算投稿、或拟
+3.崔金清，郭丽，朱延安.坏状二醇改性水性多异氰酸酯固化剂及其制备方法与应
+用[P].申请号：201610218305.9，申请日：2016年04月08日：
+4.瞿金清，注磊，郭丽，朱延安.酮醛树脂/亲水聚醚混合改性水分散型多异氰酸酯
+金清，郭丽，
+高官能度端羟基聚氨酯水分散体及其制备方法与应用[P]
+郭丽.一种高性能水性聚氨酯固化剂及其制备方法与应用[P].申请号
+本论文是在我的导师星金清教授的悉心指导下完成。瞿老师在论文的选题、实验
+案、关键问题的解决以及论文撰写方面都给予了耐心的指导和宝贵的意见，拓宽了
+老师表达我深深的感谢和崇高的敬意
+感谢陈焕钦教授和梅慈云教授对找学习和生活上的重要指导和亲切关怀。两位长
+严谨治学、终身学习的精神和为人谦和的处世态度深深影响了我。两位老师澜博的学识、
+丰富的人生阅历、高尚的个人品格成为我一生的学习榜样。
+工大学创造的良好的学习氛围和科研交流、检测平台。
+感谢嘉宝莉化工集团股份有限公司提供的完善的实验平台。感谢朱延安高工对于科
+特别感谢彭刚阳工程师和段晓俊师兄在实验中提供的宝贵建议，让我对水
+深入的了解：特别感谢黄山博士在探索路上的无私帮助和指导，
+感谢黄山、汪磊、汤柳燕、刘道峰、陈秀丽等同门在学习和生活中的支持、
+向论文评审和参加答舞的各位专家老师们送上找诚挚的谢意。
+最后，感谢我的至亲好友对我一直以来莫大的支持和鼓励。
+和鼓励，感谢水性漆事业部的同事们在工作和生活中给予的支持和帮助
+聚氨酯涂料具有涂膜外观好、机械性能和耐化学品性优良的特点，广泛应用于木器
+洛限制，低污染和高性能的水性聚氨酯涂料受到广泛关注9。水性聚氨酯涂料可分为
+涂料的低VOC值的双重特点，成为涂料工业的研究热点9
+图1-1聚异氰酸酯与水接触时界面反应情况
+Fig.1-1TheInterfacereac
+ocvanate andwate
+2K-WPU技术最早起源于拜耳公司的一位科学家对于异氰酸酯与水界面的观察。如
+该现象说明聚异氰酸酯是可以用作水性涂料交联剂的。2K-WPU主要由水性羟基树脂和
+水可分散性多异氰酸酯构成。2K-WPU涂膜的交联密度高，具有涂膜附着力强、耐磨性
+热性好等优点，其综合性能儿乎可与溶剂型双组分聚氨酯涂料相媲美
+多异氰酸脂的制备技术被国外少数企业垄断，他们只卖产品，不卖技术，而我
+术制备的固化剂产品储存稳定性差，这些都严重制约了2K-WPU在汽车、木器、塑料等
+本文研究水可分散性多异氰酸酯和水性羟基树脂的制备技术，采用阴离子/非离子亲
+水改性剂以及疏水环状二醇疏水改性剂混合改性制备储存稳定的含-NCO聚氨酯水分
+了现有2K-WPU存在的一些技术难题，促进2K-WPU在水性工业涂料中的应用与推广
+双组分水性聚氨酯主要由水性多元醇和多异氰酸酯组成。在设计涂料配方时，不仅
+形成平整光滑的透明涂膜。根据成分不同，水性多元醇主要分为水性聚丙烯酸酯多元醇，
+素，其水分散性、稳定性、NCO%等的研究也逐渐成为2K-WPU涂料的研究热点。
+据合成工艺、粒子大小的不同，水性多元醇主要分为乳液型和分散体型多元醇
+聚氨酯多元醇多以水分散体形式存在，即含一OH聚氨酯水分散体。由于其结构与固化
+剂结构相似，皆为含氨基甲酸酯基的聚氨酯分子结构，二者的相容性好，其配制的
+1.3.1含-OH聚氨酯水分散体的合成方法
+成二醇与少量的异佛尔酮二异氰酸酯（IPDI）反应制得了OH-PUD。通过提高聚氨酯相
+能度低，以其制备的2K-WPU普遍存在涂膜机械性能及耐水性、耐溶剂性
+聚合反应阶段加入TMP来引入羟基，聚合物黏度迅速增加，聚合物的结构和分子质
+酯水分散体的合成方法大抵相同，其不同也是其关键就在于配方的比例设置、封端剂的
+物优先与-NH-反应生成二官能度的OH-PUD。MorikawaY、张旭东等[22先采用IPDI、
+为仲胺，其与预聚物的反应不充分、平均羟基官能度较低均会降低2K-WPU的涂膜性
+其涂膜耐水性、耐醇性仍较差，于水中浸泡24小时吸水率达26.26%，
+图1-2一步法合成含-OH聚氨酯水分散体
+Fig. 1-2 One-step process of OH-PUD
+图1-3后封端法合成含-OH聚氨酯水分散体
+Fig. 1-3 Post-capping process of OH-PUD
+DH-PUD制备的2K-WPU因交联密度更高涂膜性能明显改善，涂膜硬度
+中浸泡12小时吸水率可降至0.06%以下
+差异更大，更有利于封端剂的成功接枝和OH-PUD羟基官能度的提高。以

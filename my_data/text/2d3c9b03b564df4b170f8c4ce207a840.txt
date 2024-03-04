@@ -1,0 +1,434 @@
+Enqland and Wales
+App
+47:4,
+'/-89E
+DOI
+TEE655E060ZS
+Tolink tothis article:http://dx.doi.org/10.1080/1060132090353933f
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the *Content") contained
+Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon al
+any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoevei
+or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of
+the Content
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sublicensing, systematic supply, or distribution in any
+www.tandfonline.com/page/te:ms-and-conditions
+Journalof Macromolecular Science,PartA:Pure and
+AppliedChemistry
+Publication details, including instructions for authors and subscription inforrmation:
+om/loi/Lmsa2 0
+Self-emulsifying Hydroxy AcrylicPolymer Dispersions
+Polyurethane Coatings
+Xia Kong ", Shaomao Li *, Jinqing Qu * & Huanqin Chen *
+ Aborouoa go Ansreanun euuo qinos ' buraaurug reoau pue Assuau jo jooqos 。
+Guangzhou, 510640, China
+Published online: 12 Feb 2010
+LL
+Self-emulsifyingHydroxyAcrylicPolymerDispersionsfor
+TwoComponentWaterbornePolyurethaneCoatings
+XIAKONG.SHAOMAOLI.JINOINGOU*andHUANOIN CHEN
+Received August 2009, Accepted September 2009
+Novel self-emulsifying acrylic polymer aqueous dispersions (NPAD) for two component waterborne polyurethane coatings (2K-
+WPU) were prepared by the emulsification of self-emulsifying polymer blends in water, which the polymer blends typically consist
+p  () s es o aod  s o  ( rod  dn es e si aoiod e o o
+light scattering (DLS) analysis showed that the NPAD have a bimodal particle size distribution and the particle diameters can be
+controlled by the amount of salt group containing polymer and the concentration of salt groups in this polymer. Transmission electron
+microscopy (TEM) images also testified that the NPADs possess small particles consisted of P1 and core-shell structure large particles
+which are composed of the P1 in the shell parts and the P2 in the core parts, The property comparisons of the NPAD, conventional
+polyacrylic dispersion (CPAD) and poylacrylic emulsion (PAE) for 2K-WPU disclosed that the NPADs possess higher solid contents
+up to 45 wt% and much lower carboxy salt contents than those of the CPAD, and the NPAD-based 2K-WPU films display much
+better performance including 90% of the gloss, 0.81 of the pendulum hardness, much better solvent- and water-resistance than those
+of the CPAD and PAE. The TGA curves indicated the NPAD-based 2K-WPU films display good thermal stability.
+0 0 60 60:  [s ] q ppmo
+1 Introduction
+Polyurethane (PU) coatings possess excellent properties
+and have established an important place in the coatings
+industry due to their micro-phase separated domains from
+immiscibility of soft and hard blocks, hydrogen bond-
+ing, and chemically induced separation of urethane-rich
+and urea-rich domains (13). Among them, the two com-
+ponent solvent-borne PU coatings display a maximum
+performance and appearance which satisfied the main
+market requirements Due to increasingly stringent legal
+requirements, two component waterborne polyurethane
+coatings (2K-WPU) have become increasingly popular
+over the last several years, driven by market demands
+for higher-performance, formaldehyde free, thermosetting
+water-based coatings (4).
+basic
+componentsof2K-WPU
+systems
+are
+hydroxy-functional waterborne polymer
+(polyol),
+an
+amethylene disocyanate (HDI)or
+isophorone diiso-
+eqdopq oq iou Ke 1o Keu u (Id) sues
+modified, optional co-solvent(s), and water (5).
+Various
+ogy, Guangzhou 510640, China. E-mail: cejqqu@scut.edu.cn
+types of hydroxy-functional waterborne polymers includ-
+ing polyester, polyacrylate, polyurethane, and their hybrids
+can be used in 2K-WPU systems (6). Among them, water-
+borne acrylic polymers get more attentions because of their
+excellent resistance to hydrolysis and low cost (7). These
+are two kinds of hydroxy-functional waterborne acrylic
+polymers differ in preparation methods (8), namely, acrylic
+polymer emulsions (PAE) and acrylic polymer dispersions
+(PAD) (9). The PAE possess high molecular weight and
+glass transition temperature give PAE-based 2K-WPU film
+rapid physical drying properties at room temperature before
+the onset of chemical crosslinking. However, it is difficult
+to achieve an acceptable film appearance and fulfil most
+of customer needs due to some remaining surfactants and
+protective colloids in the drying films which come from the
+PAE (10). Thus, PADs are free of any surfactants and pro-
+tective colloids, the high concentration of hydrophilic acid
+groups in PADs often lead to a decrease in water-/ethanol-
+resistance properties of the film (11). much research had
+focused on overcoming the disadvantages including car-
+boxyl groups in the acrylic polymers could be crosslinked
+by aziridine, polycarbodimides and their derivatives (12,
+13). On the other hand, the decreasing of the hydrophilic
+salt group contents in the polymers also lead to hydropho-
+bic films, this would be a good method.
+a new preparation
+ 0 60 60:  [s ] q 
+(NPAD), namely, the preparation of self-emulsifying poly-
+mer blends, which consist of two polymers which differed
+in their salt group contents, and only one of the polymers
+contains the salt groups, which are required for the stabi-
+lization of the dispersions. The synthetic process was listed
+in Scheme 1. The properties of the NPAD, conventional
+acrylic polymer dispersion (CPAD) and PAE for 2K-WPU
+coatings were also compared.
+2 Experimental
+2.1 Material
+Methacrylic acid (MAA), methyl methacrylate (MMA),
+butyl acrylate (BA), styrene (St), and hydroxypropyl
+methacrylate (HPMA) are all commercial products pur-
+chased from Mitsui Co. (Japan). Dodecyl mercaptan,
+2, 2-azobisisobutyronitrile (AIBN), dimethylethanolamine
+(DMEA), and acetone are provided by Guangdong Car-
+poly Chemical CO., Ltd. (Jiangmen, China). Hydrophilic
+modified polyisocyanurate based on HDI trimers (Bayhy-
+dur XP2655) was purchased from Bayer CO. (German). All
+the materials were used without further purification.
+2.2 Measuremcnts
+2.2.1. Particle sizes and distributions
+Particle sizes and distributions were measured using a dy-
+namic light scattering (DLS) technique (Malvern Laser
+Particle Sizer). Samples were diluted with water into an
+appropriate concentration as indicated by the instrument.
+Test specification: 0.6-6000 nm; temperature: 25° C
+determine the particle morphologies, TEM were acquired
+on a Zeiss EM 109T microscope using an accelerating volt-
+deionized water followed by casting
+copper grids (Ted Pella, Inc.)
+2.2.2.Film property measurements
+Dry times were determined using an automatic drying time
+recorder on the glass panel according to GB/T 17281989;
+gloss was read directly at 60° on the glass panel using a
+glossmeter (GB/T 97541988); the hardness was tested
+with a pencil (provided by Zhonghua Pencil Factory in
+Shanghai, China) having a different hardness on a glass
+panel (GB/T173093); the adhesion was determined using
+the cross-hatch method at a distance of 1 mm on tinplate
+(GB/T92861998); the flexibility was tested with a T-bend
+tester (GB/T 97552001); and the impact resistance was
+measured with an impact tester on a tinplate; refer to the
+GB/T 4893.91992.
+2.2.3.Water/ethanolUptake
+A known weight (Wj) of a dried polymer film (60 mm x
+60 mm × 1 mm) was immersed in a distilled water bath
+for 8 days for water uptake, or immersed in an ethanol
+(95%) bath for 48 h for ethanol absorption, followed by
+wiping off the surface water or ethanol with a piece of filter
+paper to determined the weight W, three measurements
+were averaged for each sample. The percentage of the water
+and the ethanol uptake were calculated according to the
+following equations:
+where Wx and Wg are the water and ethanol absorption
+respectively.
+2.2.4.Gel contents ofthe filn
+The crosslinking degree of 2K-WPU films was determined
+with gel contents and evaluated on the basis of swelling
+experiments using 2K-WPU films, which were dried at 25°C
+for 3 days, followed by annealing latex films at 50° C for 4 h.
+2K-WPU films (0.10.2 g, H§) were immersed in acetone
+for 48 h at room temperature. Samples were reweighed after
+drying at 50°C for 24 h (W4), and the gel content (α) was
+determined using the following equation:
+2.2.5.IR analysis
+The infrared (IR) spectra were recorded with a Spectrum
+2000 FTIR instrument in the 4004000 cm" region. A
+NPAD and a mixed 2K-WPU paint were coated directly on
+to the surface of a KBr crystal, respectively, and measured
+after film forming and drying (a simple IR measurement
+method for liquid sample)
+0 aq0 60 60: 1e [1su 1] q ppu0
+2.2.6.TGA analysis
+Thermal stability of dried films were determined by the
+Thermo gravimetric analyzer (TG/DSC, STA449C, NET-
+ZSCH Co. Germany) by heating the sample (24 mg) un-
+der a flow of air (40 mL/min) and protective nitrogen (30
+mL/min) at 15°C/min from 40 to 650°C. The TGA sam-
+ples were prepared by the method described in the film
+preparation.
+2.3 Synthesis of the NPAD
+Acrylic copolymers with varying monomer contents were
+synthesized by well-known solution copolymerization tech-
+nique in acetone using AIBN as an initiator (14). The co-
+monomer contents were adjusted by calculating the T, of
+the copolymers from the Fox equation. Polymerizations
+were carried out in a four-necked flask equipped with a re-
+flux condenser, stirrer and thermometer at 65° C in an inert
+atmosphere of nitrogen. 50 g of acetone as a solvent was
+taken in the reactor. AIBN as an initiator (1.0 g) was dis-
+solved in 75 g of the monomers and the mixture was added
+dropwise to the reactor for an initial 3 h followed by a fur-
+ther 2 h reaction with a continuous stirring condition. The
+reaction was stopped at 98% monomer to polymer conver-
+sion. Table 1 reports the composition of the copolymers
+synthesized for this study in detail.
+were mixed
+tralized with dimethylethanolamine, the polyme
+uonos
+Iable 1.T'he compositions of P1-P3
+were dispersednwate and thentheacetone was distilled
+added to control the pH of NPAD to 79.
+and
+synthc
+of P1
+2.4Preparationof 2K-WPU Coatings
+The defoamer and leveling agent were first added to the
+NPAD (0.02 wt% based on the NPAD), then the XP2655
+was added into the NPAD according to 1.5:1 of the mo-
+lar ratio of NCO and OH groups, and stirred for another
+10 min before the films were made, water was added to
+control the application viscosities. Although in an idea sys-
+tem, an equal stoichiometry of polyisocyanate and polyol
+is desired, in reality, 2k-WPU systems are usually mixed
+with a large molar excess of polyisocyanate to competing
+reactions of isocyanate with water according to references
+(810). The preparation of CPAD and PAE based 2K-WPU
+were same as those of the NPAD-based 2K-WPU coatings
+2.5Preparation of 2K-WPUFilm
+The coatings were brushed onto clean glass panels and
+sand-treated thin tinplate panels kept the thickness of the
+dry film at 20 μm ± 3 μm, and then dried at room tem-
+perature. The gloss, adhesion, flexibility, and impact resis-
+tance of films were measured after the panel was dried for
+48 h, and the pencil hardness was measured after 48 h and
+7 days, respectively. The water and chemical resistance were
+determined after 7 days
+3 Results and Discussion
+3.1Preparation and Particle Size Distribution of NPAl
+Scheme 1 illustrated the synthetic routes of NPAD. The
+acrylic copolymers P1, P2 and P3 were synthesized inde-
+pendently by free radical solution copolymerization using
+the AIBN as an initiator in the acetone, which the COOH
+groups are concentrated only on the P1 and P3. Mixed
+P1 and P2 were placed in a separate reaction vessel and
+then neutralized with a DMEA with the aid of a stirrer,
+emulsified it with water and the acetone was removed to
+afford NPAD systems with 4045% solid contents. Obvi-
+ously, the ratios of MMA to BA have a drastic impact on
+the physical mechanical properties of acrylic copolymers
+and 2K-WPU. The incorporation of the hard monomer
+(MMA) results in the rigidity and good adhesion of the
+acrylic copolymers and 2K-WPU. However, the flexibility
+of the acrylic copolymers and 2K-WPU is improved while
+the strength decreased with the incorporation of the soft
+monomer (BA). We also found that the ratios of MMA to
+10 aqo0 60 60:7 e [1su 1] q pp0umo
+Fig. 1. The particles size distributions of NPAD with vary mass
+ratios of P1 and P2. [(a) P1/P2 = 7:3, dp = 224 nm, α = 91%; (b)
+P1/P2 = 6:4; dp; = 147 nm, clp = 367 nm, α = 93%; (c) P1/P2
+= 4:6, dlp) = 146 nm, alp = 552 nm, α = 86% (d) P1/P2 = 3:7,
+dp = 134 nm, αdp = 2000 nm, α = 82%].
+Since NPADs were prepared by the combination of dif-
+ferent amounts of a salt group contain in P1 and without
+salt groups P2, the particle sizes and distributions of NPAD
+can be controlled by both the amount of the Pl and the con-
+centration of salt groups in the P1. Figure I illustrates the
+particle sizes and distributions changed with the mass ra-
+tios of P1 and P2 in the range of 3070%/ along with gel
+contents of NPAD-based 2K-WPU.
+Figure 1 clearly demonstrates that all NPAD have a bi-
+modal particle distribution. The small particle average di-
+ameters were similar in the range of 130150 nm, while
+the larger particle average diameters were changed with
+the content of P ranging from 224 nm to 2000 nm. The
+gel contents of NPAD-based 2K-WPU were in the range of
+8293% which are listed in Figure 2. The NPAD become un-
+stable with the content of P1 below 30 wt%, it is attributed
+to the fact that the hydrophility of NPAD increased along
+with the particle sizes which decreased with an increasing
+amount of P1, and increasing the stability of NPAD. The
+mass ratio between P1 and P2 has a great influence on
+both particle populations With an increasing amount of
+P1, the larger particles get smaller. The small particle frac-
+tion slightly changes its diameter, but the number of small
+particles is growing. Shear energy has no influence on the 
+particle size distribution of the dispersions. This means that
+these dispersions are thermodynamically stable systems.
+We also synthesized the P3 with 5.0 wt% MAA cont
+and the other
+are the
+ie as P2
+and ther
+ed P3 dis
+(CPAD)
+Fig. 2. The particle sizes and distributions of CPAD and NPAD
+dp : =/d)  V % 0s  pziss
+nm); NPAD (P3/P2 =
+= 1:1, αpl
+= 60 nm; d,2 = 300 nm)]
+with 50 wt% of the P3 and 50 wt% of the P2. Figure 2 shows
+the particle sizes and distributions of CPAD and NPAD.
+The NPAD exhibits larger particle sizes (d, = 160 nm) and
+a continued bimodal particle size distributions in contrast
+to CPAD (dp = 56 nm). However, the smaller particle av-
+erage diameter of NPAD is similar to that of the CPAD. It
+could be concluded that the larger particles (d,  300 nm)
+formed core-shell structures, and the hydrophilic P3 forms
+the shell, and the P2 forms the core during emulsifying
+process It was proven by the TEM picture of NPAD (P3
+and P2) in Figure 3. The TEM image shows that NPAD
+contains the small particles and the larger particles, and the
+small particles are stabile and stained, which consisted only
+of hydrophilic P3(containing St). While the larger particles
+have a clear core-shell structure, which is formed by the P3
+(stained domains) and P2 (unstained domains).
+In most 2K-WPU systems, the polyols and polyiso-
+cyanates are not distributed homogeneously in the film,
+and the 2K-WPU film appearances are not as good, which
+was testified by atomic force microscopy (AFM). The con-
+dition can be improved to by using NPAD with good
+self-emulsified ability. Thus, the special morphology of
+Fig. 3. TEM picture of the NPAD (P3/P2 = 1:1
+  0 6  [ ]  
+Fig. 4. The three-dimensional AFM images of 2K-WPU film (a)
+NPAD-based (P3/P2 = 1:1); and (b) PAE-based (P3/P2 =0:1).
+ability to the polyisocyanate crosslinker than that of the
+PAE, probably due to the presence of a large number of
+small hydrophilic particles, The AFM topographic images
+of NPAD- and PAE-based 2K-WPU film are shown in
+Figure 4. Figure 4 demonstrated that the average rough-
+ness (Ra) and root mean square roughness (Rq) in the
+NPAD-based 2K-WPU film were 1.61 and 2.15 nm, respec-
+tively, while the responding value of the PAE-based film was
+3.62 and 4.25 nm, respectively in Figure 4(b). It was found
+that the NPAD-based 2K-WPU film was uniform, and the
+boundaries between the polyols and polyisocyanates were
+ambiguous
+3.2 IR Analysis
+Figure 5 depicts the FTIR spectra of NPAD (A), XP2655
+(B) and cured NPAD-based 2K-WPU (C). Trace A shows
+that the band at 3450 cm attributes to the OH group
+stretching vibration; the band 1734 cm- due to C=0
+stretching mode, and the bands at 1243 cmand 1166
+cm are attributed to the CO stretching vibrations of
+acrylic ester groups; and the —CH bending deformation
+mode is detected at 1460 cm. Trace B indicated the band 
+2274 cm responsible for NCO group. The bands at 1789
+cm′, 1692 cm′ and 1641 cm′ represent asymmetric and
+symmetric C=O stretching modes of the HDI trimer, re-
+Fig. 5. FTIR spectra of NPAD (P3/P2 = 1:1) (A), XP2655(B)
+and cured 2K-WPU(C)
+spectively (16). In the trace C, the wide and strong OH
+and a new sharp peak appeared at 3353 cm, which was
+attributed to NH absorption. The NCO absorption peak
+at 2273 cm disappeared, indicating that the NCO group
+reacted completely. A new stronger peak at 1689 cm was
+attributed to C=O stretch vibration, which meant that a
+reaction between water and NCO took place. The absorp-
+tion peak at 1563 cm was attributed to NH bond vibra-
+tion and CN symmetry stretch vibration, and the sharp
+and strong peak at 761 cm-1 was absorption due to CN
+bond vibration. These indicated the presence of urethane
+bond and urea bond formation. A new peak appeared at
+1168 cm1 that was attributed to the CNC stretch vi-
+bration in the isocyanurate ring in the hydrophilic-modified
+curing agent.
+3.3 TGA Analysis
+Figure 6 illustrates the TGA curves of the NPAD- and
+CPAD-based cured 2K-WPU films which formulated with
+an NCO/OH molar ratio of 1.5:1. It shows that the ini-
+tial decomposition temperature of NPAD-based 2K-WPU
+was about 225°C, slightly higher than that of CPAD-based
+(220°C), indicating that the NPAD-based 2K-WPU film
+possesses good thermal stability.
+3.4The Film Properties of 2K-WPU
+NPAD- (P3 and P2), CPAD-(P3), and PAE-based (P1)
+2K-WPU were prepared with 1.5:1 of the molar ratio of
+NCO and OH groups, and the film properties including
+the gross, water- and ethanol-absorption, and gel con-
+tent were illustrated in Figure 7. It was clearly demon-
+strated that NPAD-based 2K-WPU films displayed the
+higher gloss and gel contents, the lower water- and ethanol-
+uptake than those of CPAD- and PAE-based. It was prob-
+ably attributable to the NPAD with a bimodal particle size
+Fig. 6. TGA curves of 2K-WPU films (NPAD: P3/P2 = 1:1
+CPAD: P3/P2 = 1:0).
+Downloaded by [Trent University] at 22:09 09 October 2014
+distribution which possesses a favorable emulsifying ability
+and complete miscibility to the crosslinker, which leads to
+minimizing the side reaction between NCO groups and wa-
+ter and increase the crosslinking degree of film. In addition,
+the gel content of NPAD based 2k-WPU film was high,
+about 95%, it also provided evidence that HPMA units dis-
+persed uniformly in the polymer chains and all hydroxy
+groups in polymer chains could crosslink with isocyanate
+groups PAE-based 2K-WPU exhibits rapid physical drying
+properties at room temperature due to the high molecular
+weight of PAE, but PAE-based 2K-WPU film possesses
+poor appearance and water/ethanol-resistance due to the
+presence of surfactants remaining in the drying fim. The
+appearance of the CPAD-based 2K-WPU film was similar
+to that of NPAD, while the water-/ethanol resistance of
+CPAD-based 2K-WPU film was inferior to those NPAD-
+based due to higher carboxy group contents in the CPAD.
+Table 2 also demonstrated that the NPAD-based 2K-WPU
+film displays good appearance, high hardness, and excellent
+water-/ethanol-resistance properties.
+Iable 2. The properties of NPAD-, CPAD- and PAE-based 2K-WPU film:
+CPAD: con
+aventional acrylic poly
+ymer dispersi
+NPAD: Novel acrylic polymer dispersion P3/P2 = 1:1
+‘PAE: acrylic polymer 
+on, P1/P2 =1:0
+Fig. 7. The properties of NPAD- (P3/P2 = 1:1), CPAD-( P3/P2
+= 1:0) and PAE(P1/P2 = 1:0)-based 2K-WPU films
+4 Conclusions
+Novel self-emulsifying aqueous acrylic polymer dispersions
+for two component waterborn polyurethane coatings were
+prepared by the emulsification of self-emulsifying polymer
+blends in water. The blends typically consist of two poly-
+mers, one is a salt group containing P1, and the other P2
+is free of salt groups. The DLS analysis data disclosed that
+the NPAD have a bimodal particle size distribution, which
+can be controlled by the amount of salt group contain-
+ing polymer and the concentration of salt groups in this
+polymer. TEM images showed that the NPAD contains
+small particles from Pl and a core-shell structure larger
+particle. AMF pictures showed the films of NPAD-based
+2K-WPU display excellent appearance. The NPAD-based
+2K-WPU possessed high performance films including 90%
+of the gloss, 0.81 of the pendulum hardness, 4.2 wt% of
+the water uptake, and 8.5 wt% of the ethanol absorption.
+TGA curves showed that NPAD-based 2K-WPU film dis-
+play good thermal stability up to 225°C.
+Acknowledgements
+We gratefully thank the "Program for New Century Ex-
+cellent Talents in University" (NCET-08-0204), the “Na-
+tional Science Foundation of China” (20976060), and “The
+Project Sponsored by the Scientific Research Foundation
+for the Returned Overseas Chinese Scholars, State Educa-
+tion Ministry (China)" for financial support of this work.
+References
+10 qo0 60 60:  [s 1] q pp0

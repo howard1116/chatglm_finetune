@@ -1,0 +1,807 @@
+芳香族水性聚氨酯材料的合成及其性能研究
+随者人们对环保问题的愈加重视，低溶剂含量的环保高分子材料成为了研究
+比值为1.5的组分配比混合制备的芳香族非离子型双组分水性聚氨酯材料性能最
+断裂伸长率为315.11%、水接触角为66.4°。
+在上述水性聚氨酯多元醇组分合成的基础上，通过改变原料配比和实验条件
+的阴离子型双组分水性聚氨酯材料
+本文还对合成的两种水性聚氨酯材料在红外、热重、动态热力学性能、力学
+氨酯材料，可用作水性涂料和生物相容性等领域的基体树脂
+黑龙江大学硕士学位论文
+明离子法的HBI指数
+0.71，HBI指数为0.07。通过对比分析发现，非离子型水性聚氨酯材料热稳定性和
+强度、储能模量和蔬水性。两种芳香族水性聚氨酯材料性能各异，可在
+中得到应用
+关键词：芳香族：水性：聚氨酯：双组分
+均较高。阴离子型水性聚氨酯材料拥有更高的玻璃化转变温度、拉供
+Aspeople pay more andmore attentiontoenvironmentalprotection issues
+environmental protection materials with low solvent content have become the focus of
+researchs.Two-componentwaterborne polyurethane materialshave become
+rapidly-developing environmentally-friendlymaterialsbecause oftheir excellent
+abrasion resistance,weather resistance,and mechanical properties which can
+comparabletothoseofsolvent-basedpolvurethanes.ln
+,two-component
+comparable to those of solvent-basedpolyurethanes.In addition,two-component
+synthesize awater-basedpolyisocyanate componentbythe methodofnonionic
+synthesized.After the two components were mixed into a film, a series of aromatio
+isocyanate aqueous
+elongation at break was 315.11% and the water contact angle was 66.4°
+Basedonthesynthe
+oionents,ananion
+extender combination and the join method ofreagents onthe anionic polyisocyanate
+infrared, thermogravimetric, dynamic thermodynamic, mechanical and hydrophobic
+infrared, thermogravimetric,dynamic thermodynamic,mechanical and hydrophobic
+properties. and the hydrogen bonding index of the two polyurethane materials was
+calculated. The non-ionic HBI index was 0.24. The HBI? index was 0.07, the anionic
+HBI index was 0.71, and the HBI index was 0.07. By comparison, the non-ionic
+polyurethane material has high thermal stability and high elongation at break of the
+polyurethane material has high thermal stability and high elongation at break of the
+waterborne polyurethane materialshave different properties andcanbe applied
+Kevword:aromatic:waterborne:polyurethane;two-component
+聚氨基甲酸酯树脂，简称聚氨酯，是一种分子链段上含有重复的氨基甲酸酯
+键（-NH-COO-）的高分子聚合物。聚氨酯是一种非常成熟的逐步增长聚合物+
+Ferbenindustri的化学家OttoBayer和他的同事为了打破杜邦公司生产的聚酰胺
+氨酯树脂工业生产。1958年，BFGoodrich的Schollenberger合成了一种新型的交
+酯树脂的研究，90年代末至今发展较为迅速15.11.12。聚氨酯树脂主要是由多异氰
+聚氨酯的合成方法有两种，一步法是将原料一次性加入制备聚氨酯，预聚体
+法是先将多元醇与多异氰酸酯加入反应制得预聚物后再加入扩链剂继续继扩链合
+成聚氨酯。合成聚氨酯的过程中发生的化学反应主婴是异多鼠酸酯的反应，多
+鼠酸酯中的-NCO基团由于氮，碳和氧组成的累积双键序列中C原子的正特性，
+以与亲核试剂反应。异氰酸酯反应主要可以分成两大类：
+与此反应类似的是异氰酸酯与氨基甲酸酯的反应，如图1-1（f）。形成腺基甲酸配
+巍学敏等2I先用双三羟甲基内烷（Di-TMP）为核与己内酯和不同结构的缩水
+甘油醚反应生成了四臂星形轻基聚酯和多臂星形羟基聚酯。巍等使
+配合后合成了高固含量的双组分聚氨酯木器漆，具有非常好的耐化学性。
+杨熙等I2用二苯基甲烷二异氰酸酯（MDI）和三种不同的聚醚EP330N、GE210
+封端法是在端基为异氰酸酯基团的预聚体加水乳化前，加入特定的封端剂，
+法的合成过程封端剂的选择是至关重要的，
+内酮法是德国拜耳公司首创的一种水性聚氨酯合成方法，合成过程是先将二
+异氰酸酯和二元醇在丙制溶剂中反应生成高粘度预聚体，
+朝业胺/酮连氮法是在聚氨酯离子体预聚物中加人前业胺和前连氮，然后加
+成聚氨酯乳液。此方法需要在高剪切力的条件下，强力分散
+（1）多异氰酸酯（.5.11）
+制备水性聚氨酯的芳春族二异氰酸酯有甲苯-2.4二异氰酸酯和二苯基甲烷二
+防族和酯环族二异氰酸酯合成的水性聚氨酯具有更好的耐水解性、抗氧
+制备水性聚氨酯常用的低聚物多元醇种类较多，主要包括聚碳酸酯二元酯
+脂类多元醇由于酯键的存在，能赋予水性聚氨酯材料更好的力学性能和机械强度
+聚髓多元醇中的髓键使得合成的水性聚氨酯具有更好的低温柔顺性和良好的耐水
+有较高的稳定性
+制备水性聚氨酯需要使用扩链剂，扩链剂可以分为普通小分子扩链剂和亲水
+来越多的新型可再生亲水扩链剂已经被研发出来。Hasan等Bl利用葵花籽油合
+稳定性、水接触角和玻璃化转变温度（Tg）显着提高。
+程度最高的产品使用的扩链剂为二乙烯三胺，
+轻基酸，在合成过程中将坏氧化的葵花籽油用甲醇进行开坏反应
+在制备离子型水性聚氨酯时需要加入成盐剂来中和分子链段中的羧基、磺配
+在制备脂肪族和酯坏族水性聚氨酯的过程中需要加人一些催化剂，因为
+族和酯环族二异氰酸酯的-NCO基团反应活性较低，在
+在制备聚氨酯预聚物过程中，有时预聚物的粘度过大，不仅不利于后续反应，
+水性聚氨酯材料的改性一直是近年来的研究热点，尤其是对于单组分水性聚
+氨酯材料的改性，单组分水性聚氨酯由于其具有的线形结构，在耐水性、耐候性、
+机械性能和热力学性能上均有所欠缺，且单组分水性聚氨酯材料的合成工艺较
+更，重复性能较好，所以对于单组分水性聚氨酯材料的改性的研究一直较
+关改性，联合改性指的是使用以上两种或两种以上的方法共同对水性聚氨酯
+表1-2水性聚氨酯的改性方法介绍
+VPU的水蒸气渗透率，赋予WPU材料良好的透气性
+聚氨酯材料分为单组分和双组分两种，其中双组分聚氨酯材料由于性能优异
+占到了聚氨酯材料市场的80%以上。但由于溶剂型双组分聚氨酯材料含有挥发性
+有机溶剂，对环境伤害较大，20世纪90年代后，对双组分水性聚氨酯的基础理论
+交联度，更好的机械性能、耐化学性和耐候性
+1.3.1水性多异氰酸酯组分
+水性异氰酸酯组分是双组分水性聚氨酯合成过程中的难点，水性多异氰酸酯
+京酸酯基团和水具有较高的反应活性
+的水性多异氰酸酯固化剂在水性聚氨酯材料市场上具有举足轻重的地位，已经成
+一种是外加乳化剂法，即使用乳化剂以物理
+过酯化反应、封团反应以及Fnies重排反应，制备了十八种吡啶酚类、喹嘛酚
+闭型异佛尔前二异鼠酸酯水性多异鼠酸酯组分。下
+性多异氰酸酯组分的方法：
+在多异氰酸酯结构中引入非离子亲水基团使其获得亲水性能即为非离子法亲
+形成结品，同样不能使多异氰酸酯获得很好的亲水性。非离子法亲水改性水性多
+异氰酸酯的反应式如图1-5和1-6所示
+图1-6脂肪族非离子亲水改性方法
+Fig.1-6Ahphatichonionicnydrophiliicmodificationmctnoc
+在多异氰酸酯结构中引入阴离子基团使其获得亲水性能即为阴离子法亲水改
+主要引人的基团为羧基基团和酸基团，引人亲水基团后用三乙胺等成盐剂
+工中和，使其反应牛
+生成-COO和-SO基团，使多异氰酸酯组分获得亲水性，
+阴离子法亲水改性水性多异氰酸酯的反应式如图1-7所示：
+图1-8混合亲水改性方法
+Fig. 1-8 Mixed hydrophilic modification mcthod
+3）阳离子法合成水性多异氰酸酯组分
+在多异氰酸酯结构中引入阳离子基团使其获得亲水性能即为阴离子法亲水改
+多异氰酸酯可以使同时用阴离子法和非离子法来进行亲水改性，在合成过程
+1.3.2水性羟基组分
+分水性聚氨酯材料的机械性能、热力学性能、耐水耐溶剂等性能有重大影响
+还影响者成膜过程中水性多异氰酸酯组分的分散程度。水性
+分性能对比如表1-3所示3.29
+表1-3水性羟基组分分类
+Tab. 1-3 Water-bascd hydroxyl group classification
+基组分一直是双组分聚氨酯材料的研究的热点，水性羟基组分不仅对
+度高、具有非常好的耐污性能和耐气候性。孔霞使用种子乳液聚合的方法成功
+酯型水性羟基组分，该组分羟值120~140mgKOH/g，他在文章中还讨论了TMP含
+四氢苯酐和14环己烷二甲酸配比、亲水单体和催化剂含量对材料的影响
+聚物和不含羧酸盐的内烯酸共聚物混合制备了新型的聚内烯酸酯分散体，该
+述对异鼠酸脂组分的分散能较好
+性和流变性的影响。结果表明，将MPA加入MPP分散体中，提高了MPA-2K-WPU
+2K-WPU材料的弹性模量和机械强度得到加强，但热力学性能和断裂伸长率均有
+随者人们对水性聚氨酯材料研究的不断深人，水性聚氨酯的应用范围也越来
+一些环保可再生材料也被纳人到了水性聚氨酯的原料体系中，降化
+力学强度和热力学稳定性的影响，最终确定当可再生多元醇含量为50%时WPUU
+将该聚合物通过简单的工艺引入到水性聚氨酯分散体中。通过FTIR和
+证明了糖基化的酯类低聚物被成功引入到WPU的硬段和软段之中，通过引进此聚
+合物，提高了WPU的热阻和玻璃化转变温度
+水性聚氨酯材料在生物降解、生物相容性和抗菌材料中的应用也越来越多
+Arantzazu等I将MelissaofficinalisL和SalviaofficinalisL两种具有抗菌活性的提
+按合成了高稳定性的交联水性聚氨酯（CPTMGPU）。制备的CPTMGPU薄膜上
+层抗菌（GOAS）下层防污（PEG），有很高的交联稳定性并且呈现出可循坏的
+建康细胞没有明显的细胞毒性，也不会对周围组织和一般免疫系统产生急性刺激，
+非常适用于生物医学装置。Lee等∞使用聚丙二醇、HMDI、DMBA、异氰酸酯丙
+为WPU提供了交联和生物降解性能，其分子结构可用于合成各种溶胶-凝胶
+高固含量的水性聚氨酯乳液也被合成出来。Cai等l使用特殊的物理混合方法
+将粒径分布窄的小粒径水性聚氨酯（WPU-S）和大粒径水性聚氨酯（WPU-L）混
+合制备了粒径呈双峰分布的高固含量水性聚氨酯（WPU-H）。此物理
+其中亚麻籽油为愈合剂。将该石墨烯胶囊嵌入到水性聚氨酯基体中合成出具有自
+此外，CPTMGPU薄膜在生物体外和体内都具有潜在的生物相容性，
+该乳液可以用于开发具有实时pH传感性能、环保性的高荧光智能涂料和纺织品。
+和改性大多是在单组分水性聚氨酯分散体的基础上进行的，对于
+料的改性较少。双组分水性聚氨酯材料由于拥有更多的交联结构，在机
+学和射磨性等性能上可以与溶剂型双组分聚氨酯材料相媲美。随
+分水性聚氨酯材料的需求日益增加，双组分水性聚氨酯材料将逐渐取代浴剂型
+本论文将重点研究两种不同的芳香族水性多异氰酸酯组分和一种水性聚氨
+才料一直近年来的研究热点，水性聚氨酯分散体不仅可以通过和
+物乳液共聚，还可通过无机材料对其改性获得新的性能。但是这些共
+三要原料，其余研究中则多是使用拜耳公司生产的亲水固化剂。
+，三乙胺作为中和剂，合成一种水性聚氨酯型多元醇分散体
+（3）在上述合成水性聚氨酯型多元醇分散体的基础上，通过改变以上原料配
+（4）将合成的水性多异鼠酸酯组分和水性聚氨酯多元醇组分复配固化制备
+系列的芳春族双组分水性聚氨酯材料，并对其各方面性能进行测试表征和分析。
+第二章芳香族非离子型水性聚氨酯材料的制备
+水性多异氰酸酯组分需要良好的水分散性及稳定性，使其能够均匀的分前
+基组分复配固化成一系列的双组分水性聚氨酯材料，并对这些材料进行了热力学
+力学、红外光谱和接触角的测试分析，
+2.1实验药品及仪器
+实验中涉及的主要原料和试剂见表2-1。
+Tab. 2-1 Matcrials and reagents
+基组分中。水性多异氰酸酯组分需要有一定含量游离的-NCO基团，所以在
+第二童芳香族非离子型水性聚氨能材科的制备
+黑龙江大学硕士学位论文
+2.2非离子型水性多异氰酸酯组分的制备
+2.2.1原料的选择
+（1）甲苯-2.4-二异氰酸酯（TDI）
+当TDI与-OH反应时，TDI中的两个-NCO基团产生诱导效应，其中一本
+合成水性多异氰酸酯组分时需要再其分子结构中引入具有一定亲水性的支链
+基，与TDI进行反应时不会生成分子量过大的聚合物而导致水溶性降低。
+链段如果过短就不能对多异氰酸酯分子进行很好的包裘，使其不
+般选用相对分子质量在120~1040之间的MPEG，聚乙二醇单甲醚日
+第二章芳香族非离子型水性聚氨酯材料的制备
+本文选用相对分子量为550的MPEG
+在聚氨酯分子中亲水乳化剂构成其软链段，DMPA和小分子扩链剂则构成案
+发。聚氨酯分子的硬链段决定了它的力学性能
+能，所以本文选择TMP作为小分子扩链剂
+非离子型水性多异氰酸酯组分的合成反应式如图2-1所示。
+（1）在70°C的油浴下，将配方量的TDI和内酮溶剂加入到装有搅拌器和回
+反应1h。反应完毕后冷却至室温，在高速搅拌下，向装置中滴加去离子水进行乳
+大分子二元醇是合成水性聚氨酯多元醇的主要原料，近期使用聚碳酸酯二元
+尊作为聚氨酯型水性轻基组分合成原料的报道较少。
+溶液，滴加完成后继续回流反应1h。之后加人计量的MPEG，细
+黑龙江大学硕士学位论文
+图2-1非离子水性异氰酸酯组分的合成过程
+图2-1非离子水性异氰酸酯组分的合成过程
+Fig. 2-1 Synthesis of 1
+第二章芳香族非离子型水性聚氨酯材料的制备
+二解制得面成的
+指二元醇和聚醚二元醇相比，PCDL可以被用做生
+相容性材料，并且使用PCDL合成的聚氨酯材料表现出更好的耐水性和耐老化
+6及更高的机概性能和时低温件能。在合成过程中使用缴脂元能的缴氨
+醇作为低聚物二醇来合成水性轻基组分
+二轻甲基内酸（DMPA）的熔点为189C，因为具有新戊基结构，所以它的拆
+水性和耐热性都非常好，而且DMPA常温下为白色品体，贮存非常方便，本文选
+预聚体，TMP的作用同上。
+水性聚氨酯多元醇分散体的合成反应式如图2-2所示。TDI先与聚乙二醇单甲
+在80C油浴下，将TDI、DMPA、PCDL和NMP加入到装有搅拌器和回流冷
+凝管的三口烧瓶中，回流反应2h。反应结束后将TMP加人到装置中继续回流反
+黑龙江大学硕士学位论文
+图2-2水性聚氨酯多元醇分散体的制备过程
+Fig. 2-2 synthesis of polyurethane polyol aqucous dispcrsior
+第二章芳香族非离子型水性聚氨酯材料的制备
+2.4双组分水性聚氨酯材料的制备及表征
+2.4.1双组分水性聚氨酯材料的制备
+将配方量的水性多异氰酸酯组分和经基组分按一定当量
+烧瓶中，快速揽拌。10min后，将混合物倒人聚四氟乙烯模其中，然后在室温下
+1）傅里叶红外光谱测试（FT-IR）
+使用Nicolet公司的Magna-IR560E.S.P型傅立叶变换红外光谱分析仪，多
+酸酯组分和多轻基组分米用漠化钟压片法测量，聚氨酯材料测
+范围：4000~400cm：分辨率：4cm：扫描次数：20次。
+（2）贮存稳定性测试
+通过台式离心机加速沉降实验模拟。将组分乳液放置到L-420型离心机中
+选择8000r/min的转速，离心15min，如果乳液没有沉淀或絮凝现象，则认为乳
+用双面胶将大小为20mmx10mm的待测聚氨酯材料粘在玻璃片上，然后使用
+称取6~10mg的聚氨酯材料（剪碎）样品装入氧化铝坩埚中，放入热重分析
+温度范围为35C~800℃
+采用日本SIⅡINanoTechnologyInc.的DMS6100型动态力学分析仪在拉伸模式
+对聚氨酯材料进行动态热力学分析。试样的测量温度范围在25℃～120℃之
+使用CMT5504型微机控制电子万能试验机进行断裂伸长率和拉伸强度测
+每个样品测试三次取平均值，拉伸速度为50mm/min，将聚氨酯材料剪裁成尺寸为
+×1mm的哑铃型。拉伸强度的计算公式如式2-1所示
+其中P为断裂前试样承受的最大载荷，d为试样的厚度，b为试样的宽
+采用海宝仪器有限公司的LD-型部氏硬度仪，对材料进行硬度分析，
+盐酸乙醇标准溶液浓度的计算公式如式2-2所示
+第二章芳香族非离子型水性聚氨酯材料的制备
+50C油浴锅中加热30min，冷却后，移取50mL无水乙醇溶液进行稀释，并加
+漠甲酚绿无水乙醇指示剂。用盐酸乙醇溶液滴定，溶液由蓝变黄，即为滴定终点
+NCO基含量的计算公式如式2-3所示，
+式中，V：空白试样消耗0.5mol/L的HC1-C2HsOH的体积，mL：
+称取2克左右的多元醇置于磨口锥形瓶中，加入10mL10%邻苯二甲酸酐-无
+C的油浴中加热回流反应1.5h，反应过程中需要将多次摇晃反应装置使反应液均
+0.5000mol/L的NaOH溶液滴定至终点，作空白试样。
+2.5.1TMP含量对水性聚氨酯多元醇分散体的影响
+TMP在水性聚氨酯多元醇分散体的合成过程中起春封端扩链的作用，TMP的
+如人量还影响者水性聚氨酯多元静分散体的经值。在保
+TMP进行水性聚氨酯多元醇分散体的制备，合成的多元醇分散体的产品性状、贮
+存稳定性和羟值如表2-3所示
+表2-3水性聚氨酯多元孵分散体
+Tab. 2-3 Waterbormne polyurethane polyol dispcrsions
+从上表可知，随着TMP含量的增加，乳液由透明转为为乳白色，这是由于TMP
+的扩链作用，使得聚氨酯多元醇分子交联程度增大，从而使得乳液的粒径增大，
+酯多元醇分散体时，TMP的加人量为9%最佳，
+DMPA为亲水乳化剂，对于聚氨酯多元醇分散体的在水中的分散性起着至关
+重要的作用，在保证TDI、PCDL、TMP和溶剂含量不变的实验条件下，分别加
+第二章芳香族非离子型水性聚氨酯材料的制备
+含量为2%、3%、4%、5%、6%的DMPA进行水性聚氨酯多元醇分散体的制备
+合成的多元醇分散体的产品性状和贮存稳定性如下表2-4所示：
+表2-4水性聚氨酯多元醇分散体
+Tab.2-4Watertome polvurethanepolvoldispcrsions
+从上表2-4中可以知道，随者DMPA含量的增加，聚氨酯多元醇水分散体的
+是由于聚氨酯多元醇分子上含有较少的亲水基团时，不易分前
+聚氨酯材料的耐水性，所以合适的DMPA加人量为5%左右。
+在使用DMPA作为亲水乳化剂合成水性聚氨酯多元醇时，需要在加入水乳化
+前加入成盐剂中和DMPA中的-COOH，本文选用的成盐剂为三乙胺，加入三乙胺
+的实验条件下改变中和度，中和度对水性聚氨酯多元醇分散体的影响见表
+液状态不再变化，而且产物中会有游离的三乙胺存在。游离的三乙胺可能会使体
+系变黄，且提升粘度，所以中和度为100%时最合适。
+表2-5水性聚氨酯多元醇分散体
+Tab.2-5Watertomepolvurethanepolvoldispcrsion
+当DMPA含量为5%，中和度为100%时合成的水性聚氨酯多元醇组分如下图
+2-3中石图所示，左图为加水乳化前的聚氨酯多元醇。
+图2-3乳化前和乳化后的聚氨酯多元静组分照片
+Fig. 2-3 The photos of pre-cmulsitied and emulsitied polyurethane polyol dispcrsio
+2.5.4水性多异氰酸酯合成方法的确定
+合成水性多异氰酸酯主要有以下6个方案，如表2-6所示，分别改变了原料
+的加入顺序和加入配比。
+从表2-6中可知，实验方案1、方案4和方案6均成功乳化。先加入TDI的反
+应方案乳化成功的较少，由于TMP含有三个羟基，且TDI的中的异氰酸酯基团反
+反应中，由于先使用MPEG进行亲水改性，所以成功方案较多，方案5由于加入
+第二章芳香族非离子型水性聚氨酯材料的制备
+以优先选取方案6为最佳合成方案，
+表2-6水性多异氰酸酯组分的合成方案
+Tab. 2-6 Synthesis of water-based polyisocyanate component
+方案1与方案6均成功的合成了水性多异氰酸酯组分，方案1中小分子扩
+复杂，先加人TDI和TMP会优先生成TDI-TMP加成物，这一加
+优先被MPEG亲水改性，有一些TDI的两个异氰酸酯基团可能都会被反应生成线
+形分子，再加入TDI时，生成的TDI-TMP加成物较少，这些都可能会降低聚氨酯
+材料性能，所以不能只从TMP的加入量，或是-NCO的含量来判断两种合成方案
+的优劣。所以将方案1和方案6合成的两种水性多异氰酸酯组分进行贮存稳定性
+量较低，但是异氰酸酯基团的含量较多，方案6中TMP含量较高异
+基团含量较低。在合成过程中，TDI、TMP和MPEG之间发生的反应较为
+方案1和方案6合成的水性多异鼠酸酯组分与水性聚氨酯多元醇组分混合固
+学性能如表2-8所示。
+表2-7水性多异氰酸酯组分的贮存稳定性
+S s     
+表2-8水性聚氨酯材科的力学性能
+Tab. 2-8 Mechanical properties of waterborne polyurethane materials
+从表2-7可以知道，方案1和方案6合成的水性多异氰酸酯组分在8000r/min
+的转速下均无破乳现象，在水中贮存稳定性均很好。图2-4为两种多异氰酸酯组分
+这与二，胺法对-NCO基团含量分析的结果相符，
+表2-8中可以看到，在力学性能测试中，方案6合成的聚氨酯材料具有更高的
+图2-6为两种聚氨酯材料的储能模量对比图，方案1、6的储能模量分别为58
+MPa和200MPa。图2-7的热失重曲线可以看出，方案6合成材料的热稳定性要好
+第二章芳香族非离子型水性聚氨酯材料的制备
+腺这一结构，所以340°C后具有更好的耐热性
+图2-5非离子水性聚氨酯的DMA测试
+Fig. 2-5 DMA analysis for Non-ionic waterborne polyurethan
+较高，与聚氨酯多元醇水分散体混合固化后更容易生成聚氨酯
+图2-6非岛子水性聚氨酯的DMA测试
+Fig. Z-6 Storage modulus analysis for Non-1onic waterborne polyurethane
+图 2-7 非离子水性聚氨酯的TGA测试
+从上面的结论来看，方案6合成的水性多异氰酸酯组分与羟基组分复配固
+后在力学和热力学方面都有者更好的性能。这应该是由于实验6中TMP的含量更
+些，由于TMP是三官能度扩链剂，所以合成的聚氨酯材料含有更多的交联结
+，在力学和热力学方面性能更加优异。所以水性多异氰酸脂组分的合成最佳方
+第二章芳香族非离子型水性聚氨耐材料的制备
+案为方案6，优先加人MPEG后再加人TMP进行扩链。
+由方案6合成的水性多异氰酸酯组分，如图2-8所示，左图为加水乳化前的多
+异氰酸酯组分，右图为加水乳化后的多异氰酸酯组分。
+图2-8乳化前和乳化后的多异氰酸酯组分照片
+Fig- 2-8 The photos of pre-emulsified and cmulsitied polyisocyanate component
+非离子法多异氰酸酯组分、聚氨酯多元醇和双组分聚氨酯材料的FT-IR测试分
+从图2-9可以看出，多异氰酸酯组分含有游离的-NCO基团，聚氨酯多元醇含
+有游离的-OH基团，双组分聚氨材料中两种基团均消失，说明两组
+成功地合成了双组分水性聚氨酯材料，表2-9中列举了各特征基团的吸收峰
+改变水性多异氰酸酯组分中的TMP的含量，合
+1.1、1.3、1.5的聚氨酯材料，并对这些材料进行FT-IR的测试
+值分别为1.1、1.3、1.5时均成功的合成了聚氨酯材料
+表2-9非离子2K-WPU的FT-IR分析
+Tab. 2-9 Assignment of the main IR bands in the FT-1R spectra of the polyurethanes
+第二章芳香族非离子型水性聚氨酯材料的制备
+图2-10非离子2K-WPU的FT-IR分析，
+(a) TMP-1,(b) TMP-0.75
+Fig. 2-10 FT-IR s
+of non-ionic 2K-WPU,
+非离子型水性多异氰酸酯组分（TMP-1）和水性羟基组分按照R值为1.1、1.3
+1.5复配成聚氨酯材料1.1-1、1.3-1、1.5-1。水性多异氰酸酯（TMP-0.75）
+轻基组分按照R值为1.5复配固化成聚氨酯材料1.5-0.75。同时合成
+多异氰酸酯组分，其中扩链剂TMP的用量为0.75mol，DEG的用量为0.25mol
+2-11和图2-12所示，表2-10中为不同阶段的分解温度，
+从图2-11和表2-10可以看出，当TMP的加入量为1mol时，R值从1.1到1.5
+团就越多，可以形成更多的交联结构，而且还可以生成脲和脉基甲酸酯。脲
+高的热稳定性。
+在图2-11中，对比1.5-1、1.5-0.75、1.5-0.75-0.25三条曲线可以知道，当TMP
+高，与聚氨酯多元醇分散体混合后生成的腺键更多一些
+Fig. 211 Thermogravimetric analysis of Non-ionic 2K-WPU
+聚氨酯的分解是一个较为复杂的过程。从图2-12的DTG曲线，我们知道聚要
+指材科的分解从12
+0℃左右开始，第一阶段主要是水、残留溶剂的蒸发和残留低
+为0.75mo1时，合成的聚氨酯材料热稳定性最低，在TMP-0.75的基础上
+5-0.75-0.25，这可能是是由于其合成的水性多异氰般酯剩余的-NCO含量
+立物的分解。丛约24
+40C开始第二分解阶段的分解，这个阶段主要是氨基
+第二章芳香族非离子型水性聚氨酯材料的制备
+Tab. 2-10 Thermal decomposition temperatures of non-ionic 2K-WPU
+对按照2.7.5的合成方法合成的一系列聚氨酯材料1-1.1、1-1.3、1-1.5、1.5-0.75
+0.75-0.25进行动态热力学分析，玻璃化转变温度（7）和储能模量（E）的测
+试如图2-13和图2-14所示
+材料的玻璃化转变温度从49℃增加到53C。高的R值使得-NCO与水性聚氨酯
+多元醇中的水和氨基甲酸酯键生成了更多的腺和脉基甲酸酯。氨基
+当-NCO/-OH的比值从1.1增加到1.5时，双组分聚氨酯
+动，如果要使链段运动，就需要一个更高的温度。随者R值的增加，聚氨酯
+氢键数量增加，玻璃化转变温度升高
+Fig. 214 Storage modulus analysis of Non-ionic 2K-WPU
+此外，从图2-13中我们也可以看出，聚氨酯材料1.5-1具有最高的玻璃化转变
+度，聚氨酯材料1.5-0.75的玻璃化转变温度最低，这是由于随者TMP含量的增
+键，氢键的形成可以降低聚合物的目由体积并阻碍链段的运
+第二章芳香族非离子型水性聚氨酯材料的制备
+的运动，因此会提高玻璃化转变温度
+图2-14显示的是聚氨酯材料的储能模量，从图中可以者出，随者R值和TMP
+增多限制了聚氨酯分子链段的原因
+2.5.8水接触角分析
+对按照2.7.5的合成方法合成的一系列聚氨酯材料进行水接触的分析，结果如
+Fig. 2-15 Water contact angle
+加入，合成的聚氨材料具有更高的交联度，这会阻止聚氨酯分子链段
+64°。随者-NC
+H比值的增加，WPU材料的水接触角先增大后减小
+首先，随着-NCO/-OH比值的增加，分子之间的化学交联增加，氢键含量增高
+响要大于交联结构和聚氨酯值分子内部氢键的影响。
+兑明亲水性有所降低
+能是由于高交联度使得聚氨酯分子在表面世形成了更多
+2.5.9力学性能分析
+对按照2.7.5的合成方法合成的一系列聚氨酯材料进行拉伸强度、断裂伸长率
+和硬度的测试，结果如表2-11所示
+表2-11非离子2K-WPU的力学性能测试
+Tab. 2-11 Mechanical properties analysis of Non-ionic 2K-WPU
+第二章芳香族非离子型水性聚氨酯材料的制备
+从表2-11可以得知，随着R值的增加，WPU材料的拉伸强度和硬度逐渐增大
+断裂伸长率逐渐减小。通过前面的分析，可以知道，R值的增大，使得游离的-
+氨酯材料力学性能提高，所以扩链剂的种类和含量对聚氨酯材料的力学性能有者
+2.6本章小结
+（1）本章使用非离子法合成了一种新的水性多异氰酸酯组分，确定了在合成
+过程中先加入MPEG后加入TMP的最佳合成方法。该合成方法简便，合成过利
+聚氨酯多元醇组分的影响，当TMP含量为9%、DMPA含量为5%、中和度为100%
+时合成的水性聚氨酯多元醇组分性能最好
+体按照-NCO/-OH的比值为1.5复配固化后形成的聚氨酯材科具有最好的力
+拉伸强度为4.88MPa、断裂伸长率为315.11%、水接触角为66.4°
+能和蔬水性。其中玻璃化转变温度为53C、储能模量为210MPa
+第三章芳香族阴离子型水性聚氨酯材料的制备
+在水性多异氰酸酯的合成方法中，多是使用非离子亲水改性剂对多异氰酸酯
+且分进行改性，像前面提到过的拜耳公司生产的亲水固化剂，极少
+本文合成的水性多异氰酸酯组分与合成的水性聚碳酸酯多元醇分散体复配成
+系列的双组分水性聚氨酯材料，并对这些材料进行FT-IR、DMA、TGA、水接
+见第二章表2-1和表2-2
+3.2阴离子型水性多异氰酸酯组分的制备
+3.2.1原料的选择
+本合成方案中，二异氰酸酯选择甲苯-2，4-二异氰酸酯（TDI），二元醇选用聚
+用可以降低聚合物的交联度，使合成的水性多异鼠酸酯组分更易被乳化
+在水性聚氨酯多元醇分散体的基础上，设计合成了阴离子型水性多异氰酸酯
+疫酯组分。阴离子法主要用于合成单组分水性聚氨酯和水性轻基
+Fig. 31 Synthesis of anionic polyisocyanate aqucous dispersior
+3.2.3实验步骤
+在80°C的油浴加热条件下，将配方量的TDI和NMP溶剂加入到装有搅拌器
+的NMP溶液，待其完全加人后，继续向体系中缓慢滴加含有PCDL的内前溶液
+3.3.1双组分水性聚氨酯材料的制备
+将配方量的水性多异氰酸酯组分和经基组分按一定当量比混合后加入到三口
+烧瓶中，快速搅拌。10min后，将混合物倒入聚四氟乙烯模具中，将此模具放入
+3.3.2双组分水性聚氨酯材料的表征方法
+包括傅里叶红外光谱测试（FT-IR）、贮存稳定性测试、水接触角测试、热重
+物中-NCO基含量的分析和羟基组分羟值的分析等，详细方法见2.4.2
+3.4.1-NCO/-OH的比值对水性多异氰酸酯组分的影响
+3.4.1-NCO/-OH的比值对水性多异氰酸酯组分的影响
+NCO含量过高会导致亲水性变差，甚至乳化失败，所以合理的-NCO/-OH比值（
+第三章芳香族阴离子型水性聚氨酯材料的制备
+1.5、1.65、1.75的五种配万，由此合成的水性多异氰酸酯组分的性状如表3-1所示
+表3-1阴离子水性多异氧酸酯组分
+Tab. 3-1 Anionic waterborme polyisocyanate dispersions
+从表3-1可以知道，随者R值的增加，合成的水性多异氰酸酯组分粒径变大
+团的含量过高，加入的亲水基团不足以使其具有亲水性能，所以在合成的过程中，
+3.4.2原料加入方式对水性多异氰酸酯组分的影响
+在合成水性多异氰酸酯组分的过程中，原料的加入方式对实验的成功与否起
+者非常重要的作用，由于TDI上的-NCO基团反应活性非常高，所以在加入低聚物
+定性变差，当R值为提高到1.65和1.75时，加水乳化的过程中，有白色固
+不同合成方案对水性多异氰酸酯组分的影响如表3-2所示
+表3-2阴离子水性多异氰酸酯组分
+Tab. 3-2 Anionic waterborme polyisocvanate dispersion:
+方案2：在加人DMPA、PCDL、TMP和DEG时，直接一次性加人，其中DMF
+溶解在NMP溶剂中，TMP溶解在内前溶剂中
+万案3：在加人DMPA、PCDL、TMP和DEG时，每种原料均分三次加人
+如人间隔为20min，其中DMPA和TMP以固体方式直接加人
+海次加入间隔为20min，其中DMPA溶解在NMP溶剂中，TMP溶解在丙酮溶剂
+1人方式，并探究了他们对水性多异氰酸酯组分的合成的影响。
+第三章芳香族阴离子型水性聚氨酯材料的制备
+缓慢滴加：TMP和DEG溶解在丙酮溶剂中，缓慢滴加，PCDL使用丙酮稀释
+从上表3-2可以看出，原料的加入方式对阴离子法合成水性多异氰酸组分的合
+成非常重要，在加入TMP和DEG之前，体系的粘度较高，如果直接加入TMP和
+DEG可能会引起局部爆聚，尤其是TM化直接以固体的形式加人。将约品中的固
+实验选用方案5作为原料的加入方式
+由方案5合成的水性多异氰酸酯组分如图3-2所示，左图为加水乳化前的多异
+鼠酸酯组分，石图为加水乳化后的多异氰酸酯组分。
+图3-2乳化前和乳化后的多异氰酸酯组分照片
+Fig. 3-2 the photos of pre-cmulsificd and cmulsified polyisocyanate componcni
+3.4.3扩链剂对水性多异氰酸酯组分的影响
+在合成水性多异氰酸酯组分的过程中，扩链剂的种类和加入量不仅会影响
+的性状如表3-3所示。
+从表3-3可以看出，随者三官能度扩链剂TMP含量的增加，阴离子水性多异
+导致合成的乳液粒径增大，贮存稳定性变差。将上表中乳化成功的三个方案
+分分别与上一章合成的水性聚氨酯多元醇组分混合固化，并对合成的双组分水
+聚氨酯材料进行了DMA和力学性能的测试，如图3-3和表3-4所示
+表3-3阴离子水性多异氰酸酯组分
+Tab. 3-3 Anionic waterborme polyisocyanate dispersions
+表3-4阴离子2K-WPU的力学性能测试
+从图3-3可以看出，随春TMP含量的增加，玻璃化转变温度逐渐开高，这是
+由于TMP可以生成交联结构，可以降低聚氨酯分子的自由体积，阻碍其链段的运
+从图3-3可以看出，随者TMP含量的增加，玻璃化转变温度逐渐升高，这是
+由于TMP可以生成交联结构，可以降低聚氨酯分子的目由体积，阻碍其链目
+第三章芳香族阴离子型水性聚氨酯材料的制备
+生成的更多的交联结构，赋予了聚氨酯材料更好的力学性能。本实验选用TMP
+（0.5mol）-DEG（0.5mol）的扩链剂组合
+图3-3阴离子 2K-WPU 的 DMA分析
+Fig. 3-3 DMA analysis of anionic 2K-WPU
+阴离子法制备的多异氰酸酯组分、聚氨酯多元醇和双组分聚氨酯材料的FI-TR
+测试分析如下图3-4、3-5和表3-5所示
+从图3-4中可以知道，阴离子法合成的水性多异氰酸酯组分含有游离的异氰酸
+在合成双组分聚氨酯材料时，通过改变混合固化时的-NCO/-OH（R值），个
+了一系列的R值分别为1.1、1.3、1.5的聚氨酯材料，并对这些材料进行了FT-IR
+的测试，如图3-5所示，从图中可以知道，-NCO和-OH反应完全，R值分别为1.1、
+图3-5阴离子2K-WPU的FT-IR分析
+Fig. 3-5 FT-IR analysis of anionic 2K-WPU
+表3-5中列举了各特征基团的吸收峰。
+5b
+第三章芳香族阴离子型水性聚氨酯材料的制备
+表3-5阴离子2K-WPU的FT-IR分析
+Tab. 3-5 Assignment of the main IR bands in the FT-IR spectra of the polyurethanes
+3.4.5热失重分析
+阴离子型水性多异氰酸酯组分和水性羟基组分按照R值为1.1、1.3、1.5
+固化成聚氨酯材料1.1、1.3、1.5。Tg曲线如图3-6所示，表3-6中为不同阶段的分
+从表3-6中可以知道，阴离子型水性聚氨酯与非离子型水性聚氨酯制备遵循者
+中融最。-
+1-结构比-NHCOO-结构具有更高的热稳定性，所以成膜的
+基团增多，可以形成更多的交联结构，而且还可以生成脉和脉基
+黑龙江大学硕士学位论文
+酯）的分解，第三分解阶段分解约从340°C左右开始，主要是聚（氨基甲酸酯-脲）
+图3-6阴离子2K-WPU的TGA分析
+Fig. 3-6 Thcrmogravimctric analysis of anionic 2K-WP(
+表3-6阴离子2K-WPU的热分解温度
+Tab. 3-6 Thermal decomposition temperature of anionic 2K-WPU
+3.4.6动态热力学分析
+对合成的R值分别为1.1、1.3、1.5的聚氨酯材料进行动态热力学分析，玻理
+第三章芳香族阴离子型水性聚氨酯材料的制备
+从图3-7可以知道，随者R值的不断增加，合成的水性聚氨酯材料的玻璃化
+转变温度逐渐增高，这与非离子法聚氨酯的趋势相同。这也是由于-NCO/-OH
+的增高，体系中游离的-NCO基团逐渐增加，与水性聚氨酯多元醇组分混合后，与
+黑龙江大学硕士学位论文
+降低了聚氨酯分子的自由体积，阻碍了聚氨酯分子链段的运动，所以
+温度提高，
+增高，储能模量反应了材料的弹性，当R为1.5时，合成的水性聚氨酯材料具有更
+高的弹性，储能模量的增加也是由于氢键的增加。
+3.4.7水接触角分析
+对合成的R值分别为1.1、1.3、1.5的一系列聚氨酯材料进行水接触的分析，
+图3-9中，a
+c分别为-NCO/-OH比为1.1、1.3、1.5的聚氨酯材料的水接
+触角测试图，1.1、1.3、1.5的聚氨酯材料的水接触角分别为79.5”、83！
+以知道，阴离子型的聚氨酯材料储能模量也随者R值的增加而
+第三章芳香族阴离子型水性聚氨酯材料的制备
+对合成的R值分别为1.1、1.3、1.5的一系列聚氨酯材料进行拉伸强度、断裂
+表3-7阴离子2K-WPU的力学性能测讨
+Tab. 3-7 Mechanical properties analysis of anionic 2K-WPU
+从表3-7可以看出，随者R值的增加，水性聚氨酯材料的拉伸强度和硬度也
+加，聚氨酯内的氢键逐渐增加，这赋予了水性聚氨酯材料良好的力学性能。
+3.4.9几种水性多异氰酸酯组分合成方法的介绍
+在探索和优化以上两种水性多异氰酸酯组分制备方法的过程中，制备出了三
+种新的水性多异氰酸酯组分，合成原理如图3-10、3-11和3-12所示
+其中包括两种阴离子和非离子混合亲水改性多异氰酸酯组分（方法1和方法2
+多羟基组分复配固化合成的水性聚氨酯材料进行表征分析，下面
+这三种制备方法的实验步骤和反应原理
+方法1：在70C的油浴加热下，将配方量的TDI和内酮溶剂加人到装有搅择
+，得到水性多异氰酸酯组分，反应原理如图3-10所示
+图3-10混合型水性多异配酸脂组分的制备
+Fig. 3-10 Preparation of mixcd polyisocyanate aqucouscomponents
+方法2：在70C的油浴加热下，将配方量的TDI和丙酮溶剂加入到装有搅拌
+器和回流冷凝管的三口烧瓶中，回流搅拌。混合均匀后，加人DMPA、NMP和PCDL
+方法3：在70C的油浴加热下，将配方量的TDI和内酮溶剂加人到装有揽拌
+，滴加完成后，继续滴加含有PCDL的丙酮溶液。滴加完成后，继续反应
+第三章芳香族阴离子型水性聚氨酯材料的制备
+图3-11混合型水性多异氰酸酯组分的制备
+Fig. 3-11 Prcparation of mixcd polyisocyanate aqucous components
+图3-12非离子水性多异氰酸酯组分的制备
+Fig. 3-12 Preparation of non-ionic polyisocyanate aqucous componcnts
+3.5本章小结
+（1）本章使用阴离子法合成了一种新的水性多异氰酸酯组分，并确定了当R
+2）多异氰酸酯组分与聚氨酯多元醇水分散体按照-NCO/-OH的比值为1.5
+复配固化后的水性聚氨酯材料具有最好的力学性能、热力学性能和疏水性。其
+玻璃化转变温度为64C、储能模量为800MPa、拉伸强度为12.51MPa、断条
+长率为197.68%、水接触角为83.9°。
+（3）介绍了两种阴离子和非离子混合亲水改性多异氰酸酯组分以及一种
+子亲水改性多异氰酸酯组分的方法
+第四章两种水性聚氨酯材料的对比分析
+非离子法和阴离子法合成的双组分的水性聚氨酯材料，由于使用的原料不同
+来对这两种双组分水性聚氨酯材料进行性能比较和分析
+4.2双组分水性聚氨酯材料的制备及表征
+4.2.1双组分水性聚氨酯材料的制备
+将第二章合成非离子法水性多异氰酸酯组分和第三章合成的阴离子法水性
+异氰酸酯组分，分别与水性聚氨酯多元醇分散体以-NCO/-OH比值为1.5的比例
+按照2.4.1和3.3.1的条件固化
+将尺寸为2.0×2.0cm²的样品置于装满去离子水的密闭容器中，分别在1
+h、5h、8h、24h、48h和168h时测试其质量。吸水率计算公式4-1如下
+，W，和W分别是t时刻和初始时刻的质量
+使用连接了一个折射率检测器（Viscotek-VE3580-RI-DETECTOR）的Malvern
+在35C下，以1.0mLmin-的流速进行凝胶渗透色谱法（GPC）测量，并用聚
+（3）包括傅里叶红外光谱测试（FT-IR）、水接触角测试、热重测试、动态热力学
+性能测试（DMA）测试、拉伸测试和部氏硬度测试，详细方法参见2.4.2
+合成的非离子型水性多异氰酸酯组分和阴离子型水性多异氰酸酯组分的GPC
+测试如表41所示：
+表4-1多异氰酸酯组分的相对分子量测试
+Tab. 4-1 GPC analysis of non-ionic and anionic polyisocyanatc
+从表41可以看出，非离子型多异氰酸酯水分散体和阴离子型多异氰酸酯水分
+文体的
+和4.74×10。不同分子
+量和分子量分布主要是由于非离子法和阴离子法使用了不同的扩链剂组合和不同
+和分子量较高的软链段的阴离子法合成的多异氰酸酯组分具有较高的分子量
+非离子法和阴离子法制备的双组分水性聚氨酯材料的红外测试如图4-1、42、
+基团可以生成氢键，由于氢键键合的原因，C一O的键合距离延长并且键合力降低
+动峰和氢键键合的氢键N-H伸缩振动峰。计算两峰的面积可以知道，氢
+建合的氢键人
+中猫振动峰，从图中可以知追，氢键键合的N-H垒团儿乎为10%
+综合两图我们可以发现大部分N-H基团都参与了氢键合
+图4-1WPU1的FT-IR筹卷积光谱：N-H拉伸区域
+Fig. 4-1 deconvoluted of FT-IR spectrum of WPU1: NH stretching region
+图4-3和图4-4分别为WPU1和WPU2中游离的C=O伸缩振动区域和氢键
+氨基甲酸酯中的游离的C=O和来自腺中的游离的C=O的伸缩振动峰分别在
+2-
+和脉中的氢键键合的C（
+描述了通过氢键指数（HBI）计算氢键结合程度的可能性，氢键指数的计算中公式
+其中A（氢键键合的C-O）代表来自氨基甲酸酯中的氢键键合的C=O峰的
+面积，A（游离的C=O）代表来自氨基甲酸酯中的游离C=O峰的面积。根据Caki
+等4的研究，本文引入了一个新的指数HBP，它是氢键炭基脲和游离炭基脲的面
+积比。HBI和HBI指数见表4-2
+表4-2水性聚氨能的HBI和HBI的值
+Tab. 4-2 Hydrogen bonding index (HBI and HBI) as relative areas of FTIR bands in carbonyl
+N-H拉伸区域
+第四章两种水性聚氨醋材科的对比分析
+图4-3WPU1的FT-IR解卷积光谱：C=O拉伸区域
+Fig. 4-3 deconvoluted of FT-IR spectrum of WPU1: C=Ostretching region.
+Fig. 4-3 deconvoluted of FT-IR spectrum of WPU1: C=Ostretching reg1or
+Fig. 4-4 dcconvoluted of FT-iR spectrum of WPU2: C=Ustretching region
+人表4-2中可以看到，WPU1和WPU2的HBI值分别为0.24和0.71。V
+婴高于WPU1。HBI值越高，表
+值较低，则表明硬段和软段之间的兼容性良好。
+表示氨基甲酸酯和尿素基团中生成的氢键越多
+4.3.3热失重分析
+非离子型水性聚氨酯（WPU1）和阴离子型水性聚氨酯（WPU2）的热重
+对比如图4-5、4-6和表4-3所示
+聚氨酯的热分解是一个非常复杂的过程，这在之前的分析有也提到过，从
+4-5中我们可以了解到聚氨酯材料的热分解阶段，这与之前的分析相同。两种膜
+表432K-WPU的分筹阶段
+Iab.4-3ccomnositonstensof2K-WPl
+图4-6为两种聚氨酯的热失重曲线的对比，从图中可以者到WPU1具有更高
+的热稳定性。从图4-6中还可以知道，在热分解阶段后期，情况发生转变，WPU2
+第四章两种水性聚氨酯材科的对比分析
+Fig. 4-6 Thermogravimetric analysis of 2K-WPU
+非离子型水性聚氨酯（WPU1）和阴离子型水性聚氨酯（WPU2）的动态热力
+学分析对比如图4-7所示。从图4-7中可以者到，与WPU1相比WPU2的tan
+其运动，从而使玻璃化转变温度大大提高，
+定性。已经知道在PUD的合成过程中，使用含氧量较低的多元醇
+文量更多，所以含氧量更高，而且WPU2中含有更多的小分子反应
+氢键含量，氢键的形成可阻断链段的运动，因此需要更高的温度来使
+相分离。已知与软链段分离的硬链段可以导致P弹性体的自我增强，使得
+氢键导致了更强的网络内部结合，因此WPU2的储能模量高于WPU1，这个结论
+Fig. 4-7 DMA analysis of anionic 2K-WPU
+4.3.5水接触角和吸水率的分析
+非离子型水性聚氨酯（WPU1）和阴离子型水性聚氨酯（WPU2）的水接触角
+和吸水率的对比如图4-8和图4-9所示
+图4-8中，a、b分别为WPU1和WPU2的水接触角测试图，角度分别为66
+第四章两种水性聚氨醋材科的对比分析
+的界面传播，因此脉和氨基甲酸酯基团中氢键的形成阻碍了水的运输，使得含
+较多氢键的WPU2疏水性好，吸水率低，这与前面的FT-IR分析的得出的结论
+Fig. 4-9 Water absorption analysis of 2K-WPU
+4.3.6力学性能分析
+非离子型水性聚氨酯（WPU1）和阴离子型水性聚氨酯（WPU2）的拉伸强度
+断裂伸长率和硬度的对比如表44所示
+表4-42K-WPU的力学性能测试
+Tab. 4-4 Mechanical properties analysis of 2K-WPU
+从表4-4中可以知道WPU2具有更高的拉伸强度和硬度，WPU1的断裂伸长
+率较高，这些结果与FT-IR、DMA和TGA的分析结果相对应。与之前的分析
+WPU2的高氢键含量赋予了它优异的力学性能，另外
+单甲髓，其柔性较大，使得WPU1的断裂伸长率较高，
+本章主要从红外、热重、动态热力学、力学和疏水性几个方面对比了非离子
+阴离子法合成的聚氨酯材料拥有更高的玻璃化转变温度、拉
+疏水性。两种芳香族水性聚氨酯材料可用作水性涂料、胶黏剂、
+相容性等领域的基体树脂。
+发现，非离子型聚氨酯材料热稳定性和断裂伸长率均较高
+本文主要研究了利用非离子法和阴离子法制备芳香族水性多异氰酸酯组分
+组分水性聚氨酯材料，主要研究结果如下：
+先加入MPEG后加入TMP的最佳合成方法，该合成方法操作简便，合成过程中不
+会出现大量凝胶和爆聚的现象。
+性聚氨酯多元醇组分性能最好。非离子型多异氰酸酯组分与水性聚氨酯多元醇
+1.5、扩链剂TMP/DEG的摩尔比为1、原料溶解于溶剂中并采用滴加的方式合成时，
+酯多元醇水分散体按照-NCO/-OH的比值为1.5复配固化后的水性聚氨酯材料具有
+为0.07。通过对比发现，非离子型聚氨酯材料热稳定性和断裂伸长率均较高，阴
+法合成了一种新的水性多异氰酸酯组分，讨论了原料加人顺
+合成了一种新的水性多异氰酸酯组分，并确定了当R值为
+离子法合成的聚氨酯材料拥有更高的玻璃化转变温度、拉伸强度、储能模量和疏
+水性。两种芳香族水性聚氨酯材料可用作水性涂料、胶黏剂、抗菌材料和生物椎
+容性等领域的基体树脂
+4Nelson A M, Long T M. Synthesis, Properties, an
+李亦垛.水性聚氨酯涂层材料及其性能研究[D].武汉，武汉理工大学，2014
+[7]Athawale V D, Kulkarni M A.Effect of Dicarboxylic Acids on the Performance
+Properties of Polyurethane Dispersions[]. Journal of Applied Polymer Scie
+8Jena K K, Chattopadhyay D K, Raju K V S N, et alSynthesis and characterization of
+iyperbranched polyuret
+12]李赔礼.双组分水性聚氨酯的制备与性能研究[D].南京，南京理工大学，2017
+13]Princi E, Vicini S, Castro K, et al. On The Micro-Phase Separation in Waterbort
+PolyurethanesJ]. Macromoleculer Chemistry Physics, 2009, 210: 879-889
+and NCO/OH ratio flexibly tune the properties of natural rubber-based waterborne
+15Shi Y, Zhan X L, Luo Z H,et al.Quantitative IR Characterization of Urea Groups in
+I/Fuensar
+noplastic polyurethane coatings made
+vithmixturesofpoly
+withpressuresensit
+dhesion property9]. Progress in Organic Coatings, 2018, 118: 148-156
+[18]张芳.聚氨酯及水性聚氨酯纳米复合材料结构及力学性能研究D].长春，
+19]司红艳.马来海松酸改性双组分水性聚氨酯的制备与性能研究[D].北京，中国
+hiez-Garciat,S
+ia-Echart A, Eceiza A, et al. Synthesis and characterization
+23 Guo L, Wang L, Huang S, et al. Synthesis and properties of novel water-dispersible
+Polyurethane Adhesives ContainingDifferent Amount ofIonic Groups （l)）
+ournal of Applied Polymer Science, 2006, 102: 5684-5691
+andthepotei
+pplication asbiomaterial[°]. Progress in Organic Coatings, 2017, 104: 1-10
+管复合材料的制备与表征[1.涂料工业，2015，45：54-59
+[30]李冰.水性聚氨酯涂料的制备、改性及其性能研究[D].天津，天津大学，2006
+31Shendi H K,Omra
+cterization ofa novel
+internalemulsifierderivedfromsunflower oilfor the preparationofwaterbon
+oorne polyurethane-imide dispersion
+from cottonseedoil based ionic polyol[J]. Industrial Crops and Products, 2017,
+35]Fang k,Duan H, Zhang Z, et al.Novel heat-resistance UV curable waterborne
+36AnthuvanJ1,Kalaigniai
+rethane coatings based on
+poxy polyol with polyisocyanate[J]. Paintindia, 2011, 62(2): 73-76.
+37王继印，黄毅萍，陶灿等，二乙醇胺开环环氧树脂改性水性聚氨酯的合成及
+[38]陈聲，郑林禄，郑玉慈.坏氧树脂改性水性聚氨酯的研究进展功].化学工程
+Anthuvan J T, Kalaignan G P, Vincent B J. Synthesis and characteristics of two
+Asian Journalof Chemistrv,2011,23(9):4130-4134
+AsifA,HuLShi
+Synthesis, rheological, and thermal properties of waterborne
+Industrial & Engineering Chemistry Research, 2014, 53(49): 19257-19264
+haracterization of low glos
+43XiangHP.WanigXW.XiL,etal.Eifectofsoftchain
+1lengthandgeneratic
+UV-cured film[J]. Progress in Organic Coatings, 2018, 114: 216-222
+Macromolecular Science, 2014, 51(12): 966-975
+48Yue S,Zhang Z,Fan X, et al.Effect of 3-Aminopropyltriethoxysilaneon Solvent
+copolymerizations[J]. Polymer Bulletin, 2010, 65(5): 477-493
+51]Gurunathan T,Chung JS.Synthesis of aminosilane crosslinked cationomeric
+sistance,Thermal Stability,andMechanicalProperties ofTwo-Componeni
+Colloids and Surfaces A:Physicochem.Eng.Aspects,2017,522: 124-132
+52Yang W,ChengX,W
+/ang H, et al. Surface and mechanical properties of waterborne
+nethacrylates)[J]. Polymer, 2017, 133: 68-77.
+53]Liu T, Pan X,Wu Y, et al. Synthesis and Characterization of UV-curable waterborne
+oolyurethane acrylate possessingperfluorooctanoate side-chainsJ].Journalof
+[55] Kantheti S,Giaddam R R, Narayan R, et al. Hyperbranched polyol decorated carbon
+Rsc Advances, 2014, 4(47): 24420-24427
+[57]范建新.水性聚氨酯/改性无机纳米颗粒复合材料的制备与表征[D].大津，大
+[58] Khatoon H, Ahmad S. A review on conducting polymer reinforced polyurethane
+composites3]. Journal of Industrial and Engineering Chemistry, 2017 53: 1-22
+59]徐文会.水性聚氨酯/四氧化三铁磁性纳米复合材料的制备与性能[D]西
+[60]Kumar M,Jin S C,Kong B S,et al.Synthesis of graphene-polyurethane
+eoxideaspseudo-crosslim
+fromF1,2,3-Triazole-Functionalized Soybean Oil-Based Polyols:Studying their
+Z8
+文质，曾俊康.内乳化-外乳化结合法制备高固含量WPU分散体机[J]
+62] Gaddam S K, Kutcherlapati S N R, Palanisamy A .Self-Cross-Linkable Anionic
+63Ghosh B, Giogo1 S, Thakur S, Karak N. Bio-based waterborne polyurethane/carbon
+65]郭文杰，傅和青，李付亚等，多重改性水性聚氨酯的力学性能和粘接性能研务
+V-curablepolvu
+thoxysilaneandcolloida
+68Zhang Y L, Shao L S, Liu B, et al. Effect of molecular weight of liquid polysulfide
+copolymer[J]. Progress in Organic Coatings, 2017, 112: 219-224
+69]Jeonga JH,Han YC,Yang JH,et al.Waterborme polyurethane modified with
+，周闪闪，罗运军.纳米SiO/有机娃改性水性聚氨酯复合材料的制备及
+[72] Huybrechts J, Bruylants P, Vaes A. Surfactant-Free Emulsions for Waterborne,
+Two-component Polyurethane Coatings[J]. Progeress in Organic Coatings, 200
+73Norimasa S ,Toshihiro H, Mineyuki H, et al. Two-component Type Water-Borne
+74]刘身凯.双组分水性聚氨酯涂料用水性聚氨酯分散体的制备及其性能研究[D
+Progress in Organic Coatings, 2016, 90: 309-316
+/6wuGM,LiuGF,Chen.Preparationandpropertiesoftherimiosetcoimpositefilim
+[77] Zhou X, Fang C Q, Yu Q, et al .Synthesis and characterization of waterborne
+erephthalate used as soft and hard segmentlnternationalJ].Journal of Adhesion
+Adhesives, 2017, 74: 49-56.
+[78] Santamaria-Echarta A, Fernandesb 1,Barreiro F, et al. Development of waterborne
+outesandiheifimtluenceonparticlesize.thermmal.mechanicalandantibacter
+properties[J]. Progress in Organic Coatings, 2018, 117: 6-90
+79Zhang Y,He XL.DingMM,etal.Antibacteri
+andBiocompatibleCross-Linke
+[80] Lee D S, Hur P, Kim B K ,et al.Chemical hybridization of waterborne polyurethane
+8lChaiCP.MaYF
+d content waterborne
+oolyurethane by special physical blending]. Progress in Organic Coatings, 20
+_omposites Science and1echnologv,2017,151:282-290
+[83]旨海燕.水性聚氨酯基高分子染料的合成及性能[D].无锡，江南大学.2016
+adhesivesJ]. International Journal of Adhesion & Adhesives, 2012,41:132-139
+[86]张岚.碳纳米管/聚氨酯复合材料制备的研究[D].哈尔滨，东北林业大学
+日子总是像从指尖流过的细沙，在不经意间悄然滑落。转眼间就已来到了我
+因此，感谢我的导师姜宪凯老师，不仅在学业和研究上对我课课教导，还
+诉我很多人生的道理。在研究生三年间，老师还牺牲了很多休息时间带我们领略
+许多宝贵的经验和知识，感谢你们在这七年中对我的教导和帮助，
+和师妹张旭旭，谢谢你们为实验室带来了欢乐和活力，希望你们万事胜意，未来
+因此，感谢我的父母，你们辛劳的付出才有了我无忧无虑的生活，你们
+是我最大的榜样，未来的人生我也会像你们一样，不管遇到多大的困难都坦然面
+改读硕士学位期间发表文章及专利
+anionictwo-componentaromaticwaterbornepolyurethaneJ].Pigment&Resin
+张赛楠.一种阴离子法合成水性双组分聚氨酯涂料的异氰酸酯组分的
+本人声明所呈交的学位论文是本人在导师指导下进行的研究工作及取得的研
+已经发表或撰写
+也不包含为获得黑龙江大学或其他教育机构的
+学位或证书而使用过的材料。
+学位论文版权使用授权书
+本人完全了解黑龙江大学有关保留、使用学位论文的规定，同意学
+向国家有关部门或机构送交论文的复印件和电子版，允许论文被查阅和借阅。本
+可以采用影印、缩印或其他复制手段保存、汇编本学位论文。
+签字日期：20r8年月8日
+学位论文作者毕业后去向：
+工作单位：
+邮编：
+和GE220合成多异氰酸酯固化剂。用甘油、邻苯二甲酸酐、DEG和BNA等合
+梁上的高性能的混凝土室温固化聚氨酯封底底漆
+Fig. 1-1 The reaction of isocyanate groups
+随着世界各国对环境保护的愈加重视，VOC排放法规越来越严格，水性涂料、
+基组分，并将固化剂和多羟基组分混合制备成能够应用在高铁和桥
+自上世纪50年代水性聚氨酯问世以来，水性聚氨酯乳液的合成主要以外乳化
+性和所成膜的机械性能，使乳液粒径降低，分布更加均匀，而且自乳化法不需要
+产品的开发生产已经成为了聚氨酯工业体系中的热点习
+水性聚氨酯材料与传统的溶剂型聚氨酯材料相比具有较低的粘度、良
+性、耐磨性和耐候性27-28]。合成水性聚氨酯的反应过程中异氰酸酯主要发生的反
+1.2.1水性聚氨酯的分类
+水性聚氨酯按照外观形态可以分为三种，分类见表1-1。
+表1-1水性聚氨酯外观形态分类
+Tab. 1-1 the morphology and appcarance classification of waterborne polyurethane
+的使用，避免了有机溶剂的大量挥发对坏境造成的破坏[24-26]
+水性聚氨酯在使用时可分为单组分水性聚氨酯和双组分聚氨酯，
+射候性和耐化学性等性能上可以与溶剂型聚氨酯相美
+，主要可以分为阴离子型、阳离子型、非离子型及混合型水性聚氨酯。不同类
+图1-2阴离子型水性聚氨酯
+直接使用，双组分聚氨酯分为多异氰酸酯组分和经基组分，将两组分按配
+图1-3阳离子型水性聚氨酯
+Fig. 1-3 Cationic waterborne polyurethane
+图1-4非离子型水性聚氨酯
+Fig. 1-4 Non-ionic waterborne polyurethanc
+此外，水性聚氨酯还可按照分子结构分为热塑性（线形）和热固性（交取
+合成水性聚氨酯的主要原料多异氰酸酯具有很高的疏水性和反应活性，
+与水发生反应，为了避免或减少异氰酸酯与水的反应，需要通过下面六种主要方
+法来实现聚氨酯的水性化”
+外乳化法是先将二官能度的聚酯或聚醚与二官能度的异氰酸酯在有机溶剂中
+助强机械力进行分散，经过高剪切力的作用后，聚氨酯均匀的分散在水中，成为
+而聚氨酯乳液或分散液的稳定性与聚氨酯分子量成止比。外乳化
+剂有十二烷基硫酸钠（SDS）、季铵盐类等阴离子乳化剂以及苯酚氧化乙烯、苯酚
+氧化丙烯等非离子型乳化剂
+SOH基团，非离子基团有：-OH、-O-、-NH等。这些基团都能和水发生相互作
+熔融分散法可以合成端基为脲基和缩二腺基的预聚体，并将该预聚体与醛
+量高、工艺简使、有良好的可控性、反应发生不需要复杂的装备
+旨乳液。外乳化法中聚氨酯乳液乳化程度主要取决于预聚物
+阳离子或非离子亲水基团引人到聚氨酯链段上，

@@ -1,0 +1,643 @@
+MartinMelchiors*,MichaelSonntag,Claus Kobusch,EberhardJurgens
+Abstract
+substantially to this. Addi
+We expect that
+upported our developmenb
+feel;FilmIoenation:Blisters
+1.Introduction
+1.1. Potyurethanes
+he
+coatings
+applic
+ns for thi
+q A e pi sueo auenod e st sg au
+-[os o aouesisau Supuesino susquoo ou ienb jo qanal
+vents and chemicals with good weather stability. It is possi-
+ble to formulate both clearcoats and — because of their good
+ sodo pid  saod Sum d
+yield high-gloss, high-bodied films with excellent flow prop-
+erties. The films have outstanding mechanical properties and
+provide the ideal balance of hardness and flexibility, even at
+low temperatures. Good scratch resistance is also a feature
+of polyurethane coatings.
+This high level of quality results from the primary and
+secondary structures of the polyurethane chains [1]. The
+polymer chains are protected against solvents, acids, bases
+and other chemicals by the urethane
+ips which are resis-
+E-naifaieu:martin.metchiors.mm@bayer-ag.de(MMelchiors)
+www.elsevier.com/locate/porgcoat
+Recent developments in aqueous two-component
+polyurethane (2K-PUR) coatings
+Bayer AG Coarings, Colorants anad Special Raw Materials, D-57368 Lzverkausen, Giernmaw
+ ooouoan soqanem po sanea oA og oq tm sueoo suean.kpod guauodosom ouoquaagos jo saadod g poo o
+cently, waterborne two-component polyurethane coatings have matured to the point that they offer realistic altermatives to the corresponding
+solventborne systems in various application fields
+For industrial finishing and
+ow VOC level. We de
+a Aq pue — sisfjoup<u o1 Kiepoadso — sjeoquaqo on nue1
+high density of hydrogen bridge bonds which form a sta-
+ble physical network. The hydrogen bridge bonds and the
+block-like structure of the polyurethane chains in hard and
+soft segments, which can combine and arrange themselves
+in microdomains, ensure the outstanding mechanical prop-
+erties of the paint film [1].
+The second reason is the high variability of the property
+profile of polyurethane coatings. The coating system can be
+tailored for a specific application by varying, e.g. the chemi-
+cal structure of the soft segments (e.g. polyether, polyester of
+polycarbonate), the distribution and length of the hard seg-
+ments (i.e. the density of the physical network yielded by the
+hydrogen bridge bonds and other interactions) or the molec-
+ular weight and degree of branching of the chains. The hard
+segments govem, e.g. the hardness, strength and toughness
+of the paint film. The soft segments determine the flexibility,
+low-temperature flexibility and glass transition temperature
+Tg. Polyurethane chemistry also permits the incorporation
+of additional building blocks and functional groups which
+dispersibility in water or cross-linking.
+can be used to tailor properties such as the feel of the film,
+with the aid of a cross-linking agent. In the c
+case of systems
+shapq reuongxopiq ue Suu-ssoo  Sunbas
+are combined with either blocked polyisocyanate hardeners
+to yield stoving one-component systems or with polyiso-
+cyanate hardeners containing free NCO groups to formulate
+two-component polyurethane (2K-PUR) systems.
+Such solventb
+cessfully for many years in a
+apA
+:variety of applications
+o anoa suoeondde u! Ie aoqe pasn ae Aou [t]
+resistance properties, e.g. in automotive OEM, automotive
+refinish, aircraft finishing, industrial coatings and corrosion
+protection.
+Whereas in the past, maximum performance and appear-
+ance were the main market requirements, which resulted in
+the development of solventborne 2K-PUR systems, it is coat-
+ings with reduced emissions which are now increasingly in
+demand. This is the result of, on the one hand, more strin-
+gent legislation restricting emissions and residues and, on
+the other hand, the increasing environmental awareness of
+end users. The coatings industry and, correspondingly, the
+manufacturers of coating raw materials have been forced
+to increase their efforts in developing suitable products and
+technologies to market maturity.
+There are a number of options for producing low VOC
+coatings. Waterbome polyurethane coatings have alreaidy
+taken a significant share of the market and stilloffer so much
+potential for further development that their future prospects
+are very promising. Modern waterborne products must (at
+least match the property profle yielded by solventbome sys-
+tems. It must be accepted that the balance of strengths and
+weaknesses of anew technology may differ from that of con-
+ventional systems. There are also often new things to learn
+with respect to manufacturing, plant and application tech-
+nologies. However, it is the bottom line which is important.
+The logical consequence of what has been said so far is
+to combine waterborne coating technology with the charac-
+teristics and structural principles of 2K-PUR systems [5,6].
+However, up until the late 1980s, it was still unthinkable to
+produce waterborne two-component polyurethane coatings.
+The main and seemingly insurmountable obstacle was the
+undesired secondary reaction of the water with the hardener.
+The secret of the growing success of waterborne 2K-PUR
+technology [711] lies in the development of raw ma-
+terials, e.g. in the development of a new generation of
+water-reducible polyisocyanate hardeners, in the develop-
+ment of improved binder dispersions based on polyacrylates
+and polyesterpolyurethanes, by improvements in applica-
+tion technology and by deeper understanding of the under-
+lying reactions and behavior of aqueous two-component
+polyurethane systems during their pot life, application and
+film formation.
+1.2. Polyols
+In contrast to the solventbome 2K-PUR systems, the
+polyol in an aqueous system has the additional function of
+effect the good dispersibility of the relatively hydrophobic
+polyisocyanate in the aqueous binder dispersion with the
+minimum of shear energy. The particle size of the resulting
+dispersion should be as fine as possible to ensure film prop-
+ -sso o sn q se ns s
+[12].
+The development of the particle size distribution of a
+-xopsq  go Sunsistoo wuasAs d- snoonbe qegd1
+functional binder dispersion and a hydrophilically modified
+polyisocyanate can be analyzed during the pot life. Dur-
+ing mixing of the polyisocyanate and polyol components,
+the hydrophobic polyisocyanate phase is first broken down
+into small droplets by the shear energy applied. However,
+this is not sufficient to produce a stable dispersion. The
+binder molecules equipped with a sufficient amount of hy-
+drophilic groups now occupy the hydrophobic surfaces of
+the polyisocyanate droplets and thus keep them in a stable
+state in the aqueous phase. This barrier around the reac-
+tive polyisocyanate also prevents the NCO/water reaction
+from dominating during the pot life. In addition, some of
+sdop popod o o se sseud aeoosod a
+which triggers the cross-linking reaction, similar to conven-
+tional 2K-PUR systems.
+Which
+polyols
+particularly
+suitable for
+2K-PUR
+systems? In principle
+ndary dispersions
+can be
+Ised [1315]
+In primary dispersions, chain
+formation
+1of thebinder
+molecules takes place in the aqueous phase so that no ad-
+ditional dispersion step is required. Polyacrylic dispersions
+suogondde u Ie aoqe pasn ame ou uorsadsip jo ad1
+requiring fast drying under mild conditions, e.g. in indus-
+trial wood and furmiture coating. The high molecular weight
+and glass transition temperature give these dispersions rapid
+physical drying properties at room temperature before the
+onset of chemical cross-linking. The disadvantage of these
+dispersions is the poorer dispersibility of the polyisocyanate
+hardener. In order to achieve an acceptable film appear-
+ance, it is necessary either to use highly hydrophilic polyiso-
+cyanate hardeners or to apply high shear forces in mixing.
+Even then, it is still difficult to prod
+duce high-gloss films.
+the organic phase. This organic resin melt or resin solution
+is then dispersed in water. Various types of secondary dis-
+persion with different basic chemical structures can be used
+in aqueous 2K-PUR systems.
+Compared with primary polyacrylic dispersions, sec-
+ondary polyacrylic dispersions have a much lower molecu-
+o ap sau ensn e uoesd ug pue nm re
+OH functionality. The characteristic properties of aqueous
+2K-PUR coatings based on secondary polyacrylic disper-
+sions include, above all, good resistance to solvents and
+chemicals — the resistance to hydrolysis is of particular
+note — and good weather stability. Compared with primary
+polyacrylic dispersions, they also have clear advantages
+in terms of their flow properties and gloss. However, they
+dry more slowly. Drying occurs primarily via the chemical
+cross-linking reaction of the OH groups with the isocyanate
+groups of the hardener, whereas physical drying plays only
+a subordinate role.
+Aqueous 2K-PUR coatings based on polyester disper-
+sions generally yield films with good gloss and flow prop-
+erties. These dispersions can also be used to formulate
+high-gloss pigmented coatings. The downside is their often
+poor resistance properties. In particular, the vulnerability
+of the polyester bonds to hydrolysis is important as this
+may result in the cleavage of the backbone of the binder
+molecule.
+In the case of polyester-polyacrylic hybrid dispersions
+this susceptibility to hydrolysis is reduced by grafting of
+relatively hydrophobic polyacrylate chains. These binders
+yield aqueous 2K-PUR coatings with good film properties.
+A particular advantage of the polyesterpolyacrylic disper-
+sions is that, e.g. soft polyester chains can be combined with
+hard polyacrylate chains to yield a balance of hardness and
+flexibility. This type of property profile is highly favorable
+in, e.g. plastics coating.
+A further class of high-performance binders are the
+polyester-polyurethane dispersions. These are relatively
+low molecular weight polyurethane dispersions which con-
+tain polyester blocks. They have a property profile which
+combines the good film appearance of polyester dispersions
+with the good mechanical properties of polyurethanes, e.g.
+the combination of flexibility and hardness or good scratch
+have better resistance properties and good pigment wetting,
+resistance. Compared with pure polyester dispersions, they
+The property profile can be tailored, e.g. via the density of
+urethane groups.
+hydrophili
+sity
+poly1
+s [15]
+The choice of isocyanate monomer unit is a key factor
+in the film properties. If the aim is to formulate lightstable
+coatings with good film appearance and a reasonable bal-
+ance of pot life and drying properties, the hardeners are
+usually based on the aliphatic disocyanates HDI and IPDI.
+Used as the monomer unit for polyisocyanate hardeners,
+HDI results in flexible films with good scratch resistance
+because of its long methylene chains. The low viscosity of
+HDI-based hardeners and the ease of mixing into aqueous
+binder dispersions make it possible to obtain high-gloss
+films with good fow properties. In contrast, IPDI-based
+hardeners result in faster drying, harder coatings because
+of their cycloaliphatic structure. The films usually display
+outstanding chemical resistance and very good resistance to
+abrasion. As a result of the higher viscosity of IPDI-based
+-anbe u asiadsp o 1noyp auou are oq seuesosfjod
+ous 2K-PUR systems than HDI-based hardeners. This can
+have an effect on the gloss and flow properties of the
+coatings.
+Diisocyanates are characterized by relatively high vapor
+a ane ‘soodse Kiages peuoednoo te tosg pue anssand
+fore unsuitable in monomeric form for use in the formulation
+of polyurethane coatings. They also exhibit a functionality
+of only two whereas hardeners with a higher functionality
+xomau aueanfpod Auenb-qgtu e aonpord on paunbau are
+Suitable modification reactions are therefore employed to
+transform them into physiologically safe polyisocyanates of
+higher molecular weight.
+The dimer and trimer forms of diisocyanates are the most
+suitable for use in coating applications. Cyclic trimers with
+their stable six-membered ring and high functionality yield
+coatings with the best performance. The advantage of cyclic
+dimers and allophanates is their low viscosity combined
+with better dispersibility in aqueous 2K-PUR systems.
+Biuret-based polyisocyanates have higher viscosities than
+cyclic trimers, which makes it more difficult to produce fine
+dispersions in aqueous binders.
+To improve the dispersibility in water of the polyiso-
+cyanate hardeners, they can be modified by the addition of
+hydrophilic groups. Suitable hydrophilic components are
+ionic or nonionic groups or combinations of the two. These
+act as internal emulsifiers which are characterized by their
+high level of effectiveness and very good compatibility with
+the polyisocyanate. Provided the hydrophilic modification
+of the polyisocyanates is adequate, fine dispersions can be
+produced by stirring the hardeners into the polyol disper-
+sion by hand. Polyisocyanates with nonionic hydrophilic
+modification are produced by, e.g. reacting monohydroxy-
+functional hydrophilic polyethers with some of the NCO
+groups of the polyisocyanate. The disadvantages compared
+with the nonmodified hydrophobic polyisocyanates
+the reduction in NCO functionality and the increased hy-
+an
+drophilicity of the system which can, e.g. reduce the water
+resistance of the paint film. To overcome these drawbacks
+we developed a new generation of hydrophilically modi-
+fied polyisocyanates characterized by a reduced content of
+Using these second-generation water dispersible polyiso-
+cyanate hardeners, which can easily be emulsified in water,
+the quality level of waterbome 2K-PUR coatings can be in-
+creased distinctly. Improved resistance to water, chemicals
+and solvents is a consequence of the reduced hydrophilic-
+ity and of the increased network density due to the higher
+functionality. Additionally the appearance of the film can
+even be improved as a result of the easy dispersibility of the
+polyisocyanate.
+If nonmodified polyisocyanates are used, the main fac-
+tor in ensuring the good dispersibility of the hardener in the
+binder is a low viscosity. Only then can the polyisocyanate
+phase be broken down into fine droplets in the aqueous dis-
+persion. In the case of higher-viscosity polyisocyanates, the
+droplets remain relatively large. The dispersion is unstable
+and the polyisocyanate settles
+        s
+in dispersing the polyisocyanate in the binder. A special
+application technology is required and represents a rational
+solution in some fields of application, especially on-line
+application. For example, jet dispersion technology makes
+it possible to produce fine dispersions in suitable binders
+of the hydrophobic polyisocyanates used in conventional
+high-performance 2K-PUR systems. This allows the formu-
+lation of aqueous 2K-PUR coatings which satisfy the most
+stringent film appearance requirements for on-line automo-
+tive finishing. In other fields, it is not yet possible to use
+such mixing and application technologies.
+Within certain limits, the dispersion of the polyisocyanate
+can also be improved by thinning the hardener with organic
+M.Mfeichwors eT a./Progressn0rgomxCormgs 40(Z0) 99f0
+Fig.I.lmprovementsmwatctdispersiblepolyisocyanat
+in the VOC value of the coating system.
+high-
+quality
+solventborne 2K-PUR coating
+sed
+Bayer is work-
+ing to develop raw materials for use in automotive finishing.
+industrial metal coating and wood finishing. We perceive
+great potential in clearcoats and topcoats for OEM automo-
+tive coatings. We developed waterborne 2K-PUR coatings
+for automotive refinishing and commercial vehicle finishing
+too. In the case of plastics coating, aqueous 2K-PUR systems
+represent an altermative to conventional systems because of
+their outstanding mechanical properties. Remarkable suc-
+cess has been achieved with special-effect coatings based on
+aqueous 2K-PUR systems. The best soft-feel effect, e.g. for
+ss d- snnbe Susn puqo q ueo sio ms
+tems. Development work has also yielded aqueous systems
+for the industrial finishing of metal, wood and furniture.
+These coatings match the property profile of solvent-based
+2K-PUR systems yet have a much lower solvent content.
+Interesting potential exists for aqueous 2K-PUR coatings in
+other application areas such as floor coatings and corrosion
+protection.
+Two examples of applications will show what we have
+d- snoanbe Susn sanba asa a o aop
+systems which represent a promising alternative to conven-
+tional 2K-PUR systems
+Solventborme two-component polyurethane coatings also
+dominate the automotive refinish sector because of their ex-
+cellent property profile. In Europe, they have a market share
+60% and rising.
+of 78%. Their current share of the world market is around
+-doud jueodu isou aq ane aouereadde wg pue Su1
+erties for automotive refinish clearcoats and topcoats. The
+coatings are dried at 60°C. Very high requirements are made
+on the film appearance. It should be posible to achieve
+a Suxju u sanog eous peuuu Suidde usug e qons
+binder and the hardener. Therefore, hydrophobic polyiso-
+cyanates are less suitable, because hazing and poor finish
+reproducibility are to be expected. Of course, automotive
+clearcoats and topcoats are required to display maximum re-
+sistance properties to water, solvents and chemicals as well
+as very good weather stability.
+2K-PUR coatings. However, as in other sectors, there is
+growing interest to have low VOC coating systems in
+the automotive refinish market [7]. Even if legislation is
+that regulations will prescribe more stringent guideliries
+still somewhat hesitant in this respect, it can be expected
+in the near future. The two routes taken in reducing the
+solvent content of 2K-PUR coatings are the development
+of high-solids/ultra-high-solids systemsand of aqueous
+2K-PUR systems [12].
+Aqueous 2K-PUR systems can easily undercut existing
+VOC thresholds; We have therefore developed a concept for
+an aqueous coating system based on a secondary polyacrylic
+dispersion to yield the required drying and hardness. This
+dispersion is cured under mild conditions with a hydrophili-
+cally modified polyisocyanate hardener. The resulting films
+satisfy the highest requirements in terms of appearance, es-
+hardeners is used.
+Secondary polyacrylic dispersions are produced by poly-
+merizing acrylic acid esters with hydroxyfunctional acrylic
+acid esters, acidfunctional monomers, styrene or other vinyl
+monomers to produce a vinyl copolymer of low to medium
+molecular weight. The organic solution is neutralized with
+amine and then dispersed in water. The molecular weight,
+acid group content and degree of neutralization must be op-
+timized to get a fine dispersion with minimal hydrophilicity.
+The dispersion should possess good emulsifying prop-
+hardener.
+erties for the comparatively hydrophobic polyisocyanate
+The polyisocyanate hardener can be mixed into this dis-
+persion by hand. After application, the film is tack-free but
+not yet fully cured after drying for 30 min at 60°C. Final
+cross-linking is achieved after several days at room temper-
+ature. This can be seen in the successive increase in the pen-
+dulum hardness and the improved resistance to solvents and
+chemicals.
+M. Meichiors er al. /Progress in Orgowic Coxutings 40 (2000) 99J09
+Fig. 2 shows the performance properties achieved with
+our aqueous 2K-PUR systems compared with conventional
+2K-PUR systems. The main feature is the some 85% re-
+duction in the organic solvent content. However, it can also
+be seen that the second-generation aqueous 2K-PUR sys-
+tem matches the conventional systems in all key properties.
+By optimizing the acrylic binder drying properties, hardness
+and chemical resistance of the coatings could be improved
+without reduction in gloss and transparency. As yet, we have
+no Florida weathering data for the new generation of aque-
+ous 2K-PUR coatings. However, we are sure that these val-
+ues will at least match the high level produced by the first
+generation of aqueous 2K-PUR coatings.
+Aqueous 2K-PUR coatings based on polyacrylate sec-
+ondary dispersions have a good chance to enter the automo-
+tive refinish market. It remains to be seen over the next few
+years whether the market is ready to accept this new tech-
+nology. In the field of commercial vehicle finishing, aqueous
+2K-PUR coatings are already being used successfully. For
+example, tramcars in Cologne, Germany, are finished with
+a system which uses aqueous 2K-PUR formulations from
+primer to topcoat.
+3. Special-effect coating:
+One interesting development in recent years is represented
+by soft-feel coatings. These are pigmented special-effect
+coatings with a soft mat surface which is warm and anything
+from rubbery to velvety to the touch. This is known as the
+soft-feel effect. Such coatings are used to coat plastics, e.g.
+the instrument panel in a car.
+Up until now, this special effect was achieved using back
+foamed PVC films. The disadvantages of this are the com-
+plex and expensive technique of film-laminating molded
+plastic components and their contribution to fogging inside
+the car, caused by the migration of the plasticizer out of the
+PVC.
+Coating therefore represents a better altermative. The
+soft-feel effect can be achieved by the design of the binder
+and the formulation. However, no plasticizer is required.
+Furthermore, the paint film acts as a barrier to the migration
+of substances from the plastic substrate. Coating is also less
+expensive and less complex than film lamination.
+soft-feel effect. At the same time, the coating must dis-
+play very good resistance to chemicals and solvents. Stay-
+ing with the example of the instrument panel, it should
+be resistant to substances such as suntan lotion, creams,
+leaking liquids or cleaning agents, even at high temper-
+atures and exposed to sunlight. The coating must not be
+very hard but should have good flexibility as the plastic
+components must also withstand mechanical stresses at
+low temperatures without damage to the coating. Last but
+not least, the coating system must have good adhesion on
+plastics.
+Fz.2.Ckarcots amx
+Solveotbone
+2K-PUR coatings have evolved into 
+systems of choice for plastics coating because of their mild
+drying conditions and their characteristic combination of
+hardness and flexibility. Points in favor of aqueous coat
+scope for system design.
+Our waterborme 2K-PUR soft-feel coating is a com-
+bination of a high molecular weight polyurethane dis-
+persion with a low molecular weight hydroxyfunctional
+polyesterpolyurethane dispersion cross-linked with a hy-
+drophilically modified polyisocyanate. The properties of
+the coating in terms of improved chemical resistance or a
+better soft-feel effect can be influenced by the choice of
+Xq pue aeueoospod poypou Aeoqdoupsq oqens t
+the composition of the binder combination. Film formation
+yields a polyurethanepolyurea network with a defined net-
+work chain length. In such a system, the hydroxyfunctional
+polyurethane dispersion is responsible for good resistance
+to solvents and chemicals. The dispersion also contains an
+adequate density of OH groups to ensure effective chemical
+cross-linking [16].
+Manufacturing of this binder involves the reaction of a
+special hydroxyfunctional polyester with a hydroxyfunc-
+tional acid component (for hydrophilic modification) and a
+polyisocyanate via urethane bonds, The urethanization reac-
+tion is carried out in the melt with the aid of small quanti
+ties of solvent. The mixture is subsequently neutralized with
+amine and dispersed in water. The binder dispersions gen-
+erally have a particle size of about 100 nm. This yields fine
+coating dispersions after incorporation of the hardener. They
+cure to form high-performance films.
+Fig. 3 shows the good property profile of our aqueous
+2K-PUR soft-feel coatings compared with solventborme
+2K-PUR soft-feel coatings and backfoamed PVC films.
+The first striking advantage of the aqueous 2K-PUR sys-
+tem compared with the conventional 2K-PUR coating is
+the very much lower level of solvent emissions from the
+0ud on pos Aan ane stuaiss Sueos qog uasAs snoanbe
+duce the soft-feel effect. This is also seen from the very
+good low-temperature flexibility of both coatings. The films
+both have a very good soft-feel effect although the aqueous
+system is even better. However, assessment of the feel of
+the film is highly subjective. The solventborne 2K-PUR
+system shows the well-known high level of resistance. This
+is largely matched by the aqueous system. In both cases,
+the abrasion resistance is good. The crockmeter test, which
+measures abrasion on exposure to ethanol, is good in both
+systems. Likewise, the adhesion on various plastics is good.
+Only in the case of polypropylene and similar plastics pre-
+treatment of the component is necessary to ensure that the
+by the coating-
+surface tension of the substrate is high enough for wetting
+If backfoamed films are used, the soft-feel effect can be
+haraclenesticsofsoft-feelcoat
+Properties of different soft-feel systems
+the backfoamed film. This reduces the typical *new" smell
+aqueous coating system performs significantly better than
+inside the car. A further advantage of the polyurethane coat
+ings is that they can be matted to make them nonreflective
+4.Waterborne2K-PURsystems
+4.1. Basics
+An important part of our work on waterborne 2K-PUR
+coatings has been focused on the fundamental investiga-
+tion of the main and side reactions and their infuencing
+parameters [14]. After formulation of the 2K-PUR coating.
+drying was investigated. The waterborne 2K-PUR coatings
+its behavior during pot life, application, film formation and
+used consisted of an aqueous hydroxyfunctional secondary
+polyacrylate dispersion and a hardener combination of a
+hydrophobic polyisocyanate and a hydrophilically modified
+polyisocyanate.
+In the example described here, the system contained a
+hydroxyfunctional amine neutralization agent and a hydro-
+xyfunctional co-solvent, in addition to the polyol and the
+hardener. As well as the desired cross-linking reaction bet-
+ween the polyol and the hardener to form a polyurethane net-
+work, other reactions of the isocyanate are possible (Fig. 4)
+with the OH groups of the co-solvent and the neutralization
+agent, with the carboxyl groups of the polyol and with the
+water [12]. As there is a large excess of OH groups from
+the water in relation to the reactive groups of the polyol, it
+was long time assumed to be impossible to produce aqueous
+2K-PUR systems. In the first step of this side reaction with
+the water, an amine and carbon dioxide are formed. Because
+of its high reactivity, the amine reacts immediately with an
+isocyanate group to form urea. The carbon dioxide dissolves
+in the aqueous phase; afterwards it either dissolves in the
+paint film or escapes as gas, when the water evaporates from
+the film during film formation and curing. Whether and to
+what extent the carbon dioxide causes bubbles in the paint
+film will be discussed at the end of this paper.
+asoreactwitt
+reactivity of the carboxyl groups is 
+ever, once the amine neutralizatior
+eaves the paint
+the coating system,
+esistance
+copy of
+it is sometimes better to use an excess of polyisocyanate
+in relation to the OH groups of the polyol. The result is
+a strong urethane network with additional urea and amide
+structures.
+After the polyol and polyisocyaniate have
+been mixed,
+the cross-linking reaction and the side reactions described
+begin. Initially, the'viscosity of the coating increases slowly,
+  nod  p s od   n uss
+offen defined as the time taken for the viscosity of the coating
+to double. However, what is important is the time at which
+the coating can still be applied to yield a perfect film
+During this time, the NCO content decline
+consistently by
+which have reacted form ure:
+The carbon dioxide
+plains the decrease in the pH. This is typical for an aqueous
+2K-PUR system although the distribution of the down-
+stream isocyanate products also depends on the reactivity
+and structure of the components used in the formulation
+Whereas urea formation dominates during the pot life
+because of the large excess of water, this changes during the
+course of film formation and curing. The extent of the main
+and side reactions is influenced greatly by the application
+conditions, especially the curing conditions.
+At room temperature, the water evaporates relatively
+quickly, despite its low vapor pressure (Fig. 6). Within
+30 min, the water concentration in the paint film has de-
+creased to 23%. It subsequently forms an equilibrium with
+the atmospheric moisture at about 1%. Even in conventional
+systems, the reaction of the isocyanate groups with atmo-
+spheric moisture cannot be prevented entirely. Compared
+with the evaporation rate of the water, the decrease of the
+NCO content in the paint film is slow. After 30 min at room
+temperature, around 6% of the NCO groups have reacted.
+This increases to about 90% after 24 h. Full reaction takes
+several days at room temperature.
+Drying parameters such as temperature and atmospheric
+humidity play a key role here, as Fig. 7 shows. During cur-
+ing at room temperature, around 60% of the NCO groups
+react to form urea. Force-drying for 30 min at 130C re-
+duces this amount to around 10% and the water content
+decreases to less than 0.5% after just a few minutes. If dry-
+ing continues at 50°C rather than at room temperature, there
+is little evidence of urea formation. In addition to more
+urethane groups, increasing temperature also yields a larger
+proportion of amide groups resulting from the reaction of
+the carboxyl groups with the isocyanate:
+However, the larger amount of urea formed under mild
+curing conditions need not have a detrimental effect on
+the film properties as shown by, e.g. our aqueous 2K-PUR
+industrial metal coating, vehicle repair and parquet coating
+applications.
+4.Bsrtwalerbone2k-PRcoarrg
+disadvantage that bubbles and microfoam tend to form in
+thick coats, These are caused by entrapment of air during
+snoonbe Aq posns opnad squng  uoeode Keads
+2K-PUR coatings is that the carbon dioxide yielded by the
+side reaction with water forms bubbles.
+ance of bubbles, paint films were observed using very high
+resolution video endoscopes during flash-off and curing. The
+apparatus allowed the specific observation of every section
+The bubbles observed were incorporated in the film during
+application. Various things then happen as shown in Fig. 9
+from left to right. In ideal circumstances, the bubbles rise
+to the surface of the film and escape. However, if the film
+Fig. 8. Two still photos of bubbles in paint films taken at a 30 min interval
+surface hardens too quickly, the bubbles burst as they break
+through the surface and leave small craters. Most bubbles
+become smaller as they rise to the surface. Some dissolve
+in the surrounding medium before they reach the surface
+and disappear. However, if the film cures too quickly, the
+increased viscosity means that the bubbles cannot rise to the
+surface and remain trapped in the film. Bubbles which do
+not dissipate fully during flash-off can thus become fixed in
+the film during baking.
+In our investigations, we were able to prove that no
+bubbles are formed by reaction during film formation and
+drying. The carbon dioxide that forms dissolves in the film
+or attaches itself to the air bubbles incorporated during ap-
+plication. The key factors in the production of bubble-free
+films, even in the case of thick coats, are thus the same
+parameters as when working with aqueous one-component
+coatings: control of the rheology and viscosity of the paint
+film during drying, the choice of flash-off and drying con-
+ditions and the promotion of deaeration by the adition of
+effective defoamers.
+Aqueous 2K-PUR systems are still a new technology,
+which is no longer in its infancy. Two representative exam-
+ples of applications show that aqueous 2K-PUR coatings
+offer a realistic and economical altermative to solventbome
+2K-PUR coatings. They enable the user to reduce VOC val-
+ues considerably without having to sacrifice quality. Funda-
+mental knowledge of the reactions proceeding in waterborme
+2K-PUR systems during pot life, film formation and drying
+makes it easier to design and optimize the coating to fulfil
+specific demands.
+optimistic for the future and are convinced that in the coming
+of the market where high-perfot
+References
+1] D.
+135
+[2]M
+[3] L.
+M. Meichiors er al. /Progress in Orgowic Coxutings 40 (2000) 99J09
+12. AQUEOUS POLYURETHANE DISPERSIONS AND COATINGS PREPARED THEREFROM
+46. Aqueous polyurethane
+50. Polyurethane based nanocomposite coatings tc

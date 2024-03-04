@@ -1,0 +1,791 @@
+18 Claims, Ne Drawings
+The use of water as a solvent or carrier for polyurethane
+tal concerms over the effects of volatile organic compounds
+coatings has increased due to health, safety, and enviro
+(VOCs) and hazardous air pollutants (HAPs) As a result,
+erties that are comparable to solvent-bome polyurethane
+coatings. However, various properties of waterborme polyure-
+-aapos on paresdtuoo uoqm pots trg Aite ssueco oump
+bome coatings. For instance, two-component waterbome
+polyurethane coatings may exhibit slower cure rates when
+compared to teo-component solvent-bome polyurethane
+coatings.
+Embodiments disclosed herein are directed to a process for
+increasing the cure rate of a two-component waterborne poly-
+urethane dispersion coating. The process comprises introduc-
+urethdne dispersion coating system. The coating system
+-qjod auoquapem juauoduos-oal e ogut aupuzeqjod t Bu
+comprises a hydrophilically-modified  water-dispersible
+polyisocyanate; a polyol dispersed in water, optionally, in the
+presence ofoneor moreorganic solvents; and, optionally, one
+or more additives or auxiliary agents. The introduction of the
+polyaziridine into the coating system decreases the time-fo-
+cure by at least 35 percent.
+aredirc
+cdtoatwc
+tem. The coating system comprises a hydrophilically-modi-
+water, optionally, in the peesence of one or more organic
+fied water-dispersible polyisoeyanate; a polyol dispersed in
+solvents; a polyaziridine; and, optionally, one or more addi-
+tives or auxiliary agents. The time-to-cure of a coeting com-
+potyazindin
+embodiments disclosed in this Summary. The invention is
+It is understood that the invention is not limited to the
+intended to cover modifications that are within the scope of 50
+the inwention as defined solely by the Claims
+It is to be understood that certain descriptions of the dis-
+closed cmbodiments have been simplified to illustrate only
+a clear understanding of the disclosed embodiments, while
+eliminating, for puposes of clarity, other steps, elements,
+featuresadaectsPronshvingdinary skillinhart
+upon considering the present description of the disclosed
+orfeatures may be desirable inaparticularimplementation or
+embodiments, will recognize that other steps, elements, and
+application ofte disclosed embodiments.However, becaus
+such other steps, elements, and/or features may be readily
+apistoo uodn xs repuo Suarq sosad Aq poueaost
+10 to be understood as being_prefaced and n
+cated, all numbers expressing quantities or characteristics are
+instances by the temm “about”. Accordingly, unless indicated
+modified in all
+to the contrary, any numerical parameters set forth in the
+following description may vary depending on the desired
+properties one secks to obtain in the systems, compositions,
+and peocesses accoeding to the present disclosure. At the very
+leust, and not as an attempt to limit the application of the
+doctrine of equivalents to the scope of the claims, each
+numerical parameter described in the present description
+should at least be construed in light ofthe number of reported
+qpos Supunou Anupuo SuAdde &q pue s8p eoguis oc
+sonbu
+include all sub-ranges subsumed therein. For example, a
+range of *1 to 10" is intended to include all sub-ranges
+25 between (and including) the recited minimum value of 1 and
+the recited maximum value of 10, that is, having a minimum
+value equal to or greater than 1 and a maximum value equal to
+or less than 10. Any maximum numerical limitation recited
+herein is intended to include al lower numerical limitations
+30 subsumed therein and any minimum numerical limitation
+limitations subsumed therein. Accordingly, Applicant(s)
+recited herein is intended to include all higher numerical
+the claims, to expresly recite any sub-range subsumed within
+reserves the right to amend the present disclosure, including
+35 the ranges expressly recited berein. All such ranges are
+intended to be inherently disclosed bereim such that amending
+to expressly recite any such sub-ranges would comply with
+the requirements of35 U.S.C. g112 and 35 U.S.C. 132(a).
+40 used herein, are intended to include “at least one”* or “one or
+more", unless otherwise indicated. Thus, tbe articles are used
+herein to refer to one or more than one (i.e., to at least one) of
+g, admexa o em fg apre apgo siofqo pegeef a
+component” means one or more components, and thus, pos-
+158
+sibly, more than one component is contemplated and may be
+zmployed or used
+whole or in part, that is s
+Airy pate
+herein, is incorpora
+edby'releretkce
+extent that the
+only to the
+existing definitions, staten
+expressly set forth in this disclos
+eAssuhwtoboten
+suremteria
+sedes any confficting material incorporated berein by refer
+incorporated by reference herein, but which
+conllicts
+set forth herein is only incoepoe
+conflict arises between that
+ingdisclo
+materal
+orne polyureths
+and
+sare uogeogdde o Jaqumu e u slugooo atuoq-uanpos ol
+of ho
+isocyanates and polyols or polyamines cmables the formation
+tures comprising biader and bardener/crosslinker (and
+optional additives or auxiliary agents) may be applied to
+substrates and allowed to cure to form polyurethane coatings,
+such as, for example, lacquers, paints, and adhesives
+As used herein, the term *two-component* refers to a coat-
+ajemdas om1 1seaq 1e fuspdtmoo uonisodtuoo xo tmaisAs Su
+compositions that mustbestored inseparatecontainers owing
+to their mutual reactivity. For instance, two-component poly-
+urethane coating systems and compositions may comprise a
+functional compound and a separate binder component
+hardener/crosslinker component including an isocyanate-
+including acompound that isrcactive with isocyanate groups,
+tional compound. The two separate components are generally
+such as, for example, a hydroxy-functional or amino-func-
+not mixed until shortly before application. When the two
+separate components are mixed and applied, the mutually
+reactive compounds in the two components react to foem a
+cured coating.
+chemical components that may be mixed to form an active
+coating composition that may be applied and cured to fonm a
+refers toa mixture ofchemical componentsthat will ure and
+“coating composition*
+form a coating when applied. Accordingly, a coating compo-
+sitfion may be formed from a coating system by mixing the
+ asis Sueo a Susudtuos suaodoo geop
+thermore, when a list of constituents is provided herein that
+are individually suitable for forming the components of the
+should be understood that various combinations of two or
+coating system or coating composition discussed herein, it
+more ofthose constituents, combined in a manner that would
+be known to those of ordinary skill in the art reading the
+present specification, may be employed and is contemplated.
+present specihcation,may be employed and s contemplated
+a liquid coating composition in which an applied film of the
+As used herein, the term “cured" refers to the condition of
+ASTM D 5895—Standurd Test Merthods for Evaluafing Dry-
+coating composition is at least set-to-touch as defined in
+Using Mechaica/ ecorder, which ishereby incorporatedby
+ing or Caring During Fibn Formation of Organic Coatings
+reference herein. As used herein, the terms “cure"* and “cur-
+ing" refer to the progression of an applied liquid coating
+“cured", "eure", and “curing” encompuss drying of coating
+composition from the liquid state to a cured state. The terms
+compositions through solvent evaporation and chemical
+eqamKjod_ wua aq
+refers to poly-
+meric or oligomeric materials comperising urethane groups,
+urea groups, or both. Accordingly, as used herein, the term
+“polyurethane” is synonymous with the terms polyurea, poly
+-odi, us atL goausg suogegpou pue (eam,ouqaum)
+urethane” also refers to crosslinked polymer networks in
+which the crosslinks comprise urethane and/or urea linkages,
+and/or theconstituent polymerchains comprise urethane a
+or urea linkages.
+amd
+prise at least two mutually reactive compounds. The two
+Two-component coating systems and compositions com-
+mutually reactive compounds may be refemud to as a binder
+and a hardener/crosslinker. As used herein, the term *binder”
+refers tothe larger moleeular weight reactivecompound com-
+used herein, the tenms “hardener”a and “crosslinker” are syn-
+prising a two-component coating system or composition. As
+onymous and refer to the smaller molecular weight reactive
+compound. For example, in a two-component polyurethane
+cogting system or composition, the binder may comprise a
+polymeric polyol and the hardener/crosslinker may comprise
+a polyisoeyanate. When mixed, a polyol binder and a poly-
+tion comprising a discontinuous phase distributed throughout
+As used herein, the term “dispersion” refers to a composi-
+a continuous phase. For example, "waterbome dispersion”
+Busuduoo suogsoduoo o apau _uojsudssp snoenbe_ pue
+m pbg noqnor panqusip sonpos ao sopad
+Waterbome dispersions and aqueous dispersions may also
+include one or more co-solvents in addition to the particles or
+solutes and water. As used berein, the term “dispersion"
+solutions (i.e., molecular or ionic dispersions), and the like.
+includes, for example, colloids, emulsions, suspensions, sols,
+As used herein, the temm *polyisocyanate
+refers to com-
+products comprising, for example, biuret, isocyanurate, ure-
+trione, carbodimide, acyl urea, and/orallophanate groups. As
+used herein, the term *polyol* refers to compounds compris
+-qod apnou sjofjod 'sdnou8 Xxoupiq aaug omq sta[ ge Bu
+mers comprising pendant and/or terminal hydroxy groups. As
+used herein, the tem *polyamine”* refers to compounds com-
+thane coating systems and compositions, two-component
+waterborne polyurethane dispersion coating systems
+and
+compositions may exhibit a slower cure rate (ie., a longer
+time-lo-ure) Thepresent inventors discovered that the intro-
+duction of a polyaziridine into a two-component waterborme
+polyurethane dispersion coating system or composition
+increases the cure rate of the coating composition (i.e.
+decreases the time-fo-cure)
+formed from one-component waterborme polyurethane dis
+[eopuaqo se qpns soquadoad w [eug asoadtug o suorsaod
+45 resistance and wear resistance. For example, aqueous one-
+covalently linked carboxy groups. The carboxy groups may
+component polyurethane dispersions may be stabilized with
+dau ue tuog o souuzeijod u sdnouf aupuze m peau
+-.xoap&q-g = tuuog o salumuma pm asa ouuae-g aegpau
+50 mide. In this manner, for example, polyaziridines may be
+used to fonm crosslinks comprising β-hydroxyamide link-
+agcs.
+polyu
+dispersions
+crosslinks c
+nay
+compris
+and/or urea linkages with a
+crosslinker that forms
+mprising ureth
+persions, However, as discovered by the present invenlors, the
+me polyureth
+dis
+sating syslem or cor
+polyurethane dispersion coating system e
+Aalerbormc
+comprise a hardener/crosslinker comprising a water-dispers-
+comprise a binder comprising a water-dispersible compound
+compound that is reuctive with the polyisocyanate may com-
+that is reactive with thepolyisoeyanate. The water-dispersible
+prise a polyol or a polyamine. The water-dispersible com-
+dispersed in water. The cure rate of the two-component
+pound that is ncactive with the polyisocyanate may be pre-
+waterbonne polyurethane dispersion coating system or com-
+position may be increased by the introduction of one or more
+polyaziridines.
+polyis
+ates that are hydrc
+The polyisocyanate hardener/crosslinker component of a
+two-component polyurethane coating system or composition
+-eqdje duaeq soeueioostqjod sueao Aue asudmoo Keu
+cally, cycloaliphatically, araliphtically, and/oe aomatically 2
+bound fre isocyanate groups, which are liquid at room tem-
+perature or are dispersed in a solvent or solvent mixture at
+ate component may have a viscosity of from 10-15000 mPas
+room temperature. In various embodiments, the polyisocyan-
+at23° C., 10-5000 mPa-s at 23° C., or50-1000 mPasat 23° C.
+In various embodiments, the polyisocyanate component may
+exclusively aliphatically and/or cycloaliphatically bound iso-
+comprise polyisocyanates or polyisocyanate mixtures having
+cyanate groups with an (averge) NCO fuoctionality of 2.0.
+mPa·s at 23° C, or 100-1000 mPa·s at 23° C.
+samxm spospod 1o sgeospod asudoo 
+based on one or more aliphatic or cycloaliphatic disocyan-
+afes, such as, for example, ethylene disocyanate; 1,4-tetram-
+(HDI);  2,2,4-rimethyl-1,6-hexamethylene  disocyanate;
+ethylene disoeyanate,
+1,6-hexamethylene
+disocyasate
+1,12-dodecamethylene disocyanate; 1-isocyanalo-3-isocy-
+anatomethyl-3,5.5-trimethyl-cyelobexane (isophorone diso
+cyanate or IPDI);: bis-(4-isocyanatocyclohexyl)methane
+(H, MDI); cyclobexane 1,4-disocyanate; bis-(4-isocyanato-
+40
+3-methyl-eyclohexyl)methane; isomers of any thereof; or
+combinations of any thereof. In various embodiments, the
+polyisocyanate mixtures based on one or more aromatic 45
+polyisocyanate component may comprise polyisocyanates or
+disocyanates, such as, for eumple, benzene disocyanate
+toluene disocyanate (TDI); diphenylmethane disocyanate
+(MDI); isomers of any thereof; or combinations of any
+thereof. In various embodiments, the polyisocyanate compo-
+nent may comprise a trisocyanate, such as, for example,
+4-isocyanatomethyl-1,8-octane disoeyanate (trisocyana
+nane or TIN); isomers thereof; or derivatives thereof
+5,075,370; 5,304,400; 5,252,696; 5,750,613; and 7,205,356,
+cach of which is incorporated by reference herein, Coenbina
+tions of any of the above-identified and incorporated polyiso-
+rne polyureth
+disclosed herean
+oras derivative polyisocyanales comprising biuret, isocyanu-
+The di- and tri-isocyanates indicated may be used as such,
+rate, uretdione, urethane, urea, iminooxadiazine dione, oxa-
+diazine trione, carbodimide, acyl urea, and/or allophanate
+groups. In various embodiments, derivative polyisocyanates
+comprising biuret, isocyanurate, uretdione, urethane, imi-
+nooxadiazine dione, oxadiazine trione, carbodimide, acyl
+urea, and/or allophanate groups are included in the polyiso-
+cyanate component. In various embodiments, the polyisocy-
+anate component comprises one or more of the above-iden-
+tified structural groups prepared from IPDL, HDI, H,MDL
+and/or cyclohexane 1,4-disocyanate
+modified to be water-dispersible. Hydrophilically-modified
+water-dispersible
+polyisocyanates
+obtainable,
+example, by covalent modification with an intemal emulsifier
+compristngantoticcatkix,oriotionncgroups
+may be formed, for example, from a reaction between poly-
+isocyanates and less than stoichiometric amounts of mono-
+hydric polyalkylene oxide polyether alcohols. The prepara-
+described, for example, in U.S. Pat. No. 5,252,696, which is
+incorporated by reference herein. Polyether allophanate type
+water-dispersible polyisocyanates may be formed,
+example, from a reaction between a polyalkylene oxide poly-
+ether aloohol and two polyisocyanate molecules under allo-
+phanation conditions. The preparation of such hydrophili-
+cally-modified polyisocyanates is descnibed, for example, in
+U.S. Pat. No. 6,426,414, which is incorporated by reference
+herein. The polyalkylene oxide polyether alcohol used to
+sip-am pgpot-eogqdoplq ods aaaspod oedaad
+persible polyisocyanates may comprise, for example, poly-
+ethylene oxide residues and/or polypropylene oxide resides
+Polvisoc
+Ihe
+ute
+For example, carboxylate (carboxylic acid) groups, sul-
+fonate (sulfonie acid) groups, or phosphonate (phosphonic
+acid) groups may be covalently introduced into polyisocyan-
+ates to fom hydrophilically-modiffed water-dispersible poly-
+isocyanates. The jionic or potentially ionic groups may be
+ofthe polyisocyanate and less than stoichiometric amounts of
+introduced through a reaction between the isocyanate groups
+sulfonic acids, phosphonic acids, or salts thereof. Examples
+amino-functional or hydroxy-funetional carboxylic acids,
+55
+include, but are not limited to dimethylolpeopionic
+(DMPA), N-(2-aminoethyl)-2-aminoethane sulfonic acid
+acid
+(AAS); N-(2-aminoethyl)-2-aminopropionic acid; 2-(eyelo-
+hexyl-amino)-ethane sulfonic acid; 3-(cyclobexyl-amino)-1-
+60
+propane sulfonic acid (CAPS): 2-aminoethylphosphonic
+acid; or the salts thereof.
+Iffreecarboxylic acids, sulfonic acids, orphosphonicacids
+neutralized with a neutralizing agent, such as, for exan
+are incorporated in the polyisocyanate, then the acids may be
+qns-en°o p o nq up sae ea
+adu
+tuted tertiary amines. The preparation of hydrophilically-
+modified water-dispersible polyisocyanates is described, for
+cxample, in U.S. Pat. No. 6,767,958, which is incorporated by
+reference herein. Water-dispersible polyisocyanate mixtures
+based on trisocyanatononane (TIN) are described in Interma-
+tional Patent Application Publication No. WO-01/62819,
+which is incoeporated by reference herein.
+The NCO content of nonionic type bydrophilically-modi-
+fied water-dispersible polyisocyanates may be from 5 to 25
+weight percent of the polyisocyanate molecule. The NCO
+content ofionic typehydrophilically-modiied water-dispers-
+the polyisocyanate molecule
+butanol,hexanol, cyclohexanol, benzyl alohol, oximes such
+for example, monohydric alcohols such as methanol, ethanol,
+propylamine or dibutylamine, dimethylpymazole or triazole,
+lactams such ase-caprolactam, phenols, amines suchas diso
+is well as malonsc acad dimethyl ester, malonic acid diethy1
+malonic acid dibutyl ester
+systems and compositons include, but are not lumted to, tbe
+Ceu uogssoduoo no tuos.s Sugroo uoisuadsip aunqamsjod
+comprise a hardener/crosslinker comprising a watler-dispers-
+ible polyisocyanate. A two-component waterborne polyure-
+thane dispersion coating system or composition may also
+comprise a binder comprising a water-dispersible compound
+that is reaetive with thepolyisocyanate. The water-dispersible
+compound that is reactive with the polyisocyanate may com-
+prise a polyol or a polyamine. The water-dispersible com-
+pound that is reactive with the polyisocyanate may be pre-
+dispersed in water.
+(sqofjod susesjod) suauoouo popunesun Xeougalo
+are reactive with polyisocyanates: polymers formed from
+polymers formed from combinations of diols and dicarboxy-
+lic acids (polyester polyols); polymers formed from combi
+nations of diols, dicarboxylic acids, and disoeyanates poly-
+urethane polyols); polymers formed from the addition of
+alkylene oxides to starter molecules (polyetber polyols);
+polycarbonate polyols;and polycaprolactone polyols. Hybrid
+systems prepared from the polyol classes indicated above
+45
+may also find utility as binders in two-component waterbome
+For example, polyacrylate-polyester polyols, polyacrylate
+polyurethane dispersion coating systems or compositions
+polyurethane polyols, polyester-polyurethane polyols, or
+polyether-polyurethene polyols may find utility as binders.
+form hydrophilically
+onic
+example, hydrophilically-modified water-dispersible poly-
+U.S. Pat. Nos. 5,075,370; 5,304,400; and 5,750,613, each of
+late and/or sulfonate groups are described, for example, in
+which is incorporated by reference berein. Other polyol bind
+In various embodiments, the polyol binder may have a
+pemmeation chromatography, of 500-50000 or 1000-1000.
+molecular weight M, (number average), determinable by gel
+In various embodiments, the polyol binder may have a
+bydroxyl value of 16.5-264 mg KOH/g solid resin or 33-165
+mg KOH/g solid resin. In v
+binder may have an acid value (in relation to non-neutralized
+sulfonic acid groups and/or carboxylic acid groups) of 0-150
+mg KOH/g solid resin or 0-100 mg KOH/g solid resin. In
+groupand/orcarboxylate group content of 5-417 miliequiva-
+various embodiments, the polyol binder may have a sulfonate
+lents per 100 g solids or 24-278 milliequivalents per 100 g
+solids.
+groups which are reactiveto isocyanates are suitable for use in
+Generally, binders that are water-dispersible and that hewe
+systems and compositions. In various embodiments, tbe
+binder may comprise an aqueous polyacrylic polyol disper-
+sion, wherein the polyol comprises carboxylate and/or sul-
+fonate groups. In various embodiments, the binder may be in
+the form ofa 10-60 weight percent or 20-50 weight percent
+aqueous dispersion, which may have a viscosity of 10-10000
+or 100-10000 mPa-s at 23° C., and/or pH values of from 5-10,
+69, or 7-8.
+Exemplary binders that find utility in the disclosed two-
+tems and compositions include, but are not limited to, the
+Bayhydrol& products (Bayer MaterialScience, LLC)
+composition may be increased by the introduction of one or
+morepolyaziridines. In various embodiments, the cure rate of
+a two-component waterborme polyurethane dispersion coat-
+ing system or composition may be increased by the introduc-
+various embodiments, the cure rate of a two-component
+tion of one or more tris-1-aziridinopropionate derivatives, In
+-gznsjod e po togonpoput op 6q posuauou oq Ku togisod
+waterborne polyurethane dispersion coating system or com-
+dine selected from the group consisting of trimethyloipro-
+trimethyloipeopane tris-3-(1-aziridinopeopionate) (TTAP),
+pone
+ tris(1-(2-methyl)aziridino)propionate
+(VNLL)
+pentaerythritol tris-3(1-aziridinopropionate) (PTAP),
+combinations of any thereof.
+nd
+In various embodiments, the cure rale of a two-component
+40 position may be inereased by the introduction of one or more
+waterborne polyurethane dispersion coating system or com-
+polyaziridines in quantities of 0.10-1.50 percent by weight of
+the coating system or composition. In various embodiments,
+the cure rate of a two-component waterbome polyurethane
+4s by the introductionofoneormorepolyaziridines in quantities
+dispersion coating system or composition may be increused
+of 0.10-1.50, 0.10-1.25, 0.10-1.00, 0.10-0.85, 0.10-0.65,
+0.10-0.50, or 0.10-0.25 percent by weight of the coating
+of a two-component waterbome polyurethane dispersion
+system or composition. In various embodiments, the cure rate
+50 coating system orcomposition may be increased by the intro-
+1.50, 0.25-1.25, 0.25-1.00, 0.25-0.85, 0.25-0.65,or 0.25-0.50
+duction of one or more polyaziridines in quantities of 0.25.
+peroent by weight ef the eoatinz system or cc
+iposition
+waterborne polyurethane dispersion coating system or com-
+UIPSOMUEAUT
+polyaziridines in quantities of 0.50-1.50, 0.50-1.25, 0.50-
+1.00, 0.50-0.85, 0.50-0.65 percent by weight of the coating
+of a two-component waterbome polyurethane dispersion
+system or composition. In various embodim
+nents, the cure rate
+coating syslem orcomposition may be increased by the intro
+duction of one or more polyaziridines in quantities of 0.65-
+1.50, 0.65-1.25, 0.65-1.00, or 0.65-0.85 percent by weight of
+the coating system or composition. In various embodiments,
+the cure rate of a two-component waterbome polyurethan
+possausut aq etu uomsodmoo ao ois.is Sueco togsuadsp
+by the introduction of one or more polyaziridines in quantities
+US 8,742,010 B2
+mpositaon
+polyaziridines may be employed. For example, in various
+embodiments, equal parts by weight of two polyaziridines
+may be introduced into a two-component waterbome poly-
+urethane dispersion coating system or composition to
+increase the cure rate. In various embodiments, two polyaziri-
+dines in a weight ratio of 4:1, 3:1, or 2:1, may be introduced
+into a two-component waterborne polyurethane dispersion
+coating system or composition to increase the cure rate.
+In various embodiments, a mixture of TTMAP and TTAP
+may be introduced inlo a two-component waterbome poly-
+urethane dispersion coating system or composition to
+increase the cure rate. In various embodiments, the weight
+ratio of TTMAP to TTAP introduced into a two-component
+waterborne polyurethane dispersion coating system or com-
+position to increase the curerate may be 4:1, 3:1, 2:1, 1:1, 1:2,
+1:3, or 1:4.
+set-to-touch time or hard-dry time (ASTM D 5895), may be
+In various embodiments, the time-fo-cure, measured as
+decreased by at least 35 percent due to the introduction of one
+or more polyaziridines. In various embodiments, the time-to-
+cure, measured as set-to-touch time or hard-dry time (ASTM
+D 5895), may be decreased by at least 90 percent due to the
+introduction of one or more polyaziridines. In various
+cmbodiments, the time-to-cure, measured as set-to-touch
+at least 35, 50, 60, 70, 80, 85, or 90 percent due to the
+time or hard-dry time (ASTM D 5895), may be decreased by
+introduction of one or more polyaziridines.
+binder (e.g, polyol or polyamine), rwo-component water-
+In addition to a polyisocyanate hardener/crosslinker and a
+-sodtus so stmass uroo moesuodsep aunaumjod sog
+tions may comprise conventional auxiliary agents or addi-
+tives appeopriate for the system or composition end use. For
+instance, in lacquer, paint, and/or adhesive applications, vari-
+ous auxiliary agents or additives may include, but are not
+Iimited to, defoamers, rheology modifiers (e.g., thickeners),
+Jeveling agents, fow promoters, pigments, dispersing agents,
+catalysts, anti-skinning agents, anti-sedimentation agents,
+and/or emulsifiers.
+herein may comprise water as the predominant solvent, and
+The two-component polyurethane systems disclosed
+optionally, one or more organic solvents. Optional organic
+solvents may include, but are not limited to, acetone, xylene,
+butyl carbitol, butyl acetate, ethyl acetate, hexyl acetate mix-
+methoxypropylacetate, hydrocarbons suchas the Aromaticf
+tures, butyl glycol acetate, dipropylene glycol n-butyl ether,
+solvents (Exxon Mobile Chemicals), propylene glycol
+monomethyl ether acetate, N-methylpyrolidone, or combi-
+nations of any thereof. The onganic solvents may be utilized,
+if at all, in limited quantities that emerge as necessary given
+the particular chemical components of a specific embodiment
+of a two-component waterbome polyurethane dispersion
+coating system or composition as deseribed herein.
+polyurethane dispersion coating system may comprise at
+In
+embodin
+least two mixtures. A fist mixture may comprise a binder and
+one or more auxiliary agents or additives and a second mix-
+ture may comprise a hardener/erosslinker. The first mixture
+containers and are not combined until shortly before applica-
+and the second mixture are generally contained in separate
+tion. In various embodiments, a polyaziridine may be intro-
+duced into the first mixture, or vice versa, before the fist
+o o poonpom oq Aeu supuzesod e susmpoqmo
+mixture and the second mixture are combined. In various
+lirst
+Invarious embodiments, the disclosed processes may com-
+prise introducing a polyaziridine into a coating system by
+mixing the polyaziridine with a binder before a hardener/
+crosslinkeris mixedto fomma coating composition. In various
+embodiments, the disclosed processes may comprise intro-
+ducing a polyaziridine into a coating system by mixing the
+polyaziridine with a hardener/crosslinker before the hard-
+ener/croslinker is mixed with a binder to fom a coating
+composition. In various embodiments, disclosed processes
+may comprise introducing a polyaziridine into a coating sys-
+tem affter a binder and a bardener/crosslinker are mixed to
+form a coating composition.
+OH ratio) inthe handener/crosslinker and binder components,
+The ntio of isocyanate groups to hydroxyl groups (NCO:
+chemistry and/or the specific application for a two-compo-
+respectively. may be determined based on the particular
+o msis uo osuadsp aampod oaem p
+composition as described berein. For eample, an NCO:OH
+and/or adbesive applicantions. In various embodiments,
+ratio of 0.5:1 to 5:1 may be suitable for various lacquer, paint,
+NCO:OH ratio of 1.5:1 to 3:1 may be suitable.
+various embodin
+lisclosed herein by meth
+of the
+the comp
+mixing toge
+urdenercrosslinker
+the
+inder.One
+torepolya
+lardener/crosslinker compopent and/or tbe binder com
+Two-commpoent
+described herein may comprise, by total weight, 10-55 per
+syslems
+cent hardener/crosslinker, 40-75 percent binder, 10-20 per-
+centauxiliary
+polyaziridine(s)
+tems and compositions as described herein may be suitable
+coxiting sys
+for all areas of application in which water-based couting
+50 systems are used, such as, for example, coating of mineral
+and wood materials, coating of metallic surfaces (metal coat-
+building material surfaces, lacquering and sealing of wood
+ing), coating and lacquering of asphalt-containing or bitu-
+55 plasties surfaces (plastics coating), under coats, high-gloss
+men-containing coverings, lacquering and sealing of diverse
+top coats, as well as various adhesive applications, The two-
+component waterborme polyurethane coeting systems and
+compositions may be used for the manufacture of paints,
+sunboe[ eoo aes pue sanboe pauaufd smg soad
+as well as one-coet lacquers which are used in one-off and
+peoduction line applications, for example, in the fields of
+industrial lacquering, and automotive original and repair lac-
+quering.
+HVIP
+be applied by other methods, such as, for example, by brush.
+ing, roller application, or knife coating,
+intended to further describe the embodiments preser
+The illustrative and non-limiting examples that follow are
+Examples are possible within the scope of the invention
+weight unless otherwise indicated
+-dssp aanijod oxuoquxes tuaoodtuos-om1 (t) .mog
+had a different quantity of a polyaziridine. The compositions
+were fomed from the raw material formulations listed in
+Table 1 (weight percentages bused on the total weight of the
+compositions)
+The compositions were formed by introducing the raw
+materials into a mixing vessel in the order listed in Table 1.
+The Bayhydur8 XP 2547 hardener/crosslinker was added to
+the mixtures including the BayhydrolR XP 2542 binder, the
+PFAZ 322 polyaziridine, and the auxiliary agents/additives
+shortly before application of the compositions. The compo- 55
+sitions exhibited the peoperties listed in Table 2.
+25
+The addition of polyaziridine generally increased the cure
+dsp ajod aoaem odo-om  po aen
+sion coating composition as evidenced by the decreusing
+times for set-to-touch and hard-dry when compeared to tbe
+composition with zero polyaziridine, The set-to-touch times
+30 for the compositions with zero polyaziridine and 0.25%
+polyaziridine (2.5 and 2.75 hours, respectively) are essen-
+tially the same for all practical purposes.
+Example 2
+Six (6) two-component waterbore polyurethane disper-
+sion coating compositions were prepared. Five (5) of the
+compositions included 1.24-1.25 percent polyaziridine. The
+five (5) compositions containing polyaziridine comprised a
+-ejau muagp uf saupuzesjod juaragp oma jo mogeuquos
+tive weight ratios. The compositions were fommed from the
+raw material formulations listed in Table 4 (weight percent-
+ages based on the total weight of tbe compositions).
+XAMA/B 220 (Bayer Material Science LLC) is a com
+60 cial trade name for TTAP The compositions were formed by
+listed in Table 4. The Bayhydur& XP 2547 hardener
+introducing the raw materials into a mixing vessel in the order
+crosslinker was added to the mixtures including thbe Bayhy-
+drolB XP 2542 binder, the PFAZ 322 and/orXAMA/g 220
+polyaziridines, and the auxiliary agents/additives shortly
+before application of the compositions. The compositions
+exhibited the properties listed in Table 5.
+The compositions were drawn down on glass substrates
+affer an MEK wipe. The Gardner Circular Deytimes (set-to-
+touch and hard-dry) were measured according to AS'TM D
+C.and 50% relative humidity (A). Theresults are presented in
+5895 at 22.2° C. and 50% relative humidity (BF) or 23.8°
+Table 6.
+The addition of polyaziridine generally increused the cure
+rate of the two-component waterbome polyurethane disper-
+sion coating composition as evidenced by the decreased times
+for set-to-touch and hard-dry when compared to the compo-
+sition with zero polyaziridine The addition of both TTMAP 40
+and TTAP generally increased the cure rate of the two-com-
+-odoo fugeoo mopsuadsp aunanijpod auoquaem juauod
+sition more than the addition of TTMAP alone. The addition
+of TTAP alone generally increased the cure rate of the two-
+Bugeoo uojsuadsip aeqaunijod suoquajem pouodaoo
+composition more than the addition of TIMAP alone.
+Example 3
+sion coating copositionswere prparodhecompositions
+Four (4) two-component waterbome polyurethane disper-
+cach included 1:1 weight ratios of TTMAP:TTAP. The com-
+positions included zero polyaziridine (0:0), 0.42 percent
+polyaziridine (0.21:0.21), 0.84 peroent polyaziridine (0.42:
+0.42), or 1.24 percent polyaziridine (0.62:0.62). The compo-
+sitions were fomed from the raw material fomulations listed
+in Table 7 (weight percentages basedon thetotal weight ofthe
+compositions).
+The compositions were formed by introducing the raw
+I5 materials into a mixing vesel in the order listed in Table 7.
+The Bayhydur& XP 2547 hardener/crosslinker was added 1o
+the mixtures including the BayhydrolB XP 2542 binder, the
+PFAZIM 322 and XAMA& 220 polyaziridines, and the aux-
+-o aqp jo uogeodde aogaq Auoqs sasgippesuale re!
+positions. The compositions exhibited the properties listed in
+Table 8.
+Ihe
+n of polya
+xd the
+cure
+SKOE
+for set-to-touch and hard-dry when
+Four (4) two-component waterbome polyurethane disper-
+sion coating compositions were prepured. Three (3) of the
+compositions included 1.24-1.25 percent polyaziridine. The
+three (3) compositions containing polyaziridine comprised a
+combination of two different polyaziridines in different rela-
+tive weight ratios. The compositions were fommed from the
+raw material foemulations listed in Table 10 (weight percent-
+ages based on the total weight of the compositions).
+The compositions were fommed by introducing the naw
+materials into a mixing vessel in the order listed in Table 10.
+The Bayhydua XP 2547 hardener/crosslinker was added to
+the mixtures including the BayhydrolR XP 2542 binder, the
+PFAZTM 322 and/or XAMA& 220 polyaziridines, and the
+auxiliary agents/additives shortly before application of the
+listed in Table 11.
+Example 5
+Three (3)wo-component waterborne polyurethane disper-
+sion coating compositions were prepared. Two (2) of'the
+compositions included 1.04 percent polyaziridine. The two
+(2) compositions containing polyaziridine compeised a com-
+bination of two different polyaziridines in different relative
+material fonmulatioss listed in Table 13 (weight percentages
+weight ratios. The compositions were formed from the raw
+based on the total weight of the compositions).
+The compositions were formed by introducing the raw
+materials into a mixing vessel in the order listed in Table 13.
+The Bayhydur& XP 2547 hardener/crosslinker was added to
+the mixtures including the BayhydrolB XP 2542 binder, the
+PFAZTM 322 and XAMA& 220 polyaziridines, and the aux-
+iliary agents/additives shortly before application of the com-
+positions. The compositions exhibited the properties listed in
+Table 14.
+The compositions were drawn down on glass substrates
+affer an MEK wipe. The Gardner Cireular Drytimes (set-to-
+touch and hard-dry) were measured according to ASTM D
+55 5895 at 23° C. and 50% relative humidity. The results are
+presented in Table 15.
+The addition of polyaziridines generully increased the cure
+rate of the two-component waterbome polyurethane disper-
+sion coating composition as evidenced by the decrcased times
+for set-to-touch and hard-dry when compered to the compo-
+sition with zero polyaziridine.
+Example 6
+Five (5) two-component waterbome polyurethane disper-
+sion coating compositions were prepared. The five (5) com-
+positions included 0.92-0.94 percent polyaziridine. The com-
+positions each included zero percent or 2.14 percent of
+different co-solvents. The compositions were formed from
+the raw material formulations listed in Table 16 (weight per-
+centages based on the total weight of the compositions).
+bexyl aectek
+The compositions were fommed by introducing the raw
+materials into a mixing vessel in the order listed in Table 16.
+The BayhydurB XP 2547 hardener/crosslinker was added to
+the mixtures including the Bayhydrolk XP 2542 binder, the
+PFAZTm 322 polyaziridine, and the auxiliary agents/additives
+shortly before application of the compositions. The compo-
+sitions exhibited the properties listed in Table 17.
+affer an MEK wipe. The Gardner Cireular Drytimes (set-to-
+The compositions were drswn down on glass substrates
+touch and hard-dry) were measured acoording to ASTM D
+5895 at 23° C. and 50% relative humidity. The results are
+presented in Table 18.
+Three (3)two-component waterborne polyurethane disper-
+sion coating compositions were prepared. The three (3) com-
+positions included 0.50-0.51 percent polyaziridine. The com-
+positions esch included zero percent or 2.14 pervent of
+different co-solvents. The compositions were formed from
+the raw material fommulations listed in Table 19 (weight per-
+5 centages based on the total weight of' the compositions).
+* Dipgsder Gtrol s-Bety1Eher; meger inme CgHOtCHCH(CHy)O)t; awaikbir
+The compositioes were formed by introdueing the raw
+materials inlo a mixing vessel in the order listed in Table 19.
+The Bayhydurk XP 2547 hardener/crosslinker was added to
+the mixtures including the BayhydrolB: XP 2542 binder, the
+PFAZIM 322 polyaziridine, and the auxiliary agents/additives
+shortly before application of the compositions. The compo-
+sitioes exhibited the proporties listed in Table 20.
+The compositions were drawn down on glass substrates
+affer an MEK wipe. The Gardner Circular Drytimes (set-to-
+touch and hard-dry) were measured according to ASTM D
+5895 at 23° C. and 50% relative humidity. The results are
+presented in Table 21.
+The
+stantially atlect tne
+iddition of polyaziridir
+The pesent disclosure has ben written with reference o
+certain exemplary, illustrative, and non-limiting embodi-
+ondinary skill in the art that various substitutions, modifica-
+ments. However, it will be recognized by persons having
+15
+tions or combinations of any of tbe disclosed embodiments
+(orportionsteofmybmadewithoutepartingfromtbe
+scope of the invention as defined solely by the claims. Thus,
+it is contemplated and understood that the present disclosure
+g ias fpssandsa jou sapoqma eonpe saeqa
+combining. modifying. or reoganizing any of the dislosed
+berein. Such emodiments may be obtained, for eample, by
+Sleps, ingredients, constituents, components, elements, fe
+u s euouq suosad jeauuue ua
+tures, aspects, and the like, of the embodiments described 25
+at may find uefl. Ths, tis dislore is not limited by te
+description of the cxemplary and illustrative embodiments,
+Vhat is claimed is
+3. The process of claim 1, wherein the polyaziridine com-
+selected from the group consisting oftrimethylolpropuane tris-
+(1-(2-methyl)aziridino)peopionate, trimethylolpeopane tris-
+nopropionate), and combinations of any thereof
+5. Tbc
+ne 1s
+ntro
+oelo
+13. A process for preparing a coating composition from the
+oond; and the polyol compeises a polyacrylic polyol
+coating system of claim 8, comprising mixing the polyaziri-
+dine with the polyol and any auxiliary agents or additives, and
+then mixing in the polyisoeyanate to form the coeting com-
+position,
+coating system of claim 8, comprising mixing the polyuziri-
+dine with the polyisocyanate, and then mixing the combined
+polyaziridine and polyisocyanate with a mixture comprising
+the polyol and any auxiliary agents or additives to foem the
+coating composition.

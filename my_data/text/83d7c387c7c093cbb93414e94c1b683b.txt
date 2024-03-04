@@ -1,0 +1,514 @@
+Influence of the solids content on the properties of waterborne polyurethane
+dispersions obtained with polycarbonate of hexanediol
+* UBE CHEMICAL EUROFE, SA. Zone ET Serraflo, 12100 Greo, Castellon, Spoin
+ABSTRACT
+1.lntroducthon
+Waterborne polyurethane dispersions (PUDs) have an increas-
+ing interest in adhesives and coatings industry due to environ-
+mental, health and safety issues. Indeed, the development of
+PUDs formulations is primarily motivated by the need of control-
+ling the emission of volatile organic compound into the atmo-
+sphere and also because of the superior properties of these
+polymers when compared to the similar ones in organic
+solvents [1].
+PUDs are mainly used as flexible coatings for textiles, hard
+coatings for wood and metallic surfaces,
+and laminating industry. The structure of the PUD consists 
+linear thermoplastic polyurethane chains dispersed in water due
+to the presence of ionic groups in their structure (i.e. polyur
+ethane
+ionomer), which act as internal emulsifiers. Typically
+* Corresponding author. Tel.: +34 96 5903977: fax: +34 96 5903454.
+E-mail address: jm.martin?ua.es (J. Miguel Martin-Martinez).
+0143-7496/$ - see front matter c 2011 Elsevier Utd. All rights reserved
+doi:10.1016/jjjadhadh.2011.05.010
+Waterborne polyurethane adhesives are an interesting alternative to tbe current solvent-borne
+polyurethane adhesives used in the industry. Different aliphatic waterborne polyurethane dispersions
+polycarbonate derived from hexanediol via the acetone method. The PUDs were charactersed by
+(PUDs) with different solids content were synthesised by reacting isophorone disocyanate (IPDI) with a
+Brookfield viscosity. pH, particle size, transmission electron microscopy (TEM) and solids content
+rheology, differential scanning calorimetry (DSC) and thermal gravimetry (TGA). Their adhesion was
+measurement. The dry polyurethane films were characterised by ATR-IR spectroscopy. plateplate
+evaluated from T-peel tests of flexible PVC/waterborme polyurethane dispersion/flexible PVC joints and
+ium joints
+The PUDs showed bimodal particle size distribution. The mean particle size of the PUDs decreased
+by increasing their solids content but the particle sizedistribution of thePUDsincreasedby decreasi
+their solids content. As the solids content increased the Brookfield viscosity of the PUDs increased due
+to lower mean particle size where particle crowding was favoured, the PUD having 44 wt% solids
+increase in the solids content increased the hard segments content and the degree of phase separation
+content was an exception (higher particle size but lower polydispersity). On the other hand, the
+transition temperature values and the lower the elasticmduli Adhesiv strength under peel stresses
+sane qus easde aus a nq saueanod a  juu sps a q pae u aam
+decreased by increasing the solid contents in the polyurethanes due to lower hard segments content
+ NCO-tipped prepolymer ionomer is first prepared, which is read-
+diamine, is added to react with the terminal NCo groups to
+ily dissolved in acetone. Afterwards, a chain extender, such as a
+increase the molecular weight. To make the resulting polyur-
+ethane dispersible in water, the acetone is removed to obtain the
+determined by the interactions between the hard and soft seg-
+The properties
+Recent studies [315| demonstrated that the ionic group content,
+ments, and by the interactions between the ionic groups [2]
+solids content, segmented structure, molecular weight of the
+macroglycol, the type of chain extender and the hard/soft seg-
+ments ratio, determined the PUDs properties. However, there
+have been few studies dealing with the synthesis and character-
+isation of polyurethanes based on polycarbonate diols [1622]
+and, to the best of our knowledge, there are few publications
+dealing specifically with polyurethane dispersions [11,23].
+Polycarbo
+diols
+(PCD) have
+actu
+with:
+-sisan sisfjosptq saaq suedu 'spofod yaasjod pue sasasod
+tance, improved ageing and oil resistance, better mechanical
+properties, better low temperature properties and increased
+weathering and fungi resistance of the resulting polyurethanes
+[11,24].
+Polycarbonate diols are produced by reaction between an alkyl
+diol and a dialky carbonate by using a catalyst [25.26] Because of
+u fq pasuaeseg st aneu [eu sajeuogesjod au
+polarity and a strong carbonate bond, it may be expected the
+more noticeable degree of phase separation.
+resulting polyurethanes will have good mechanical properties and
+Little effort has been paid on the influence of the solids content
+on the properties of waterborne polyurethane dispersions. To the
+best of our knowledge, there are three studies only [23,27,28]
+which have considered the synthesis and characterisation of
+aqueous polyurethane dispersions derived from different polyols
+having different solids content. Jung et al. [27] and Lee and Kim
+[28] synthesised waterborne polyurethane dispersions using a
+poly(tetramethylene glycol) with different solids content (from
+s pasea azis aped a se ppnuo au (x s on o
+the solids content of the polyurethane dispersions increased and
+their viscosities were also affected by the solids content. How-
+ever, the mechanical and dynamic mechanical properties of the
+polyurethane films were not affected by the solids content.
+Madbouly et al. [23] also studied the effect of the solids content
+dispersions obtained from a polyester polyol and isophorone
+(from 24 to 46 wt%) on the properties of aqueous polyurethane
+dlisocyanate, They found that the viscosities of the dispersions
+increased by increasing their solids content and the rheological
+properties of the polyurethane films were also strongly influenced
+by the solids content. On the other hand, they found that the
+solids content of the polyurethane dispersions affected their
+morphology as network structures, with a unique periodicity
+and phase connectivity being obtained.
+the contradictory results previously obtained, in this study
+reported here, several aqueous polyurethane dispersions synthe
+sised from polycarbonate derived from hexanediol, having differ-
+ent solids content were prepared. The aim was to establish the
+influence of the solids content on the structure-properties rela-
+tionship in polyurethane adhesives, including their adhesion
+properties. To the best of our knowledge, this is the first
+contribution in the existing literature that analyse the influence
+of the solids content on the properties of polyurethane disper-
+sions obtained with polycarbonate diol.
+2.Expermenta
+2.1. Materials
+The aqueous polyurethane dispersions were
+preparedby
+macroglycol, an internal emulsifier and a chain extender. Poly-
+carbonate of hexanediol (M1011 Da) (supplied by
+Chemical Europe, Castellon, Spain) was used as the macroglycol,
+UBE
+and it was dried at 80 °C and 5 Torr for 3 h before use.
+The disocyanate used was isophorone disocyanate [IPDI, 98%
+Barcelona, Spain), which is liquid at room temperature. Diethyle-
+purity) (mixture  of cis/trans
+isomers) (supplied by _Aldrich,
+neglycol (DEG, 99% purity) and dimethylolpropionic acid (DMPA,
+98% purity) (both supplied by Aldrich, Barcelona, Spain) were used
+further purification. Triethylamine (TEA, 99% purity) was used as
+as the short diol and internal emulsifier, respectively, without
+the neutralization agent, and monohydrated hydrazine (HZ, 99%
+purity) (both supplied by Fluka, Madrid, Spain) was used as the
+Sussn paredard asam suorssadsip aueqiaunfjod snoonbe snog
+an NCO/OH ratio of 1.5. The solids content of the dispersions was
+0.5 wt% and that of DMPA was set to 5 wt% (both with respect to
+varied between 37 and 44 wt%. The DEG content was set to
+The macroglycol, IPDI, DEG and DMPA were added to a glass
+jacketed reactor equipped with a mechanical stirrer to obtain a
+prepolymer. The reaction was carried out at 80 °C under nitrogen
+atmosphere. When the amount of residual NCO groups reached
+the desired value (obtained by n-dibutylamine titration), the
+prepolymer was dissolved in acetone at 4555 °C by continuous
+stirring at 450 rpm until complete dissolution. This solution was
+then dispersed into a triethylamine (TEA) aqueous solution to
+neutralise the carboxylic acids moieties in the DMPA.
+Afterwards, the chain extende (hydrazine) was added to avoid
+because of the preferential reactivity of the NCo groups with
+the reaction between the unreacted NCO groups and the water,
+amines. The polymer was dispersed in water at 900 rpm and the
+residlual acetone was removed in a Rota Vapour unit at 50 °C and
+300 mbar for 1 h.
+2.3. Preparation of the polyurethane film
+Some properties of the polyurethanes were measured using
+solid films, which were prepared by placing about 100 cm? of
+polyurethane dispersion in a Teflon mould and allowing a slow
+evaporation of the solvent at room temperature for 72 h. After-
+wards, the polyurethane was dried at 40 °C for 8 h to allow the
+complete removal of water. Films obtained were about from
+0.7 to 0.9 mm thick.
+olids
+24.Experimentartechnique?
+2.4.1. Characterisotion of the waterborne polyurethane dispersions
+eous dispersion was placed in a beaker. The pH values of the
+polyurethane aqueous dispersions were measured at 20 °C in a
+pHmeter using a silver reference electrode model Hl 8418
+(Oakton Instruments, Vernon Hils, USA). The pH was calculated
+as the average of three experimental determinations.
+Porticle size distribution. The mean particle size and the particle
+size distribution of the polyurethane dispersions were measured
+in a Coulter IS230 system (Beckman Coulter Inc., Miami, FL, USA).
+provided with laser diffraction and polarised light detectors. A
+small amount of aqueous polyurethane dispersion was added into
+the deionised water tank. The statistical model used to obtain
+the particle size distribution assumes that the particles are
+polystyrene
+nt the 
+the
+mean particle size wa:
+verage of thr
+experin
+PUDs(aqueous
+polyurethane dispersions) were measured in a Brookfield visc-
+ometer LVDV-I-Prime  (Brookfield Engineering Laboratories,
+Stoughton, Massachusetts, USA). About 50 ml waterborme poly-
+urethane dispersion was placed in a beaker and the measure-
+no. 61. The Brookfield viscosity was calculated as the average of
+ments were carried out at 20 °C and 100 rpm using the spindle
+three experimental determinations.
+Solids content. The solids content of the PUDs were obtained by
+dlifference in weight before and after solvent evaporation. About
+ 1 g polyurethane aqueous dispersion was placed on an aluminium
+container and the solvent was evaporated at 105 °C for different
+time in an oven until constant weight was reached. The solids
+content was calculated as the average of three experimental
+determinations.
+Trarasmission
+2electron microscopy (TEM). A Jeol TEM-2010
+(Tokyo, Japan) instrument was used to analyse the size and the
+extent of particles interaction in the polyurethane dispersions;
+an acceleration voltage of 100 kV was used. To obtain the TEM
+micrographs of the PUDs, they were diluted in water
+solutions placed directly on a copper grid for analysis.
+and the
+of the dried polyurethane films were obtained in Bruker Tensor 27
+spectrometer (Bruker Optik GMbH, Ettlingen, Germany), provided
+with Fourier transform analysis (FTIR). Measurements were
+carried out in the attenuated total reflectance mode using a ZnSe
+prism. An incidence angle of the IR radiation of 45° was used, and
+100 scans were averaged with a resolution of 4 cm 1
+Diferentiel scanning calorimetry (DSC) DSC experiments
+ments, New Castle, Delaware, USA), Aluminium pans containing
+were carried out in TA DSC Q100 V6.2. instrument (TA Instru-
+1015 mg of sample were heated from 70 to 110°C under a
+nitrogen atmosphere (flow rate: 50 ml/min). The heating rate
+the thermal history of the samples. From the second heating run,
+was 10 °C/min. The first heating run was carried out to remove
+the glass transition temperature (Tg) of the polyurethanes was
+obtained.
+TGSD TA thermal balance, model 851e/1600/LF (TA Instruments,
+Thermel grrvimetry (TGA). TGA studies were carried out in
+New Castle, Delaware, USA). Samples (from 10 to 15 mg) were
+heated under nitrogen (flow rate: 100 ml/min) from room tem-
+Heidelberg, Germany) was used to analyse the particle size of the
+cope (Leica,
+PUDs. The PUD was placed on glass microscope slide (dimensions
+of 76 × 26 mm²) and then covered by a small glass cover slide. On
+the other hand, the segmented structure of the polyurethane films
+was also analysed by confocal laser microscopy. The polyurethane
+films were obtained by placing the dispersion on glass microscope
+slide (dimensions of 76 × 26 mm°) and then covered by a small
+glass cover slide, The sample was dried at room temperature for
+72 h followed by heating at 40 °C for 8 h to allow the complete
+removal of water before analysis.
+ethane films were determined in a shear stress-controlled Bohlin
+CS50 rheometer (Optilas Iberica S.A, Madrid, Spain) using parallel
+0.4 mm. Experiments were performed in the linear viscoelastic
+plates (upper plate diameter=20 mm): the gap selected was
+region by melting the polyurethane film at 180 °C and cooling
+down to 40 °C at a cooling rate of 5 °C/min
+2.4.3. Adhesion propertie:
+T-peel strergth meast
+from T-peel tests of solvent-wiped plasticized PVC/polyurethane
+adhesive/ plasticized PVC joints., The PVC test samples used had
+dlimensions of 30 × 150 × 5 mm? and they were supplied by Cel-
+tecnia (Monovar, Spain). Before applying the PUD, the PVC surface
+was methyl ethyl ketone wiped for plasticizer removal from the
+JAd qpea on qsuq Aq paldde sem uonos and 8 060 snoqe uau
+e uado yapun uu o oj ajeodena oi uanjos a Susoe aoens
+strip to be joined. After water evaporation (it took about 90 min)
+infrared radiation (reactivation process) The PVC strips were
+the adhesive film was heated suddenly at S0 °C for 10 s under
+ssaad aed onepfq u paoed pue peu u nd Apepa
+where a pressure of 0.8 MPa was applied for 10 s to achieve a
+formation in an Instron 4411 universal testing machine (Instron
+suitable joint. The T-peel strength was measured 72 h after joint
+Limited, Barcelona, Spain) using a cross-head speed of 100 mm/
+min. The values obtained were the average of three replicates.
+of the waterborme polyurethane dispersions was evaluated from
+Single Iap-sheer test. The adhesive strength (under shear stress)
+single lap-shear tests of aluminium/waterborme polyurethane
+dlimensions of 30 × 150 × 1.7 mm? were used. Before applying the
+dispersion/aluminium joints. Aluminium 5754 test samples of
+PUD, the aluminium surface was methyl ethyl ketone wiped to
+removal of grease and other surface contamination, allowing the
+solvent to evaporate for 30 min under open air. Then, about 0.30 g
+jo eaue ue uo ejngeds e jo sueau Aq pasdde sem uognjos and
+30 × 30 mm² of one of the aluminium pieces to be joined. The
+aluminium strips were immediately placed in contact and a static
+weight of 700 g was applied for 72 h to achieve a suitable joint.
+The shear strength was measured 72 h after joint formation in
+Instron 8516 universal testing machine (Instron Buckingham-
+shire, England) using a cross-head speed of 10.2 m/min. The
+values obtained were the average of three replicates.
+3. Results and discussion
+Some properties of the aqueous polyurethane dispersions are
+PUDs were similar to the theoretical ones and ranged between 37
+given in Table 1. The experimental solids content values of the
+around 8.3 (Table 1), which were within the usual range of the
+and 44 wt%, The aqueous polyurethane dispersions had pH values
+polyurethane dispersions [4,11].
+The Brookfield viscosity values of the PUDs were strongly
+influenced by their solids content, in agreement with previous
+results [23,27,28]. Thus the PUDs containing 37 and 39 wt% solids
+content had similar Brookfield viscosity values whereas the
+viscosity was higher for the PUD with 42 wt% solids content,
+decreasing drastically for the PUD having 44 wt% solids content.
+This trend can be related to the differences in the particle size
+distributions of the PUDs. Fig. 1 showed the particle size distribu-
+tions of the aqueous polyurethane dispersions having different
+solids content. All dispersions showed bimodal particle size
+distribution, except PU37, which was trimodal. All PUDs showed
+mean particle size in the ranges of 325360 and 12002000 nm.
+In general, the mean particle size of the PUDs decreased by
+increasing their solids content (PU44 is an exception). This trend
+was in agreement with the variation in Brookfield viscosity values
+for the PUDs, i.e. the higher is the mean particle size, the lower is
+the PUDs decreased by increasing their solids content. Therefore,
+the viscosity of the PUD. On the other hand, the polydispersity of
+the solids content determined the structure and particle size of
+Fig. 1, Particle sze distnbutions ot the waterborne polyurethane disperssons having ditlerent solids content
+the PUDs. This effect was likely to be due to the kinetics of
+formation of polyurethane chains during the PUD synthesis, as
+the higher solids content implied higher number of particles and
+therefore their particle size could be smaller. The higher number
+of particles will decrease their mobility and consequently the
+probability of creating particle-particle interactions should be
+lower [23]. However, the PUD containing 44 wt% solids content
+was an exception likely due to the existence of almost mono-
+modal particle size distribution with mean particle size of
+1750 nm, i.e. during the synthesis the most of the particles had
+larger particle size than in the other PUDs.
+The trends in the Brookfield viscosity and particle size of the
+dispersions were also confirmed by TEM micrographs of the PUDs.
+Fig. 2 showed that the TEM micrographs of the waterborne
+showed an heterogeneous particle size and the particle crowding
+were favored (observed as black aggregates). However, the
+increase in the solids content to 42 wt%, produced a more
+homogeneous and lower mean particle size waterborne polyur-
+ethane dispersion. The PUD with 44 wt% solids content had a
+higher mean particle size than the other PUDs.
+The molecular structures of the polyurethane films were
+Fig. 2, TEM micrographs of the waterborne polyurethane dispersions having
+different solids content.
+Fig, 3. 18501575 cm region of the ATR-IR spectra of the polyurethanes havin
+difterent solids content.
+characteristic IR bands found in the polyurethanes was given in
+Table 2 [5]. The urethane, urea and carbonate groups in these
+types of polyurethanes were able to form hydrogen bonds. The
+dlonors, while the acceptors can be oxygen atoms of the CO
+NH groups in the urethane and urea groups acted as proton
+groups in the urethane or the polycarbonate groups. The most
+relevant IR bands in the polyurethanes correspondled to hydrogen
+and  NH stretching of the urea groups at 1532 cm~1, CH
+Supans N  uo giEE on gEEe won) Suians HN papuoq
+stretching of the hydrocarbon chains at 2940 and 2855 cm1
+and CO stretching due to urea (17001648 cm 2) and urethane
+(from 1740 to 1700 cm1) groups. On the other hand, the ATR-IR
+spectra showed the characteristic NCOO stretching (1034 cm)
+corresponding to urethane and COC stretching bands of the
+macroglycol (1240, 1162 and 955 cm  ). The ATR-IR spectra of the
+polyurethanes with different solids content were quite similar,
+although some differences were found to exist in the relative
+intensities of several bands. The ATR-IR spectra of the polyur-
+ethanes in the 18501575 cm 1 region were given in Fig, 3. The
+relative intensity of the C=O groups was fixed in all polyur-
+ethanes, to better show the differences in their structures. The
+increase in the solids content slightly increased the intensity of the
+-mAjod au jo  uo si1 1e pueq Suupsans sueuaun papuoq
+bandls at 16991648 cm1 also increased with respect to that of
+ethanes and the intensity of the urea (free and bonded) stretching
+the free urethane stretching band at 1740 cm because of the
+On the other hand, the increase in the solids content in
+increase in the hard segment content in the polyurethanes [15]
+the polyurethanes also increased the relative intensities of the
+Fig4.DlGAtheimograms ofthepolyuretmanes havg diheteit solksconten
+NCOO stretching band at 1034 cm  of the urethane group and
+the CN stretching and NH bending at 1532 cm 1 of the urea
+group, because of the increase in the hard segment content
+[ie. the urethane and urea groups).
+stability of the polyurethanes but also on their structure, as the
+TGA analysis gave information, not only of the thermal
+lifferentiated degradation steps of the hard and soft segments
+can be obtained. Fig. 4 showed the derivative of the TGA curves of
+the polyurethanes. According to Fig. 4 the polyurethanes were
+thermally stable up to about 400 °C and the thermal stability was
+increased by increasing their solids content. However, the degra-
+dlation mechanism was very complex due to the different stability
+of the hard and soft segments. At around 40 °C, the removal of
+small amounts of residual solvent likely acetone) was produced.
+exa e jo ssae s . o re uoepap a
+based polycarbonate. Because diol and diamine were used in the
+synthesis of the polyurethanes, two kind of hard segments were
+formed, i.e. urethane and urea types, It was known that the hard
+segments were more prone to thermal decomposition than
+the soft segments in the polyurethanes [27]. The degradation
+of the urea and urethane hard segments could be distinguished in
+the TGA thermograms at 303323 °C and the decomposition of
+the soft segments was resulted at about 340349 °C. Finally. an
+additional small degradation at 420 °C, likely due to some
+residual soft segments, was obtained.
+dlifferent degradations
+polyurethanes obtained from the
+Main decompositions in the TGA thermograms of the polyurethanes having
+differentsoudscontemr
+Fig. 5. (a) DSC thee
+TGA thermograms. Because the TGA thermogram of the poly-
+carbonate of hexanodiol showed two main degradations at 280
+pue oszoz ne saueqaunAjod aqjo suogepex8ap au '. o9e pue
+340349 °C should correspond to the soft segments. The weight
+polyurethanes (more than 61 wt%) indicating their thermoplastic
+loss corresponding to the soft segments was dominant in the
+nature and it decreased by increasing the solids content. There-
+fore, the hard segments content in the polyurethanes increased by
+increasing the solids content. The weight loss due to the polyol
+component was less relevant, contributing less than 5 wt%.
+The influence of the solids content on the thermal properties of
+the polyurethanes
+was also studied by differential scan
+showed two glass transition temperatures due to the soft seg
+ments and one melting peak at 125143 °C. Fig. 5b sho
+enlarged region between 25 and 10 °C corresponding to the two
+glass transition temperatures of the polyurethane with 37 wt%
+solids content. The two glass transition temperatures may corre-
+spond to the hydrocarbon chains in the soft segments (Tg) and to
+the hydrocarbons chains near the carbonate moieties in the soft
+segments (Tgz). Both the Tg and T,2 values decreased as the solids
+content in the polyurethane increased, indicating higher degree of
+phase separation in the polyurethanes (Fig. 5c). On the other
+hand, the melting temperature increased as the solids content
+increased (Table 4). During the DSC heating run, the crystal-
+lisation either the melting of the soft segments were produced,
+indicating that the crystallisation kinetics is very slow.
+The morphology of the polyurethanes was e
+confocal microscopy. Because of the different molecular weights of
+exanmined bylaset
+the hard and soft segments in the polyurethanes, the differences in
+brightness in the confocal micrographs may allow these to be
+distinguished and therefore obtain information on the degree of
+phase separation. The formation of these two-phase domains
+structures has been described elsewhere [29] to spinodal decom-
+position of the polymeric chains in the polyurethane. The confocal
+micrographs of the polyurethanes showed dark or bright regions
+corresponding to the soft and hard segment domains, respectively.
+As a typical example, Fig. 6 showed the confocal micrographs of
+the polyurethanes having 39 and 44 wt%, The confocal microscopy
+of the polyurethanes with lower solids content (37 and 39 wt%)
+largely showed almost only bright (hard segment domains) region,
+whereas the confocal micrographs of the polyurethanes with 42 or
+44 wt% solids content showed both bright and dark regions.
+Therefore, the soft segments content in the polyurethanes
+increased by increasing their solids contents, and on the other
+hand, the higher the solids content in the polyurethanes, the
+higher the degree of phase separation that resulted.
+The viscoelastic properties of the polyurethanes were obtained
+by plateplate rheology. Fig. 7a showed as typical example the
+variation of the storage (G) and the loss (C°) modulus as a function
+of the temperature for the polyurethane with 37 wt% solids content.
+The moduli of the polyurethane decreased as the temperature
+increased, and a cross-over between the storage and loss moduli
+was prodluced. At temperatures lower than that of the cross-over, a
+polyurethane was mainly elastic, and at temperature higher than
+Melting temperature and enthalpy values obtained firom the DSC curves of the
+Fig. 6, Confocal laser micrographs of the polyurethanes having 39 and 44 wt3
+Fig, 7. (a) Variation of the s)
+ature for the poly
+less (G°)
+. (b) Variat
+the
+and loss
+that of the cross-over, the viscous regime was dominant [5]. The
+similar temperature as the solids content increased (Table 5) due to
+cross-over in the polyurethanes shifted toward lower modulus but
+the increase in the soft segment content. Fig. 7b showed the
+variation of the storage modulus (C) of the polyurethanes as a
+function of their solids content. An increase in the solids content
+produced a decrease in storage modulus (CG), dlue to a higher dlegree
+of phase separation in the polyurethanes,
+3.3. Adhesion properties
+Finally, the
+with
+lifferent sol
+rith the
+gaad
+stresses
+been
+obtained
+sion t
+T-peel
+tests
+peel
+poly
+: CA
+PVC/waterborne polyurethane dispersion/plasticized PVC joints
+According to Fig. 8, the increase in the solids content appeared not
+to affect the adhesive strength of the polyurethane joints., The locus
+sions umder shear stresses was evaluated from single lap-shear
+The adhesive strength of the waterbome polyurethane disper-
+tests
+of aluminium/waterborne polyurethane dispersion/alumi-
+nium joints The shear strength values were high and Fig. 9 showed
+a decrease in the lap-shear strength with increasing solids content
+of the polyurethane, the maximum value was obtained in the joint
+produced with a polyurethane having 37 wt% solids content. As a
+cohesive failure in the adhesive was always obtained, the trend in
+the shear strength values can be related to the polyurethanes
+properties. Thus the increase in solids content reduced the hard
+against shear might be expected to be lower too.
+segment content in the polyurethanes and therefore the resistance
+4.Conclusion
+An increase in the solids content (or the increase in the soft
+segment content) in the polyurethanes 
+produced a decrease in
+particle size distribution and particles polydispersity of the
+polyurethane dispersions. On the other hand, as the solids content
+increased, the Brookfield viscosity of the PUDs increased thereby
+decreasing the mobility of the particles and consequently
+dlecreasing the probability of particle-particle interactions.
+The solids 
+ced the
+differ
+structure of the polyurethar
+segm
+nes to be distinguished. The increase ir
+the solids content increa
+nding to the
+adation of the soft s
+glass transition temperatures indlicating higher degree of phase
+The increase in the solids content decreased the values of the
+separation in the polyurethanes. On the other hand, the cross-
+over between the storage and loss mocdulus shifted toward lower
+adhesive strength under peel stresses., However, a decrease in the
+Finally, the increase in the solids content did not affect the
+shear strength and a cohesive failure in the polyurethane were
+hard segments content.
+Acknowledgements
+1区
+acknowledged.
+m.colera@ube.es)
+References
+[z

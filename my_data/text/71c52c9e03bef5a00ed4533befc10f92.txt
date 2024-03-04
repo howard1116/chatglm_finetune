@@ -1,0 +1,182 @@
+PAMAM型树枝状水性聚氨酯的合成及表征
+（1.陕西科技大学轻化工助剂化学与技术教育部重点实验室，西安710021
+2.陕西农产品加工技术研究院，西安710021）
+摘要：以异佛尔酮二异氰酸酯（IPDI）、聚碳酸酯二
+醇（PCDL）、二乙醇胺（DEA）、麓麻油（C.O.）、二羟甲
+基丙酸（DMPA）为原料，二丁基二月桂酸锡（DBTDL）
+为催化剂，合成了单端封闭的聚氨酯预聚体，然后将其
+接枝到一代树枝状大分子聚酰胺胺（1GPAMAM）
+上，合成了一种新型树枝状水性聚氨酯。通过单因素
+分析法优化出最佳的合成条件：DBTDL的用量为
+0.08%，预聚反应温度为80℃，扩链反应温度为
+75C，DMPA用量为6%，产物具有良好的水分散性。
+利用红外光谱（FT-IR）和热失重分析仪（TGA）对产物
+进行了表征，并用X射线衍射（XRD）分析了胶膜的结
+晶度，还对胶膜的耐水性能和拉伸强度进行了测试，结
+果表明，制备的树枝状水性聚氨酯的吸水率为12.
+1%，拉伸强度为16.2MPa，热分解温度为205“C。
+关键词：聚酰胺-胺；水性聚氨酯；合成；表征
+中图分类号：TQ323.8
+文献标识码：A
+DO1;10, 3969/j. issn. 10019731. 2015, 01. 012
+树枝状大分子是近年来发展起来的一类具有三维
+结构，高度有序的新型高分子，与传统的线型聚合物
+相比较，树枝状大分子在结构上具有高度的对称性以
+及有规律的，可控制的支化结构，分子表面存在多个端
+基官能团。正是由于这些结构特点使其具有良好的流
+体力学性能，容易成膜，不易结晶等性能，根据它
+的结构和性能特点，树枝状大分子的应用已成为人们
+研究的热点，预计可在涂料、膜材料、表面活性剂、生物
+医药、线性聚合物的改性剂等方面得到广泛的应
+用0
+随着人们对材料安全和环境保护的重视，以水为
+分散介质的水性聚氨酯应运而生，其中超支化水性聚
+氨酯具有较高的交联程度，与线型聚氨酯相比，热稳定
+性和耐水性能也有所提高，因此超支化水性聚氨酯成
+为近年来聚氨酯合成的一个热点，合成方法也相继报
+道[]，但是具有高支化程度的树枝状水性聚氨酯报
+道较少。本文以 IPDIPCDL、C. O.DMPA、DEA 和
+基金项目：国家自然科学基金资助项目（51103082）；陕西省青年科技新星资助项目（2013KJXX-78）;陕西省重点科技创新团队
+资助项目（2013KCT-08）：陕西科技大学创新团队资助项目（TD12-04）
+收到初稿目期：201405-15
+收到修改稿日期：20140915
+通讯作者：任龙芳，E-mail;renlf1010@ 163,com
+作者简介：任龙芳（1981一），女，山东聊战人，副教授，硕士生导师，主要从事环保型皮革与合成革化学品辅究
+代树枝状大分子聚酰胺胺（1GPAMAM）为原料，
+采用接枝共聚制备了一种树枝状水性聚氨酯，并对其
+结构性能进行了研究
+异佛尔酮二异氟酸酯（IPDI），分析纯，上海笛柏化
+学品技术有限公司：聚碳酸酯二醇（PCDL，M=
+2000），分析纯，陶氏化学；二羟甲基丙酸（DMPA），分
+析纯，阿拉丁试剂公司；二丁基二月桂酸锡（DBTDL），
+分析纯，上海青析化工科技有限公司：二乙醇胺
+（DEA）、麻油（C.O.）、三乙胺（TEA）、N-甲基-2-吡
+咯烷酮、二正丁胺、丙酮，分析纯，广州市科密欧化学试
+剂有限公司；一代聚酰胺-胺（1GPAMAM），自制。
+GT-7010-AE拉力试验机，高铁检测仪器有限公
+司；Mastersizer2000激光粒度分析仪，英国马尔文公
+司；VERTE70傅里叶变换红外光谱，德国BRUKER
+公司：Q500TGA热重分析仪，美国TA仪器公司；D/
+max2200PC型X射线衍射仪，日本理学公司
+2.2
+树枝状水性聚氨酯的合成
+后，滴加0.08%（约2滴）的催化剂二丁基二月桂酸锡
+（DBTDL)，升温至80C进行反应，滴定体系中游离
+NCO的含量达到理论值，然后将温度降至75℃，加
+入用少量N-甲基吡略烷酮（NMP）溶解的二羟甲基丙
+酸（DMPA），用量为6%，再次滴定体系中游离—NCO
+的含量达到理论值，将预聚体冷却至常温，滴加二乙醇
+胺（DEA）2.2g的丙酮溶液，搅拌30min，得到单端封
+闭的亲水性聚氨酯预聚体（见图1），再滴加1代聚酰
+胺胺（1GPAMAM）2.5g的丙酮溶液，使单端封闭
+的预聚体接枝到1GPAMAM上（见图2），反应30
+min，升温至60℃，加快揽拌速度下加入三乙胺
+（TEA）进行中和反应，搅拌30min，然后降至室温，高
+速搅拌的条件下加入去离子水乳化30min，静置消泡
+图1单端封闭的水性聚氨前预聚物
+Fig 1 Single-ended closed waterborne polyurethane prepolyme:
+采用丙酮-二正丁胺滴定法测定异氰酸酯基含量
+利用公式计算
+NCO%含量
+准确称取胶膜的质量后，将其浸入去离子水中
+24h后取出，擦干胶膜表面水分，利用以下公式计算
+式中，m为胶膜吸水溶胀后的质量；m为浸水前
+剪取少量制备的胶膜，样品经一束平行的单色X
+射线垂直照射后，产生
+一组以入射线为轴的同轴反射
+控制反应体系的预聚反应温度为80C，反应时间
+为1.5h，探讨DBTDL用量对反应体系中NCO含量
+的影响，实验结果如图3所示
+由图3可知，随着催化剂用量的增加，反应系中的
+NCO含量逐渐减少，当DBTDL的用量为0.08%时，
+NCO含量下降至理论值3.15%，说明催化剂对该反应
+起到了明显的催化促进作用。当催化剂用量<0.08%
+时，其催化促进作用随用量的增加而明显增强：而当催
+化剂用量>0.08%时，NCO含量的变化很小，说明催
+化剂的用量对反应速率的影响减小。所以选定催化剂
+的最佳用量为0.08%。
+控制n(—NCO）n（—OH）=2,DBTDL用量为
+0.08%，反应时间为2h，探讨不同反应温度对反应体
+系中NCO基含量的影响，实验结果如图4所示
+从图4可看出，随着反应温度的增加，反应体系中
+的一NCO含量呈现不断降低的趋势，当反应温度为80
+C时，NCO基含量降至理论值3.15%。当反应温度低
+于75℃时，随着反应温度的升高，反应体系中的
+NCO含量降低的较明显，说明反应温度越高，反应越
+完全：当反应温度在75~80℃时，反应体系中的NCO
+含量变化不大，逐渐接近理论值3.15%：而80和85℃
+时，基本保持平衡。综合考虑，选定80℃为最佳的预
+聚反应温度
+此外，由于后续的扩链反应中存在一COOH，为防
+止其与—NCO发生副反应，同时又能保证—NCO
+和—OH尽可能的反应完全，故选择75C为最佳的扩
+链反应温度
+采取内乳化法利用亲水扩链剂DMPA将亲水基
+团引入聚氨酯分子中，亲水基团含量的多少直接影响
+聚氨酯乳液的外观和物理性能以及胶膜的耐水性。因
+此，固定其它因素不变，研究DMPA用量对乳液及其
+表1DMPA用量对乳液性能的影响
+Table 1 Effect of DMPA dosage to the emulsion properties
+由表1可知，随DMPA用量的增加，乳液外观由
+采黄色变至泛蓝光的半透明乳液直至完全透明，贬存
+稳定性增加，同时乳液粒径逐渐减小至50nm以下，抗
+张强度也有所增加，但是涂膜的耐水性变差，尤其是由
+6%增至7%，吸水率变化较大.所以综合考虑选用
+6%为DMPA的最佳用量。
+图5为IPDI、1GPAMAM和反应产物的红外光
+谱图。对比IPDI与产物的红外谱图可以看出，
+2253cm处的吸收峰消失，说明IPDI的NCO基反
+应完全；产物在3340cm处存在—NH和—OH的伸
+酯中—C—O伸缩振动峰，1532cm-处也有明显的
+N—H变形振动峰，上述吸收峰的出现说明产物中生
+成了氨基甲酸酯基
+图6（a）为预聚体的热失重曲线，（b）为反应产物的
+热失重曲线。从图6可以看出，产物的耐热性能明显
+优于预聚体的耐热性，产物失重到95%的分解温度为
+205℃，之后继续升温，样品分解速率逐渐增大，在
+300C左右，分解速率达到最高，400C以后分解变得
+缓慢，500℃时失重完毕，而预聚体失重至95%时的分
+解温度仅为175℃，继续升温，样品分解速率逐渐增
+大，在250℃左右，分解速率达到最高，360C以后分解
+变得缓慢，500C时失重完毕，说明产物具有良好的热
+稳定性，这是因为产物中不但具有热稳定性能良好的
+氨基甲酸酯键，而且还具有高度支化的分子结构，通过
+接枝树枝状大分子，将线型预聚体交联成体型结构的
+聚氨酯产物，从而提高了产物的热稳定性
+Fig 6 The TG analysis of prepolymer and product
+3.2.3
+XRD图谱分析
+图7为反应产物的宽角X射线衍射图谱，从图7
+可以看出，在衍射角20处有衍射峰出现，这证实了所
+制备的树枝状水性聚氨酯有一定的结晶性，但结晶度
+不高，这是由于高分子的链结构是影响结晶的重要因
+素，支键越多，侧基体积越大的高分子越不容易结晶。
+制得的产物中具有独特的树枝状分子结构，所以其结
+（1）以IPDI、PCDL、C.O、DEA和DMPA为原
+料，合成出单端封闭的聚氨酯预聚体，然后以1G
+PAMAM为核分子，利用超支化聚合物扩链法，在1G
+PAMAM外围接枝聚氨酯预聚体，合成出高度支化的
+树枝状水性聚氨酯，通过单因素优化出反应过程的最
+佳条件：有机锡催化剂用量为0.08%，预聚反应80℃，
+扩链反应75C，DMPA用量为6%。
+（2）利用红外光谱和热失重分析仪对产物结构
+和性能进行了表征，并用X射线衍射（XRD）分析了薄
+膜的结晶度，还对胶膜的耐水性能和拉伸强度进行了
+测试，所制备的树枝状水性聚氨酯的吸水率为12.1%
+专考文献
+SynthesisandcharacterizationofPAMAMdendriticwaterbornepolyurethane
+(1. Key Laboratory of Auxiliary Chemistry and Technology for Chemical Industry of
+Ministry of Education, Shanxi University of Science and Technology, Xi′an 710o21, China;
+2. Shaanxi Research Institute of Agricultural Products Processing Technology, X'an 710o21, China)
+Abstract; The polyurethane prepolymer was prepared in which the isophorone diisocyanate ( IPDI) , polycarbon
+ate glycol (PCDL) , diethanolamine (DEA), castor oil (C, O. ) and 2,2dimethylol propionic acid (DMPA) were
+a8 raw materials, the dibutyltin dilaurate( DBTDL) was as catalyst. The polyurethane prepolymer was grafted
+on 1. 0 generation of polyamide amine (PAMAM) , and then a new type of dendritic waterborne polyurethan
+was synthesized. The synthesis conditions were optimized by single factor analysis method. The optimum con
+ditions were that the prepolymerization reaction temperature was 8o *C , the temperature of chain extension reac
+tion was 75 C , the dosage of DBTDL was 0, 08 % and the dosage of DMPA was 6%. The product took on good
+water dispersibility. The products were characterized by Fourier transform infrared spectroscopy (FT-IR) and
+thermogravimetric analysis (TGA) , its crystallization degree was determined by XRD and the water resistance
+and tensile strength of the film were tested too, The results showed that its bibulous rate was 12. 1 % * the ten
+sile strength was 16, 2 MPa and the thermal decomposition temperature was 205 C.
+Key words: polyamide-amine; waterborne polyurethane: synthesis; characterization

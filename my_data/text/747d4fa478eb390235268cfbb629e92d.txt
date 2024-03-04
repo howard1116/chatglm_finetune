@@ -1,0 +1,109 @@
+影响印铁涂料耐蒸煮性的因漆
+刘卫平，朱莉（中化建常州涂料化工研究院、213016）
+摘要：印铁涂料在不问的应用领域具有不同的要求，例如：深加工性、射蒸效性、射高温滴塑性等。而食品、饮料行
+业对印铁涂料的一个重要指标载是耐高温蒸煮性能。本文者重介绍了聚印铁涂料中主成膜物及辅助材料对涂胶耐蒸煮性
+的影响。
+关键润：聚帕印铁涂料：耐基煮性：影响因家
+随着食品工业和轻工业的发展，饮料罐、食品罐
+和各种喷雾罐的大量出现、对产品外包装的要求越来
+越高，从面对印铁涂料的要求也进一步提高、目前国
+内印铁涂料厂家主要集中在华东和广东一带，其中很
+大一部分还是低档次的丙烯酸涂料、醇酸涂料，它的
+流平性、附着力、耐蒸煮性都不如聚酯印铁涂料、而
+大部分高档印铁涂料市场均被ICI、Vaispar、Toyo等
+大公司占领
+印铁涂料在不同的应用领域具有不同的要求、如
+深加工性、耐蒸煮性、耐高温滴塑性等。而食品、饮
+料行业对印铁涂料的一个很重要的指标就是耐高温蒸
+煮性、如二片罐、三片上所用的涂料、大部分都要
+经过高温杀菌。与进口产品相比、国产印铁涂料的耐
+燕煮性较差，而成为提高国产聚酯印铁涂料品质的降
+试制树脂选用高括性聚能树脂、合成脂肪酸改性
+试制树脂选用高活性聚酯树脂、合成脂肪酸改性
+短油醇酸树脂及高固体丁醚化三聚氰胺甲醛树脂、树
+脂VOC含量低、聚酯、醇酸树脂与氨基树脂用量比
+为70：30-涂料PVC/CPVC控制在0.05~0.2之间
+涂料中加入适量DBE可提高涂膜流平性。
+PreparationandApplicationofSolidColor
+Preparation andApplication of Solid Color
+PolyurethaneAutomotiveTopcoat
+PolyurethaneAutomotiveTopcoat
+Han Qing(Kienming Zhongiua Coatings Co., Lzd. 650224)
+Abstract: Experimental preparation of solid color polyurethane automotive topcoat is made. It requires a baking
+nelamine-formaldehyde resin:high boiling sh c*nt
+1实验部分
+60%聚酯树脂、自制：金红石型钛白粉、进口：
+中低相对分子质量环氧树脂，进口：C-303氨基树脂，
+氰特公司：582-2氨基树脂，国产：BE-659氨基树脂
+氰特公司：VESTANATB1358A封闭型异氰酸酯、迪
+高沙·赫斯公司：BYK-450（封闭型对甲苯磺酸）.毕
+克公司；N-1419（二壬基茶磺酸）-金氏公司：N-3525（二
+壬基茶二磺酸）金氏公司。
+将涂料成品用混膜厚度约20um的刮棒在未打磨
+的马口铁板上进行刮涂。控制千膜厚度在10~12μm
+于烘箱中在180C条件下烘烤10min左右、然后将
+样板放入高压锅内、在120C蒸煮30min、取出样板
+进行性能评估
+2结果与讨论
+2.1聚酯树脂配方设计时应考虚的因素
+聚酯树脂作为印铁涂料的主成膜物，其良好的水
+解稳定性是印铁涂料成膜后耐蒸煮性的前提保证。在
+以多元醇和多元酸缩聚面成的高分子聚酯树脂中、单
+体的选择尤为重要。其中多元醇的结构直接影响聚酯
+涂膜的水解稳定性能，制备印铁涂料用紧幅树脂时优
+选具有较长侧链经基的多-元醇·因为其结构上较强的
+空间位阻，可有效改善聚酯树脂的水解稳定性，从而
+达到提高耐蒸煮性的目的
+2.2固化剂的选择
+固化剂不仅起交联的作用、而且与聚酯树脂基料
+一起作为主要的成膜物质。不同的用途决定涂料固化
+剂的选型。印铁涂料所要求的耐蒸煮性是在高温高压
+下进行的，选择恰当的固化剂尤为重要。一般来讲
+三聚氰胺类固化剂、异氰酸酯类固化剂都有较好的耐
+水性。表1是不同固化剂对耐蒸煮性的影响。
+采用混合氨基
+佛尔酮二异氰酸酯三聚体的封闭物作固化剂均能满足
+耐蒸煮要求-而且后2种固化剂由于其结构上的特点、
+具有更好的柔韧性和光泽。图！是2种固化剂的基本
+结构。
+虽然3种固化剂都能满足耐蒸煮要求，但是在实
+际应用中还必领考虑成本。表2为3种固化剂的售价
+及对涂料成本的影响
+从表2可以看出，3种固化剂所占总基料成本的
+比例相差较大。通常情况下、在满足加工性能的前提
+下，采用混合固化剂就能很好地解决耐蒸煮问题。当
+然在某些特殊要求下，如更高要求的加工性能，可以
+采用苯代三聚氟胺或封闭型二异氟酸酯作为固化剂
+2.3环氧树脂的影响
+环氧树脂对金属底材具有优异的附着力、并具有
+很好的耐水性、因此，印铁涂料中环氧树脂的应用是
+相当普谊的。例如：内壁涂料主要以高相对分子质量
+环氧为主，水性二片罐用涂料以中高相对分子质量环
+2不同固化剂在单位基料中所增加的成本
+氧为主，而外用印铁涂料以中低相对分子质量环氧为
+主。可见环氧树脂在印铁涂料中的重要性。表3为环
+氧树脂用量对涂膜耐蒸煮性的影响
+2.4催化剂的选择
+正确使用催化剂可以降低烘烤温度，节约生产成
+本、提高产品质量-针对印铁涂料涂膜的耐蒸煮性能、
+催化剂的选择也很重要。表4是不同的催化剂对耐蒸
+煮性的影响
+从表4可以看出、由于BYK-450具有很强的极
+性，能溶于水、因此有一部分酸性基团就会聚结在被
+除物表面、从而使附春力下降-那么在蒸煮杀菌过程
+中，水分子就会透过涂膜在基材和涂膜之间形成隔离
+除物表面、从而使附着力下降、那么在蒸煮杀菌过程
+中，水分子就会透过涂膜在基材和涂膜之间形成隔离
+带，结果使漆膜表面产生大量水泡。而N-1419
+N-3525由于长碳链经基的作用·使得极性降低而趋向
+非极性化、因而它能很均匀地分布在基料和溶剂之中.
+很少聚结在基材和漆膜之间，同时由于其疏水基团的
+作用进一步提高了耐水性，因此对于有耐蒸煮要求的
+印铁涂料、必须选用催化剂N-1419或N-3525-大多
+Liu Weiping.Zhu Li(Changchou Paint&Coatings ChemicafIndustry Research Institute ofCNCCC.2l3O/6)
+Abstraet: The iron printing coatings should meet the different performance demand in different application secton
+for cxample the performance of indepth applicability. boiling resistance and anti-drop with high temperature, etc. In
+food and drinking industrial sectors, the boiling resistance of iron printing coatings is on demand particularly. This
+p q pasneo 'ssueoo uuud uon srsafjod jo Kadosd aouessisau Suoq at uodn saouanu su uo pasnooy saded
+variation of the main filmbuilding components and auxiliary components.
+Key words: polyester iron printing coatings; boiling resistance: influcntial factor

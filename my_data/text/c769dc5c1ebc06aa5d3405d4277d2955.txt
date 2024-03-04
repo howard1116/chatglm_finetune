@@ -1,0 +1,299 @@
+聚酰胺胺型树枝状水性聚氨酯的合成与表征
+（1.陕西科技大学轻工科学与工程学院陕西西安710021；2.陕西农产品加工技术研究院陕西西安710021）
+摘要：为了提高水性聚氨酯耐水性等性能以异佛尔酮二异氰酸酯（IPDI）、聚四亚甲基醚二醇（PTMC）、二羟甲
+基丙酸（DMPA）、1A-丁二醇（BDO)等为原料二月桂酸二丁基锡（DBTDL)为催化剂通过预聚体法合成了单端
+封闭的聚氨脂预聚体（PPU)然后以一代端羟基树枝状聚合物（PAMAM-OH)为核通过接枝共聚法制备了树枝
+状水性聚氨酯（HWPU)。通过单因素分析法优化出PPU的最佳合成条件：反应时间为2b反应温度为80℃A
+(NCO):nOH)为6:1。采用FIIR、XRD和纳米粒度表面电位分析仅对产物的结构和性能进行了表证开对胶膜
+的耐水性、表面粗糙度和力学性能进行了测试。结果表明：HWPU乳液粒径为43.56mm胶膜结晶度为1.59%，
+强度得到明显提高
+关键词：水性聚氨酯：树枝状聚合物：聚酰胺-胺：耐水性：建筑用化学品
+Synthesis and Characterization of Polyamide-amine
+Dendritic WaterbornePolyurethane
+REN Longang'ZHANG Hua'OIANG Tao-ao'
+Abstraet: In order to improve the water resistance and other properties of the waterborne polyurethane 
+the polyurethane prepolymer ( PPU )was synthesized with isophorone disocyanate ( IPDI),
+polytetramethylene ether glycol ( PTMG) 2 2-bis( hydroxymethyl) propionic acid ( DMPA) and 1 4-
+butanediol( BDO) as raw materials dibutyltin dilaurate ( DBTDL) as a catalyst. Then the dendritic
+waterborme polyurethane ( HWPU) was synthesized with the hydroxyl terminated dendrimer ( PAMAM
+a azgdo on 1no pao sem quaadxa ooe  apug uoezuaipodoo gea8 q anoo e se (HO
+synthesis conditions of PPU. The optimum synthesis condition was reaction time for 2 h at 80 °C and
+NCO/OH molar ratio was 6:1. The structure and performance of HWPU was characterized by Fourier
+transform infrared spectroscope ( FTIR) ,X-ray diffractometer ( XRD) and nano particle surface
+potential analyzer. The water resistance ,the surface roughness and the mechanical properties of the
+films were also tested. The results show that the reaction is carried out as the expected route ,the
+particle size is 43. 56 nm ,the crystallinity of the film is 1. 59% ,the water absorption of the film is
+4. 8% after 24 h ,the tensile strength is 39. 2 MPa and the elongation at break is 376. 4% μand the
+surface roughness of the film is reduced. Compared with the waterborne polyurethane without PAMAM-
+收稿日期：201603 11;定用日期：2016 0525;DO:10.13550/-jshg.2016.09.019
+作者简介：任龙芳（198
+）女数授
+博土
+电话：029
+OH ( WPU) ,the water absorption of HWPU decreases by 67. 1% ,the tensile strength of HWPU
+Foundation items: Supported by the Innovation Team Project of Shaanxi University of Science and
+Technology( TDl204) : The Science and Technology Innovation Team Project of Shaanxi Provinc
+[ 2013KCT08) :The Project of Education Depa
+高度支化聚合物（highlybranched
+macromolecules)由于具有支化的三维球状结构、良
+好的流体力学性能、易成膜而不易结晶等优良的性
+能在涂料、膜材料、生物医药等方面存在潜在的应
+用前景近年来备受研究者的关注成为高分子化学
+领域的研究热点之一。从结构特征来分高度支
+化的聚合物可分为树枝状聚合物（dendrimer）和超
+支化聚合物（hyperbranched polymer)。树枝状大
+分子具有规则的三维支化结构每一个重复单元中
+至少含有一个支化点结构具有高度的对称性整个
+分子无缺陷：而超支化聚合物分子中存在结构上的
+缺陷和残缺的支链不像树枝状聚合物那样规整，且
+分子量分布较宽整个分子并不完全对称-。由
+于独特的结构和性能特点树枝状大分子在涂料、膜
+材料、表面活性剂、生物医药、线性聚合物的改性剂
+等方面均可得到广泛的应用-
+水性聚氨酯虽具有无污染、柔韧性好、附着力
+强、相容性好、易于改性等优良的性能，但也存在诸
+多方面的不足如薄膜的吸水率高、耐热性差、固含
+量低[1-等。而高度支化聚合物由于结构的特殊
+性比线性聚合物具有更优良的机械性能、耐热性、
+耐水性等[-。因此采用高度支化聚合物对水性
+聚氨酯进行改性使其具有其他线性结构水性聚氨
+酯所不具备的优异性能成为近年来聚氨酯合成的
+醋报道较少。
+学品技术有限公司：聚四亚甲基醚二醇（PTMG，
+CP)、二羟甲基丙酸（DMPA）AR，天津市科密欧化
+学试剂开发中心：二月桂酸二丁基锡（DBTDL）AR，
+上海青析化工科技公司：三乙胺（TEA）AR天津市
+天力化学试剂有限公司；14-丁二醇（BDO）AR天
+津市福晨化学试剂厂：一代端羟基树枝状聚合物
+（PAMAM-OH），AR，威海晨源分子新材料有限公
+VERTE70傅里叶变换红外光谱德国Bruker公
+司；Dmax2200PC型X射线衍射仪，日本理学公司；
+AFM5100原子力显微镜美国Agilent公司：GT-
+7010-AE拉力试验机高铁检测仪器有限公司；MH
+-YDZ数字皮革厚度测定仪陕西科技大学阳光电
+子研究所：ZetasizerNANO-ZS90型纳米粒度表面
+电位分析仪英国Malvern公司
+（1)干燥所有仪器，将PTMG在100-105℃、
+真空度0.08 MPa条件下脱水2h,BDO在100℃、
+真空度0.08MPa条件下脱水1hDMPA在80°℃、
+真空度0.08MPa条件下干燥2h，丙酮、三乙胺经
+4A分子筛干燥后使用.将25.0gPTMG加入三口
+烧瓶中，加入16.7gIPDI，搅拌均匀，滴加u
+( DBTDL)为 0. 06% 的催化剂(以 IPDI 和 PTMG 质
+量总和为基准，下同）在80℃下反应2h，当体系
+中游离（NCO）达到理论值6.30%后，降温至75
+℃,加入 1.7 g DMPA和0.8gBDO(占 IPDI 和
+PTMG质量总和的6%）继续反应3h再次滴定，
+至体系中游离u（NCO）接近理论值3.89%后降温
+至70℃加入无水乙醇0.95g进行封端反应30
+min至u（NC0）接近理论值1.95%后结束反应，即
+可得到单端封闭的聚氨酯预聚体（PPU）反应过程
+如下：
+(2)将0.6g PAMAM-OH溶解在少量DMF 中，
+缓慢滴加至PPU中80°
+C反应3h再次测定体系中
+（3）缓慢滴加5g丙酮使反应体系温度降低至
+60°℃在450r/min的搅拌速度下加入 1.3gTEA
+进行中和反应反应30 min然后在1500r/min的揽
+拌速度下将产物缓慢加入去离子水中乳化30min，
+静置直到表层泡沫自动消除最后用旋转蒸发仪除
+掉丙酮制备得到树枝状水性聚氨酯乳液。
+（4)将制备的树枝状水性聚氨酯乳液均匀涂覆
+C烘箱中烘干制
+用丙酮-二正丁胺滴定法测定聚氨酯中的
+NCO)
+根据如下公式进行计算：
+游离的u（NCO）至一NCO完全反应，使单端封闭
+的PPU接枝到PAMAM-OH上反应过程如下：
+采用X-射线衍射仪测定胶膜的结晶性能扫描
+将WPU、HWPU胶膜剪成3cm×3cm的正方
+形放于真空干燥箱中于60C烘至恒重准确称量
+其质量记为m：然后把胶膜放置于足量纯净水中，
+室温下浸泡24h后取出用滤纸吸去胶膜表面的游
+离水分迅速称量胶膜质量记为m按下式计算胶
+膜吸水率
+控制预聚反应温度80℃催化剂（DBTDL)用
+量为0.06%探讨反应时间对反应体系中w（NCO）
+的影响实验结果见图1
+由图1可知，在反应初期（NCO）迅速下降，
+在0-1h时体系中u（NCO）的下降幅度最大这是
+因为在反应初期反应体系中存在大量的一0H，所
+以一NCO和一OH的反应速度较快生成大量的氨
+基甲酸酯基。当反应时间在1-2h之间时，体系中
+u（NCO）下降幅度缓慢这是因为随着反应的不断
+进行大量的一NCO和一OH基本反应完全从而使
+得ur（NCO）减少幅度缓慢。继续延长反应时间至2
+-3h时（NCO)基本保持不变，说明反应时间大
+于2h之后体系内u（NCO）没有进一步降低。因
+此选取IPDI与PTMG的最佳反应时间为2h。
+2.1.2反应温度
+由于在不同的温度下反应速率不同体系中
+（NCO）的变化也不完全相同因此选取合适的温度
+作为第一阶段反应的温度对反应体系在可控的时
+间内达到理论平衡点十分重要。选取反应时间为2
+h催化剂w（DBTDL)用量为0.06%探讨反应温度
+对体系中（NCO）的影响实验结果见图2
+由图2可知在相同的反应时间内随看反应温
+度的升高r（NCO）不断下降。当反应温度在65
+75℃之间，（NC0）急剧下降，7585℃之间，
+ur（NCO）变化较小，说明当反应温度为80C时，体
+系中的一NCO已基本反应完全继续升高温度，可
+能会导致IPDI发生自聚或者使生成的氨基甲酸酯
+基又与一NCO基团发生反应从而产生凝胶，所以，
+结合减少生产耗能等综合因素，选择预聚体反应温
+度为80℃。
+由表1可知随着n（NCO）与n（OH）比值的增
+大乳液的外观由淡蓝色变成米黄色HWPU-8的
+乳液贮存稳定性变差且乳液粒径增大从而导致其
+成膜性较差，随着n（NCO）：n（OH）不断增大，
+变好乳液粒径和胶膜的结晶度均呈现先增大后减
+小的趋势，这可能是因为IPDI的亲水性差所以随
+着IPDI含量的增加，HWPU乳液的水分散性变差，
+从而导致乳液粒径增大，乳液不稳定成膜性变差；
+另一方面可能是因为随着IPDI用量的增加在乳化
+过程中水起了扩链的作用，与过量的一NCO产生
+了交联反应从而导致乳液粒径增大乳液不稳定，
+成膜性变差-所以综合考虑x（NCO）:n（OH）为6:1
+时效果最佳。
+采用X射线衍射测定了不同n（NCO):n（OH)
+所制备的树枝状水性聚氨酯膜的结晶行为结果见
+从图3中可以看出几种胶膜的衍射图基本一
+致均在29=10°-30°范围内呈现一个较宽的弥散
+峰在20=19°附近有微弱的结晶峰，这表明不同
+PPU与PAMAM-OH形成的HWPU胶膜具有一定程
+度的结晶但没有形成完善的结晶结构。X射线测
+定结果表明：HWPU-3、HWPU-4、HWPU-6和
+HWPU-8胶膜的结晶度分别为0.91%、3.14%、
+1.59%和3.67%。其中HWPU-6胶膜的结晶度低
+于HWPU-4胶膜，原因可能是PAMAM-OH中的
+一OH与PPU中的一NCO反应形成空间网状结构，
+导致PU软硬段的微相混合程度增强软链段的相
+对运动受到限制使分子链运动困难；另一方面是由
+于IPDI结构规整性差所以随着IPDI量的增加，
+HWPU胶膜的对称性变差分子排列规整性变差使
+得分子链难以堆砌结晶度减小而且由于PAMAM-
+OH引I入了未反应的羟基从而使得HWPU中的极
+性基团较PPU有所增加极性基团之间的相互作用
+使HWPU软段不能规整的排列，体系Gibbs自由能
+升高对称性更小从而导致结晶度减小。而HWPU
+-6胶膜的结晶度低于HWPU-8胶膜这是由于树
+形大分子PAMAM-OH特定的空间结构等原因，所
+以随着PPU中IPDI用量的增加，体系中游离的一
+NCO不能完全与PAMAM-OH中的羟基反应所以
+并不是PAMAM-OH结构中所有的—OH都可以
+与—NCO进行接枝反应有的—OH在形成HWPU
+的过程中被包理于内部而不能参加反应，从而使
+HWPU-8胶膜的交联度较HWPU-6胶膜减小软
+链段的相对运动相对容易所以导致HWPU-8胶
+膜的结晶度略增。
+拉经分析
+图4为不同PPU与PAMAM-OH共聚形成
+HWPU胶膜的粒径分析图
+由粒径检测结果可知：HWPU-3、HWPU-4、
+HWPU-6和HWPU-8的乳液粒径分别为52.06、
+113. 9、43. 56 和 117. 20 nm. 由图可知 ,HWPU  6
+的乳液粒径最小说明乳液的分散性最好稳定性也
+最好：HWPU-8的乳液粒径分布范围最大这主要
+是由于随着PPU中IPDI用量的增加，NCO与
+H0等物质发生反应的几率增加，导致反应的副产
+物较多从而使得粒径分析结果中出现两个峰位；另
+外可能是由于IPDI的亲水性差所以随着PPU中
+8
+小水分散性变差：且原料中亲水扩链剂DMPA比
+例减小导致亲水基团一COOH的含量减少库仑力
+减弱所以乳化时H0分子不易被分子链上的亲水
+基团吸附和传递难以渗透到软硬段的离子聚集区，
+从而使得相反转过程变得更困难所以乳液的亲水
+性减弱乳液粒径增大[从而使HWPU-8的乳
+液粒径大于HWPU-6.而HWPU-6的乳液粒径
+小于HWPU-4，说明HWPU-4乳液的水分散性
+差这主要是由于树形大分子PAMAM-OH特定的
+空间结构等原因，使游离的一NCO不能完全与
+PAMAM-OH中的羟基反应，有的一OH在形成
+HWPU乳液的过程中被包埋于内部而不能参加反
+应所以乳液中含有未反应的PAMAM-OH从而使
+HWPU-6的乳液粒径小于HWPU-4。
+2.2.3红外光谱
+对比PTMG，IPDI与PPU的红外谱图可以发
+现PTMG在3300cm左右—OH的强吸收峰在
+PPU谱图中消失，说明PTMG中的—OH全部参加
+反应（PPU谱图3322cm处是—C0OH的吸收
+峰），IPDI谱图中2250cm左右—NCO的吸收峰
+在PPU谱图中存在，说明PPU中含有未反应的
+图蚕ON一
+由图5可知PAMAM-OH在3367cm左右—
+OH的宽峰对应HWPU谱图中3316cm处—OH
+的强而窄的吸收峰，说明PAMAM-OH中的羟基与
+PPU发生反应—OH含量减少PAMAM-OH结构中
+多羟基（一OH）由于氢键作用而缔合形成的多聚体
+的强度也相应减弱。对比PPU与HWPU的红外光
+团谱峰消失说明PPU中一NCO全部参加反应：另
+外对比原料PTMG、IPDI、PAMAM-OH与产物 PPU、
+HWPU 的红外谱图发现PPU、HWPU在1541cm~
+（—NHCO—中的—NH—变形振动）处有明显的吸
+收峰以及谱图中3367cm（—NH—以及—0H伸
+缩振动）、1700cm（氨基甲酸酯中的C=0伸缩
+振动）的吸收峰这三个吸收峰为氨基甲酸酯的特
+征峰可以说明原料IPDI中的—NCO与PTMG和
+PAMAM-OH中的—OH反应生成氨基甲酸酯键
+（一NHCOO—）反应按预期设计路线进行。红外谱
+图中1100cm与2900cm左右的谱峰分别是
+PTMG PAMAM-OH PPU 和 HWPU 中醇键( C—O—
+C)的伸缩振动峰和C一H的非对称伸缩振动峰。
+2.2.4胶膜吸水率分析
+WPU与HWPU胶膜24h的吸水率见图6。
+由图6可知HWPU胶膜24h吸水率为4.8%，
+相比WPU胶膜的吸水率为14.6%其吸水率降低
+了67.1%耐水性得到显著的提高。其原因是在
+WPU引I入的PAMAM-OH充当交联剂的作用使得
+HWPU胶膜的交联度增大胶膜分子结构的孔隙减
+小软硬段之间的微相分离程度减小分子相容性增
+大所以胶膜吸水率减小。
+2.2.5AFM分析
+AFM相图和三维立体图有助于研究聚氨酯薄
+膜的微相分离变化。WPU和HWPU胶膜的AFM谱
+图见图7。
+由相图数据可知，WPU胶膜的平均面粗糙度
+Ra=4.414 nm ,均方根面粗糙度 RMS =5.605 nm;
+HWPU胶膜的平均面粗糙度Ra=2.072nm均方根
+面粗糙度RMS=3.273nm;说明HWPU胶膜较
+WPU胶膜粗糙度减小表面变光滑。结合三维立体
+图可以看出HWPU胶膜有更多的尖塔形状且分布
+比较均匀图中颜色较亮、尖塔形状的部分为胶膜的
+硬段颠色较暗、凹陷部分为胶膜的软段。从WPU
+与HWPU胶膜的三维立体图可以看出WPU胶膜
+表面呈现明显的明暗分区硬段分散在软段中形成
+了微相分离结构而且胶膜表面比较粗糙；HWPU胶
+膜的相界面变得模糊胶膜较平整，这是因为WPU
+由图8可知，WPU、HWPU胶膜的断裂伸长率
+分别为485.8%376.4%；拉伸强度分别为22.5，
+39.2MPa。WPU胶膜的断裂伸长率高于HWPU胶
+膜而拉伸强度小于HWPU胶膜。这主要是由于在
+HWPU 胶膜中引I入 PAMAM-OH,PAMAM-OH 表面
+大量的—OH与PPU的硬段发生反应，生成刚性的
+氨基甲酸酯键，而且PAMAM-OH结构中的酰胺基
+具有较高的内聚能，它作为软段的一部分使胶膜获
+得较好的拉伸强度；PAMAM-OH的引I入，增加了
+HWPU分子链段的交联度使胶膜软、硬链段的微相
+分离作用减竭牵制了分子键间的相对滑移聚氨蓄
+的形变能力曼到限制，所以与WPU胶膜相比，
+HWPU胶膜的断裂伸长率下降.与WPU胶膜相
+比HWPU胶膜的断裂伸长率下降了22.5%拉伸
+强度提高了74.2%
+硬段的内聚能大缔合在一起，而软段柔软容易发
+生链运动聚集在一起从而形成微相分离：而HWPU
+胶膜中由于PAMAM-OH的交联作用使WPU分子
+间软、硬段的两相分离程度减小彼此相容性增大，
+体系形成了连续相结构体系的微相分离程度减小，
+从而使HWPU胶膜表面变平整[-]
+（3）用FIIR、XRD、AFM等对产物结构和性能进
+行了表征并对产物薄膜的耐水性和力学性能进行
+了测试。结果表明，所制备的HWPU的结晶度为
+1.59%乳液粒径为43.56nm产物薄膜24h的吸
+水率为4.8%拉伸强度为39.2MPa断裂伸长率为
+376.4%AFM分析显示，HWPU胶膜较WPU胶膜
+而言相界面变模糊表面粗糙度降低表面变平整。
+与WPU胶膜相比，HWPU胶膜的吸水率降低了
+67.1%断裂伸长率下降了22.5%拉伸强度提高
+了74.2%耐水性和拉伸强度得到明显提高
+参考文献：

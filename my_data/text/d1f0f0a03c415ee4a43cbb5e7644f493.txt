@@ -1,0 +1,200 @@
+POLYMER MA TERIALS SCIENCE AND ENGINEERING
+涂料用超支化聚酯的合成及改性
+摘要;以三羟甲 基丙烷为核分子, 2 2 二羟甲 基丙酸为 AB 型单体,合点了 超支化聚脂(HBP-3),以月杜酸和苯甲酸为改
+性剂得对改 性超支 化聚脂 HBP-4, HBP-5, HBP-6 和 HBP- 7,余用 红 外 光谱 ( FT-IR) ,核础 共振 ( H- N M R) 和减胶沙选 色
+谱( GPC) 对 HBP-3 的结构和分子量选行表征并测议了 超支 化聚脂的特性黏度, 发现由三羟甲 基丙烷合成了 超支 化聚脂
+的支化度在 0 4 - 0 5 之间, 分子量接近理论值 分散性为 1. 75 特性黏度为 6 35 ml/ g 以甲苯二异氰酸酯三聚体为因
+化剂考察了改性超支化聚酯的交联涂膜性能，发现单独用月杜酸改性制成的HBP-4涂膜硬度和附着力差，用苯甲酸改
+来初性优并的涂题
+关键词：超支化聚酯：苯甲酸：月桂酸：改性：涂膜性能
+中图分类号：TQ316.6
+文献标识码：A
+文章
+超支化聚合物具有黏度低、溶解性好、活性高且易
+进行改性等优点。特别适合做高固体份和无溶剂涂
+料，但超支化聚合物在常温下是固体，非常不利于
+在涂料中的应用，需对超支化聚合物进行改性以降低
+其黏度，目前超支化聚合物的改性主要是将其做成醇
+酸树脂或者UV树脂.王延飞等人以超支化聚酯
+为原料制备了改性醇酸树脂，以提高其与固化剂的相
+容性及涂膜透明性，但改性树脂的黏度很高，Bar等
+人用不饱和脂肪酸改性超支化聚酯得到自干型超支化
+树脂，这种树脂成膜具有良好的柔韧性和附着力但硬
+度低，达不到涂料的应用要求，Cleasson，Johans
+son45等利用Boltom型HBP的羟基引发t-已内酯聚
+合，再用甲基丙烯酸封端合成了一系列具有良好结晶
+性和流变性的可紫外光固化的粉末状低聚物，但由于
+熔点太低而限制了其实际应用
+本文以三羟甲基丙烷和二羟甲基丙酸为原料合成
+超支化聚酯，研究月桂酸和苯甲酸改性对其黏度的影
+响以甲苯二异氰酸酯三聚体为固化剂，考察了改性超
+支化树脂的涂膜性能
+三羟甲基丙烷（TMP）：工业级，中外合资湖北三
+江化工有限责任公司：2.2-二羟甲基丙酸（99%DM-
+PA）：瑞典Perstorp公司：对甲苯磺酸（p-TSA）：分析
+纯汕头市西陇化工厂：氢氧化钾：分析纯国药集团化
+学试剂有限公司：丙酮：分析纯衡阳市凯信化学试剂
+有限公司：苯甲酸（武汉有机实业有限公司）、月桂酸
+（太平洋油脂化工有限公司）甲苯二异氰酸酯三聚体
+固化剂（固含量50%，NC0含量8%德国拜耳公司）
+二甲苯：一般工业品，由嘉宝莉化工集团股份有限公司
+提供。
+1.2分析与测试
+1.2.1FT-IR分析：用丙酮对超支化聚酯进行溶解
+在铁片上涂膜并煤于
+振仪对超支化聚酯进行结构分析
+1.2.3分子量及其分布以线性聚苯乙烯做标准四
+氢呋喃为溶剂在GPC系统（大连伊利特DG230-2脱
+气机大连伊利特P230高压恒流泵。7725i进样器，日
+本SHOKO Scientific Shodex GPC KF805 色潜柱 日本
+SHOKO Scientific Shodex RI-201H 检测器)上进行聚
+合物的分子量及其分布的测定
+1.2.4特性黏度测试：以DMF为溶剂配制0.01g/
+mL样品溶液，采用乌氏黏度计（上海申谊玻璃制品有
+限公司产，毛细管内径05~0.6mm，黏度计常数
+0.008980mm²/s）在25C恒温槽中测定其黏度
+1.2.5涂膜性能测试：分别按照GB/T6739—1996、
+GB/T 1731— 1993. GB/ T 1732— 1993. GB/ T 9286
+1998测试涂层的硬度、柔韧性、耐冲击性和附着力，铅
+笔为上海中国铅笔一厂产的高级绘图铅笔，所用仪器
+超支化聚酯（HBP)的合成
+将 DM PA (0.3 mol, 40. 2 g)、 TM P (0. 1 mol, 13. 6
+g）、二甲苯（8g）和催化剂p-TSA（0.2g）加入带有搅拌
+浆、温度计和分水器的四口烧瓶中.加热在140℃~
+150C通N2保护回流反应2h再渐渐升温到180C
+反应测定酸值到25mgK0H/g以下，得到第一代超
+支化聚酯（HBP-1);再称取 DM PA（0.6 mol, 80.4g）、
+二甲苯（16g）和pTSA（0.4g）加入四口烧瓶中,加热
+反应测定酸值到25mgK0H/g以下，得到第二代超
+支化聚酯（HBP-2）再称取DMPA（1.2mol160.8
+g）.二甲苯（32g）和p-TSA（0.8g）加入四口烧瓶中,加
+热在140C~150C反应2h后，升温到180℃~190
+C反应直至酸值到20mgK0H/g以下.旋蒸出二甲
+苯则得到无溶剂第三代超支化聚酯（HBP-3）.冷却下
+来呈浅黄色透明固体，配制成丙酮溶液，在甲苯中再沉
+淀得到纯化的超支化聚酯，产率为89%.Fig.1为超
+支化聚酯的合成示意图
+1.4超支化聚酯的改性
+在带有搅拌桨、温度计、分水器的四口烧瓶中加入
+100g超支化聚酯（HBP-3）.以对甲苯磺酸（脂肪酸质
+量0.5%）为催化剂二甲苯（反应物质量8%）作回流
+Tab. 1 Malification Formula of HBP3 (unit: g)
+2.1红外表征
+超支化聚酯改性前和改性后的的红外谱图如
+Fig2所示.在3430.5cm附近出现的吸收峰是
+一0H的特征吸收峰，因为超支化聚酯的羟基都位于链
+的末端易形成分子内和分子间氢键，使HBP-3在
+3430.5cm附近出现强又宽的吸收峰，而改性超支化
+聚酯（HBP-4、HBP-5、 HBP-6和HBP-7)都还残留了部
+分羟基在这一位置也出现了特征峰，但峰的强度和宽
+度明显小得多，这说明超支化聚酯的确经过改性而消
+失了部分羟基，HBP-5、HBP-6和HBP-7在3062.1
+cm处吸收峰是苯环上CH振动的特征吸收峰，这证
+明苯环已经引l入到超支化聚酯中.在2969.3cm和
+2877.5cm处的吸收峰为—CH3、—CH伸缩振动
+峰HBP-4.HBP-6和HBP-7因分子外围存在长链烷基
+这一位置的吸收峰要比分子内没有长链烷基的HBP-3
+和HBP-5要强，在17324cm处的吸收峰是酯簇基
+的特征吸收峰而原料羧基的特征吸收峰（1690cm)
+则没有出现这表明羟基与羧基的确发生了酯化反应
+生成了超支化聚合物.1605.3cm是苯环的特征峰
+这进一步证实了HBP-5、HBP-6和HBPE-7上确实引I入
+了苯环。HBP-4、HBP-6和HBP-7在722.4cm处吸
+收峰是长链烷基的特征吸收峰，通过这些红外分析，
+超支化聚酯HBP-3的H-NMR谱图如Fig.3（a)
+所示其核磁共振峰（6）的归属如下：0.773~0.927
+(C H, H9 ), 0. 994 ~ 1. 221(C H, H2+H5 +H7 ),
+2. 506( DMSO-ds ), 3. 319 ~ 3. 681 ( CHOH, H3 )
+3. 758 ~ 3. 956 (C H20C0—, H8), 3. 978 ~ 4. 338
+(C H0C0—, H6 ), 4. 656[ (—O H)r, H11, 4. 965
+[（一0H）,H4].如Fig.3（b）所示，末端单元甲基
+（TERMINAL—CH3,）、线性单元甲基（LINEAR
+CH3，）、支化单元甲基（DENTRITIC一CH3，）中质
+超支化聚合物作为一种新型的大分子物质，测定
+其分子量及其分布是十分必要的，合成的超支化聚酯
+HBP-3的GPC谱图如Fig.4所示改性超支化聚合物
+的分子量及其分布列于Tab.2.从GPC谱图可以看
+到谱图只含一个峰并且峰比较对称，说明合成的
+HBP不存在其他小分子物质，反应体系均一，反应比
+较完全，HBP-3的数均分子量（M。）和重均分子量
+（M）分别为2548和4454这与理论分子量2570是
+极为接近的，说明合成的超支化聚酯与理论结构是接
+近的，Hanselmann等人提出在理想情况下超支化聚
+合物的分子量分布为：M/M=1+1/f（f为核分子
+的官能度）。HBP-3的分子量分散性为1.75,这与理论
+值1.33（f=3）相差不大.可以知道合成的超支化聚酯
+具有比较规整的支化结构。由Tab.2中的数据可以
+看到：改性后，HBP的分子量增大并且分子量分布也
+变宽。这可以解释为大分子量的HBP分子上有更多
+的活性羟基有利于改性剂与之发生反应，导致其分子
+量加速增大而分子量分布进一步加宽、与两种改性剂
+同时用相比，单独用一种改性剂（苯甲酸或月桂酸）改
+性的HBP分子量分布要宽，推测可能是月桂酸烷基
+链较长，在同一分子上反应位阻较大：而苯甲酸由于苯
+环的刚性结构相互之间也易阻碍
+超支化聚酯的特性黏度
+合成的超支化聚酯由于含有大量的端羟基，常温
+下因存在大量分子内及分子间氢键而呈固态，可以用
+极性溶剂将其溶解.选用N，N-二甲基甲酰胺作溶
+剂25C时测定其特性黏度，得到的相对比浓对数黏
+度和相对比溶黏度与浓度之间的关系如Fig.5所示
+由图可见HBP-3的特性黏数为6.35mL/g
+相近分子量的线性聚合物相比，超支化聚合物有更低
+的特性黏度。这表明超支化聚合物的分子尺寸小、有
+较为紧凑的分子结构
+同理可以得到改性HBP的特性黏度，其结果列于
+Tab.3.由Tab.3可见HBP经过端基改性后，特性黏
+度降低这是因为HBP外围存在大量羟基，即使是在
+稀溶液中，分子间也容易形成团族，端基封端后，分子
+簇解体恢复单分子结构从而表现出更低的特性黏度
+相比于苯甲酸改性，月桂酸进行端基改性能更明显地
+降低HBP的特性黏度，这主要是由于苯甲酸中苯环
+结构仍可以与羟基相互作用，而月桂酸较长的烷基链
+则是彻底地切断了羟基相互作用
+Tab. 4Film Properties of Mlodified HBPs
+：inbug vith ininnth:Diriie otthxptecie
+由Tab.4可以看到：HBP-4单独用月桂酸来改
+性，与TDI三聚体固化剂固化后，涂膜性能很差，这
+是因为月桂酸引入了长的非极性的烷基链（C12），降低
+了硬度，不利于附着力的提高，而且大量长链烷基链的
+存在对超支化聚酯内部的羟基具有遮盖作用，这对于
+涂膜形成交联是非常不利的.HBP-5只用苯甲酸改性
+而制成，与TDI三聚体固化剂交联后，涂膜性能提升
+很快，尤其在超支化聚酯的涂膜弱项硬度上表现良好，
+达到HB.但HBP-5在常温下是固态，需要添加大量的
+溶剂才能使用，这显然不符合应用要求，HBP-6和
+HBP-7是在前面的基础上用月桂酸和苯甲酸同时改性
+得到的.相比于HBP-4,HBP-6和HBP-7在附着力、硬
+超支化聚酯具有比相当分子量的线性聚合物更低
+的特性黏度，分子结构紧凑，但改性后特性黏度反而更
+低.超支化聚酯只用月桂酸改性时，涂膜强度很低，而
+单独以苯甲酸改性时，超支化聚酯虽然性能有提升但
+其仍为固体，经苯申酸和月桂酸同时改性后可以得到
+光滑平整的涂膜，涂膜具有良好的光泽度、附着力和柔
+韧性，说明超支化聚酯经过改性可以作为涂料用树脂。
+但关于超支化聚酯作为树脂应用于涂料笔者还须进一
+步研究
+Synthesis and Curing of Polyurethane Modified Fluorinated Epoxy Acrylate
+Jieling Wang. Weibing Xu
+and Engineering,
+Hefei 230009,
+China
+yethyl acrylate (H EA )and methy 1 ethyl ketoxime ( M EKO ). The experiment proe
+w as mo nitored by chemical titra
+tion method and real-time FT-IR. The strnucture of monomer w as characterized by IR and *C-N M R spectrum. The
+anxd hex afluoro-butyl acrylate. Different temperat ure IR determines that the deblocking tem perature is 140 °C, DSC
+Keywords; fluorinated epoxy acry lates; single-component glue; deblocking temperature; cure
+Synthesis and Modification of Hyperbranched Polyester Used as Coatings
+Yong Wang',Xia Kong*,Yan' an Zhu', Jinqing Qu
+(1 .School of Chemistry and Chemicai Engineering. South China University of Technology,
+Guangzhou 510640, China ; 2. Carpoly Chemical Group Co., Ltd., Jiangmen 529085 , China)
+ABSTRACT; Third generation hyperbranched polyester (HBP-3) was synthesized by the pseudo-one step method us
+ing 2, 2-bis ( hydroxy lmethy 1) propionic acid as A B2 monomer and trimethylolpropane as a core monomer Then
+HBP-3 w as modified with lauric acid and benzoic acid to get HBP4, HBP5, HBP-6 and HBP7. The stnucture and
+molecular weight of HBP-3 w ere characterized by FT-IR, *H-N M R and G PC. The results show that HBP-3 w as suc
+cessfully sy nthesized w ith the branching degree of 0. 44, the int rinsic viscosity of 6. 35 m L/ g and the polydispersity
+of 1. 75, and the molecular w eight approaches the theoretical value. The film perfo mmances of modified HBPs cured
+w ith the toluene disocy anate trimer w ere tested. It is found that HBP-3 solely modified with lauric acid exhibits poor
+film harness and adlhesion, H BP-3 modified w ith benzoic acid possesses greal viscosity (solid state at r. t. ) while
+HBP film modified with lauric acid and benzoic acid display s high gloss excellent adhesion and flexibility,
+Keywords; hy perbranced polyester; berzoie acid; launic acid; modification; coatings

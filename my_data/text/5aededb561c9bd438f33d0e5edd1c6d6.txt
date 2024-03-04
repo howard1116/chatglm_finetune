@@ -1,0 +1,313 @@
+Modification and characterization of urethane acrylate
+oligomers used for UV-curable coatings
+Zhen Jiaol2 - Xianwei Wang' · Qianqian Yang' -
+Chenchen Wang
+@ Springer-Verlag Berlin Heidelberg 2016
+Received: 8 Seplember 2016/Revised: 20 October 2016/ Accepted: 31 October 2016
+Abstract Nine modified urethane acrylate oligomers including polyether-modified
+polyurethane acrylate, epoxy-modified polyurethane acrylate and hyperbranched
+polyurethane acrylate have successfully been synthesized and characterized by
+Fourier transform infrared spectra. The properties of UV-cured films formed by
+these oligomers were also investigated. The effects of the molecular structure of the
+oligomers on the properties of cured film, including tack-free time, pencil hardness,
+impact resistance, adhesion and boiling water resistance, have been discussed. The
+results indicate that the UV-cured film with good performance can be designed by
+the modification of the molecular structure of the oligomer. Among the oligomers
+prepared in this paper, the cured film formed using HBPUA-50%OA as oligomer
+exhibits a relatively short tack-free time, high hardness, good impact resistance,
+great adhesion and boiling water resistance.
+Keywords UV-curable coatings - Modified polyurethane acrylate Synthesis 
+UV-curable coatings and their process have received great attention on account of
+environmental-friendly characteristics. They can cure very fast, reduce volatile
+solvents and decrease the energy required to cure coatings compared with
+conventional thermal curing [14]. The general chemical formulation of the UV-
+Center for Nanobiotechnology. Joint Research Institute of Southeast University and Monash
+University, Suzhou, Jiangsu 215123, People’s Republic of China
+curable coatings contains a photoinitiator, reactive monomers and functionalized
+oligomers whose structure mainly determine the properties of the cured film [5].
+The major types of oligomers used in free radical UV-curable coatings include
+epoxy acrylate, acrylated polyester and urethane acrylate. Among them, urethane
+acrylate has been widely used as oligomers for UV-curable coatings, as a consequence
+of excellent mechanical properties and chemical resistance [610]. However, a
+drawback of the urethane acrylate is its strong odor, skin and eye irritancy. Due to its
+low molecular weight, there could be high amount of extractables and considerable
+shrinkage which cause poor adhesion to substrate [11, 12]. Therefore, great efforts
+have been paid to modify the urethane acrylate [1331]. The modified materials
+mainly included silicon-based, fluorine-based, epoxy-based, hyperbranch-based and
+biobased ones. The relationship between the structure of the modified molecule and
+the properties of the prepared urethane acrylate oligomers have been discussed by
+some researchers. For example, Han et al. synthesized a series of UV-curable
+hyperbranched polyurethane acrylate oligomers and characterized their UV-curing
+properties. The effects of different functional groups on the properties of the film were
+discussed [1518]. In another case, an aqueous dispersions of castor oil-based
+polyurethane/aromatic polyamide sulfone block copolymers were successfully
+synthesized by Mohamed et al. [22]. The effects of castor oil-based polyurethane
+block on the characters of the copolymers were discussed in detail. In their very recent
+work, castor oil-based polyol was used to prepare polyurethane/polyamide copolymer
+dispersions [23]. Recently, to improve both hardness and flexibility of coating films,
+satisfactory results [32, 33]. These efforts will help researchers to develop coatings
+that can meet the needs of practical applications.
+Coatings used for tinplate ha
+to the performance gap between UV-curable coatings and conventional thermal
+very limited. To meet the requirements for coating application on tinplates, it is very
+curable coatings on tinplate, the application of the UV-curable coatings on tinplate is
+necessary to understand the relationship between the modified molecular structure of
+the oligomer and the properties of the UV-curable polyurethane acrylate coatings.
+For this goal, nine modified urethane acrylate oligomers including polyether-
+modified polyurethane acrylate, epoxy-modified polyurethane acrylate, and hyper-
+branched polyurethane acrylate were synthesized in this paper according to the
+commonly used modified molecular structure of polyurethane acrylate coatings in
+the literature. The physical properties of the coatings made by these modified
+oligomers were also investigated. In addition, the relationship between the modified
+molecular structure and properties of the coating films is discussed in this paper.
+Experimental
+Materials
+Isophorone disocyanate (IPDI), trimethylolpropane (TMP) and dimethylolpropi-
+onic acid (DMPA) were purchased from Ketian Electronic Materials Co. Lid.
+Polyethylene glycol (PEG200, PEG400, PEG600), maleic anhydride (MA) and
+oleic oil (OA) were supplied by Lingfeng Chemical Reagent. Dibutyltin dilaurate
+(DBTDL), p-hydroxyanisole (HQMME) and p-methyl benzenesulfonic acid (p-
+TSA) were obtained from Sinopharm Chemical Reagent Co., Ltd. The diglycidy1
+ether of bisphenol A, epoxy resin (E51, E78 and E132 with an epoxide value of
+0.51, 0.78 and 1.32, respectively) were obtained from Jiangsu Tetra New Material
+Technology Co., Ltd. Isobornyl acrylate (IBOA) used as reactive diluents was
+obtained from Shanghai Hechuang Chemical Co., Ltd. 1-Hydroxycyclohexyl phenyl
+ketone (Irgacure 184) used as photoinitiator was supplied by Nanjing Wali
+Chemical Technology Co., Ltd. 2-Hydroxypropyl methacrylate (HPA) was
+purchased from Jinsheng Auxiliaries Factory. All other common chemical reagents
+were of analytical grade and used as received.
+Preparation of NCO-bearing adduct
+Isocyanate (NCO)- bearing adduct was obtained by the reaction between the
+cycloaliphatic NCO group of IPDI and the OH groups of HPA with DBTDL as
+catalyst and HQMME as inhibitor. The synthesis process has been described in
+Scheme 1. Briefy, IPDI (22.229 g, 0.1 mol), HQMME (0.053 g) and DBTDL
+(0.106 g) were mixed in a four-necked flask equipped with a stirrer, nitrogen inlet, a
+thermometer and a dropping funnel. Then HPA (13.014 g, 0.1 mol) was slowly
+dropped into the mixture by the dropping funnel and stirred at 30 °C. The
+isocyanate content of the system was determined by titration at various intervals.
+The reaction was stopped when the content of isocyanate reached half of its initial
+value. At that time, the value of monoisocyanate was half of its initial value in the
+mixture [16, 17, 37]. The conversion of the reaction was 99.0%,
+PEG (0.05 mol) with different molecular weight was slowly dropped into the
+resultant NCO-bearing adduct and the mixture was stirred at 50 °C. The reaction
+continued until the content of isocyanate was less than 0.1 wt%. The added PEG
+was 10.000 g (PEG200), 20.000 g (PEG400), 30.000 g (PEG600) to obtain the
+polyether-modified polyurethane acrylate of PUA (200) (conversion: 97.0%), PUA
+(400) (conversion: 96.6%), PUA (600) (conversion: 95.6%), respectively. The
+synthesis process is described in Scheme 2.
+Scheme 1 Prepuration of NCO-bearing adduct
+Scheme 2 Preparation of polyether-modified polyurethame acrylate
+The epoxy-modified polyurethane acrylate (E-PUA) was synthesized via a thre-
+step procedure. First, the NCO-bearing adduct was synthesized using the process
+described in Scheme 1. Second, the modified epoxy resin (MPOH) was obtained.
+Briefly, MA (15.850 g, 0.165 mol), PEG200 (33.000 g, 0.165 mol) and HQMME
+(0.073 g) were mixed in a four-necked fask equipped with a stirrer, nitrogen inlet, a
+thermometer and a dropping funnel. The mixture was stirred at 75 °C until the
+content of acid value of the system was reduced to half of the initial one. The
+conversion of the reaction was 98.5%. Then, after a little triethylamine was added as
+the catalyst, epoxy resin was slowly dropped into the mixture and stirred at 100 °C
+until the content of acid value was less than 5 mg KOH/g by titration. Three kinds
+of epoxy resin (E51, E78 and E132) were used in this reaction. The added epoxy
+E132 was 129.413 84.612 and 50.002 g, respectively. The conversion of the
+functional group was 0.66 mol. It meant that the addition content of E51, E78 and
+reaction of E51, E78 and E132 was 95.5, 95.6 and 95.8%, respectively. Third, the
+epoxy-modified polyurethane acrylate (E-PUA) was prepared by the reaction
+between the NCO-bearing adduct obtained from the first step and the modified
+epoxy resin (MPOH) pepared from the second step in the presence of DBTDL as
+catalyst and HQMME as polymerization inhibitor. The reaction was carried out at
+50 °C under nitrogen atmosphere until the content of isocyanate was less than
+0.1 wt%. The conversion of the reaction for E51-PUA, E78-PUA and E132-PUA
+was 96.7, 97.0 and 97.5%, respectively. The synthesis process is described in
+Scheme 3.
+The epoxy-modified polyurethane acrylate (E-PUA) was synthesized via a three-
+step procedure. First, the NCO-bearing adduct was synthesized using the process
+described in Scheme 1. Second, the modified epoxy resin (MPOH) was obtained.
+Briefly, MA (15.850 g, 0.165 mol), PEG200 (33.000 g, 0.165 mol) and HQMME
+The hyperbranched polyurethane acrylate (HBPUA-OA) was synthesized via a
+three-step procedure. First, the NCO-bearing adduct was synthesized using the
+process described in Scheme 1. Second, the oleic acid-modified hyperbranched
+polyester (HBP-OA) was obtained. Briefy, TMP (13.417 g, 0.1 mol) and p-TSA
+(0.536 g) were added in a four-necked flask equipped with a stirrer, nitrogen inlet, a
+thermometer and a dropping funnel. After the mixture was melted at a temperature
+Seheme 3 Preparation cf epoxy-modifed polyurethane acrylafe
+of 140 °C, DMPA (120.717 g, 0.9 mol) was added in batches to the melted mixture.
+The reaction was continued at 140 °C until the content of acid value was less than
+10 mg KOH/g by titration. The conversion of the reaction was 97.2%. Then the
+temperature of the system was raised to 170 °C and the oleic acid was slowly
+dropped into the mixture. The reaction was continued until the content of acid value
+was less than 10 mg KOH/g by titration. The added oleic acid was 84.741 g
+(0.3 mol), 169.482 g (0.6 mol) and 254.223 g (0.9 mol) to obtain the different
+proportions of oleic acid-modified hyperbranched polyesters as HBP-25%OA
+(conversion: 95.6%), HBP-50%OA (conversion: 96.6%) and HBP-75%OA (con-
+version: 97.0%), respectively. Third, the hyperbranched polyurethane acrylate
+obtained from the first step (70.486 g, 0.2 mol) and the oleic acid-modified
+hyperbranched polyester obtained from the second step with DBTDL as catalyst and
+HQMME as polymerization inhibitor. The reaction was carried out at 50 °C under
+nitrogen atmosphere until the content of isocyanate was less than O.1 wt%. The
+conversion of the reaction for HBPUA-25%OA, HBPUA-50%OA and HBPUA-
+75%OA was 97.1, 96.1 and 95.2%, respectively. The synthesis process is described
+in Scheme 4.
+The curing experiments were performed in air. The prepared oligomer (50 wt%) with
+45 wt% IBOA was
+%1mCumpoxuu
+.TheUV
+Scheme4Pteparationofhyperbanchedpolyurethaneacrylat
+irradiation was a UV lamp (INTELLI-RAY 400) made by Uvitron Int
+re to UV i
+of the
+coatings
+just their tack-free
+Characterization
+Chemical analysis
+The isocyanate content (NCO%) was determined according to the di-n-butylamine
+y value and hydroxyl value
+Forier transforminfrared spectro
+I'h
+Th
+4000 to
+Considering that the purpose of the modification is to meet the practical application
+in the tinplate, the properties of the coating should achieve the standard of the
+practical product. Therefore, the properties include pencil hardness, impact
+resistance, adhesion and boiling water resistance, measured according to the
+Chinese National Standards (GB) by some researchers [3941]. Specifically, the
+thickness of the cured films was measured with a thickness gauge (Qua Nix 4500).
+The pencil hardness was tested according to GB/T 6739-1996 using a Pencil
+Hardness Tester (BGD 506/3). The impact resistance of the cured films (GB/T1732-
+1993) was measured with a DuPont Impact Tester (BGD 304). The adhesion of the
+cured films (GB1720-79) was tested with an automatic circle adhesion tester (BGD
+Instruments (Guangzhou) Co., Ltd. In addition, the boiling water resistance of the
+film was tested in accordance with GB/T1877-2007.
+FT-ikanalvsi
+Figure 1 shows the FT-IR spectra of PUA (200), PUA (400) and PUA (600).
+Obviously, the peak for NCO at 2275 cm disappears, while the peak for NH
+stretching vibration at 3337 cm′ and the NH bending vibration at 1535 cm′ can
+be found, indicating that NCO-bearing adduct is reacted completely. The peaks at
+1721 and 1112 cm  are assigned to C=O and COC, respectively. Three
+absorption peaks are observed at around 1637, 1450 and 810 cm ′, indicating the
+existence of double bonds of the acrylate groups. The peaks at 2956 and 2871 cm1
+can be assigned to the stretching vibration for CH and CH,. These FT-IR
+assignments  demonstrate that the  polyether-modified polyurethane acrylate
+oligomers are successfully prepared.
+Figure 2 shows the FT-IR spectra of E51-PUA, E78-PUA and E132-PUA. Some
+peaks in Fig. 2 are similar to Fig. 1. For example, the peak disappeared at
+2275 cm1 for NCO indicating that the NCO-bearing adduct reacted completely,
+the peaks at 1620, 1450 and 810 cm
+prove the existence of the double bonds of
+the acryl groups, and the peaks at 2956 and 2863 cm
+ belong to the stretching
+Fe.1FT-lkspectraatpolvether-modincdolyuethakcrylaeolgouct
+Fig. 2 FT-IR spectra ot epoxy-moditied pelyurethane acrylate eligome
+vibration for CH, and CH,. Compared with Fig. 1, the much stronger absorption
+peak around 3387 cm~ indicates that there is a certain amount of hydroxyl groups
+residual in the molecule. These FT-IR assignments demonstrate that the epoxy-
+HBPUA-75%OA. Similar absorption peaks as in Fig. 2 appeared indicating the
+presence of C=C, OH, C=O,COC
+and NH groups. This in turn proves that
+Properties of cured film
+Tack-free time
+Figure 4 shows the tack-free time of the UV-curable coating systems. The results
+indicate that the tack-free time depends on the content of the double bond structure
+of the systems. Benefit for the highest content of the double bond structure, the
+coating system consisting of epoxy-modied polyurethane acrylate has the minimal
+tack-free time. The same phenomenon could be also observed during the curing
+process of the same oligomer type with different degrees of modification. For
+example, the tack-free time of coating films cured with hyperbranched polyurethane
+acrylate system decreases in the order of HBPUA-25%OA, HBPUA-50%OA and
+HBPUA-75%OA, which just followed the content of the active double bond
+structure in the oligomer.
+It shc
+nents in the oligomer molecular have little effect on the tack-free time of
+the coating system. The main reason is that the activity of the double bond of maleic
+anhydride and oleic acid segments is much lower than that of the acrylate segment.
+In short, the increased content of the active double bond in the oligomer decides its
+tack-free time.
+Pencit hardness and impact resistance
+The pencil hardness and the impact resistance of coatings mainly depend on the
+chain flexibility of the molecule and cross-linking density of the coating [42].
+Specifically, the improved flexible structure of the oligomer enhances the impact
+resistance of the film, but leads to reduction of hardness of the film. However, the
+ig.4Tack-freetimeodcoatingtilm
+s curedwithditerentmodinedGligoller
+improved cross-linking density of the coating plays the opposite effect. In our
+knowledge, it is very hard to improve the hardness and impact resistance at the same
+time by the modification of the oligomer. In general, the curing film with good
+flexibility and low cross-linking density represents the good impact resistance but
+poor pencil hardness, while the properties of good hardness and poor impact
+resistance would be obtained with poor flexibility and high cross-linking density. In
+our coating systems, the content of the double bond of the system determines the
+cross-linking density of the film. And the polyethylene glycol segment, maleic
+anhydride polyethylene glycol monoester segment and oleic acid segment present
+the flexible structure of polyether-modified polyurethane acrylate, epoxy-modified
+odsa ae eanod pqdq pe aee suno
+Figure 5 shows the pencil hardness and impact resistance of coating films cured
+with different oligomers. The results demonstrate the previous discussion about the
+effect of the chain flexibility and cross-linking density on the property of pencil
+hardness and impact resistance. Figure 5 also indicates that the hardness and
+flexibility of the coating films can be controlled by adjusting the content of the
+double bond and the flexible structure of the coating systems.
+The adhesion of the cured films is presented in Fig. 6. It indicates that the adhesion
+of the films formed by the epoxy-modified polyurethane acrylate and hyperbranched
+polyurethane acrylate are better than those formed by the polyether-modified
+polyurethane acrylate. The reason might due to the plenty of hydroxyl groups in the
+epoxy-modified polyurethane acrylate molecule and the hyperbranched polyur-
+ethane acrylate molecule. These hydroxyl groups can form the hydrogen bonding
+between the film and the tinplate, resulting in improving the adhesion of the film. At
+Fig. 5 Pencil hardness amd impact resistance of coating films cured with different oligomets
+Fig. 6 Adbeston of coating films cured with different oligomers
+the same time, the increased content of the fexible chain segment in the oligomer
+molecule can reduce the shrinkage force during the curing process. It can also
+improve the adhesion of the cured film. Oleic acid acts as the flexible segment for
+the hyperbranched polyurethane acrylate. Therefore, the enhanced content of oleic
+acid in the hyperbranched polyurethane acrylate molecule can improve the adhesion
+of the film; however, it will reduce the hydroxyl group content in the coating at the
+same time. For these reasons, optimized adhesion could be preferred by adding the
+appropriate amount of oleic acid for the hyperbranched polyurethane acrylate.
+Boiling water resistance
+The boiling water resistance of the cured films is shown in the right side column of
+Table 1. It is observed that the cured films formed by the hyperbranched
+polyurethane acrylate system show the best boiling water resistance among the
+tested films. In our knowledge, the boiling water resistance is mainly dependent on
+the adhesion and the cross-linking density of the film. Good boiling water resistance
+can be obtained by films with good adhesion and high cross-linking density which
+can be supplied by the rich content of hydroxyl groups and double bond structure in
+the oligomer molecule of our UV-curable coating system. Therefore, due to their
+highest content of hydroxyl group and double bond structure among the tested
+oligomers, the films cured by hyperbranched polyurethane acrylate are found to
+have the best boiling water resistance.
+Table 1 summarizes the determined properties of the coating films formed by the
+oligomers prepared in this manuscript. The effects of the oligomer structure on the
+properties of the coating films have been discussed in the previous paragraph. It can
+be concluded that (a) the active double bond determines the tack-free time; (b) the
+chain flexibility and double bond content decide the hardness and impact resistance;
+(c) the hydroxyl group and the flexible chain segment in the oligomer molecule can
+improve the adhesion; and (d) the adhesion and cross-linking density affect the
+boiling water resistance. The film with good performance can be predicted and
+designed by modification of the oligomers obeying the above conclusions. Due to its
+Table 1 Properties of UV-cured coating tilms using various moditied urethane acrylate oligomer
++ Good,  damaged
+Conclusion
+To reveal the relationship between the modified molecular structure and properties
+of the UV-curable polyurethane acrylate films used for inplate coating, nine
+modified urethane acrylate oligomers including polyether-modified polyurethane
+acrylate, epoxy-modified polyurethane acrylate and hyperbranched polyurethane
+acrylate were successfully synthesized in this study. The properties of the UV-
+curable films formed by these oligomers were determined. The effects of the
+molecular structure (e.g., active double bond, flexible chain segment, hydroxyl
+group) of the oligomers on the properties of cured film, which are tack-free time,
+pencil hardness, impact resistance, adhesion and boiling water resistance, are
+discussed. The results indicate that the film with good performance can be predicted
+and obtained by modifying the molecular structure of the oligomer. Among the
+oligomers synthesized in this paper, the coating film formed by HBPUA-50%OA as
+oligomer is observed to have the best comprehensive performance and exhibits a
+relatively short tack-free time, high hardness, good impact resistance great adhesion
+and boiling water resistance.
+acd
+References
+and Polymers 2:141147
+oMthepropertiesotUV-curei
+a K (1993) Rece
+aces in UV-
+ Technol 65:4957
+12. Mass
+m F, Deck
+rek T.Schw

@@ -1,0 +1,1309 @@
+NovelHydroxylPolyacrylateforTwoComponent
+WaterbornePolyurethaneCoatings
+NovelHydroxylPolyacrylatefor'TwoComponent
+WaterbornePolyurethaneCoatings
+Candidate:Kong Xia
+Supervisor:Prof.ChenHuan-Qin
+South China University ofTechnology
+学号：200710103347
+新型羟基聚丙烯酸酯及双组份水性聚氨酯涂料
+宋化灿陈换钦邮学置监仁华杨东
+学位论文原创性声明
+本人郑重声明：所呈交的论文是本人在导师的指导下独立进行研究所
+取得的研究成果。除了文中特别加以标注引用的内容外，本论文不包含任
+何其他个人或集体已经发表或撰写的成果作品。对本文的研究做出重要责
+献的个人和集体，均已在文中以明确方式标明。本人完全意识到本声明的
+法律后果由本人承担。
+本学位论文作者完全了解学校有关保留、使用学位论文的规定，即：
+研究生在校攻读学位期间论文工作的知识产权单位属华南理工大学。学校
+有权保存并向国家有关部门或机构送交论文的复印件和电子版，允许学位
+论文被查阅（除在保密期内的保密论文外）：学校可以公布学位论文的全部
+或部分内容，可以允许采用影印、缩印或其它复制手段保存、汇编学位论
+年解密后适用本授权书
+口不保密，同意在校园网上发布，供校内师生和与学校有共享协议的
+单位浏览：同意将本人学位论文提交中国学术期刊(光盘版）电子杂志社全文
+出版和编入CNKI《中国知识资源总库》，传播学位论文的全部或部分内容。
+（请在以上相应方框内打“√）
+项目，论文选题和研究结果其有重要的实用价值和较大的理论意义
+结构，赋予聚氨酯优异的物理机械性能和耐化学介质性能，使得聚氨酯涂料尤其
+交联型水性涂料得到快速发展，双组份水性聚氨酯涂料（2K-WPU）成为研究热点。2K-WPU
+交联型水性涂料得到快速发展，双组份水性聚氨酯涂料（2K-WPU）成为研究热点。2K-WPU
+由羟基水性聚多元醇、六亚甲基二异氰酸酯（HDI）或异佛尔酮二异氰酸酯（IPDI）多
+异氰酸酯交联剂（亲水改性或不改性）、助溶剂和水组成。羟基水性聚多元醇包括聚酯、
+异氰酸酯交联剂（亲水改性或不改性）、助溶剂和水组成。羟基水性聚多元醇包括聚酯、
+能和成本低廉的优点，得到广泛关注。根据制备方法将羟基聚丙烯酸酯多元醇分为羟基
+聚丙烯酸酯乳液（PAE）和羟基聚丙烯酸酯水分散体（PAD）两大类。PAE拥有较高的数
+表征它们的性能，研究双组份水性聚氨酯涂料活化期的影响因素。
+以甲基内烯酸-B-羟内酯（HPMIA）为羟基单体，采用种子
+度随羟值的增大而提高，涂膜光泽和耐介质性能分别在羟值为65.9mgK0H/g和82.
+mgKOH/g达到最佳；当-NC0与-0H的摩尔比为1.5-1.8时，2K-WPU涂膜的综合性能最佳，
+采用种子乳液聚合工艺，以甲基丙烯酸-B-羟乙酯（HEMA）为羟基单体，结合即时
+层富含羟基的聚合物P2组成的大粒子构成。纳米粒度分析表明：相对于常规羟基聚丙
+不相容、分子间氢键及不同化学组成致使聚合物形成微相分
+TEM观察发现：该PAH乳液由表层富含羧酸盐的聚合物P组成的小粒子和表
+力显微镜（AFM）分析显示：2K-TPU涂层结构致密且平整
+将含有羧酸盐的聚合物P3和不含羧酸盐的聚合物P4混合后，在水中乳化制备新型自
+分别将PAD和PAE与亲水改性多异氰酸酯固化剂配制2K-WPU，测试涂膜硬度、光泽
+度和耐化学性能，研究了2K-WPU在不同放置时间内的物理化学行为。结果发现：随存
+须根据涂膜性能变化来判断，
+关键词：双组份水性涂料，聚氨酯，羟基聚丙烯酸酯乳液：羟基聚丙烯酸酯水分散
+的添加量，而且可通过P3中羧酸单体的质量分数来调控粒径分布。
+Polyurethane (PU) coatings possess excellent properties and have attracted great
+interesting in the coatings field due to their micro-phase separated domains from
+mmisci
+most of customers need due to some surfactants
+drying films which come from the PAE.On the other hand, 2K-WPU based on PADs
+morphologies, film formations and pot life
+curedfilmsshowhigher thermallystability than the polyacrylatefilms
+The novelacrylic
+hybrid
+(PAH)
+emulsions
+45.0 wt% solid contents were
+synthesized by
+lon polym
+methacrylate
+were compact and flat
+measured to investigate the 
+physicochemical behaviours of 2K-WPU during the pot life.
+(1）
+with
+the
+VIscosity
+of PAD-based
+and the bubbles in the film even disappear; (3) neither the particle diameter nor the gloss of
+PAE- and PAD-based 2K-WPU shows obvious change during their pot life; and (4)
+PAD-based 2K-WPU exhibit better film performance but slightly shorter pot life than the
+oerformance that determines the pot life of 2K-WPU before application
+emulsion; hydroxyl polyacrylate dispersion; pot life
+涂料对于国民经济建设和国防安全是非常重要的功能材料，其主要作用为装饰、
+聚氨酯结构中主要含有氨基甲酸酯键，还含有脲键、缩二脉及酯基等，赋予聚氨配
+物（HAP）排放的限制，开发高性能水性聚氨酯涂料势在必行。水性聚氨酯涂料以水为
+水性羟基树脂组份包括水性聚合物多元醇乳液和水性分散体，不仅提供与固化剂交
+薇粒子设计合成多功能和多种粒子形态的聚合物乳胶粒子，提高涂料的
+新产品和新工艺，闸述核壳结构经基丙烯酸分散体的形成机理。研究结果将丰富双组份
+分子结构中含有氨基甲酸酯键（-NH-CO-）的聚合物称聚氨酯（PU）。PU是由多异
+氨基甲酸酯键间易形成氢键，PU通过氢键作用形成致密聚合物网络，使聚氨酯具有
+韧性达到良好平衡。因此，聚氨酯材料广泛用于泡沫塑料4、弹性体、胶粘剂、合
+成纤维和合成革910等。
+方面的完善时期，主要对热塑性线性水性聚氨酯的耐水性、耐溶剂性等进行了系统研究，
+基础理论的研究上
+我国水性聚氨酯研发工作起步较晚。20世纪70年代中后期首先由沈阳皮革所开始
+发高性能水性聚氨酯就成为国内聚氨酯领域最热门的方向之
+水性聚氨酯是PU粒子分散在水中的二元胶体体系，它
+教介质发展起来的高分子材料。与溶剂型聚氨酯相比，水性聚氨酯
+和粘附力成膜。水性聚氨酯中含有羧基、胺基等基团，或可引入其它反应性基团，在适
+宜条件使树脂产生交联。
+树脂的分子量等影响溶剂型树脂粘度的因素对水性聚氨酯粘度的影响并不明显。
+科良好的润湿与流平。
+（5）水性聚氨酯可与多种水性树脂混拼使用，以改进性能或降低成本。而溶剂型浆
+（6）水性聚氨酯产品可用水稀释，操作方使，易于清洗：而溶剂型聚氨酯在使用中
+由于聚氨酯原料和配方的多样性使水性聚氨酯品种繁多，按多种方法分类如下[12]
+但区分并不严格，在实际应用上以聚氨酯水分散体和聚氨酯乳液居多，水溶液较
+按照包装形式，可将水性聚氨酯分为单组份和双组份。单组
+按照分子结构又分为线性（热塑性）和交联型水性聚氨酯（热固性）
+上述分类方法中，将水性聚氨酯分为单组份与双组份的是最常见的。
+单组份水性聚氨酯具有很高的断裂延伸率（可达800%）和适当拉伸强度（20MPa）
+并能常温干燥。因为高分子量聚合物不能形成良好而稳定的水分散体，所以传统的单组
+水性聚氨酯涂膜的耐化学介质性不良，硬度、表面光泽度和鲜艳性较低，
+根据交联剂的不同，外交联改性可分为如下几种14
+在室温和中等温度条件下环氧基可以和树脂中的羧基和轻基发生化学反应，其反应
+-3）。这类反应也可用于乳液合成中使乳胶粒子轻度交联。
+带特殊官能团的硅氧烷与乳液的活性基团发生水解缩聚而交联，如带环氧基的硅氧
+烷与乳胶粒子中的羧基反应，见式（1-4）
+碳化二亚胺可与-COOH反应形成交联，可作为水性涂料的交联剂，反应见式（1-5）。
+碳酸铵锆盐或碳酸铵锌盐与树脂段基的交联反应可室温进行，产生的离子键有很好
+通过在施工前在WPU中加入氮丙啶、碳化二亚胺、三聚氰胺等外交联剂，涂料成膜
+后其耐溶剂性明显提高。
+除了交联改性，还可以在水性聚氨酯体系中引人其它组份，进行复合改性，这是
+研究较为活跃：环氧树脂改性是将PU预聚物中-NCO同环氧树脂链上的环氧基发生反应，
+使PU分散体的综合性能大为提高"：聚氨酯聚硅氧烷一般为聚硅氧烷和聚氨酯的嵌
+烯酸酯的良好附者力、较低成本有机的结合，能制备出高固含量、低成本的水性PU树脂
+无论是交联改性还是复合改性聚氨酯，它们都属于单组份聚氨酯（或交联剂组份量
+以提高涂膜性能。想要得到更高性能的涂膜，还须采用双组份PU体系。
+在溶剂型双组份聚氨酯体系中，使体系不含水是非常关键的，所以直至上世纪80年
+酸酯的专利4。以脂肪族多异氰酸酯为交联剂的新型双组份水性聚氨酯涂料，涂膜外观
+1.4.2双组份水性聚氨酯涂料的组成
+的固化剂组份和水性聚多元醇组成。
+内烯酸酯、水性聚氨酯和水性氨基多元醇及其相应的接枝共聚物等。
+全乳化进入多元醇相内。因此改善高黏度多异氰酸酯的亲水性，降低其黏度，成为水
+性固化剂体系研究方向。
+水性聚多元醇是水性双组份聚氨酯的重要组成部分，影响着多异氰酸酯在水相的分
+双组份水性聚氨酯涂料的水性聚多元醇（轻基树脂）必须具有良好的水分散性，能够以
+醇组份：与溶剂型双组份聚氨酯涂料相比，双组份水性聚氨酯涂料的轻
+型与乳液型水性聚多元醇的性能比较
+表1-1分散体型与乳液型水性聚多元醇的比较
+乳液型聚丙烯酸酯多元醇（粒径为0.08~0.5um）是指含有羟基的聚丙烯酸酯乳液，
+与其它丙烯酸酯单体乳液聚合制备的
+这种含轻基聚丙烯酸酯乳液具有高的分子量，本身又可以成膜，因此在室温下表干
+速度比较快。同时由于羟基当量大，配制双组份涂料时需要的多异氰酸酯用量小，涂料
+剪切混合设备，或使用双组份喷枪施工
+为了提高对固化剂的分散能力，常采用高温乳液聚合技术，提高引发剂和链转移剂
+的浓度，降低聚合物相对分子质量和乳液粒径等方法。但乳液聚合温度受水的沸点所限，
+Iab.1-1 Comparisons of dispersions and emulsions of the waterborne polyol
+链段上分布不均匀，会缩短双组份涂料的活化期。因此，必须采用改性的方法提高乳液
+型聚多元醇性能
+Feng等人采用统计方法优选了羟基聚丙烯酸酯乳液的羟基含量、乳液粒径、聚
+备含双键的大分子单体作为乳液聚合的乳化剂，通过乳液聚合得到分子量小、羟基分布
+均匀的聚合物乳液，配制的涂膜具有快干、耐水性好、与异氰酸酯组份相容性好的特点。
+虽然对聚丙烯酸酯多元醇乳液做了系列研究，其性能在某些方面确实也有很大提
+性能涂膜，乳液聚合稳定性欠佳、成膜性不好等系列问题仍然存在。
+分散体的粒径小于0.08um，也称第二代水性羟基树脂。该聚多元醇先在有机溶剂中合
+构将分散体聚多元醇分为聚酯多元醇、聚丙烯酸酯多元醇、聚氨酯多元醇和杂合多元醇
+液聚合失稳：（
+COOH基团的分布不均易降低其对亲水改性多异氰酸酯固
+研究发现涂膜性能与聚丙烯酸酯分散体的结构有关，
+两种方法制备的分散体均具有较好
+的施工性、硬度和耐化学性：其中一步法合成的分散体在活化期、硬度和耐化学性方面
+1The viscosity comparisons of dispersions and emulsion
+基中间体，然后将两者进行部分酯化后用胺中和分散在水中（多步法）。
+调节合成单体种类也可改善涂膜性能。Guo等使用丙烯醇或烷基烯丙醇代替价格
+贵的含羟基丙烯酸单体制备了聚丙烯酸酯分散体，它可以与常规的多异氰酸酯组份配合
+HEMA(HEA)/AA合成了羟基聚丙烯酸酯分散体，与改性的异氰酸酯Cythane3174以
+方面羟值过高，交联剂用量多，异氰酸酯中的NCO基与水的副反应增加，会降低涂膜性
+能：当羟值为65mgKOH/g时，双组份固化涂膜综合性能较好
+含羟基聚氨酯水分散体一般由聚酯多元醇与多异氰酸酯反应后再与含羧基二元醇
+体。该分散体在与未经改性的溶剂型多异氰酸酯混合后，仍需要加入乳化剂组份来提高
+资，一，涨
+异佛尔酮二异氰酸酯（IPDI）和氢化二苯基甲烷二异氰酸酯（HMDI）是目前使用最多
+带有聚酯主链和2，2一二羟甲基丙酸（DMPA）的聚氨酯分散体易于水解或在碱性
+条件下会发生皂化
+”，导致聚合物主链的断裂，体系分为两相，在高温下尤为明显。
+合物复配成膜，发现涂膜耐水解性能优良。
+聚氨酯类分散体分子量相对较小，其配制的双组份聚氨酯涂料兼具聚酯分散体的良
+好外观、颜料润湿性和聚氨酯涂料优秀的机械性能，如柔韧性、硬度和耐划伤性，同时
+可通过调整氨酯键的密度来调节涂料性能51-54
+该类多元醇制备方法如下：首先在溶剂中制备含NCO基和羧基的聚氨酯预聚物，反
+加体系稳定性），将其分散在水中，加二乙醇胺进行链增长后加入引发剂进行丙烯酸单
+体的聚合反应，由此制得的杂合分散体分子量约为4000。该类分散体兼具丙烯酸和聚氨
+酯涂料的优点，两部分均含有羟基，提高了羟基的官能度，所得涂膜光泽高、柔韧性好
+酯涂料的优点，两部分均含有羟基，提高了羟基的官能度，所得涂膜光泽高、柔韧性
+好的发展前景，只是该分散体制备方法较为复杂
+混合型分散体型聚多元醇是指将以上分散体聚多元醇的两种或两种以上进行物理
+混合得到的，该类聚多元醇兼具两种分散体性能。要得到
+意两种分散体的极性、混容性和混合比例，同时还应考察混合后分散体的储存稳定性，
+丙烯酸聚合物中制得的聚丙烯酸酯分散体，与亲水改性的多异氰酸酯配漆，制得耐水性
+好和不起泡涂层
+有专利报道了用表面活性剂将聚丙烯酸酯多元醇、聚酯多元醇、环氧树脂等乳化
+在水中制备的乳化液，与亲水改性的多异氰酸酯具有良好的混容性，制得的涂料具有较
+基功能树脂分散体在双组份水性聚氨酯涂料中的应用
+1.6多异氰酸酯
+异氰酸酯单体的选择对双组份聚氨酯涂膜性能的影响较大，脂肪族异氰酸酯单体女
+其涂膜的流平性和光泽不及HDI固化剂。异氰酸酯的二聚体（见式1-8）和三聚体（见式
+少直接用于双组份水性聚氨酯涂料。
+大多数未改性多异氰酸酯在双组份水性体系中的应用均是因为分散性差的问题强
+到限制。因为它们很难与经基组份均匀混合。要将未改性的多异氰酸酯用于双组份体系，
+就必须尽量使用黏度和反应活性低的多异氰酸酯。Reif认为：HDI三聚体的官能度为
+亲水组份与多异氰酸酯具有良好的相容性，作为内乳化剂有助于固化剂分散在水相中，
+多异氰酸酯的亲水改性主要途径有$"：（1）使用亲水聚醚多元醇的烷基醚进行非
+采用添加常规的乳化剂的方法来制备，而离子或非离子改性成为可行的方法。
+在多异氰酸酯结构中引入亲水的非离子基团获得亲水性。这是目前亲水改性多异氰
+棱酯最主要的方法。含有亲水非离子基团的化合物主要是聚乙二醇单醚，如聚乙二醇单
+酯的-NCO基团反应将其引人多异氰酸酯分子结构中。反应式见式（1-10）
+中R为-CH
+也可采用含有羟基的聚乙烯吡
+长期以来，人们认为多异氰酸酯组份是不能与水直接接触的，因而制备亲水的多异
+高酸酯没有意义，这个观点直到出现Jacobs的研究成果后才被打破。自此
+增加，亲水多异氰酸酯稳定性增加，与分散体更容易混合。Jacobs等人研究还发理
+5n<10）用来改性多异氰酸酯，可使之既有充分的水分散性文不会产生结品现象：女
+先将聚乙二醇单甲醚与-己内酯反应生成聚酯/聚醚复合体，冉
+异氰脉酸酯，得到了亲水性较好的多异氰酸酯”，与聚内烯酸酯分散体交联成
+rig.1-2Structuresofisocvanatepolvmer
+将DMPA和HDI/HDI三聚体的加成物用N-甲基吗啉中和后，可作为水溶性聚丙烯酸
+酯的交联剂。中和剂可选用其它对异氰酸酯呈情性的救胺，如三乙胺、N一甲基吡咯，
+也可使用对异氰酸酯呈活性的叔醇胺，如三乙醇胺、N一甲基二乙醇胺、N，N一二甲基
+酯的交联剂。中和剂可选用其它对异氰酸酯呈情性的叔胺，如三乙胺、N一甲基
+乙醇胺等。
+用含亚乙氧基单元的组份改性多异氰酸酯，在实际应用中存在着耐水性不良的缺
+相容性好，不会增加体系的亲水性，
+与以上改性方法相比较，阳离子改性方法使用较少，这主要是因为该法使用的含经
+基组份相容性差，难以制得性能良好的涂料：提高pH值可降低体系的活化期：此
+可以采用阴离子和非离子混合改性的方法来制备多异氰酸酯。例如
+DMPA和聚（乙二醇一丙二醇丁醚）反应可得到贮存稳定的亲水改性多异氰酸酯，降低
+体系的pH值有较高的要求。用混合改性的方法减少了涂膜对水的敏感性，也不必严格控
+制体系的pH值，因此具有良好的发展前景。
+多异氰酸酯类型对其分散性影响很大。芳香族多异氰酸酯与水反应快，亲水改性后
+用途有限：脂肪族异氰酸酯与水反应温和，但直接用单体来进行改性实例不多：异氰腺
+酸酯和加成物类型的多异氰酸酯与水反应缓便，稳
+NCO含量最低在12%，
+最好20%以上。对于NCO含量低的多异氰酸酯，如单体异氰酸
+酯与高分子量多元醇的反应产物，粘度高，即使亲水改性，也很难使之分散于水中
+在异氰酸酯中引入亲油基团，可以降低水与异氰酸酯的反应速率，同时保持亲水改
+性多异氰酸酯的稳定性。如利用亲水的聚乙二醇单醚和亲油醇来改性多异氰酸酯，降低
+难在水中分散：超过10%时，用量越多，水分散性越好。而改性剂分子量在300~800之
+性的聚醚分子量太高（大于1000）或太低（小于250），或聚醚的用量太少（小于8%）
+都不能制得具有良好水分散性的多异鼠酸酯
+聚醚改性剂的链越长，与分散体混合越容易，分散体的稳定性越强。在非离子矛
+改性异氰酸酯中聚醚的含量越高，分散体在水中的粘度越大。这是因为内相浓度增加的
+粘度较低，这样可用较少的溶剂使之分散于水中。尽管聚乙二醇单醚有助于使脂肪（环）
+业乙氧基和1-甲基业乙氧基单元的单羟基液体聚醚。
+所使用的有机溶剂应该与多异氰酸酯有较好的相溶性，并且
+的基团，溶剂用量应尽可能少
+在亲水改性的多异氰酸酯中加入乳化剂和有机溶剂可以提高其在水中的稳定性。例
+改性多异氰酸酯与聚丙烯酸酯多元醇反应形成的涂膜，24h室温固化后，含溶剂的多
+聚多元醇与多异氰酸酯混合后，发生如前所述的主反应和副反应。对于溶剂型双组
+分聚氨酯涂料，适用期可以通过检测粘度的增长来判断。对于双维
+的粘度，而非体系粘度。因而用粘度增长来判断双组份水性涂料的适用期是不合适的。
+用期可以通过涂膜的光泽度随着复配体系放置时间的变化来判断3]
+多异氰酸酯是必要的。如前所述，多异氰酸酯组份通常用乙酸丁酯作为溶剂来降低它的
+酯分散体的离子基团分布在它的表面稳定者这个复合分散体，经测
+联反应，但是在4h测量时间内体系的粒径分布并没有发生明显的变化
+图1-3混合后双组份水性聚氨酯涂料NCO和pH值的变化
+ATR-FTIR）检测到的-NCO吸收峰随时间的变化来定量判断。为了
+谱的响应值在所研究的浓度范围内与浓度成线性关系是必须的。Hawkins等人
+内烯酸酯多元醇乳液（PAE），聚内烯酸酯多元醇分散体（PAD），聚酯多元醇分散体（PED）
+作为多元醇组份与多异氰酸酯组份构成2K-WPU，研究了体系-NCO的变化情况。结果
+认为出现此现象应归结于PAE相对于PAD和PED具有较低的羟基含量，与固化剂复配时，
+合固化剂与聚丙烯酸酯多元醇分散体复配。研究结果如图1-3所示。该体系适用期为
+Fig. 1-3 Effects of the time on the NCO contents and pH value of 2k-WPU after
+状态下，异氰酸酯基团的消耗可以通过衰减全反射红外光谱
+双组份水性聚氨酯涂料的成膜机理与一般的聚合物乳液涂料如聚内烯酸酯乳液的
+成膜有很大的区别，同时与溶剂型聚氨酯涂料的成膜也不完全相同。
+般乳液涂料的成膜为单一物理过程，分散相粒子的玻璃化温度较低，在水分挥发
+后就形成紧密堆积的结构，并在毛细管压力作用下凝结成膜。
+在典型的双组份溶剂型聚氨酯体系中，多异氰酸酯和羟基组份都溶解在有机溶剂
+的反应大大增强。图1-4所示的是多异氰酸酯在羟基组份中的乳化情况。
+Fig.1-4 Emulsification of polyisocyanate in the hydroxyl polyme
+水性聚氨酯涂料为多相成膜，首先当大部分水分蒸发后，乳液粒子相互接触，形成
+体系由水包油的状态向油包水转变
+具体成膜过程可分为物理干燥过程和化学交联过程。成膜初期为物理干燥过程，随
+聚多元醇和固化剂的粘弹性影响粒子的凝聚过程，粘弹性由聚合物的玻璃化温度、极性、
+乳液有利于凝聚，但乳液具有低固含量和高粘度，粒子达到凝聚状况必须蒸发较多的水
+利于改善涂膜形成的条件。
+化学交联过程比较复杂，涉及到固化剂的NCO基与聚多元醇的羟基、水和稳定聚合
+物粒子的羧基等基团间的反应，反应速率取决于施工环境的温度、湿度、反应体系中催
+化剂含量和基团的反应活性等，具体反应如式（1-11)：
+双组份水性聚氨酯涂料的主、副反应及其影响参数，决定双组份体系的活化期、施
+固化剂的NCO基浓度的降低速率和双组份聚合物的结构。双组份涂料施工后，室温下水
+分的蒸发相对较快，30min内在涂膜中的水含量下降到2%～3%，最终的平衡水含量为1%
+观察到有CO产生，在活化期内，NCO基含量降低20%，同时伴随者pH的降低。Collong
+基、多元醇的段基及水的反应。固化剂与水的副反应生成胺和二氧化碳
+型聚氨酯快，在较高的相对湿度时，异氰酸酯的消耗量增加，这是因为与水的反应增加
+的缘故：而在F-A界面和F-S界面，异氰酸酯的消耗量近乎相等。
+聚结、聚多元醇和多异氰酸酯的反应这3个因素的影响，但是因为制备工艺的不同，其
+成膜过程及成膜后的性质也有区别，如图1-5和1-6所示：
+图1-6PAD固化成膜机理
+Fig.1-6 Curing mechanism of PAL
+PAE乳液具有高的分子量，本身又可以成膜，因此在室温下干燥比较快，同时乳液
+轻基聚内烯酸酯乳液制备较为困难，难以制得较高羟基含量的乳液。另外，乳液
+希酸酯多元醇粒径较大，与多异氰酸酯配制时较难混合，配制的涂
+有机溶剂中合成分子结构中含有亲水离子或非离子链段的树脂，然后将树脂熔体或溶液
+段的存在会降低双组份涂膜的耐水性和耐溶剂性等
+水性双组份聚氨酯的成膜尤为关键，因为双组份水性聚氨酯涂料的配方复杂，其体
+表1-2双组份水性聚氨酯涂料的某些缺陷
+Tab.1-2 Open questions of 2k-WPU
+产生缺陷的原因主要有两个：首先，固化剂与水反应生成各种副产物，引起涂膜交
+施工固体分，不利于双组份体系的物理成膜。而且亲水离子或链
+聚多元醇的分子量低，固化剂的含量高
+聚多元醇与固化剂的混合困滩，配方组成复杂
+经基树脂合成复杂，固化剂含量高
+越好：双组份的混合比例对涂料性能有较大的影响，为补偿
+发脂，一股安求N
+OH当量比大于1，即保证异氰酸酯稍为过量：在制备过程中添
+加的助剂对涂膜性能也有影响
+当温度不变，湿度降低时，涂膜性能变好：反之湿度增加时，涂膜性能变差。这是
+聚丙烯酸酯分散体的羟基含量太高或玻璃化温度（Tg）太高都会使丙烯酸分散体亲水
+性太强而不能有效地使固化剂分散于水中。当Tg不变，羟基含量从1.5%增加到1.8%
+苯乙烯有利于涂膜早期硬度增加，这对面漆体系非常重要。苯
+十燥加快，立体障碍增加，降低了与异氰酸酯的反应性
+聚内烯酸酯分散体粒子粒度小有利于提高涂膜的硬度和外观。粒子称
+的比表面积增大，并使扩散进入粒子内部的路程缩短，从而提高了羟基的利用率：另外，
+随者聚多元醇分散体中轻基含量的增加，涂膜性能得到不断改善。羟基含
+能已能歌满足实际需
+需要的时候，尽量降低多元醇的经基含量是必要的。故很多实验没有
+向高羟基含量上做，而取适宜的轻基含量4%-5%
+随者中和度的增大，聚内烯酸酯多元醇分散体的外观由乳白不透明变为泛监色半透
+度是必要的，这里以80%为宜。
+随着-NCO：-OH比例增大，即随着固化剂含量增加，涂膜硬度增大、附者力提高：
+较低含量的固化齐
+固化剂含量，就增大了涂膜中氨基甲酸酯键和腺键的浓度。
+水分散性多异氰酸酯用量增加，涂膜在室温下十燥初期和2小时后硬度降低，但
+使用自制的聚酯分散体与不同的交联剂的配漆研究表明：稀释后的交联剂无需高速
+搅拌即可容易地与水混合：用亲水改性的交联剂制成的产品涂膜硬度较低：催化剂能显
+著缩短双组份水性聚氨酯涂料的干燥时间
+1.7.5.5溶剂和助剂
+常规溶剂的表面张力在30达因/厘米以下，而在水性体系中，水的表面张力高达7
+5达因/厘米，因此在底材上比较难以成膜，要得到性能良好的涂层，必须添加各种助剂
+由于聚合物乳液是由乳胶粒子与介质水等多种成分构成的多相体系，其流动状态为
+统进行聚合物结构和流变性能的研究更少
+酯涂料的应用领域，如汽车、木器、工业维护、塑料以及其它各种领域，具体表现在：
+汽车涂料有很高的外观要求。面对日益增长的环境压力，汽车制造商逐步采用双组
+分聚氨酯涂料来代替传统的丙烯酸-氨基树脂体系。在欧洲和美国，
+的市场份额，高固体双组份聚氨酯涂料可以满足暂时的降低溶剂的要求，进一步的要求
+需要使用双组份水性聚氨酯涂料。汽车原厂漆（OEM）还要求有非常好的耐擦伤性、耐
+酯分散体高的硬度和耐化学品性以及聚氨酯分散体的高光泽和耐擦伤性。使用亲油多异
+固化剂提高了涂膜的交联密度，因为亲水多异氰酸脂具有较低的官能度
+低，性能与溶剂型聚氨酯涂料相当%"，可使用的其它含羟基组份有聚酯-聚丙烯酸酯杂
+水性木器和地板涂料近年来得到了广泛的应用，在德国约占60%市场份额的地板
+由含羟基聚丙烯酸酯乳液和非离子亲水改性的多异氰酸酯组成的双组份水性聚氨
+性增稠剂时，涂膜的Tg有所增加，这可能是缔合性增稠剂也与异氰酸酯进行了交联100]
+维护涂料是指用在野外设施上起保护和装饰作用的涂料，如公路
+减少修补频率，降低维修成本。由水性聚丙烯酸酯与常规HDI型多异氰酸酯组成的涂料
+以及由含羟基聚丙烯酸酯乳液与亲水改性多异氰酸酯组成的涂料推荐用于工业维护涂
+料，涂料的活化期为4-8小时，性能优越。
+塑料已经得到了广泛的应用，在很大范围内代替了末材和钢铁。在塑料表面装饰涂
+双组份水性聚氨酯涂料还可使用在水泥、瓷砖、屋顶、不锈钢、高尔夫球杆等，目
+分子量的聚氨酯分散体和低分子量的聚酯-聚氨酯分散体组成的羟基组份与亲水改性多
+.9本论文研究意义、研究内容及创新之处
+随着各国环保法规的健全和环保意识的增强，传统的溶剂型涂料中的挥发性有机化
+的附加价值，改变塑料制品的理化性能。用于塑料的涂料要求对塑
+与固化剂交联的活性基团，而且必须能够乳化和分散固化剂，还要与固化剂树脂具有较
+达到产业化及推广应用，
+1）新型聚内烯酸酯乳液的合成及性能
+采用种子乳液聚合工艺，通过优选乳化剂和乳化剂复配技术，控制乳化剂在不同阶
+率和单体的转化率研究乳液的聚合稳定性：通过透射电镜（TEM）研究乳胶粒子的结构
+与形态：采用傅里叶红外光谱研究聚多元醇组份和固化剂混合前后的结构变化来判断反
+应程度：用原子力显微镜研究双组份水性聚氨酯涂膜的成膜性能，利用
+通过分段聚合工艺制备核壳结构的经基丙烯酸酯二级分散体，利用配方优化得到最
+优配方和工艺参数：除了研究乳胶粒子的结构、形态与双组份水性聚氨酯涂膜的成膜性
+能外。还研究涂膜的吸水率、光泽、硬度等基本性能
+3）双组份水性聚氨酯涂料的活化期及性能研究
+时化学介质性能等研究双组份水性聚氨酯涂料的活化期
+比较PAE和PAD型双组份涂料的涂膜性能
+te pr0cess P]. GiB1112462, 1968
+Aqueous Polyurethane Dispersions [P]. GB 1186640, 1970
+虞光思.水性涂料的研究进展小，化工科技市场，2006，44)）：1417
+[16]罗建光，赖国隆，毛名飞，等.环氧树脂改性水性聚氨酯的研究[门].涂料工业，2002
+[18]陈红，范曲立，余学海.氨基硅油扩链改性水性氨酯的研究[].功能高分子学报
+刘益军.聚氨酯树脂及其应用M]北京：化学工业出版，2002：559~633
+科学学报，2002，18（6）：441-443
+23Jacobs P B. Two-Component Waterborne Polyurethane Coatings: Now and Into the Next
+Century J].Journalof Coating Technology,1993,65(7): 45-50
+Waterborne Polyurethane coatings [J]. Journal of Coatings Technology,19
+[28]瞿金清，涂伟萍，陈焕钦.双组份水性聚氨酯涂料的合成与表征[叮].高校化学工程
+32FioriDE.1wo-compo
+ings[J].Progress in Orga
+可荣，小意，等，
+聚氨/聚内烯酸酯复合乳液的研制进展小功能高分子学报，
+爱，余彩莉，王云普.双组份水性聚氨酯涂料性能研究-聚内烯酸酯分散体对涂
+34Nabuurs1,PearsD,（
+Coating Composition with Visible Pot LifeP]. JP2000256b15,2000
+[41]主武生.双组份水性聚氨酯涂料理论与实践[门].涂料技术文摘，2008，（7)：11-20
+[42]Billiani J, Wilfinger W. New Low-VOC Acrylic Polyol Dispersions for Two-component
+Polyurethane Coatings[J]. Surface Coatings International. Part B, 2002, 85(B3): 192-195
+[43]Ley D A, Fiori D E, Quinn R J. Optimization of Acrylic Polyols for Low VOC
+Two-Component Water Reducible Polyurethane Coatings Using Tertiary Isocyanate
+46布尔玛恩M，尼恩浩斯E，里恩克H-P，等.含水的双组份聚氨酯涂料组合物及其在
+of the Same and Use thereof for Multi-layered LacqueringP]. US5876802,1999
+Coating Symposium[C]. New Orleans, LA, 1997.
+and coatings prepared therefrom|P]. US5330792, 1995, 1, 10
+54lrle C, Roschu R, Kremer W, Luehmann E, Laas H J. Binder Combination For Aqueous
+明专利申请公开说明书.CN1278539A，2001，1，3
+1bouufeaux2.r
+59Reiff H.Polvisocyar
+and Their Use P]. US
+of such Curable Emulsions [P]. US5466745, 1995
+[62]顾国芳，柳丽君，李晓明.水可分散多异氰酸酯的研制[刀.建筑材料学报，2002，5（4）
+Iwo-Component Coating CompositionsP]. W00104172, 2001, 01, 18
+67Wamprecht C, Laas H J. Aqueous two-component polyurethane coating compositionP
+ournal of Coatings Technology, 1996, 68(852): 51
+oolyurethane coatings [J].Paintindia,2001(9): 124-129
+78Morikawa Y,Uehara K.Kc
+self-emulsifiable isocyanate-terminated prepolymerP].US 5,373,050,Decembei
+80Shaffer M, Wicks D A. 1wo package waterborne
+he urethane systemsJ]. Polymer Materials
+Science andEngineering.1997,77:377
+iving high emulsifiablity and stability
+83Schwindt J,Reiff H, Kut
+,a process for their production and
+heir use for coating water-resistant substratesP. US 5, 459, 197, October I7, 1995
+87]Bui H, Dvorchak M, Hudson K,et al. Two-component waterborne polyurethanes: the
+heology of mixing[J]. European coatings Journal, 1997, 97: 476
+88|Hawkins C A, Sheppard A C, Wood T Gi Recent advances in aqueous two-componeni
+90]巫辉，夏亚，明三军.双组份水性聚氨酯的成膜研究[叮.聚氨酯工业，2005，（1)：
+91]Nakamichi T, Ishidoya M. Cure Behavior and Film Properties of Two- Component
+Acrylic Urethane Coatings [J]. Journal of Coatings Technology, 1988, 60: 33-39
+[92]Bock M, Petzoldt J.Aqueous Polyurethane Coatings Systems for Plastics[J]. Proc.22nd
+vaterborne.high-solid
+94]Tramontano V J, Blank W J. Novel Water-borne Polyurethane Dispersions: Advance in
+The Netherlands, 2002, 9.1-9.13. and also in European coatings Journal, 2003, 6, 36, 38
+双组份水性聚丙烯酸酯聚氨酯涂料是由亲水改性多异氰酸酯固化剂和含OH基水性
+聚丙烯酸酯多元醇组成2。水性羟基聚丙烯酸酯结构可调，乳液粒子
+型。羟基聚丙烯酸酯水分散体是通过溶剂聚合方法合成含亲水羧酸（磺酸）盐的经基丙
+烯酸聚合物，然后在强机械剪切力作用下分散于水中，这种方法制备的双组份水性聚氨
+配制双组份水性聚氨酯涂料，研究了羟值及羟基分布对聚丙烯酸酯乳液及水性双组份涂
+料性能的影响，优化配方体系。
+实验所用试剂与设备列于表2-1和2-2
+表2-1主要实验原料规格和生产厂家
+Tab.2-1Specificationandmanufacturers ofmainrawmaterials
+能性，是双组份水性聚氨酯涂料性能的重要影响因素。水性羟
+合过程中一般需要采用改进的工艺才能实现，诸如：羟基单体的非
+亲水改性脂肪族多异氰酸酯固化剂
+Tab.2-2 The main instruments of the experiments
+轻基聚丙烯酸酯乳液（HPAE）的合成采用半连续种子乳液聚合，极性单体分段滴
+本实验的主要反应装置如图2-1所示
+Fig. 2-1 Installation scheme of polymerization reactior
+典型合成过程为：在装有温度计、冷凝管、搅拌桨和恒压滴液漏斗的四口烧瓶中加
+乳液聚合正常进行
+乳液聚合反应的单体转化率由称重法测定
+乳液聚合稳定性用凝胶率（C%），见式（2-1）来表示，乳液聚合完成出料时用120
+前阶段加入，羟基单体在前和后两阶段的质量比为1:3）。全部单体加完后，
+干燥薄膜制成尺寸为60x60x1mm的试样，分别置于不同介质中进行耐介质性能测
+中：W、W和
+介质后的质量。W和W分别为胶膜吸水率和吸乙醇率：W和W分别为胶膜在水中
+和乙醇中的失重率。
+2.2.3.4涂膜交联度测试
+初始质量为W的干燥涂膜用滤纸包覆好，在索氏（soxhlet）抽提器中用四氢呋哺
+续进行三次并行测试后取其平均值做为最终结果3
+采用天津市材料试验机厂的QBY摆杆式涂膜硬度计，根
+GB/T1730-93测试涂肥
+采用美国PERKINELMER公司Spectrum2000傅立叶红外光谱仪，采用膜反射法
+对涂膜交联过程进行表征，通过对比涂膜中基团特征峰的变化来研究交联反应，测量范
+分布进行测试，测量范围：0.6-6000nm，温度为25土0.5℃。
+采用德国耐弛公司NETZSCHSTA499C热重分析仪对涂膜进行热失重分析，测温
+采用半连续种子乳液聚合工艺，控制乳化剂的用量为总单体质量的2.4%，阴/非离
+型乳化剂的质量比例为2：1，
+反应温度为82℃，合成了不同羟值的聚丙烯酸酯乳液
+HPAE），其合成路线如图2-2所示
+CH=C-C-O-CH+CH=CH-C-O-CHg+CH=C-COOH+CH=C-C-O-CH-CH-CH
+CH
+CH
+CH3
+OH
+MMA
+RA
+MAA
+HPMA
+Hydroxyl polyacrylate emulsion(HPAE
+图2-2羟基聚丙烯酸酯乳液（HPAE）的合成路线
+Fig.2-2The synthetic routes of HPAE
+通过称重法测定HPAE的转化率和凝胶率，实验结果如图2-3所示。通过图2-3发现
+随着轻基单体HPMA含量的不断增大，乳液体系的羟值提高，乳液的聚合稳定性下降。
+提高到115.3mgK0H/g，羟基含量为3.5%时，体系的凝胶率已经达到8.0%，转化率也下
+图2-3羟值与乳液的聚合稳定性
+ig.2-3 Effects of hydroxyl value on the stability of emulsion polymerizatior
+具有很好的亲水性，过多的亲水单体加入增大了聚合体系的水相成核几率，当聚合物的
+采用相同乳液聚合工艺和配方，分别针对不同羟值的HPAE进行粒径分布研究，纳
+米粒度分析仪测试的结果如图2-4所列。
+图2-4表明随轻基单体添加量增大，即聚合物经值增大，聚合物乳胶粒子的平均粒
+乳液聚合稳定性下降的原因有两方面：一方面，羟基单体HPMA是强极性化合物，
+A: OHV=0 mgKOH/g (dp=111 nm);B: OHV=32.9 mgKOH/g(dp=129 nm);
+Fig.2-4 Effects of hydroxy value (OHV) on the diameter of particle
+经增大。当聚丙烯酸酯乳液不添加羟基单体时，乳液的平均粒径为111nm：当聚丙烯酸
+当乳液轻值达到98.8mgKOH/g时，此时乳液平均粒径为179nm，而且粒径分布变宽。这
+对其进行乳化，处于亚稳状态，易通过乳胶粒子间的凝并降低界面张力，形成稳定的乳
+液体系，导致了乳液平均粒径的增大，分布变宽。
+理论上，亲水基团含量对乳液粒径的影响主要体现在两个方面：一方
+加而产生的颗粒水膨胀性能使粒径增大，这种膨胀性随亲水性的增大而愈发明显。在
+次的羟基乳液聚合的实验中，乳液粒径增大，主要是由于乳胶粒子的亲水膨胀所致。
+水分的热发，分散体或乳液粒子凝聚，聚合物链相互扩散和反应。由于水的
+固化剂与共溶剂和中和剂的轻基、胺基及水的反应。固化剂与水的副反应生成胺和二氧
+时，聚合物的亲水性增大，必然导致聚合物与水的界面张力减小及
+图2-5.水性双组份内烯酸酯聚氨酯固化反应
+Fig.2-5Reactions of waterborne 2K-WPUcuredprocess
+双组份水性聚氨酯涂料的固化涉及化学反应如图2-5所示，其中主反应为羟基与另
+酸酯基进行加成反应生成氨基甲酸酯（-NH-COO-），副反应为异氰酸酯基团分别与水
+氨基甲酸脂和羧基反应生成腺、腺基甲酸脂和氨基化合物等。
+2270cm处为聚氨酯固化剂NCO基团的特征峰。随者干燥时间的延长，涂膜中羟基和
+异氰酸酯基反应逐步完成，NCO基团完全消失需7大
+S1:hydroxy polyacrylate emulsions:S2:1day: S3:2days:4:3days: S5:7days
+Fig.2-6 The FT-IR spectra of the curing process of 2K-WPL
+HPAE羟值对双组份水性聚氨酯涂膜性能的影响
+按照图2-2合成工艺制备不同羟值的聚内烯酸酯乳液HPAE，采用NCO/OH的摩尔
+比恒定为1.5制备双组份水性聚氨酯涂膜，室温干燥7天后测试涂膜性能，实验结果如
+表2-3羟值对双组份水性聚氨酯涂膜性能的影响
+Iable 2-3 Effects of hydroxy value on the properties of the 2K-WPU cured film:
+醇中的失重率分别为0.6%和1.2%。因此，羟值过大或过小均会降低涂膜的耐介质性能：
+.5NCO/OH摩尔比对双组份水性聚氨酯涂膜性能的影响
+采用轻基含量为3.0%，羧基含量为0.78%的聚丙烯酸酯乳液与聚氨酯固化剂配制
+性双组份涂料，考查NCO/OH摩尔比对涂膜性能的影响，实验结果如表2-4所示
+表2-4NCO/OH摩尔比对2K-WPU性能的影响
+Tab.2-4 The effects of the molar ratio of NCO/OH on the properties of 2K-WPU
+表2-4说明水性双组份涂膜交联度随者NCO/OH值的增大而增大，最大交联度为
+膜的聚合物链段上的硬段氨基甲酸酯基团数量增加：过多的固化剂加入量增加了NCO
+耐水和耐乙醇失重率分别为0.6%和1.3%，光泽为89，硬度为0.90。进一步增大NC
+摩尔比值，涂膜硬度和耐介质性能反而下降，原因可能是残留亲水改性的聚异氰酸酯固
+按照NCO/OH摩尔为1.5配制双组份水性聚氨酯涂料，室温十燥7大后进行涂膜
+热失重分析，并与单组份羟基聚丙烯酸酯涂膜进行比较，实验结果如图2-7所示。
+图2-7单组份羟基内烯酸酯与双组份内烯酸酯聚氨酯涂膜的热重曲线
+Fig.2-7 TGA curves of 1K-PAE and 2K-WPU
+图2-7说明：双组份水性聚氨酯涂膜热稳定性能不如单组份经基丙烯酸酯涂膜。其
+初始失重温度为180℃，而相应羟基丙烯酸酯涂料的初始失重温度为250℃：
+更用实验合成的高羟值聚丙烯酸酯乳液（OHV-98.82mgKOH/g）与亲水改性的浆
+氨酯固化剂，根据优选配方配制双组份水性聚氨酯涂料，将其物理化学性能与双组份溶
+剂型聚氨酯涂料进行对比，实验结果如表2-5所示
+表2-5双组份水性聚氨酯涂料的性能
+Table 2-5 The properties of 2K-WPU, 1K water-based PUD and
+表2-5说明双组份水性聚氨酯涂膜的交联度和硬度不及溶剂型双组份聚氨酯涂料，
+涂膜的耐介质性能与溶剂型双组份聚氨酯涂料还有差距，但性能远优于单组份水性聚氨
+酯涂料，能满足高端市场要求，而且健康和环保。
+采用半连续种子乳液聚合，极性单体分段滴加工艺合成了高羟值的聚丙烯酸酯乳液
+HIPAE，并优化配方配制了双组份水性聚氨酯涂料，研究发现
+（1）乳液聚合过程中，羟值增大导致乳液聚合的转化率降低和凝胶率增大，乳液
+平均粒径增大和粒径分布变宽，乳液聚合稳定性降低
+轻值过大或过小均会降低涂膜的耐介质性能：
+组份水性聚氨酯涂膜，其交联度和硬度不及溶剂型双组份聚氨酯涂料，性能远优于单组
+份水性聚氨酯涂料，而且健康与环保，具有很大的市场应用前景
+有成线性关系：
+当乳液羟基含量为2.5%，涂膜的吸水和吸乙醇率达到最低
+Urska S,Matiaz K.Seed
+composition, process for its preparation, and its use in processes for the production of
+multicoat finish:US,5876802 [P]. 1999-03-02
+orocess 9]- Journal of Applied Polymer Science, 2004, 94(2): 845-859
+15]赵瑶兴，孙祥玉.有机分子结构光谱鉴定M.北京：科学出版社，2003
+水性聚丙烯酸酯多元醇因其聚合物结构可调、粒子构型可设计，还可赋予2K-WPU
+酯共聚物，然后通过高剪切力分散于水中得到。Billiani等先在溶剂中制备分别含羧基
+羟基丙烯酸酯分散体，该分散体具有施工性能好、涂膜硬度高和耐化学性能好等优点，
+本章采用即时中和（聚合过程中适时对羧酸单体进行中和成盐）工艺与极性单体分
+K-WPU，分别考察了-COOH和-OH在乳胶粒中的分布对涂膜性能的影响，
+三章
+新型聚内烯酸酯杂合乳液的合成与双
+组份水性聚氨酯涂料
+实验所用试剂与设备列于表3-1和3-2
+表3-1主要原材料名称
+Iab.3-1Specificationandmanufacturersofmainrawmaterials
+3.2.2.1新型丙烯酸杂合乳液（PAH）
+PAH合成配方如表3-3所列。在装有温度计、冷凝管、搅拌桨和恒压滴液漏斗的四
+口烧瓶中加入微量的复合乳化剂、碳酸氢钠和去离子水，一次性
+方量的MMA、BA和HEMA，快速搅拌20min后制备单体预乳化液。保留1/4的预乳
+化液作为种子乳液，并加入适量的KPS水溶液，升温至80C，当种子乳液呈蓝相后继
+化剂组成的预乳化液。85C熟化2h后降温出料，过滤。乳液聚合过程控制适当的引发
+剂浓度和混合单体的滴加速度，保证乳液聚合稳定。
+第三章新型丙烯酸酯杂合乳液的合成与双组份水性聚氨酯涂料
+Tab.3-2 The main instruments of the experiments
+Iab.3-3'The compositions of acrylic monomers inPAH
+HPAE合成配方同PAH，采用半连续种子乳液聚合工艺，依据文献[10]进行合成
+土2C，反应时间为5小时。在装有温度计、冷凝管、搅拌奖和恒压滴液漏斗的四口烧
+宁波新芝生物科技股份有限
+在水中的失重率（Wx）和涂膜交联密度（Cr%）分别按式（3-1）、式（3-2）和式（3-3）
+式中：Wo、W、W和W依次为涂膜的初始质量、擦干表面水后的质量、完全脱水
+燥后的质量和经THF抽提24h后的干膜质量：羟基含量由乙酸酐法测定
+徐膜硬度采用天津市材料试验机厂的QBY摆杆式涂膜硬度计，根
+进行测试：涂膜光泽采用60°角WGG60-E4光泽度计根据HG3828-2006进行测试：
+谱仪进行跟踪分析12]，测量范围：400-4000cm”：PAH乳液粒径采用英国Malverm仪
+涂层微观结构采用本原纳米仪器公司CSPM-3000原子力显微镜（AFM）进行表征：乳
+胶粒的微观形态采用日本JEM-1010透射电镜（TEM）进行拍照，
+2K-WPU涂膜性能由涂膜交联密度（涂膜的物理、力学和化学性能）及两组份间相
+率和程度决定：相容性与水性轻基树脂的结构、粒子结构与形态、对固化剂的乳化能
+复取决于羟基树脂的结构，两组份接触程度即-NCO与-OH的接触几率以及羟基组份对
+Fig.3-1 Synthetic scheme of the PAH
+聚丙烯酸酯乳液是采用乳液聚合工艺，在乳化剂作用下，使丙烯酸酯粒子稳定分散
+于水中得到，聚丙烯酸酯乳液的相对分子质量和经基、羧基含量可以在很宽范围内变化
+OH的内烯酸酯单体混合物与复合乳化剂的预乳化液，案
+子乳化剂，稳定后期丙烯酸酯单体的乳液聚合，相当于无皂乳液聚合。因此可以较大
+的交联密度与硬度，
+中的比例对2K-WPU性能的影响，结果如表3-4所示
+COOH基团在P1与P2中的质量比：
+期的聚合过程中，含羧酸盐的聚合物相当于高分子乳化剂，不仅可以提高后期乳液聚合
+的稳定性，而且还可以使聚合生成新的乳胶粒的粒度更小，分布更均匀，
+环结构及较高的官能度，粘度较低，易于分散，因此涂膜性能较好：而缩二脉由于粘度
+Iab.3-4Effects of carboxylgroup distributions on the properties of PAHand2K-WPL
+）分布对2K-WPU性能的影响
+控制含-COOH的单体用量为1.5%，分布为P1/P2=1：0：含-OH的单体（HEMA）
+表3-5HEMA投料比对PAH与2K-WPU性能的影响
+Tab.3-5 EffectsofHEMA's ration in P1and P2on the properties of PAHand2K-WPU
+HEMA在P1与P2中的质量比：²乳液聚合失败。
+表3-5数据表明：随着HEMA在P2中含量的增大，乳液的聚合稳定性提高，凝胶
+3.3.4PAH乳胶粒的形态与分布表征
+图3-2（a，b）是PAH和HPAE的粒径分布图。HPAE的平均粒径为170nm，分布
+范围窄（多分散指数PDI=0.014）：PAH平均粒径仅为93nm，而且分布范围更宽
+由于PAH由负载两种不同功能基团（-COOH和-OH）
+导致乳液分布变宽整个乳液体系呈现“大粒子中间掺杂小粒子”的状态，平均粒径更小
+Fig.3-6The size distributions of HPAEandPAH
+图3-3为PAH的TEM图，可以看出PAH由两种不同乳胶粒P1和P2组成，其中
+P1的平均粒径远小于P2的平均粒径，可能原因是：一方面，由
+从而导致乳胶粒子P2的粒径远大于乳胶粒P1
+Figure 3-3 The TEM picture of PAH
+3.3.5PAH配制2K-WPU的涂膜固化过程与涂层结构
+在25℃，相对湿度为50%的条件下，将PAH与亲水改性多异氰酸酯固化剂进行物
+峰，S2、S3和S4分别为2K-WPU涂膜干燥1天、2天和3天后的红外光谱曲线，2270
+表明-NCO与-OH完全反应生成了氨基甲酸酯（-NH-COO-）
+图34双组份水性聚氨酯涂膜固化过程红外光谱
+Fig.3-4 The FT-IR spectra of the curing process of 2K-WPU
+图3-5（a，b）为PAH与HPAE配制2K-WPU涂膜硬度和交联密度随时间的变化
+相对于HPAE配制的2K-WPU，PAH配制的2K-WPU成膜过程中，涂膜的硬度和交联
+密度等性能参数提升速度更快，在3天就达到0.90和97.2%：而HPAE配制的2K-WPU
+的硬度和交联密度却需婴7大才能达到最终性能
+可能原因是：双组份水性聚氨酯涂料的成膜过程不同于溶剂型体系，成膜初期为物
+化温度较高、分子量较大的聚合物乳液具有较高的剪切模量和较差的凝聚性，其物理成
+必须蒸发较多的水分，影响物理成膜过程。对于高玻璃化温度和大分子量的聚合物，要
+随着水分的蒸发，分散体或乳液粒子凝聚，聚合物链相互扩散和反应。主
+-水的界面张力有利于改善涂膜形成的条件[17]。
+(a) The hardness of 2K-WPU from PAH and HPAE
+(b)PAH与HPAE配制2K-WPU的交联密度
+b) The crosslinkage of 2K-WPU from PAH and HPAE
+图3-5PAH与HPAE配制2K-WPU的硬度和交联密度随时间的变化
+Fig.3-5 Effects of time on the hardness and crosslinkage of 2K-WPU
+”，涂层平整度和致密度差：而图3-7（b）中PAH制备的2K-WPU涂层结构致密，涂
+膜外观平整
+图3-7HPAE与PAH制备的2K-WPU涂层AMF图
+Fig. 3-7 The AMF pictures of 2K-WPU from HPAE and PAH
+3.3.62K-WPU的综合性能
+依据实验确定的最佳配方和工艺合成PAH作为2K-WPU的羟基组份，以矛
+高十燥7大，测试涂膜性能
+表3-6双组份水性聚氨酯涂料的综合性能比较
+lab.3-6 1he properties compare of 2K-WPU and 2K solvent-based PL
+表3-6数据说明：PAH作为羟基组份配制的2K-WPU，在涂膜的外观、交联密度、
+度和光泽等性能都接近双组份溶剂型聚氨酯涂料，文因其溶剂含量
+操作灵活、工艺稳定、具有很强的实用性和推广性
+的10%，而且乳胶粒子可以根据聚合稳定性和性能需求进行设计和杂化、
+（1）PAH可以根据性能对功能性和反应性基团进行分段加料，制备分别由富含
+3）FT-IR跟踪分析和涂膜的硬度与交联密度测试发现：PAH配制的2K-WPU性
+在3大就达到最大值，而HPAE配制的2K-WPU性能提开却需要7大：
+分布的质量比分别为1：0和1：3时，涂膜的耐水、硬度、交联密度和外观等综合性能
+5）AFM表征涂层结构说明：PAH制备的2K-WPU涂层结构平整且致密
+acrylic dispersions [J]. Progress in Organic Coatings, 1999, 35(1-4):129-140)
+by an isophorone diisocyanate/uretedione aziridinyl derivative process [J]. Journal of
+Applied Polymer Science, 2004, 94(2): 845-859.
+兴，孙祥玉.有机分子结构光谱鉴定[M.北京：科学出版社，2003：15-65
+14Feng S X, Dvorchak M, Hudson K E, ef af. New high performance two-component wood
+涂伟萍，陈焕钦.双组份水性聚氨酯涂料的合成与表征门.高校化学工程学
+Wood Coatings Comprised of a Hydroxy Functional Acrylic Emulsion and a Water
+Dispersible Polyisocyanate. Journal of Coatigns Technology
+y ,2000 ,72 (902) :63-69
+四章自乳化羟基聚内烯酸酯水分散体的合成
+及双组份水性聚氨酯涂料
+分离结构，赋予聚氨酯优异的物理机械性能和耐化学介质性能，使得
+双组份溶剂型聚氨酯涂料在涂料工业中占有重要地位。随环保
+根据制备方法将羟基聚丙烯酸酯多元醇分为轻基聚丙烯酸酯乳液（PAE）和羟基丙
+PAD的作用。该工艺最大限度降低PAD中亲水羧酸盐的浓度。
+实验所用丙烯酸酯单体、引发剂、有机溶剂和助剂的规格和厂家列于表41
+以内酮为溶剂，AIBN为引发剂，通过溶液聚合法合成内烯酸共聚物。据Fox
+性）、助溶剂和水组成”。羟基水性聚多元醇包括聚酯、聚内
+分别合成聚合物P3-P5，表4-2列出了丙烯酸共聚物P3-P5的组成
+Table 4-1 Experimental materials
+将P3和P4按质量比为0.3：0.7-1:0混合，用二甲基乙醇胺（DMEA）中和，然后分
+散至水中，采用旋蒸脱除丙酮，添加DMEA调节NPAD的pH值至7-9。传统聚丙烯酸酯分
+3h满完，继续保温2h至单体转化率达98%以上。降温过滤出料。按照上述方法
+表4-2内烯酸共聚物P3-P5的单体组成
+[ab.4-2 The compositions of P3-P5
+NCO/OH-1.5（摩尔比）加入固化剂，搅拌30min后过滤，得到双组份水性聚氨酯清漆
+具体配方见表43
+表4-3双组份水性聚氨酯涂料的配方
+Tab.4-3Theformula of 2KWPU
+将定量清漆倒入玻璃血中，分多次制备60x60x1mm无气泡涂膜，室温干燥2
+然后50C十燥48h。冷却后将膜取下放人十燥箱备用。
+将清漆刷涂于干净的玻璃板上和马口铁片上，保持干涂膜厚度20um±3um，室温
+乳液粒径测试：采用英国Malverm激光粒度分析仅对分散体的粒径及分布进行测量
+4893.9-1992对涂膜抗冲击性测试。
+涂膜耐介质性能测试：尺寸为60x60x1mm的干燥薄膜分别置于不同介质中进行耐
+介质性能测试。
+擦干表面水或乙醇后分别按式（4-1）测定胶膜的吸介质率（WA/E%）
+燥脱除介质后的质量。W和WE分别为胶膜吸水率和吸乙醇率。
+式（42）计算，连续进行三次并行测试后取其平均值做为最终结果。
+FT-IR红外分析：采用美国PERKINELMER公司Spectrum2000傅立叶红外光谱仪，
+对交联过程进行表征，通过对比胶膜中基团特征峰的变化来研究交联反应，测量范围：
+400-4000cm，采用膜反射法测定
+热重分析（TGA）：应用德国耐弛公司NETZSCHSTA499C热重分析仪对胶膜进行
+热重分析，测温范围：25-600℃：样品在氮气保护下，升温速率：10C·min”。
+透视扫描电镜（TEM）：采用高分辩透射电子显微镜CM300（飞利浦公司），
+入苯乙烯（St），浓度为：0.1g/L：染色剂：磷钨酸
+4.3.12K-WPU涂膜性能设计
+测试方法为：分别将胶膜置于去离子水中浸泡8天或95%的乙醇溶液中浸泡24h，
+W，W和W依次为胶膜的初始质量，擦十表面介质后的质量以及充分十
+最终硬度，还要知道涂膜达到最终硬度所需的时间。本实验通过调节羟基聚内烯酸酯水
+图4-1羟基聚内烯酸酯T对2K-WPU涂膜硬度的影响
+Figure 4-1 Effects of Tg on the hardness of 2K-WPU
+涂膜的耐冲击性会降低，涂膜光泽在T大于25C后会明显下降。因为Tg>25℃，涂膜
+Iab.4-4 Effects of1, on the appearance andimpact resistance of 2K-WPUfilm
+通常用于双组份水性聚氨酯的固化剂为多异氰酸酯固化剂（亲水改性或没有改性）。
+根据合成原料可分为异佛尔酮二异氰酸酯（IPDI）三聚体和六亚甲基二异氰酸酯（HDI）
+三聚体。固化剂的分散性与涂膜抗性的关系列于图4-2
+Fig.4-2 The relationship of dispersibility and film resistance of hardener
+低的粘度、亲水性和对PAD树脂的良好分散性，其固化涂膜的抗化学介质性能也较好。
+Fig.4-3 The properties of the Bayer hardenei
+的NCO/OH摩尔比与异氰酸酯固化剂BayhydurXP2655固化成膜。考察NCO/O
+比对涂膜硬度的影响，实验结果列于表45。
+Tab.45 Effect of the molar ratio of NCO and OH on the pencil hardness of 2k-WPU film
+从表45可以看出NCO/OH摩尔比越高，即固化剂加入量越多，涂膜最终硬度越高，
+从成本与涂膜性能考虑选择NCO/OH摩尔比为1.5-2.0
+4.3.2羟基丙烯酸分散体稳定性讨论
+轻基内烯酸分散体的分散稳定性与聚合物的有亲水基团浓度、分布和中和度有
+和度为95%，研究MAA质量浓度对分散体稳定性的影响，实验结果列于表4-6
+表4-6MAA含量对内烯酸水分散体稳定性的影响
+Tab.4-6 Effects of the content of MAA on stability of PAD
+从表4-6可以看出，MAA含量小于3%时，虽然聚丙烯酸酯分子链上含有大量的羟
+合成MAA质量百分含量为3.0%，考察中和度对PAD的分散稳定性的影响规律，
+实验结果如表47所列。从表4-7可以看出MAA的质量百分含量为3%时，中和度大于
+90%时，分散体才能贮存稳定。
+表4-7中和度对PAD稳定性的影响
+Tab.4-7Effects of the neutralization degree on the stability of PAD
+图4-4列出了NPAD的合成路径。以AIBN为引发剂，丙酮为溶剂分别合成丙烯酸共
+聚物P3，P4和P5。在乳化桶中混合P3和P4，用DMEA中和，中和度为95%，然后加水乳
+通过调节MMA与BA的质量比来调控丙烯酸共聚物和2K-WPU涂料的涂膜物理机
+生能，如MMA单体比例增大会提高NPAD及双组份涂膜的硬度和附者力，而增
+采用含羧酸盐的聚合物P3和不含羧酸盐的聚合物P4混合制备NPAD1，可见共
+3的含量及P3中羧酸盐的浓度可以控制NPAD的粒径及粒径分布。图45列
+m。NPAD1型2K-WPU涂膜的凝胶量在82-93%间。当P3的含量低
+图4-5不同P3和P4质量比的NPAD的粒径分布
+P3/P4 = 7:3, dp = 224 nm, α = 91%; (b)P3/P4 = 6:4; dp1 = 147 nm, dp2 = 367 nm, α = 93%
+(c) P3/P4= 4:6, dp1 = 146 nm, dp2 = 552 nm, α = 86% (d) P3/P4 = 3:7,dp1 = 134 nm, dp2 
+图4-6CPAD和NPAD的粒径分布
+Fig. 4-6 The particle sizes and distributions of CPAD and NPAD
+9=dpo:1=td/d)d%M0'
+am); NPAD (PS/P4 = 1:1, αdp1 = 60 nm; dp2 = 300 nm))
+由增水的聚合物P4形成核和亲水的聚合物P5形成壳的核壳结构的聚合物乳胶粒子。这
+结构被图4-7所示的
+明NPAD体系由小粒子和
+大粒子组成，小粒子仅含亲水的P5共聚物，含有苯乙烯结构，通过染色在TEM图中是黑
+色的。大粒子具有核壳结构，壳为染色的P5聚合物及核为没染色的P4聚合物
+Fig.4-7 TEM picture of the NPAD (P5/P4 = 1:1)
+在大多数2K-WPU体系中，聚多元醇和聚多异氰酸酯在涂膜中并不能均匀分布
+和均方租糙度（Rq）分别为1.6lnm和2.15nm，
+而PAE型2K-WPU涂膜的相应的值为3.62
+图4-8NPAD型和PAE型2K-WPU涂膜的AFM图
+1:1); and (b) PAE-based (P5/P4 =0:1)
+4.3.4NPAD与固化剂的混合过程
+与羟基聚丙烯酸酯水分散体的混合乳化过程：第一步采用机械搅拌将固化剂从大的颗粒
+分解成小的粒子：第二部是NPAD的小粒子作为高分子乳化剂在固化剂表面均匀分布
+列。图2-9所示混合体系的平均粒径变小，粒径分布变窄，有利于形成性能优异的双组
+份涂膜。
+图4-9NPAD与固化剂混合前后粒径分布
+Fig.4-9 the particles size and distribution of 2K-WPU and NPAL
+图4-10NPAD与固化剂混合后的透射电镜图
+Fig.4-10 the TEM of of 2K-WPU
+图4-11为NPAD2、固化剂XP2655及二者配漆后得到双组份固化涂膜（2K-WPU）
+红外谐图。谐线A在3450-3510cm处为轻基的伸缩振动吸收峰，1734
+甲酸酯基和腺键。1168cm出现新吸收峰归于亲水改性固化剂的异氰腺酸酯键C-N-C的
+图4-11NPAD2、固化剂2655与2K-WPU涂膜的红外光谱图
+Fig.4-11The F11R specti
+it 2655(B) and cured 2K-WPU(C
+图4-12为CPAD型
+稳定性。
+第三章新型丙烯酸酯杂合乳液的合成与双组份水性聚氨酯涂料
+图4-122K-WPU涂膜的TGA曲线
+Fig. 4-12 TGA curves of 2K-WPU films (NPAD: P5/P4 = 1:1;CPAD: P5/P4 = 1:0)
+4.3.72K-WPU的涂膜性能
+NPAD: Novel acrylic polymer dispersion P5/P4 = 1:1
+采用NCO与OH摩尔比为1.5：1制备NPAD2型（P5和P4），CPAD型（P5）及PAE
+型（P3）2K-WPU涂膜，
+检测涂膜性能包括光泽、吸水和吸醇率及凝胶含量，实验结
+果如图4-13所列。图4-13表明与CPAD及PAE相比，NPAD型2K-WPU涂膜具有高的光泽
+和凝胶含量，较低的吸水率和吸乙醇率。可能因为具有乳胶粒子双峰分布的NPAD对居
+化剂具有优异的乳化分散能力及与固化剂良好的相容性，降
+表4-8也证明NPAD型
+8 The properties of NPAD-, CPAD- and PAE-based 2K-WPU films
+将含有羧酸盐的聚合物P3和不含羧酸盐的聚合物P4混合后，在水中通过乳化制备双
+组份水性聚氨酯涂料的新型目乳化水性聚内烯酸酯分散体（NPAD）。粒径分布分析表
+子组成，其中大粒子具有由P3组成壳和P4组成的核的核壳结构。A
+AMF分析表明NPAD型
+PAD体系含有由亲水聚合物P3组成的小粒子和大粒
+nigh performance applications[5]. Progress in Polymer Science, 2007, 32: 352418
+8]David A L,Richard JQ,Denise E F.Optimization of acrylic polyols for low VOC
+acrylic dispersionsJ]. Progress in Organic Coatings.1999.35: 129140
+12Brinkman E,Vandev
+aqueous-based PU dispersion[J],Reactive & Functional Polymers, 2007, 67: 299311
+Science, Part A-Pure and Applied Chemistry, 2010, 47(4): 368374
+[16]Zhao Y, Sun X. Spectrum identification of organic molecular structure[M]. Beijing:
+science press, 2003:1565
+X，LiS.Ou,C
+oY.SunX.S
+第五章双组份水性聚氨酯涂料的配制及活化期
+研究
+物（VOC）以及有害空气污染物（HAP）的排放愈来愈受到限制，水性木器涂料开始受到
+化期，还需通过具体考察涂膜性能包括最终硬度、耐化学性及涂膜外观等。因此如何
+确定双组份水性聚氨酯涂料的活化期是函待解决的问题。本章利用自制的乳化能力强、
+的粘度、涂膜外观和性能随贮存时间的变化规律，研究结果将为双组份水性聚氨酯涂料
+的工业应用提供理论依据。
+渗透。然而水性涂料因水的渗透性弱，对基材的润湿性差等原因导致涂膜在基材上难以
+各国环保法规的
+不保意识的增强，传统的溶剂型涂料中挥发性有机化合
+为，期望对于水性涂料的发展提供一些新的思路。
+轻基聚丙烯酸酯包括：水性轻基聚丙烯酸酯分散体（PAD）：（
+0H%=3.9%，固体
+粘度为2200mpa·s，Bayer公司产品：水性羟基聚内烯酸酯乳液（PAE）
+按配方量将轻基聚丙烯酸酯加入到调漆缸中，在中速搅拌下加入配方量的消泡剂、
+流平剂、成膜助剂与去离子水，在600-800r/min转速下分散15-20分钟。按照
+入固化剂，分散5-10分钟，混合均匀后过滤得到双组份水性聚氨酯清漆
+表5-1水性木器涂料的基本配方
+Tab.5-1 The formula of the waterborne wood paints
+采用60°角WGG60-E4型光泽度计，依据HG/T3828-2006测试涂膜光泽
+燥脱除介质后的质量。W和W：分别为胶膜吸水率和吸乙醇率：W和Wy分别为胶膜
+在水中和乙醇中的失重率。
+涂膜耐其它介质性能测试：分别将50g/L的NaHCO溶液、墨水、绿茶、和陈醋
+能。以完全无痕迹为10：略有水痕，无色变，干燥后可消失为9：干燥后有轻微水痕
+W和W依次为胶膜的初始质量，擦十表面介质后的质量以及充分十
+初始质量为W的干燥涂膜用滤纸包覆好，在索氏（soxhlet）抽提器中用四氢呋哺
+膜固化过程进行表征，通过对比涂膜中基团特征峰的变化来研究NCO与OH的固化反
+应[11]，测量范围为400-4000cm
+采用英国Malvem仪器有限公司的马尔文纳米粒度分析仪（ZSNanoS）对经基树服
+的粒径大小与分布进行测试，测量范围为0.6-6000nm
+采用CSPM-2003原子力显微镜（AFM）对涂膜表面的微观结构进行表征
+5.2.3.9透射电子显微镜观察
+将2K-WPU乳液用蒸馏水稀释至1%，在其中加入磷钨酸后再超声震荡10min，然
+后滴在铜网上放置20min，待铜网表干后置于JEM-100CXⅡI型投射电镜上观察并拍片。
+5.2.3.10涂膜附者力的测试
+本材的表面砂磨处理：将同一规格的水曲柳板材利用不同目数（150目
+上施加剪切力将涂膜撤起，而涂膜被掀起的角度超过了刀的实际着力角度。考察涂膜的
+涂料的作用是保护和装饰物体的表面，其前提是涂膜能够牢固地黏结在被涂物表
+何垒材表面都仔仕
+一定的缺陷或扎河，不仅增大其与涂层接触的表面积，增加
+徐层与基材间接触的活性点，亦为涂层与基材的相互渗透提供了可能。对于多孔性的介
+与涂膜基料的接触面积：另外应对木材表面进行除油、除污等清除基
+能团转化为强极性基团的过程，形成氢键、共价键或离子键等，提高与涂层间反应能力
+5.3.2木材粗糙度对于涂膜附着力的影响
+粘附强度有所贡献。但是表5-2所列实验结果显示，随着砂纸目数变大，租糙度越来越
+表5-2租糙度对板材涂膜附者力的影响
+lab.5-2 Effects of roughness of wood board on the adhesion
+图5-1涂膜厚度对附着力的影响
+Fig.5-1. Effects of the film thickness on the adhersion
+图5-1是涂膜厚度对附者力的影响。从图5-1可以看出，随者涂膜厚度的增加，附者
+力降低。这是因为在涂膜厚度增大以后，水难以挥发，造成涂膜在垂直底材方向上的收
+变大，竖直方向上任何一个部位因为应力被破坏都会影响到该部位的完整程度，因
+涂膜的附着力先增大后又降低。这封闭底漆直接与木材接触，涂膜渗透到木材表面的毛
+能够渗透到木材的毛细空隙结树中而堆积在表面，导
+涂料对基材的润湿程度直接影响到涂膜在基材上的附者力性能。基
+的用量对水性木器涂料涂膜附者力影响如图5-2。从图5-2可知
+高，涂膜剥落率不断减小，涂膜附者力逐渐增强。当基材润湿剂的质量分数增大到0.7%
+性能如流平性、耐水性等。由此可见，在水性透明基料中添加适量基材润湿剂，有助于
+提高涂膜附者力。
+图5-2基材润湿剂对涂膜附者力的影响
+Figure S-2 Effects of wetting agent on the adhesion
+5.3.5附着力促进剂对涂膜附着力的影响
+实验中选用wetlink78为附者力促进剂，来增强涂料对玻璃基材的附者能力。
+第五章双组份水性聚氨酯涂料的配制及活化期研究
+图5-3硅烷偶联剂对涂膜附春力的影响
+Fig.5-3 Effects of wetlink/8 contents on the adhesion
+图5-4成膜助剂对涂膜附者力的影响
+Fig.5-4 Effects of co-solvent contents on the adhesion
+成膜助剂是小分子化合物，并与聚合物有很好的相容性，可以充塞于相邻大分子的
+之间，增大间距，减弱其相互间的作用力，消除内应力，从而降低涂膜脆裂的趋势
+为成膜助剂能降低水性涂料中溶剂水的挥发速率，还能够在聚合物适应收缩空缺困难
+成膜温度对水性木器涂料的也有重要的影响，尤其对于含有交联基团的乳液。将涂
+另外温度升高，加速聚合物链段的交联，提高涂膜交联密度和涂膜对基材的渗透，从而
+表5-3成膜温度对涂膜附者力的影响
+Table5-3Effectsoffilmformation temperaturesonthe adhesior
+具有很好的附着力。（3）在涂料中加入质量分数为0.6~0.8%润湿剂能明显提高涂膜的
+附者力。（4）以硅烷偶联剂作为附者力促进剂，能有效提高涂膜的附春力。（5）在一
+定用量范围内，成膜助剂能显著提高涂膜附者力：另外成膜温度开高，涂膜附者力增强
+定用量范围内，成膜助剂能显著提高涂膜附者力：另外成膜温度升高，涂膜附者力增强
+2K-WPU涂料活化期内的粘度变化会影响到涂料的施工质量及涂膜性能。图5-5列
+图5-5显示随贮存时间的延长PAD-2K-WPU的粘度一直降低
+体系随放置时间的延长，黏度变化与溶剂型双组份不同（溶剂型双组份的黏度随放置时
+。因此，不能用粘度变化来准确判断体系的活化期。
+onthestoragetimes
+图5-6PAE-2K-WPU体系粘度随贮存时间的变化曲线
+Figure 5-6 The viscosit
+凝胶），水性双组份体系的黏度随贮存时间的变化没有规
+图5-7PAD-2K-WPU的粒径及分布（0-7h）
+第五章双组份水性聚氨酯涂科的配制及活化期研究
+Fig.5-8 The particle sizes and distributions of PAE-2K-WPU(O-7h
+5.4.2粒径随放置时间的变化
+布呈现双峰分布。在本研究中PAD-2K-WPU乳液粒径没有出现双峰现象，市
+机械混合的剪切速率较高，混合效果好，使体系粒径分布最终呈单峰分布，
+5.4.3硬度随放置时间的变化
+轻基树脂与固化剂混合液放置4-6h后体系粘度会出现转折性变化，对此将
+脂与固化剂混合液分别放置4-6后制备涂膜，十燥
+加，5h时涂膜硬度最低，并出现转折点：而PAE-2K-WPU涂膜随混合液放置时间的延
+图5-9放置时间对2K-WPU涂膜硬度的影响
+Fig 5-9 Effects of storage time on the hardness of 2K-WPU film
+5.4.4放置时间对涂膜耐化学性的影响
+按照NCO/OH-1.5（摩尔比）将羟基树脂与固化剂混合液放置0-5h，制备双组份涂
+存时间为内，固化剂与轻基树脂混合物的乳液粒径都没有明显的变化。文
+表5-4放置时间对PAE-2K-WPU涂膜耐化学介质性能的影响
+Tab.5-4 Effects of the storage time on the chemical resistance properties of
+表5-5放置时间对PAD-2K-WPU涂膜耐化学介质性能的影响
+Iab.S-5 Effects of the storage time on the chemical resistance properties of
+PAD-2K-WPU films
+表5-4和表5-5可知，放置时间较短时，PAE型和PAD型2K-WPU涂膜的吸水率
+2K-WPU涂膜的吸水率和吸醇率均呈上升的趋势。对于PAE-2k-WPU涂料，在放
+5h时涂膜耐化学介质性能较差。对于PAD-2K-WPU，放置3后涂膜的时化学介质性前
+有优异的涂膜性能，但其活化期比PAE-2K-WPU（约4h）
+图5-10不同放置时间内制备的2K-WPU涂膜红外光谱
+Fig5-10FT-IRspectr
+raof2K-WPUfilimswithdifferentstioagelil
+5.4.5放置时间与涂膜的固化过程
+涂膜的红外光谱图，其中：2270cm为固化剂中-NCO基团的特征峰，3400cm为-OH
+基团的伸缩振动
+H弯曲振动和C-N的对称伸缩吸收峰：1154
+量较大，体系黏度高，OH基团与NCO基团接触几率少，导致NCO基团消耗速率较慢：
+的活化期短，这与活化期对涂膜化学性能影响的结论一致，
+5.4.6放置时间对涂膜表面的微观结构的影响
+轻基树脂与固化剂的混合液放置0-4h后制备涂膜，室湿
+片，利用AFM对涂膜的表观形貌进行表征，结果如图5-11和图5-12所示。其中图5-11
+而PAE-2K-WPU涂膜在4h时才开始出现较多的气泡。这说明PAD型2K-WPU的
+期比PAE型2K-WPU的短，
+合液放置时间在6内，制备的最终涂膜光泽基本保持不变。其中
+图5-11放置时间对PAD-2K-WPU涂膜外观的影响
+Fig.5-11 Effects of storage time on the appearance of PAD-2K-WPU fili
+图5-12放置时间对PAE-2K-WPU涂膜外观的影响
+粒径、涂膜硬度、耐化学介质性能、外观与光泽变化规律及化学组成，初步确定2K-WPU
+标。（3）相对于PAE型2K-WPU，PAD型2K-WPU的活化期更短：但在活化期内，PAD
+型涂膜的综合性能更优
+采用轻基含量为3.0%，PAD和PAE与聚氨酯固化剂配制水性双组份涂料，考查
+表5-6NCO/OH摩尔比对PAD-2K-WPU涂膜性能的影响
+表5-6说明双组份水性涂膜交联度随者NCO/OH值的增大而增大，这是因
+NCO/OH值条件下，
+的硬段氨基甲酸酯基团数量增加：同时，过多的固化剂加入量增加了NCO基团与水和
+耐水和耐乙醇失重率分别为0.5%和1.%，光泽为92，硬度为0.92，性能最好。进一步
+Tab.5-7Effectsofthe molar ratioofNCO/OHonthe propertiesofPAD-2K-WPUfiln
+PAE和PAD与聚氨酯固化剂配制水性双组份涂料，考查
+实验结果如表2-3和表5-7所示
+表5-7羟值对PAD-2K-WPU涂膜性能的影响
+表5-7表明随者轻值的增加，PAD-2K-WPU涂膜的交联度增加，涂膜的光泽下降，
+水率和吸醇率并不与轻值呈线性关系。可能原因是：羟值提高，乳液中的经基数量和
+出现非均一化降低涂膜光泽，涂膜中残留羟基会增大了涂膜的吸水率和吸乙醇率。随羟
+轻值，涂膜的耐介质性能下降，但是硬度和交联度均增加。
+的好，可能因为PAD对固化剂的如花分散能力要强，提高最终涂膜的耐介质性能，
+Tab. 5-7 Effects of hydroxy value of PAD on the properties of the PAD-2K-WPU films
+5.5.3双组份体系的TEM分析
+将PAE和PAD与固化剂混合，采用TEM分析混合体系的粒子形貌，实验
+图5-13和图5-14
+将PAE和PAD与固化剂配漆制备成涂膜，固化后的涂膜进行原子力显微镜分析，
+将两种涂膜的微观结构进行对比，结果如图5-15和图5-16所示
+成的涂膜比PAE与固化剂形
+成的涂膜外观要好，更加平整和致密，没有出现针孔和气泡，与TEM显示的两组份粒
+子组合特点相吻合，
+Fig.5-15 the AFM image of PAE-2K-WPU
+分混合后，异氰酸酯粒子被分散包裴在PAD粒子中，增加-NCO与-OH的接
+Figure 5-16 the AFM image of PAD-2K-WPU
+表5-8双组份聚氨酯涂料性能比较
+lab.5-8 Comparision of properties of 2KPU
+份水性聚氨酯涂料性能都接近双组份溶剂型聚氨酯涂料，又因其溶剂含量低，仅为
+份溶剂型聚氨酯涂料的10%，所以具有很强的实用性和推广性，双组份水性聚氨酯涂料
+必将是未来涂料的发展趋势。
+出，聚内烯酸酯分散体相比聚内烯酸酯乳液具有更高的光泽和更好
+双组份涂料的性能比较，得到如下结论：
+1.水性涂料附者力的影响因素包括乳液本身性能，基材的租糙度、涂膜厚度
+化期更短：但在活化期内，PAD型涂膜的综合性能更优，
+膜附者力下降：在涂料中加人质量分数为0.6~0.8%润湿剂能明显提高
+wo-componentpolvure
+performance of two-component water-reducible acrylic polyurethane coatings using
+ertiary polyisocyanate crosslinkers [J]. Journal of Coating Technology, 2000, 72(902):
+11ZhouX.1uW.HuJ.Preparatio
+oolyurethane comprisedof water-soluble acrylic resin andHDlbiuretP].ChineseJ
+CoutinhoFMB.V
+Dormeanionicpolvurethanesandpoly(urethane
+洲，李雨红，委租
+等.水曲柳木材涂饰界面特性的研究[小.东北林业大学学报，
+双组份水性聚氨酯涂料是性能优异的环保型涂料品种，其固
+在稳定性不好，对聚氨酯固化剂的乳化分散能力较差，导
+丙烯酸酯分散体的合成与性能，以及双组份水性聚氨酯涂料活化期的影响因素等，得出
+HPAE），研究发现：在羟基聚内烯酸酯乳液聚合过程中，羟值增大导致单体转化率降
+乙醇中的失重率分别为0.6%和1.2%，涂膜光泽为86%，羟值过大或过小均会降低涂膜
+2.采用种子乳液聚合工艺合成了新型经基聚丙烯酸酯乳液（PAH），根据功能性和反
+应性基团进行乳液粒子结构设计，使得PAH分别由富含-COOH的聚合物乳胶粒P1和
+密度测试发现：PAH因能较好的乳化分散固化剂，能强
+胶粒P2中分布的质量比分别为1：0和1：3时，涂膜的耐水、硬度、交联密度和外观
+综合性能最任
+FM表征进一步证明PAH制备的2K-WPU涂层结构平整且致密，
+3.将含有羧酸盐的丙烯酸共聚物P3和不含羧酸盐的丙烯酸共聚物P4混合后，在水
+相比，NPAD型2K-WPU涂膜具有优异的涂膜外观。NPAD-2K-WPU涂膜性能：90%的涂
+应生成CO，降低涂膜外观和性能，因此要求其水性羟基树脂不仅能提供与固
+苦性基团，而且要有乳化和分散固化剂的能力。现有水性羟基聚内烯酸酯存
+合，极性单体分段滴加工艺合成了高羟值聚内烯酸酯乳液
+NPAD对固化剂的乳化分散能力，提高了2K-WPU涂膜性能，
+型涂膜的综合性能更优。
+5.展望：双组份水性聚氨酯涂料是综合性能优异的涂料品种，在双组份水性聚氨酯
+丙烯酸酯乳液和分散体制备功能涂料：加强研究双组份水性聚氨酯涂料与无机纳米材料
+的杂化及涂层微结构构建等应用基础研究
+Self-emulsifying Hydroxy Acrylic Polymer Dispersions for
+Two Component WaterbornePolyurethane Coatings
+XIA KONG, SHAOMAO LI, JINQING QU* and HUANQIN CHEN
+SckoelefCk
+Recerved Angust 2009, Aocepted September 2099
+Novel self-etmulsifying aerylie polyunt aqp
+us digpersioes (NPAD) for two o
+ og Ag paiedd anm (ndy
+Isitymg polymer blnds im watet, which the polymer bleads typieally con
+obent watetborbe poburethane coatings (2K
+f tao acryllic polymers, one is a salt group cont
+in this polymee. Trana
+elos
+Ilntrosuclion
+Polyurethane (PU) coatings posses escellent properties
+SmdtiaveestablishedanmmnpotantpaceintheCoating
+industry due to their micro-phase separated domains from
+ing, and chemically induced separation of urethane-rich
+iscibility of soft and hard blocks, hydrogen bood.
+and urea-rich domains (13). Am
+market requirements Due to increasingly stringent legal
+nents, two component waterborne polyurethane
+over the last several years,dnven by market demands
+for higher-performamce, formaldetryde free,thermosetting
+Tho
+(polyol),an
+ametlnylene diisocyanate (HDl) or
+ospeuoioqdos
+OEX Gu
+rsity of Techno
+types of lrydroxy-fumctional waterborme polymers jncld.
+can be sed in 2K-WPU systems (6). Among them, water
+pg potyestet, pohyacryate, polyuretlsabe, abd thetr liybnd
+borneacrylipolymers get moreattentions bca ofthir
+e n os o 
+ecellent resistance to hydrolysis and low cost 7）.These
+glass transition temperature give PAE-based 2K-WPU film
+(PAD) (9). The PAE possess high molecular weight and
+tochievanaceptablefmppearanceandfalmt
+the onset of chemical crosslimking. However, it is diffcult
+tective colloids, the high coecemtration of Bydrophilic acid
+resistance properties of the film (11) much research had
+groups in PADs often lead to a decrease in water-/ethanol-
+focused on overcoming the disadvantages incloding car
+13). O the ther hand, the decreasing of the hydrophiie
+salt group conteuts in the polyrmers also lead to hydropho
+bic films, this would be a good method.
+process of hydroxy
+(NPAD), namely, the preparation of self-enulsifying poly-
+mer blends, which consist of two polyrners which differed
+in their salt group conteots, aod only oee of the polymoers
+contains the salt groups, which are required for the stabi-
+im Scheme 1. The properties of the NPAD, conventional
+Iization of the dispersions The syuthetic process was listed
+acryfic polymer dispersion (CPAD) and PAE for 2K-WPU
+coatings were also compared.
+2Expermea
+2.1 Material
+butyl acrylate (BA), styrene (St), and hydrosypropyl
+Methacrylic acid (MAA), methyl methacrylate (MMA)
+chased fromMitsi Co(apa)Dodaeyl macaptan,
+methacryfate (HPMA) are all comarmercial products pur
+(DMEA), and acetone are provided by Guangdong Car
+dur XP2655) was purchased from Bayer CO. (German). All
+modifed polyisocyamurate based on HDI trinoers (Bayhy-
+the maaterials were used without further purification
+2.2 Measaretoents
+2.2.1. Petide sipes and distribatioms
+-fp e Susn pamseoui aras suognqunsip pue sozis spopured
+Particle Sizer). Sarmples were diluted with water into an
+namie light scattering (DLS) tochnique (Malvern Laser
+appropriate concentration as indieated by the imstrument.
+Test specificatioe: 0.6-6000 nro; temaperatare: 25°C.
+analysis v
+red by
+g a 1:10 000
+copper grids (Ted Pella, Ine.
+2.2.2. Film property mresarements
+Dry times were determined using an automatic drying time
+rocorder on the glass panel aocording to GB/T 17281989;
+gloss was read directly at 60° on the glass panel using a
+glossmaeter (GB/T 97541988); the hardness was tested
+with a peocil (provided by Zhoeghua Peecil Faetory io
+Shanghai, China) having a different hardness on a glass
+panel (GB/T173093); the adhesion was detemined using
+the cros-hatch method at a distance of I mam oo tinplate
+(GB/T92861998); the flexibility was tested with a T-bend
+tester (GB/T 97552001); and the imapact resistance was
+measured with an impact tester on a tinplate; refer to the
+GB/T 4593.91992.
+2.2.3.Water/ethanol Uptake
+A known weight (B) of a dried polymer fil (60 mm
+for 8 days for water uptake, or immersed in an ethano
+eq s2em pensp e u peson sem (um [ × mru 09
+(95%) bath for 4$ h for ethanol absorption, followed by
+paper to determined the weight W, three measureroents
+wiping off the surface water orethanol with a piece of filter
+and the ethanol wptake were calculated according to the
+were averaged for cach sample. The percemtage of the water
+following cquatioes:
+respectively.
+2.2.5. IR ewelysb
+The infrared (IR) spectra were reconded with a Spectrum
+2000 FTIR instrument in the 4004000 cm region. A
+NPADand a mised 2K-WPU paint were coated directly on
+after film forming and drying (a simple IR measuren
+to the surface of a KBr crystal, respectively, and measured
+method for liquid sample).
+2.2.6. 7G4 anrtysii
+q（Au
+nple (24 mg) u
+C.The TGA
+2.3 Synthesis ef the NPAD
+nique in acetc
+ng Ihe Tg 0
+al 3 h foll
+NPAD was
+mixe
+Table 1. The compositions of P1-P3
+Kong et al.
+aydad to
+The CPAD
+ofP1
+The defoamer and leveling agent were first added to tbe
+NPAD (0.02 wt% besed on the NPAD), then the XP2655
+was added into the NPAD aocording to L5:1 of the mo-
+lar ratio of NCO and OH groups and stirred for another
+10 min before the films were made, waler was added to
+ss wp ue ug qlno ssoo uoeode ou pono
+is desiredin reality 2k-WPU systms are usually mised
+tem, an oqual stoichiometry of polyisocyanate and polyol
+o
+reactions of isocyanate with water according to references
+(810) The peeparation of CPAD and PAE based2K-WPU
+2.5Preparationof2K-WPUFilnrs
+The
+48 h, and the
+were masl
+daysresg
+3 Results and Discussion
+.1Preparation and Particke Size Distribution of NPAD
+Seheme 1 illustrate the synthetic routes of NPAD, The
+acryfic copomers PlP2 and P3 were synthesizd inde
+groups are concentrated only on the Pl and P3. Mixed
+the AIBN as an initiator in the aoetone, which the COOH
+afford NPAD systems with 4045% solid contents Obvj-
+the plysical mechanical properties of acryfic copolymers
+ously, the raties of MMA to BA have a drastic impact on
+(MMA) results in the rigidity and good adhesion of the
+of the acrylic copolymers and 2K-WPU ismproed while
+acrylic copolymers and 2K-WPU. However, the flexibility
+the strength decreased with the inoorporation of the soft
+mer (BA). We also found that the ratios of MMA 1o
+ratios ofP1 and P2. [(a) P1/P2 = 7:3,dp = 224 mm, α = 91%; (b)
+Flg. 1. The particles size distributicus of NPAD with vary mass
+P1/P2 = 6:4; dp = 147 nm, dp; = 367 nm, α = 935/c (c) P1/P2
+= 4.6, dp; = 146 nm, dp: = 552 am, α = 86%(d) P1/P2 = 3:7,
+dp: = 134 mm, 4lp: = 2000 as, o = 82%|
+NPAD
+n P1 and
+of dif
+ents of NPAD-bas
+sed 2K-WPU
+gel
+Figure 1 clearly demo
+rates that all NPAD have a bi-
+modal particle distribution. The small particle average di-
+armeters were sinailar in the range of 130150 om, while
+the larger particle average diameters were changed with
+gel ontents ofNPAD-based 2K-WPU werintherange of
+the conteet of P; ranging from 224 nm to 2000 nm. The
+82-93%wicareidinFigure2.ThNPADbeoomeu
+taleithtPbl0%iatbd
+to th fact tht thhroplity ofNPA iesed along
+with the particle sizes which docreased with an inceasing
+   e  pe q o 
+amount of P1, and increasing the stability of NPAD. The
+both particle populatios. With an increasing amoe
+P1, the larger particles get smaller. The small particle frao-
+Munt of
+tion sighlychagests dieter,bt theber fsmall
+particle size distiution ofthe dispesios Thismes that
+CPAD
+NPAD
+the particle sizes and distributions of CPAD and NPAD.
+with 50 wt% ofthe P3 and 50 wt% ofthe P2. Figure 2 shows
+The NPAD exhibits larger particle sizes (d, = 160 nm) and
+a contioued bimodal particle size distributions in contrast
+to CPAD (d, = 56 n). However, the smaller particle av-
+erage diameter of NPAD is similar to that of the CPAD. 1t
+formed core-shell struotures, and the hydrophilic P3 forms
+could be cncluded that the larger particles (d, = 300 nm)
+the shell, and the P2 forms the core during emulsifying
+process It was provem by the TEM picture of NPAD (P3
+N re ss e w3 I g am  (d pe
+sall paticlesarestaileadaidwiccoistd oly
+contais th small particlesamd thelager particles, and the
+of hydrophic P3(contaiing St). While the langer particles
+have a clear core-shell structure, which is fommed by the P3
+(stained domains) and P2 (unstaiped domains).
+mos 2K-WPU
+liffed abilit
+the NPAD, the NPAD p
+FIg.3.TEMpicture oftheNPAD(P3/P2=1:1)
+Fig. 4. The thrce-dins:
+NPAD-based (P3/P2 = 1:1x and (b) PAE-based (P3/P2 =(:1)
+casional AFM images of 2K-WPU film (a)
+ability to the polyisoeyanate crosslimker than that of the
+PAE, probably due to the presence of a large mumber of
+se oeodo N 1 d adop es
+Figure 4. Figure 4 demonstrated that the wrerage rough-
+of NPAD- aod PAE-based 2K-WPU film are shown in
+NPAD-based 2K-WPU flm were 1.61 and 2.15 mm, rospoo
+ess (Ra) and root mean square roughness (Rq) in the
+tively, whale theresponding value of the PAE-based film was
+3.62 and 4.25 nm, respectively in Figare 4(b), It was found
+that the NPAD-based 2K-WPU flm was uniform, and the
+boundaries between the polyols and polyisocyanates were
+amabiguoas.
+3.2 IR Analysk
+Figure 5 depicts the FTIR spestra of NPAD (A), XP2655
+tndooto
+stret
+Fig, 5. FTIR spectra of NPAD (P3/P2 = 1:1) (A), XP2655(B)
+and cured 2K-WPU(C)
+spactively (16), In the trace C, the wide and strong OH
+absoeptions between 3444 cm and 3533cmdisappeared
+and a new sharp peak appeared at 3353 cm, which was
+attribeted to NH absorption. The NCO absorptioe peak
+at 273cm~ disappeared indicating that theNCO group
+reacted completely: A new stronger peak at 1689 cm~ was
+reaction between water and NCO took place. The absorp
+attribeted to C=O stretch vibration, which meant that a
+tion peak at 1563cm~ was attributed to NH bood vibra-
+and strong peak at 761 cm was aborption due to CN
+tion and CN syrometry stretch vibration, and the sharp
+bond vibeation. These indicated the presence of urethane
+bond and urea boed formation. A new peak appeared at
+1168 cm~1 that was attributed to the CNC stretch v-
+bration in the isoeyaourateringin the bydrophilic-tmodifed
+curing agcut.
+3.3 TGA Analysis
+Figare 6 illustrates the TGA curves of the NPAD.
+hich formu
+with
+a0d
+wasaCtCPAD
+sition tem
+perature of NPAD-based 2K-WPU
+(220°C), indicating that the NPAD-based 2K-WPU fln
+possesses good thermal stabiity
+3.4 The Film Properties ef 2K-WPU
+NPAD- (P3 and P2), CPAD-(P3), and PAE-based (P1)
+2K-WPU were prepared with 1.5:1 of the molar ratio of
+NCO and OH groups, and the film properties incleding
+the gross, water- and ethanol-absoeption, and gel con
+ ep sm i  ml  pn m 1
+bigher gloss and gel contents, the lower water-and ethanol-
+strated that NPAD-based 2K-WPU films displayed the
+uptake than those of CPAD- and PAE-based. It was peob.
+ably attnbutable to the NPAD with a birnodal particle size
+Fg, 6 TGA cenes of 2K-WPU fihus (NPAD: P3/P2 = 1:1
+CPAD:P3/P2 = 1:0)
+distribution which posseses a faoeable mulsifying ablity
+and complete miscibility to the crosslinke, which leads to
+minimizingthe side reaction between NCO groups and wa-
+terand increase thecroslinking degree offlm. In addition,
+the gol content of NPAD based 2k-WPU flm was high.
+about 95%,it also provided evsdeoce that HPMA wnits dis-
+persed uniformly in the polymer chains and al hydroxy
+groups.PAE-based2K-WPU ehbitsrapd physical drying
+osd 
+properties at room temperature due to the high molecular
+poor appearance and water/ethanol-resistance de to the
+presence of suarfactants remaining in the drying film. The
+t0 that of NPAID, while the water/ethanol resistance of
+appearance of the CPAD-based 2K-WPU film was sinilar
+CPAD-based 2K-WPU fln was inferior to those NPAD.
+based due tohigher carboxyroup contents in the CPAD.
+Table 2also demonstrated that the NPAD-based 2K-WPU
+filn displays good appearace,high hardnes, andescellent
+Table 2. The properties of NPAD-, CPAD- and PAE-based 2K-WPU films
+PCPAD:
+00, P3/P21:0
+NPAD:Nv
+Fig. 7. Tke peoperties of NPAD- (P3/P2 = 1:1), CPAD-( P3/P2
+= 1:0) and PAE(P1/P2 = 1:0)-based 2K-WPU ilms
+4 Conclusiom
+prepared by te eulifeation of sel-mulsifing polymer
+blends in water. The bleuds typically consist of two poly-
+is fr of alt groupsTheDLSanalysisdata dicsd t
+mers, one is a salt group containing P1, and the other P2
+can be costrolled by the amount of salt group contain-
+the NPAD have a bimodal particle size distribution, which
+polymer. TEMimags showod that the NPAD contains
+ing polymer and the concentration of salt groups in this
+sall partidles from P1 and a coreshell structure larger
+particle. AMF pietures showed the fims of NPAD-based
+2K-WPU possessed high performance films including 90%
+the water uptake, and 8.5 wt% of the ethanol absorption.
+of the gloss, 0.81 of the pendulum hardness, 4.2 wt% of
+TGA curves showed that NPAD-based 2K-WPU film dis-
+play good thermal stability up to 225°C.
+Acknouiedgement
+We gratefully thank the “Program for New Century Ex
+Project Sponisored by the Scientific Research Foundation
+tion Ministry (China)# for financial support ef this work.
+for the Returned Overseas Chinese Scholars, State Educa
+References
+本论文是在陈焕钦教授精心指导下完成的。深深感谢我的导师陈焕钦教授和师母林
+慈云教授。感谢陈老师引领我步入精细化工学科领域的大门：感谢他为我创造了产学研
+感谢给我提供了实践平台的广东嘉宝莉化工集团，感谢集团总裁仇启明先生和集团
+衷心感谢精细化工学术团队的老师们。感谢叶代勇副教授、张心业
+教授、黄洪教授、曾汉维教授、沈慧芳副教授、夏正斌副教授、傅和青副教授和黎永津
+等老师在科研学习和工作生活中给予的帮助！
+特别感谢廖文波、罗春晖、李韶茂、膝海平、刘鲁静等研究生师弟和师妹为课题研
+究所付出的努力。感谢孙志娟博士、刘薇薇师姐、毛霄庆师妹和精细化工学术团队的其
+最后，感谢我的父母、哥嫂和可爱的佳儿，正是有了你们的爱和鼓励，使我得以顺
+音养我勤奋、自强和严谨的治学态度：感谢他不厌其烦地悉心指导与谭
+开感测所有无心和帮助过技的人，

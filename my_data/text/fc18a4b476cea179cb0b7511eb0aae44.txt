@@ -1,0 +1,374 @@
+Haiyan Liang, Shanwen Wang, Heng He, Mengqi Wang, Lingxiao Liu, Jingyi Lu, Yi Zhang
+ChaoqunZhang
+Collegr oyf Msnerial's dnd EnerzF, Soutk Chsino AgricMitaral Uniaversiy, Gungzheu 5T0642, PR Ghins
+1.Introductiot
+As a consequence of the increasingly strict environmental legislation
+and the concern about human health, waterborne polyurethane (WPU)
+has become one of the most investigated materials in the past decade
+(Philipp and Eschig, 2012). As an excellent replacement of the solvent
+based polyurethanes (PUs), WPU exhibits a wide range of advantages.
+Above all, wWPU contains zero or low volatile organic compound (VOC)
+since water is used as dispersant in these PU products, while solvent PU
+contains more than 600 g/L of VOC (Burja et al., 2015). Moreover,
+WPUs avoid combustion or blast in the process of preparation, storage,
+transportation and painting, meeting the urgent requirement of safety
+as well as environmental protection. Additionally, several excellent
+outstanding abrasion resistance etc. (Gurunathan et al., 2013), enabling
+performances are observed for WPU, such as flexibility, good strength,
+employing water as dispersant. Internal emubifers are diols with ionic
+oduction of the internal emulsifiers anc
+ornon-ionic grous like polyethylenexideH
+surface charge to dispere bydrophobic PU segm
+properties of both the
+dispers
+8(PUDs)
+t
+E-smsil addresi: xtangcqSPscau.etlm.cn (C. Zhang)
+/10.1016/]
+2018
+In this study, dimethylol pro
+acid (DMPA) and d
+Icid (DMBA)
+results show that as the emu
+xhile the tensile strength of the resulting PU films increase but thermal stability, water
+hers contents mcrease, the particle stze and zeta potential ot the PUDs dec
+se. The PUDs from DMBA exhibit
+resulting films.
+(DMBA) are typical commercial available emulsifiers used in anionic
+Dimethylol propionic acid (DMPA), and dimethylol butanoic acid
+PUDs. Their OH groups are more reactive than the COOH group due to
+the steric effect, resulting in the preferential reactivity between OH
+groups and isocyanates to form long PU chains while the COOH groups
+provide surface charge after neutralization and stabilize PUDs in the
+water phase (Chen et al., 2014). Many research groups have used DMPA
+or DMBA as emulsifiers for WPUs due to the outstanding mechanical
+properties of the resulting films. Philipp et al. prepared a series of wPUs
+derived from rapeseed fatty acid methyl esters with 1.35.0 wt%
+DMPA. Their results demonstrated that increasing DMPA content de-
+creases the particle size of the PUDs but also reduces the hydro-
+phobicity of the films (Philipp and Eschig, 2012). Lee et al. synthesized
+WPUs from polytetramethylene ether glycols with 2  3 wt% DMBA,
+which exhibit tensile strength from 6.5 to 10.5 MPa (Lee and Kim,
+2009). Lee and his co-workers compared the properties of the WPUs
+from three kinds of polycarbonatediols with various carboxylic diols,
+including DMPA, DMBA and carboxylic polycaprolactonediol (L4672,
+L6002, and L5652). They found that the similar particle sizes were
+observed for both the PUDs from DMBA and DMPA, but the former
+films exhibit a higher tensile strength and a lower elongation at break
+(Lee et al., 2009).
+petroleum based 
+lor WPU
+due to their ecofriendly nature and versatile properties. As an abun-
+widely used in coatings, sealants, adhesives and paints etc. (Kong et al.
+dantly available, low-cost and renewable raw material, castor oil is
+2013). In addition, castor oil contains active hydroxyl groups, which
+can react with isocyanates directly without further modification
+(Nguyen Dang et al., 2016). The specific bydrophobic triglyeride
+structure of castor oil can also improve the mechanical properties,
+et al., 2013). Luong et al. demonstrated that the incorporation of castor
+water and chemical resistance of the resulting WPU films (Bullermann
+ical properties and flexibility of the films, which exhibit a maximal
+oil as soft segment in polymer chain significantly altered the mechan
+elongation at break of about 1200%, Furthermore, the thermal and
+mechanical properties of the PU films can be tailored by controlling the
+ratios between castor oil, poly(dimethylsiloxane) and poly(tetra-
+hydrofuran), which were both used as soft segments in the polymer
+preparation (Nguyen Dang et al., 2016). The castor oil based anionic
+WPU prepared by Xia et al. exhibits a relatively high tensile strength of
+13 MPa and elongation at break of 336% (Xia and Larock, 2011).
+Gurunathan and Chung successfully synthesized a series of WPU na-
+nocomposites from castor oil with 0  5 wt% silicon. The results show
+that the film without silicon also bas a considerably low water ab-
+sorption of 7.2 wt% (Gurur
+Although DMPA and DMBA were employed in many studies as the
+emulsifier to prepare PUDs (Wang et al., 2015), there is considerable
+WPUs from these two kinds emulsifiers, and the emulsifier contents'
+ambiguity about the properties difference between the castor oil based
+impact on the thermal and mechanical properties of the resulting PU
+films. In this study, castor oil-based WPUs were synthesized with two
+emulsifiers (DMPA and DMBA) and a variable ratio between the OH
+groups in CO, the NCO groups in IPDI, and the OH groups in the
+emulsifier (1:1.7:0.69; 1:1.85:0.84; 1:2:0.99; 1:2.2:1.19). Centrifuge
+and zeta-sizer were used to characterize the stability of the PUDs, while
+tensile electronic universal testing machine, dynamic mechanical ana-
+lyzer, thermal analyzer were used to investigate the then
+rties of the films
+2.1.Materal
+Castor oil (OH number: 164 mg KOH/g) was purchased from Fuyu
+Chemical Co. Ltd. Isophorone disocyanate (IPDI) was purchased from
+Wengjiang Chemical Reagent Co. Ltd. Dimethylol propionic acid
+(DMPA) and dimethylol butanoic acid (DMBA) were provided by
+Beijing Bailingwei Technology Co. Ltd. Dibutyltin dilaurate (DBTDL)
+(TEA) was purchased from Aladdin reagent. Methyl ethyl ketone (MEK)
+was purchased from Fuchen Chemical Reagent Factory. Triethylamine
+was provided by Tianjin Hongda Chemical reagent. All materials were
+used as received without further purification
+2.2.Prparationofcastorotl-basedanaonicwaterbonePUb
+Figure 1 shows the preparation of anionic WPU dispersion from
+into a dried double neck flask and stirred (130170 r/min) at 78 °C for
+castor oil. Castor oil (6 g), IPDI and DMPA (or DMBA) were introduced
+10 min to obtain a homogenized mixture. Then two drops of DBTDL
+were added as catalyst. When the mixture almot can’t flow, MEK
+(30 ml) was added to reduce the viscosity of the pre-polymer. After
+reaction for another 2h, the mixture was cooled to room temperature.
+Then TEA was added to neutralize free COOH in the polymer chain
+umder stirring for 30 min. Finally, the stirring rate was elevated to 300
+r/min and the polymer was dispersed in 90 ml water for 2 h. The PUDs
+with solid content ranging from 10.6 to 12.5 wr% were obtained after
+removal of the MEK by rotary evaporation (Table 1).
+2.3. Characterization
+All the samples were centrifuged at 3000 r/min for 30 min e
+Tomos 318 Centrifuge to evaluate their stability. The zeta potential
+average particle size and particle size distribut
+obtained on a Zeta-sizer Nano ZSE (Malverm Instruments) at 25 °C. The
+lons of the samples wen
+PUDs in glass molds and dried at roor
+nperature for 4 days. All the
+water before test
+The tensile properties of the PU films were mea
+sured on an elec
+rate of 100 mm/min. Rectangular specimens of 40 mm × 10 mm
+tronic universal testing machine (Shimadzu AGS-X) with an extension
+(length × width) were used. More than three replicates of all the
+samples
+were taken in the
+standard deviation.
+test
+and the data 
+Ihe dynamic
+: mechanical behavior of the castor oil based PU films
+with a temperature range from 
+was measured by a dynamic mechanical analyzer (Netzsch DMA 242C)
+ 60 to 120 °C and heating rate of 5 °C/
+by a Netzsch- STA 449C therme
+20°C/min.
+The hydrophobicity of the films was assessed by measuring the
+sturface wettability of the films using a contact angle goniometer
+(Powereach JC2000C1). Water and ethanol contact angle of the sam-
+method.
+The water resistance properties of the resulting films were char-
+acterized to further evaluate the hydrophobicity of the samples. The
+u] pasuawuj auam (ppm × qua wu ot × ww ot jo sug pap
+deionized water for 56 h. The weights of the samples before and after
+immersion were measured. The water absorption ratios of the samples
+were calculated by following equation:Where mg mj represent the
+weights of the films before and after immersing in the water. Average
+values of at least four replicates of each sample were taken.
+3.Kesultsanddiscussioi
+3. 1. Difference in reactivip' of the ewulsifiers
+The reaction between NCO group and DMBA exhibits a higher rate
+than that between NCO group and DMPA. It takes about 15 min for the
+prepolymerization with DMBA to reach the gel point before the addi-
+tion of the MEK, while it takes about 1 h for the systems with DMPA.
+Two main factors are associated with the difference in reaction rate. On
+one hand, the higher melting point and lower solubility (MEK) of DMPA
+(7 = 185190 °C; 20 °C, S(DMPA) = 0.4 g/100 g MEK) than DMBA
+(Tx = 108113°C; 20 °C, S(DMBA) = 7 g/100 g MEK) leads to a lower
+collision rate between DMPA and isocyanate (Fermandes et al., 2015;
+KosheelaDevi et al., 2016). On the other hand, the extra methylene
+(-CH-) in the side chain of DMBA decreases the steric hindrance for the 
+reactions between its OH groups and NCO groups in IPDI (the structural
+formula of DMPA and DMBA are shown in Fig. 1).
+.2.PropertiesofihePUbsfromdafferentemsulsifaer
+The appearances and particle size distribution of the PUDs from
+different emulsifers are presented in Figs. 2 and 3, respectively. The
+average particle sizes and zeta potentials data are summarized in
+larger particle sizes and deeper color appe
+Table 2. It can be found that the PUDs from DMPA exhibit relatively
+lower transparency than those from DMBA when the
+Castor otl-bascd anionic watcrbome polyurcthane dispcrston
+Fig. 1. Representative synthetic route of the castor oil-based cationic waterborne PUDs from DMPA or DMBA
+Compositions of the WPUs.
+of emulsifier were used. For example, when the hydroxyl molar ratio of
+emulsifer is 1.19, the particle sizes of the PUDs from DMPA and DMBA
+are 185.9 and 20.5 nm, respectively. It is well known that the WPU
+prepolymer has to be neutralized to form bydrophilic intemmal salt be-
+fore dispersion. The larger steric hindrance of DMPA lowers the re
+activity of COOH group, resulting in lower neutralization degree of the
+PUDs from DMPA than those from DMBA when same usage of TEA was
+employed. The lower neutralization degree of the PUDs from DMPA
+leads to fewer counter ions (COO“) which results in a thinner elec-
+trical double layer around each PUD particle. The thinner electrical
+double layer reduces the electrostatic repulsive forces between the PUD
+particles, resulting in larger particle size,
+the color and transparency of them accordingly becomes lighter and
+Additionally, the particle size of the PUDs gradually decreases and
+from 34.0 to 20.5 nm for the
+) DMBA; and different emulsifier molar ratios: (1) 0.69 (2) 0.84 (3) 0.99 (4) 1.19
+PUL
+The properties of the waterborne PUDs.
+which prov
+the
+mentioned above (Fang et al., 2014). Moreover, many other factors also
+affect the particle size of PUDs, including process variables, ionic po-
+sition, and pre-polymer viscosity etc. Generally, the particle size of the
+PUDs does not directly influence the physical properties of the resulting
+films (Chen et al., 2014; Lu and Larock, 2008).
+below  31.5 mV, indicating the stability of the emulsions. The absolute
+As shown in Table 2, all the samples exhibit negative zeta potential
+value of zeta potential has the similar trend as the particle size of the
+PUDs, The PUDs from DMPA exhibit higher zeta potential value (ab-
+solute value) than those from DMBA. The zeta potential of PU.
+also found that the zeta potential (absolute value) of the PUDs de-
+0.69DMPA is 60.0 mV, while that of PU-0.69DMBA is = 42.0 mV. It is 
+creases with the emulsifier content increases. As the hydroxyl molar
+ratios of DMBA increase from 0.69 to 1.19, the absolute value of zeta
+potential decreases from 42.0 to 31.5 mV.
+I is observed in the PUDs after
+MechantcalPropertiesottheWPVfilms
+Hard segment content = [mass of emulsifier, IPDl and TEA/mass of OO, emulsifier, IPDl and TEA] × 100%
+DMA and TGA data of the WPU films
+DMBA
+3.3. Properties of the PU fims from ditfferent emuistfier:
+As shown in Fig. 4 and Table 3, the PU films from DMBA obviousl
+Fiz-b.TGAcurves of PU films with ditteremt emwilsiters(a) DMPA;(b) DMBA
+exhibit higher tensile strength and elongation at break than those from
+DMPA in the same molar ratio of emulsifier. Under same molar ratio of
+emulsifier, PU-0.69DMBA exhibits higher tensile strength and higher
+elongation at break (8.1 MPa and 271%, respectively) than PU.
+0.69DMPA (7.4 MPa and 186%, respectively). This difference in tensile
+DMPA; (b) DMBA
+the films from DMBA than
+from DMPA with
+degree mean reduced chain mobility and the chains are less easy to
+align to recrystallize, resulting in the higher m
+iechanical prop
+ties fo
+On the other hand, as the emulsifier content increases, significant
+rises in tensile strength and reduction in elongation at break are ob-
+D.69to1.19oDMPAmolar
+Fig. 8. Water contact angle images of PU films: (1) PU-0.69DMBA; (2) PU-1.19DMBA; (3) PU-1.19DMPA; and ethanol contact angle images of PU films: (4) PU.
+shifts from 7.4 to 17.1 MPa, and the elongation at break of them de
+creases from 186% to 67%, resulting from the
+segment content. Similar trends are also found in Young’s modulus and
+ increase of their hard
+toughness of the films, respectively. Compared with the films from
+DMPA, those from DMBA exhibit high Young's modulus and toughness
+with the same emulsifer molar ratios, indicating the higher hardess
+toughness of PU-0.69DMBA reach 49.6 MPa and 20.0 MPa, while those
+and ductility of the films from DMBA. The Young’s modulus and
+of PU-0.69DMPA are 47.7 MPa and 10.8 MPa. With an increase in n
+ratio of DMBA from 0.69 to 1.19, the Young’s modulus of the films
+increases from 50 to 208 MPa and toughness of them decreases from
+20.0 to 6.0 MPa. This result confirms that the film becomes stiffer as the
+and Larock, 2011; Zh
+2015
+The ther
+dyn
+(v)
+stora
+dulus (E'),
+us at T (Lu 
+tant, and T e
+als Tg + 40°C. E is the 
+correspo
+008).Fig.5s
+and loss factor (tan ?) curves for the films, Only one peak was
+2017)
+The films with DMBA show higher E' at 25 °C and T, than that with
+DMPA at the same molar ratio of the emulsifier. For instance, the E' at
+25 °C and T of the PU-0.69DMBA are 2.5 and 1.2 times higher than
+those of PU-0.69DMPA, respectively. Compared with DMPA, DMBA
+which could restrict the movement of the molecular chains, and
+contains the relatively large side chain (-CH2CH3) in the molecule,
+therefore result in lower chain mobility. The reduced chain mobility is
+s sa e ea on paau sue a a sou a r usen a
+perature to achieve the same degree of mobility). The restricted chain
+mobility also means the chains are less easy to move and are more rigid,
+which is reflected by a higher E'. Also, the low melting temperature and
+high solution in MEK of the DMBA leads to more homogenous dis-
+tribution of DMBA in the polymer chains than that of DMPA.
+films both increase as the 
+Moreovet,thecross-link
+increasing hard segment content (Ngt
+es,becauseofthe
+as the hydroxyl molar ratios of DMPA increase from 0.69 to 1.19, an
+increase of the cross-linking densities from 47.96 to 163.5 mol/ma, of E
+from 2 to 90 MPa at 25 °C, and of T, from 18.9 to 34.6 °C are observed
+for the resulting films
+TGA proh
+L aq pue
+tata
+2012)), 10
+e (7ro), 50 wt9)
+Contact angle data of the WPU films
+the films with DMPA; (b) the films with DMBA
+loss temperature (Tso) and the maximum rate of weight loss tempera
+ture (Tmax) are tabulated in Table 4. All the thermograms showed three
+The onset decomposition temperature of all the samples is below
+stages in the decomposition process of the PU films as shown in Fig. 7.
+240 °C. In the range between 250350°C, the urethane bonds in the
+hard segment degrade, leading to the formation of the primary amines,
+secondary amines and olefins etc. (La et al., 2011; Yong et al., 2015). As
+a consequence of the lower hard segment content, the PU films from
+0.69DMPA are 233 °C and 292°C, while those of PU-0.69DMBA are
+DMPA exhibit higher Ts and Tso than those from DMBA. Ts, Tso of PU-
+229 °C and 288 °C. Moreover, the increase of emulsifer molar ratios
+decreases the thermal stability of the films due to the increase of hard
+segment. As the DMPA molar ratios increase from 0.69 to 1.19, a de-
+Tzo are observed for the films. The degradation ranging from 350 to
+crease from 233 to 192 °C for Ts, and a reduction from 292 to 247 °C for
+400 °C belongs to the scission of the castor oil chain (Chen et al., 2014).
+In this stage, the thermal stability (Tso) of the films exhibits the same
+or all the s
+h
+of the
+Fig. 8 shows the water and ethanol contact angle images of the films
+from different emulsifiers with different emulsifier contents, and their
+data are summarized in Table 5. Slightly higher water and ethanol
+contact angle were observed for the PU films from DMPA than those
+PU-1.19DMBA, PU-1.19DMPA exhibits a higher water contact angle of
+from DMBA in same molar ratios of the emulsifiers. Comparing with
+62'and a higher ethanol contact angle of 29° (those of PU-1.19DMBA
+are 61° and 23.25’, respectively). These results arise from the slightly
+high castor oil content of the films from DMPA, which contains hy-
+drophobic triglyceride structure (Bullerminn et al., 2013). But PU-
+0.69DMPA has the lowest water contact angle, resulting from the
+lowest cross-linking density (see Table 4) (Chen et al., 2016). Further-
+more, the increase in emulsifier molar ratio leads to the reduction in
+water and ethanol contact angle of the samples. As emulsifier molar
+ratio changes from 0.69 to 1.19, the water contact angle of the film
+from DMBA gradually decrease from 66.63° to 61’, and ethanol contact
+angle decrease from 28.88" to 23.25'. Because as the emulsifier molar
+ratio increases, the bydrophilic COOH group content of the films in-
+creases and the hydrophobic CO content decreases, resulting in the
+improvement of the hydrophilicity of the films.
+absorption of the films. As shown in Fig. 9 and Table 5, the water ab-
+The water resistance of the samples was evaluated by the water
+pepuoo saq se puan ansoddo (oexa moj suy aq jo suopduos
+angles demonstrated. The samples from DMBA have higher water ab-
+sorption than those from DMPA. PU-1.19DMBA exhibits water ab-
+sorption of 31.06%, while the water absorption of PU-1.19DMPA is
+30.25%, This result is related to the lower hydrophobic castor oil
+content and the lower cross-linking density of the films from DMBA as
+mentioned above (Gao et al., 2015). The higher cross-linking density
+makes the molecular chains more compacted, resulting in more difficult
+for water to enter the interior of the films (Yu et al., 2016). Hence, the
+water absoeption of PU-0.69DMPA is higher than that of PU-0.69DMBA
+due to the lower cross-linking density of the former. Moreover, the
+water absorption of the films increases with the rise of emulsifier
+content due to the reduction of hydrophobic CO content and the in-
+crease of hydrophilic COOH groups. In detail, with the DMPA molar
+ratios increasing from 0.69 to 1.19, the water absorptions of PU films
+increase from 13.30 to 30.25%.
+4. Conclusions
+Castor oil based anionic WPUs have been prepared with two dif-
+ferent emulsifiers (DMPA and DMBA). The obtained PUDs from DMBA
+have smaller particle size (21  44 nm) and lower absolute value of
+zeta
+potential
+1 (32 -  47 mV)than
+(134 ~ 657 nm and 53 ~ 60 mV, respectively). Additionally, their
+particle size and zeta potential both decrease with the rise of emulsifier
+molar ratios. It's also found that the tensile strength, Young’s modulus,
+elongation at break, toughness, T, &' at 25 °C and water absorption of
+ower 
+HWO
+lity
+thi
+Acknowledgements
+This work was supported by the  National  Natural Science
+Foundation (No. 51703068), the Guangdong Province Science &
+Technology Program (2017A010103015). Program of the Science and
+Technology Department of Guangzhou, China (No. 201803020039).
+References

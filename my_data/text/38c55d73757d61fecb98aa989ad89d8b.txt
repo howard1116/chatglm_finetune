@@ -1,0 +1,138 @@
+含氟水性聚氨酯的制备及其性能研究
+罗学强刘伟区
+谭建权王政芳何
+沙
+（1.中国科学院广州化学研究所广州510650;
+摘要：采用八氟戊醇（F）改性水性聚氨酯制备了含氟水性聚氨酯（FWPU）并且通过红外光
+谱对FWPU的结构进行了表征-研究了F含量对FWPU乳液及其涂膜的影响.研究表明F的加
+入明显提高了涂膜的耐水性能。当F。含量为8%时涂膜的吸水率从未改性的12.2%减少到3.1%
+接触角从80°提高到108°.乳液粒径先增大后减少当F含量为4%时乳液粒径最大达到157mm。
+TGA测试结果表明改性后的FWPU涂膜热稳定性有所提高。
+Luo Xueqiang , Liu Weiqu , Tan Jianquan ,Wang Zhengtang , He Sha
+( 1. Guangzhou Instiute of Chemistry , Chinese Academy of Sciences , Guangzhou 510650 , China
+2. Key Laboratory of Celluslose and Lignocellulosics Chemistry Chinese Academy of Sciences Guangzhou
+of waterbome polyurethane using 2 2 3 3 4 4 5 5octafluoro1-pentanol ( F) , and the
+structure of the prepared FWPU was characterized by infrared spectroscopy. The effects of F
+content on properties of FWPU and film thereof were investigated. The results showed that the
+addition of Fsimproved dramatically the water resistance of the film. When the content of Fs
+was 8 wt% , the water absorption decreased from 12. 2% to 3. 1% , and the contact angle of
+FWPU film increased from 80° to 108°. Particle size distribution analysis indicated that the
+particle size of FWPU emulsion first increased then decreased. When the content of F, was 8
+wt% , the particle size was 157 nm. TGA testing results showed that the thermal stability of the
+FWPU film was increased.
+modified; emulsion
+水性聚氨酯（WPU）以水作为分散介质挥发性
+[基金项目】广州市绿色建材化学品重点实验室（201509010019]
+通信联系人
+全可靠等优点”。由于聚氨酯结构具有软段和硬
+段并且有软硬嵌段可调因此可以通过调节聚氨酯
+罗学强等：含氟水性聚氨酯的制备及其性能研究
+分子的结构，得到性能优异的材料。水性聚氨酯广泛
+应用于涂料、胶黏剂、纺织、皮革涂饰剂等领域同
+时水性聚氨酯也存在一定的不足如耐水性差、耐热
+性不好、体系表面张力大这限制了水性聚氨酯的使
+用范围，因此研究具有优异耐水性、耐热性和表
+面性能的水性聚氨酯具有十分重要的意义
+氟原子半径小、电负性强、C一F键键长短、键能
+高因此含氟聚合物具有优异的耐热性、耐化学溶剂
+性和生物相容性：同时，含氟链段可在聚合物表
+面富集使得含氟聚合物具有较低的表面能具有
+优异的疏水疏油性[。故而将有机氟引入到水性
+聚氨酯中可以提高水性聚氨酯涂膜的耐水性能、耐
+热性能、表面性能-
+目前有机氟改性水性聚氨酯的方法主要有以下
+几种：（1）有机氟作为链封端剂引入到水性聚氨酯分
+子链中：（2）利用有机氟改性后的聚酯/聚醚多元醇
+和多异氰酸酯反应：（3）含氟二元醇或二元胺作为扩
+链剂改性水性聚氨酯：（4）先将有机氟单体引入到聚
+丙烯酸酯预聚物中然后再和聚氨酯预聚物反应即
+可实现有机氟改性水性聚氨酯的目的。含氟水性聚
+氨酯具有优异的表面性能，可以应用在很多领域中，
+因此它有很大的发展前景。但是有机氟和水性聚氨
+酯容易发生相分离而且有机氟原材料的品种少、价
+格贵这限制了含氟水性聚氨酯的大量使用。现如今
+含氟水性聚氨酯材料的研发还面临着很多问题，今后
+会逐渐向功能化和精细化的方向发展，以满足特定领
+域的应用要求。
+本研究设计先合成含端一NCO基团的水性聚氨
+酯然后再利用八氟戊醇中的一0H基团与水性聚氨
+酯中的端一NCO反应从而实现了将有机氟引入到水
+性聚氨酯中。成功制备了一系列不同含氟量的水性
+聚氨酯（FWPU）并对其乳液和涂膜的性能进行了测
+试和讨论。
+异氟尔酮二异氰酸酯（IPDI）、聚己内酯二元醇
+（PCLM=1000)：工业级济宁华凯树脂有限公司；2，
+2-双（羟甲基）丙酸（DMPA）、八氟戊醇（F）、三乙胺
+（TEA）：分析纯阿拉丁：丁酮：工业级东莞市天瑞化
+工有限公司；分子筛：4A洛阳天平分子筛有限公司；去
+将IPDI、八氟戊醇、丁酮用分子筛除水，备用，向
+三口烧瓶中分别加入26.9gIPDI、68.8gPCL、4. 3 g
+DPMA、200g丁酮逐渐升温至80°℃搅拌反应5h，
+即可得到端基团为一NCO的水性聚氨酯（WPU）。然
+后向WPU里加入一定量（占所有反应物质量的1%一
+8%）的八氟戊醇在60℃下反应2h。反应结束后，
+降温至常温TEA中和至pH为7-8再向里面加入一
+定量的自制去离子水搅拌混合均匀，最后减压蒸馏
+脱除里面的丁酮即可得到水性含氟聚氨酯乳液：产
+物用FWPU表示。其合成过程如图1所示
+所制得的是F单封端、双封端以及没有封端的
+含氟水性聚氨酯混合物，具体封端情况与FWPU中
+的F含量有关。当F含量很少时，可能是单封端和
+部分没有封端的FWPU混合物：当F含量很多时可
+能是双封端和部分单封端FWPU的混合物
+将所得的FWPU乳液均匀涂在载玻片上，在室
+温下干燥24h然后在60℃下热处理24h即可得到
+FWPU涂膜
+用上述方法分别合成八氟戊醇（F）含量不同
+的FWPU进行编号F含量为0、1%、2%、3%、4%、
+5%、6%、7%和8%时对应的FWPU编号分别为
+dA dAd  dAA1 dA40dA4
+FWPU5、FWPU6、FWPU7、FWPU8.
+在室温下将胶膜放置在蒸馏水中浸泡24h后
+取出用滤纸吸干表面水分后称质量按式（1）计算
+胶膜的吸水率
+图2水性聚氨酯与氟化水性聚氨醋的红外谱图及其在600~800cm的局部放大图
+图2水性聚氨酯与氟化水性聚氨酯的红外谱图及其在600~800cm的局部放大图
+从图3可以看出，用F改性后，随着FWPU 中
+F含量增加FWPU涂膜的吸水率逐渐下降，并且下
+Fig.4 Water contact angle photos of FWPU coatings with different content of F,
+从图5可以看出FWPU乳液粒径随着F含量的
+增加粒径先增大到一个最大值然后减小。氟是僧水
+性元素氟元素进入到乳胶粒中会导致粒径变大氟元
+素越多乳液粒径越大：与此同时FWPU中的F含量
+越多FWPU分子链上残留的端一NCO基团数量越少，
+在形成乳液时交联程度越低乳液粒径越小。乳液粒
+径是这两种因素综合作用的结果。F，含量从0到4%
+时乳液粒径从45nm逐渐增大到157nm前一种因素
+降速度逐渐减慢直到平稳。FPWU中F的含量从0
+增加到8%时涂膜的吸水率从12.1%降低到3.2%，
+原因在于成膜过程中氟元素向膜表面迁移、富集改
+善了聚合物的表面性能导致水分子难以进入涂膜内
+部从而吸水率降低-含氟元素越多吸水率降低越
+多但是，当氟元素在涂膜表面富集趋于饱和时吸水
+率降低趋于平缓。测试结果表明，F改性水性聚氨
+醋后能够有效提高其涂膜的耐水性
+由图6（a）可以看出乳胶粒粒径为40-60nm，
+乳胶粒大小比较均一乳液结构良好，由图6（b）可
+以看出乳胶粒粒径为20-35nmF改性聚氨酯后，
+乳胶粒由规整的球形结构变成了不规整的球形结构。
+从图6（a）、6（b）中通过TEM测试得到的粒径与
+Fig. 7
+TG.A
+80d04 pue tDdA4/0Id3.4 F
+由图7可知FWPU-0、FWPU-4、FWPU8涂膜
+失质量50%时的温度分别为339℃、354℃、371℃。
+有机氟改性后涂膜失质量50%时的温度有所提高，
+并且完全分解温度也提高了这说明引入F，以后，
+FWPU-0涂膜的热稳定提高了。这是因为C—F键的
+键能比普通烷基中的C—C键能高了大概50kJ/mol，
+在高温分解时C—C键比C—F键更容易断裂故而，
+F改性的聚氨酯其热稳定性得到提高并且，含氟量
+合成了一系列用八氟戊醇改性的水性聚氨酯
+（FWPU）并且通过FT-IR表征证明了F，成功接到
+了聚氨酯分子链上。通过对FWPU涂膜的24h吸水
+率和水接触角测试，结果表明，F。改性后FWPU涂
+膜的耐水性变好疏水性增强。粒径分析表明，乳胶
+粒的粒径在20-160nm之间TEM测试显示乳胶粒
+呈现为球状。DSC和TGA测试结果表明F。改性后，
+涂膜的耐热性得到了一定程度的提升。

@@ -1,0 +1,96 @@
+《有色金属科学与工程》网络首发论文
+ttps:/kns.cnki.net/kcms/detail/36.1311.TF.20210922.0933.002.html
+飞中国如例
+ki.net
+网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印剧或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定：学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为：稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+学术期刊（网络版》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188,CN11-6037/Z),所以签约期刊的网络版上网络首
+发论文视为正式出版。
+材料基因工程及其在海洋工程用钢中的应用
+（a 哈尔滨工程大孕超轻材料与表面技术教育部重点实验室,哈尔滨150001：b中国航发贵州黎期航空动力有限公司。贵阳 550014)
+新材科虽然能避开物理机制不明的制约，但研发周期长、成本高、效
+科数据库，为后续的材科计算与开发提供依据。
+Design ofSteelforMarineEngineeringBased onMlaterial GeneticEngineering
+LI Jiaxin °,WANG Xiang °, DONG Huiling”, HAN Jianxing
+(a Key Laboratory of the Ministry of Education of Ultralight Materials and Surface Technology, Harbin
+Engincering University, Harbin 150o01;b China Aviation Development Guizhou Liyang Aviation Power
+Co.,Ltd., Guiyang 550014)
+requirements of Marine cngincering equipment on materials, the design and development of
+high-performance steel materials has bccome one of the main development trends of Marine engineering
+materials. Although the application of the traditional "trial and error method" to develop new materials can
+avoid the constraints of unknown physical mechanism, it has the long research and development cycle, high
+cost and low efficiency. The idea of *material genome” has emerged at the historic moment, and the design
+of the material has gradually changed from *stir-fry* to rational design. The material genetic project aims to
+"shorten the research and development cycle by half and reduce the research and development cost by half",
+providing a new direction for the research and development of new materials. Based on the basic theory
+and methods, key technology and development status, the design idea of steel materials for marine
+engineering. In the short term, it can shorten the research and development cycle and reduce the cost. In the
+long term, the demand design of steel for Marine engineering can also be realized, enrich the steel materials
+E-mail: walgxiatgfrbeu. eda. cm
+付降低成本，长期来看还可以实现海洋工程用钢的按客设计，充实钢铁材
+器“和“深海空间站”等重大项目及海洋基础设施建设。但海汽
+高性能海洋工程用钢仍是海洋工程材料的主要发展趋势之一。
+测与模拟以及应用数据库进行设计与优化是非常必要的，应用材料基
+期、低成本、高效率的研发目标，同时还可以充实海洋工程材料的数据库
+2002年，美国宾夕法尼亚州立大学刘梓葵教授提出了“材科基因"的概念，其起源于
+法CLPHAD的成功应用及人类基因组计划所带来的灵感²。类比
+、高通量计算及材料数据库融合在一起，可以加速新材料的发现、研发、生产、应用全过程，降
+低研发成本，缩短研发周期
+我国以师昌绪院士和徐匡迪院士为代表的多位专家学者于2011年提出了发展“材料基因组"计
+工程的重要基础
+括高通量材料制备和表征两部分，其本质是提高单位时间的实验样品数量，
+提升等方面已经取得了显著进展。宁波MGI项目组成功研制出国内首台48靶高通量复合材料离子
+1.3.1高通量实验
+高通量实验主要包括高通量制备、高通量表征和服役性能高效评价等实验技术和方法。通过少
+法普遥应用于高通量三元相图的研究，如Fe-Co-Ni合金三元相图，
+梯度的成分分布²。Zhao等人设计了包含多个扩散偏和扩散三元节于一体的扩散多元节，用来测
+定复杂的相图，如 Ti-Cr-TiAly-TiSi扩散多元节[13]
+中国科学院计算机网络信息中心材科基因工程信息技术实验室研发的MatCloud驱动引擎，旨在
+究和应用的重要依据。
+一旦建成规模，它可以通过数据挖额、深度学习、数据再现等技术手段，从
+目前，世界上许多国家都建立了一批比较成熟、实用的材料数据库。在材料基础数据系统方面
+数据、409项层间化合物电池材料数据和15175项转换电池材料数据20。日本国
+钢的种类并提供基于牌号、成分和性能的钢材检索服务[221
+指利用计算平台、高通量材料计算方法和软件相结合，实现高通量材料模拟、快
+类数量较少、内容不全面，未来可以通过高通量的材科制备与表征、高通量计算
+大的丰富材科基因工程数据库，
+2材料基因工程在海洋工程用钢中的应用现状
+Lu等人提出了一种通过优化Laves相来强化新型铁素体抗端变钢的合金计算设计方法S。目
+预测新设计的合金在相应的使用温度下比现有合金具有更高的沉淀硬化.Laves相在服役过程中析出
+慢，后期强化效果史为显奢，MC析出相的析出可用于提高铁索体钢的初始强度，
+Fig. 1 Velume percestage, coarsening rate and precipitatien Mardening of Laves phases of differeml
+美国西北大学Olson教授研究团队在实际研制超强钢时，通过Questek公司搭建了高通量集成计
+理工艺的优化，以提高其屈服强度和冲击韧性31。最优方案显示出相对较高的属服强度（>700MPa
+和较好的冲击韧性（>200J)，值得进行实验验证，这种设计模式有助于获得综合力学性能提高的新型
+通过对目前钢铁材料设计方法的总结与分析，发现在海洋工程用钢的设计过程中有许多借鉴之
+材科的设计已经实现了从性能组织向成分工艺的倒推。由于公
+挖掘，因此前期的算法优化、计算结果的归纳与深入挖掘尤为重要，
+3应用材料基因工程技术设计海洋工程用钢的基本思路
+钢铁材料因其性价比高而广泛应用于海洋工程领域。然而，因海洋环境异常严峻，海洋工程装
+械性能的关系，然后将所建立的模型作为多目标遗传算法的目标函数，从而找到
+其耐蚀性，以达到延长寿命的目的341
+应用材科基因工程技术开发海洋工程用高强耐蚀合金是当前材科设计与开发的前沿，有助于加
+合金元素及稀土元素对钢力学性能的影响
+（3）对计算结果进行可视化分析，根据材科需求并结合合金成分-工艺-组织-性能之间的关系，
+的HSLA钢，这对海洋工程用钢的设计有很大的借鉴意义[28]
+应配规律的研究等，并科理论计身的结果与实登检测结果进行分析比较
+图2基于材科基国工程技术设计海泽工程用钢的流程图
+Fig.2 Flow drawing of steel for Marine engineering based
+3.3材料基因工程技术在海洋工程用钢领域的应用前景
+应用材科基因工程技术开发海洋工程用钢是当前材料设计与开发的前沿，有助于加快我国海洋
+材科的发展进程。基于材料基因工程技术设计海洋工程用钢的最终目标是通过理论模拟计算提
+标。长远来看，可以完善材料的数据库，实现海洋工程材料的按需设计，
+通过对高通量实验、高通量计算、材料数据库以及材料基因工程技术在钢铁材料中的研究现状
+分析的基础上，提出了材料基因工程技术在海洋工程用钢设计过程中的应用思路，基于高通量
+第一性原理计算进行模拟预测，结合高通量实验及材料数据库进行设计与优化，将传统与“
+面的竞争力。就目前米有，材科基因工程技术可以实现材料研友过程中“两个一半的
+参考文献

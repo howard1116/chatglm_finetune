@@ -1,0 +1,627 @@
+基于材料基因工程的超高温
+热障涂层研究
+热障涂层研究
+降低研发成本，成为一种全新的材料研发模式
+温热障涂层研发中的应用进行了晟望
+关键词：材料基因工程：稀土但酸盐：Pt-Ir基高温合金：第一性原理计其：机器学习
+DOI: 10.16080/j.is
+sn1671-833x
+.2021.18.098
+高超音速飞行器、火箭、导弹、航
+空发动机和重型燃气轮机是关乎我
+国国防安全的重大核心装备。近年
+来，航空发动机不断挑战在更高温度
+下工作，提高航空发动机和燃气轮机
+的耐高温性能是航空航天领域大型
+装备进一步发展的关键。为提高热
+端部件在高温下工作的可靠性、延长
+使用寿命，通常采用3种方法I-：
+（1）寻求更高耐热性的合金材料；
+（2）改进冷却技术；（3）采用热障涂
+层技术。在过去几十年里，高温合金
+的耐高温性能有了一定的提升，然而
+合金材料存在温度极限.进一步提高
+的空间越来越小；冷却技术通常采
+用的方法是在工作部件的内部设计
+出复杂而精巧的气冷通道，以增强冷
+基多元合金黏端晨
+*基金项目：云南省重大科技专项（202002AB0800011,202102AB080019）;国家自然科学基金重大研究计划（91960103）：云南省优秀青年基全
+( 202101AW070011 )
+却效果，但是过多的冷却气体将会造
+成大量的热量流失，不利于热效率的
+提高；热障涂层技术是在高显合金
+表面喷涂低导热涂层，使高温燃气和
+金属部件之间产生较大的温差，在保
+护基底的同时，允许燃气温度进一步
+提高，进而提高发动机的热效率。图
+1为目前使用的热障涂层结构，主
+要由陶瓷隔热层和金属黏结层组成。
+常用的黏结层合金为NiCrCoAIY，
+其作用主要是在高温合金基底与陶
+瓷顶层之间起过渡、黏结的作用，从
+而有效缓解陶瓷层顶层和高温合金
+基底之间的热失配应力，以及提高
+陶瓷顶层与高温合金基底的结合力；
+陶瓷隔热层要求热导率低，主要提供
+降温能力，这样才能为高温合金基
+Fig.1 Thermal barrier coating structure of turbine blade
+底提供最大能力的热防护。热生
+长氧化物层（Thermal growth oxide,
+TGO）是在实际高温应用环境下，燃
+气中的氧化气氛透过气孔率较高的
+陶瓷顶层到达黏结层，从而使黏结
+层氧化而形成。在实际的应用过程
+中，热障涂层是一个结构系统，其各
+部分之间互相协同，需满足高熔点、
+低热导率、合适的热膨胀系数、高温
+相稳定性、低烧结性、良好的化学相
+容性、高抗氧化性以及良好的耐腐
+蚀性等性能要求
+性原理计算和热力学为基础的相图
+计算方法（CALPHAD）动力学为基
+础的相场模拟及数学模型为基础的
+有限元分析，成为研究材料微观组织
+结构与材料宏观性能之间关系的有
+效方法，是对传统“试错法”的改进。
+材料基因工程技术变革了材料的研
+发理念和模式，实现了新材料研发由
+“经验指导试验”的传统模式向“理
+论预测、试验验证”的新模式转变，显
+著地提高新材料的研发效率。材料
+基因工程技术通过高通量试验、高通
+量计算和数据库的交融与结合（高通
+量并行选代方法替代传统试错法中
+的多次顺序选代方法）并借助数据
+挖掘技术，系统地寻找材料组分/工
+艺-组织结构-性能的定量关系，进
+而借助集成计算模拟和关键试验理
+性地设计材料，加速材料“发现一研
+发一生产一应用”全过程，缩短材料
+研发周期，降低材料研发成本，引发
+新材料领域的科技创新和商业模式
+变革。本研究主要以1500-1600°℃
+服役温度的超高温热障涂层体系研
+发为例，简述了材料基因工程在其
+中的研究，包括可用于1600℃下服
+役的超高温网瓷层和1300℃下服役
+的超高温黏结层，陶瓷隔热层实现
+200~300℃的降温梯度。通过高通量
+美国、欧盟等国家非常注重材料
+基因工程技术的发展.2014年关国
+将“材料基因组计划”提升为“国家
+战略”，同时建设45个材料基因组创
+新平台，重点投资计算材料的基础和
+应用研究，提高材料性能，满足国家
+安全需求。中国工程院和科学院
+进行了广泛的咨询和深入研究，国家
+科技部2015年启动了“材料基因工
+程关键技术与支撑平台”重点专项
+（简称“材料基因工程重点专项”）许
+多大学、研究所等单位进行了多次以
+材料基因组计划为主题的报告会、研
+讨会等咨询活动，中国材料界对基因
+工程技术的认识不断深人。随着
+计算材料科学的发展，跨尺度的材料
+计算与模拟，集成了以量子力学第一
+材料基因工程在热障涂层
+陶瓷层中的研究
+陶瓷层与高温环境直接接触，是
+整个热障涂层的关键部分，因此要
+求选取的材料需同时具备高熔点、高
+热膨胀系数、低热导率及高温相稳定
+等特点。图2-为不同热障涂层
+材料的发展情况，如氧化钇稳定氧化
+锆(YSZ）、稀土磷酸盐（REPO）稀
+土锆酸盐（REZrO,）等，这些材料
+具有较低的热导率、较高的热膨胀系
+数和优异的机械性能，但是使用温
+度存在限制。为快速找到性能优异
+的超高温热障涂层陶瓷层材料，大量
+学者基于材料基因工程理念，对此进
+行了一系列探索研究。研究发现，
+RETaO材料具有高熔点、低热导率、
+高热膨胀系数、稳定的高温相结构等
+优点，服役温度可达1600℃，已成为
+极具潜力的热障涂层材料。
+役温度超过1200℃会发生明显的相
+变，同时伴随着5%-7%的体积变化，
+从而导致热障涂层过早失效5-6。
+发动机使用温度的升高，使得人们对
+热障涂层的要求越来越高，尤其是热
+导率和热膨胀系数，因此急需开发新
+型的热障涂层材料以达到应用目的
+REPO, ( RE=La ,Ce Nd Sm 、Eu
+和Gd）因具有高熔点、高温稳定性、
+低热导率和热膨胀系数等特点，成为
+耐高温热障陶瓷层候选材料之一，其
+结构如图 3 (a）所示 ["。Feng 等1]
+利用基于密度泛函理论的第一性原
+理计算对REPO，进行了大量的研究，
+研究发现不同REPO之间稳定性存
+在差异；图4为REPO的三维杨氏
+模量，由于不同的REPO存在很强的
+各向异性，从而在不同方向上引起偏
+振变化且最大值都偏离其主轴：同时
+采用应变-应力方法计算了REPO,
+的体模量、杨氏模量和剪切模量，结
+果如图5（a）所示",模量值随着离
+子半径（RE*）的增加而上升。通过
+计算结果可知，REPO的热导率能达
+到热障涂层在高温下的使用要求，但
+在高温环境下存在相变失效、服寿命
+短等问题，致使此材料未能在热障涂
+层领域得到广泛应用-
+Fig.2Developnentefthermalbarriercoatingmaterial
+REZrO, ( RE=La , Ce , Nd
+Sm、Eu和 Gd的晶体结构如图 3(b)
+所示I。Schelling等通过分子
+动力学模拟对REZrO,材料的热学
+性质进行了研究。计算结果表明此
+结构高温下稳定性差，且不同的稀土
+元素对此结构的体模量、热膨胀系数
+及热导率会产生不同的影响，未能找
+到同时具备低热导率和高热膨胀系
+数的成分，限制了此材料在高温热障
+涂层方面的发展。
+除此之外，Feng等通过第一
+性原理计算，筛选出了一种自然超
+晶格的层状钙钛矿化合物LnSrALO
+( Ln=La , Nd, Sm、Gd 和 Dy )作为陶
+瓷层材料，结构如图3（e）所示[；
+基于准谐近似和德拜模型，Feng等
+2计算了此结构的体模量、剪切模
+量和杨氏模量，结果如图5（b）所示；
+运用Slack模型计算的热导率与试验
+值相符，低于1200℃的热导率值在
+图 4 REPO, 杨氏模量的三维各向异性( RE=La, Ce, Nd, Sm, Eu, Gd )
+(a ) REPOs ( RE=La, Ce 、Nd, Sm、EuIGd ) 的f本
+量B、杨氏模量E和剪切模量G与RE”半径的相关性
+g5  Elastic properties of different ceramic layer material
+( b) Ln;SrAl;O ( Ln=La, Nd, Sm, Eu, Gd, Dy ) 体
+模量B、杨氏模量E，剪切模量G与Ls半径的相关性
+2~6W/(m·K）之间.相对于YSZ材
+料此结构有较低的热导率，但该材料
+各向异性弱、对特定稀土离子不敏感
+致使优势不明显.2-2
+YSZ和 REZrO,具有较低的
+热导率（1.5-3.5W/（m·K））较高
+的热膨胀系数（9×10-10×10/K)
+和较好的化学相容性等特点，但是
+这两种材料均存在端，YSZ材料
+超过1200℃时产生相变，使用温度
+难以提高 I；而REZrO,高温断
+裂韧性差。科研人员对潜在热障涂
+层陶瓷层材料进行了大量的研究，
+例如 Ln,SrA1O,25-、石榴石铝酸
+盐 127-1 稀土硅酸盐(RE,SiO,）2-31
+和稀土铺酸盐（La,Ce,O,）(-4l等，
+其中RESiO,和 LaCeO,结构分别
+如图3（c）∞和(d）所示，然而
+这些材料均存在一些自身缺陷，比如
+热膨胀系数低、热膨胀系数不匹配等
+问题，图6为潜在陶瓷层材料的热
+导率和热膨胀系数，明显看出这些材
+料未能同时具备低热导率和高热膨
+胀系数，限制了该材料在热障涂
+层领域的应用。
+稀土钮酸盐RETaO（RE为稀
+土元素）具有低热导率、高热膨胀系
+数和高相稳定性等优点，其结构如图
+7所示，应用在高温合金表面可以
+获得200~300℃的降温梯度，有望应
+用在1500-1600℃服役温度下的高
+温环境中。
+度超过1426±7°℃时.YTaO,发生 M
+相到T相之间的转变，是一种铁弹相
+变，几乎不产生体积差，避免了因相
+变体积差过大而导致涂层脱落失效。
+由此，Shen等9认为YTaO是一
+种极具潜力的热障涂层材料。
+Shen和 Limarga等通过分
+子动力学模拟对不同成分的ZrO-
+YO-TaO，三元相图进行分析，如图
+8（a）所示，结果发现相图中低热
+导率主要集中在YTaO与ZrO固
+溶体区，1000℃下此固溶体区的热
+导率低至1.5W/（m·K）,仅为YSZ
+热导率的60%左右：图8（b）为
+Fernandez 等 [1 对 1700 °℃ 的 YOs
+TaOs二元相图分析，结果进一步表
+明稳定性与其成分有关。此外，当温
+Zhou1, Jj, Wu 和 陈 球 (4S]
+等利用第一性原理计算研究了两种
+不同相结构的吉布斯自由能、晶格
+常数和体积,两种相结构如图g
+所示，研究发现两种不同结构的原
+子之间键长存在差异。图10（a）
+为YTaO两种不同相结构的吉布
+斯自由能，结果显示两曲线交点为
+Fig.6  Thermal properties of potential thermal barrier coating materiab
+1430℃；图 10（b)是在相变温度
+附近通过基于准简谐近似和德拜模
+型方法得到的自由能，结果显示两
+a）四万和结构（空间年4血，N.，点排名
+C)19942021 China Academic
+年第64卷第18期·航空制造技术103
+b）年等和结构（空间年a1，No.15，点群c3
+曲线在1430℃相交，且两相变化稳
+定；图10（c）为两相晶格常数随温
+度的变化，同样证实两相的转变温度
+在1430℃附近；图10（d）是两相体
+积随温度的变化结果，两相体积随温
+度连续变化，且在1430℃相交于一
+点，进一步证明YTaO的相变温度
+在1430℃附近"。综上所述，单斜
+相在室温下稳定存在，在1430℃时
+转变为四方相"".这种相转变属于
+二级转变4
+图11
+（M=Ni,Co）合金涂层D6-S但使用
+温度只能达到1100℃，长时间使用
+会发生高温氧化反应。Pt-Ir基稀贵
+金属合金是一类有潜力的抗高温氧
+化、耐腐蚀性能的金属，在1300℃下
+保温72h，几乎不产生热氧化物，从
+源头上有效抑制了热氧化物的生长，
+因而Pt-Ir基稀贵金属高温合金是一
+种极具潜力的黏结层首选材料3.59。
+材料基因工程在高温合金
+黏结层中的研究
+但Pt-Ir基稀贵金属高温合金成
+本高昂，为了加快材料研发，提前对
+材料的性能进行预测，同时减少贵金
+属材料的试验成本，针对黏结层服役
+的恶劣环境，以P-Ir合金试验结果
+为基础，采用材料基因工程理念，利
+用计算机模拟和大数据计算技术，对
+涂层材料的服役情况进行模拟仿真，
+快速反馈和分析材料性能，充分发挥
+高通量多尺度集成计算，高通量试验
+与数据挖掘技术，从而加快研究进
+展，总体研究流程如图12所示。
+基于高通量计算和跨尺度建模的
+黏结层作为热障涂层的重要部
+分，处于合金基体与陶瓷层之间，能
+缓解高温合金基体与陶瓷层之间热
+膨胀不匹配的问题，同时起抗氧化、
+耐腐蚀和保护基体的作用，因而黏
+结层所用材料种类及成分对热障涂
+层的使用性能具有决定性作用。陶
+瓷层使用温度的提高，要求黏结层
+材料不仅具有优良的高温力学性
+能，而且要具有更加优异的抗高温
+氧化和耐腐蚀性能。目前常用的合
+金黏结层主要为扩散型铂改性铝化
+物涂层包覆型镍钻基MCrAIY
+Fig.2  Research process of PtIr based precious metal bonding layer
+为建立准确预测Pt-Ir基多元合
+金黏结层高温抗氧化性、耐腐蚀性和
+蝠变性的模型和集成算法，通过高通
+量计算和机器学习.建立超高温黏结
+层组成-结构-性能的关系，以高温
+弹性、高温塑性、高温蟠变和高温抗
+氧化性能的计算结果为判据，获取目
+标合金的成分，建立合金成分、工艺、
+性能数据库。具体研究流程如图13
+所示。
+针对P-Ir基黏结层合金材料的
+高温抗氧化性能和蟠变性能建立相
+应的自动化计算流程和模型，利用计
+算资源调度、计算数据自动提取、计
+算结果智能展示和分析的计算管理
+系统，加快研发速度。充分利用材料
+基因工程高通量集成计算优势，结合
+数据高效采集、传输、管理、融合和可
+视化技术，开发数据管理系统，建立
+Pt-Ir基合金黏结层结构、性能数据
+库。研究过程主要利用高度自洽的
+计算及试验所得数据，基于机器学习
+及数据挖据技术，建立合金成分一丝
+图13集成计算及数据库建立研突流程
+Fig.13Researchprocessofintegratedcalculationanddatabaseestablishmes
+材/粉体成形工艺一合金涂层喷涂
+工艺一涂层服役性能间的相关模型，
+以获取满足性能要求且成本低的合
+金成分范围。机器学习的优势之一
+是构建单纯计算或试验无法解决的
+复杂物理量或复杂服役性能的模型，
+对其进行性质预测，利用高度自洽的
+高通量计算和试验得到物相组成与
+结构、弹性性质、塑性性质、热膨胀系
+数、氧的表面吸附能和扩散能等数据
+作为机器学习模型训练的输人。
+图14为 P/Ir基稀固溶体模
+型，其中蓝色球代表P/Ir原子，粉红
+色球为TM 原子 （TM为 3d、4d,5d
+原子）。Zhou等I利用高通量第一
+性原理计算系统地研究了33种合金
+元素在原子弛豫和全弛豫条件下对P/
+Ir基稀固溶体力学性质和电子结构
+的影响,图 150-61 和 16/0-61 分别为
+Pt/lIr基稀固溶体的混合与Pt-X和
+Ir-X二元合金混合恰的计算，其中
+显示Pt基稀固溶体混合焙全为负，Ir
+基稀固溶体的混合熔除 Cd、Ag、La
+和Au4种合金元素外均为负；基
+于应力-应变方法对 Pt/Ir基稀固
+溶体的弹性性质进行了研究，结果
+在优化后的Pt-Ir基多元合金成
+分范围中.选取多组P-Ir基多元合
+金进行多通道熔炼，通过高通量试验
+进一步优化Pt-Ir基多元合金的成
+分、性能和加工工艺，进行合金丝材
+或粉体的制备与表征，寻求适合喷涂
+的最佳丝材或粉体制备工艺.高通量
+试验过程中实现数据采集、转换、传
+g.l4Crsastructueowrbasedllaesalidsalaonmode
+以高通量计算结果筛选出的合
+金成分为基础，采用高通量电弧熔炼
+系统制备P-Ir基合金样品，并通过
+多通道管式炉实现室温至1700℃温
+度的高通量热处理，然后采用测量加
+工及热处理技术，获得用于微观组织
+结构分析及性能表征的贵金属高温
+合金试验样品；基于计算模拟及高
+通量制备与表征结果，选择性能优异
+的P-Ir基合金成分.采用高频感应
+XJI D Xd9I E
+二元合金三点拟合混合焙
+Fig.16
+Fig.17  Elastie properties of Pt/Ir based dilute solid solution
+加热技术制备出温度连续变化的样
+品，研究添加少量元素对P-Ir合金
+氧化的热力学和动力学性能、氧化物
+颗粒的形貌及存在形式的影响；将
+Pt-Ir合金密封于充水或酸的石英管
+内，采用十通道热处理炉对P-Ir合
+金进行不同温度、不同时间的腐蚀性
+能研究：在不同应力和不同温度下
+研究Pt-Ir合金的高温蜗变，系统地
+分析第二相颗粒的形态、分布和热稳
+喷涂过程中的工艺参数（包括温度、
+压力和流速等）并对喷涂后的试样
+进行相应的表征，获得相应的试验数
+据。制备出在1300℃长时间服役的
+Pt-Ir基多组元高温合金黏结层，将
+P-Ir基多组元高温合金黏结层与稀
+土钮酸盐组成新型超高温热障涂层
+体系，具体研究流程如图19所示。
+基于材料基因工程的理念，采用电
+Fig-181
+图19可用于1300℃下的PtIr基合金黏端层工程化研究流程
+6购
+plasma spraying, APS )技术,以 310S
+耐高温不锈钢为基体材料制备可以
+在1300℃温度下服役的 Pt-Ir基多
+组元超高温合金涂层。选取影响等
+离子喷涂效果的主要因素电流1主
+气流量Q、喷涂距离d、温度、压力和
+流速等作为研究的工艺参数，设计一
+系列正交试验，实时采集喷涂过程中
+的试验数据，为构建涂层制备与涂层
+性能之间的映射关系奠定基础。将
+喷涂过程中的工艺参数与涂层性能
+的表征结果相结合，采用机器学习的
+方法进行数据挖据，使喷涂工艺参数
+与涂层的性能之间建立映射关系，对
+喷涂工艺参数进行优化，最终获得
+能在 1300℃长时服役的 PIr 基多组
+元超高温合金黏结层。以打通材料到
+制造体系全过程模型和计算技术为目
+的.建立产品-加工-材料体系并行
+设计、快速开发流程，更好地创建和分
+析数据库管理，实现利用材料计算驱
+动航天器部组件先进制造技术发展的
+总体目标，是目前运用材料基因工程
+在研究高温防护层上的主要方向。
+抗蝠变性进行高效评价，寻求适合喷
+涂的最佳粉体/丝材制备工艺，并进
+（3）充分利用材料基因工程技
+术优势进行Pt-Ir基合金黏结层从研
+发到产业化应用的全流程示范，将可
+在1300℃下服役的Pt-Ir基多组元
+超高温合金黏结层与在1600℃下服
+役的镧系稀土钮酸盐超高温陶瓷层
+组成新型超高温热障涂层体系，建立
+拥有自主知识产权的热障涂层技术
+体系。
+[]郭洪波，官声凯，徐惠彬。
+空发动机热障涂层技术研究进展
+料进展
+结论
+dvanced ieoeiginespJ. MatehiaB Chia, ZR9
+料的研发模式，促进了材料前沿技术
+的发展。基于材料基因工程的理念，
+运用第一性原理计算、相图计算和机
+器学习等方法对1500-1600℃下服
+役的热障涂层进行了前期研究与探
+索。研究表明，计算结果与试验结果
+在一定程度上吻合，通过计算能够加
+快研究进程，进一步说明利用材料基
+因工程的理念进行1600℃下服役的
+稀土钮酸盐陶瓷层和1300℃下服役
+的 P-Ir基合金黏结层的研究可行性
+高，特别是可以明显缩短贵金属合金
+材料研发周期，降低原材料以及高温
+性能的研究成本，提高了研发效率。
+未来展望
+WANG Hong. XIANG Yong. XIANG
+Xiaodong, et al. Materials genome enables
+research and development revolution[J]. Science &
+Technology Review, 2015, 33(10): 1319
+（1）基于目前稀土钮酸盐材料
+的研究成果，采用材料基因工程的理
+念，研究稀土钮酸盐的高温服役性
+能，筛选出高温稳定、热导率更低、热
+膨胀系数与合金更匹配、耐腐蚀性更
+强以及使用寿命更长的钮酸盐材料。
+[6]宿度京。付华栋，白洋，等.中国
+材料基因工程研究进展 []金属学报、2020,
+56(10): 13131323.
+（2）在已经建立的 Pt-Ir基多元
+合金品体结构中，利用高通量第一性
+原理计算工作流获得有限温度下的
+热物理性质，并结合多相热力学模型
+将单相性质推广到多相性质；同时
+对试样的高温抗氧化性、耐腐蚀性和
+[6]
+PYTOSI
+cs[2]. Scripte
+[10]  MERCER C, WILLIAMS I R,
+& of metastable tetragonal-
+of the Royal Society A: Mathematical, Physical
+and Engineering Sciences, 2007, 463(2081):
+13931408.
+[11] CAO X Q, VASSEN R, STOEVER D.
+lournal of the Eu
+24(1): 110.
+[12]
+[14]CHEN L, GUO J, ZHU Y K, et
+al. Features of crystal structures and thermo-
+mechanical properties of weberites RE3NbO7
+(RE=La, Nd, Sm, Eu, Gd) ceramics[J]. Joumal
+of the American Ceramic Society, 2021, 104(1):
+404412.
+[15]ZHANG Y L, GUO L, YANG Y P
+on phase stability, thermmo-physical properties
+and sintering of 8YSZ[J]. Chinese Journal of
+uitics, 2012, 25(6): 948953.
+[30]  LUO Y X, SUN L C, WANG J M, et
+al. Tunable thermal propes
+switched by anharm
+nicity of low-frequency
+phoi
+nons[J]. Journal of the European Cerami
+Society, 2018, 38(4j: 20432052
+[31] TIAN Z L, ZHANG J, ZHANG T Y,
+ct al. Towards themal barrier coating application
+for rare earth silicates RESiO, (RE= La, Nd, Sm
+Society, 2019, 39(4): 14631476.
+[21] PRUNEDA J M. ARTACHO E.
+bonding properties of pyrochlores[]. Physical
+Review B, 2005, 72(8): 085107.
+2014, 34(10): 25532561
+[22]
+LSrAlO,(L=La,Nd,Sm.Eu.Gd.Dv)]
+alRev1ew B, 2011, 84(2): 024302
+[33]
+BLANCHARD P E
+R, ZHOU Q D, c
+red flu
+pyrochlore :
+85(13): 132101.
+[23] FENG J, XIAO B, ZHOU R, et al
+double perovskite slab-rock salt layer Ln;SrAI,O
+(Ln = La, Nd, Sm, Eu, Gd or Dy) natural
+superlattice structure[J]. Acta Materialia, 2012
+76550855 :(g)09
+[34] WANG C J, HUANG W Z, WANG
+Y, et al. Synthesis of monodispersed La;CeO
+nanocrystals via hydrothermal method: A study
+of crystal growth and sintering behavior[J].
+International Journal of Refractory Metals and
+Hard Materials, 2012, 31: 242246
+[24]  CHENG B, YANG G J, ZHANG Q, et
+al. Gradient thermal cyclic behaviour of La;Zr;O/
+YSZ DCLTBCs with equivalent thermal
+insulation performance[P]. Journal ot the Eurc
+study[J]. The Jo
+of Pby
+20386
+[25] CHEN H F, ZHANG C, XUAN J
+H, et al. Effect of TGO evolu
+and elemen
+diffusion on the life span of YSZ/PtAl and
+[36] FENG J, ZHOU Y X, REN X R
+et al. Thermophysical properties of rare earth
+Barium aluminates[J]. Journal of the American
+Ceramic Society, 2018, 101(7): 27182723
+[26]  KHOR K A, GU Y W, DONG Z
+coatings[J]. Surface
+2001, 139(23): 200206
+gx[2]-
+陶瓷的制备，力学性质和热导率研究[D.稀有
+[38]
+种晓宇，汪俊，蒋业华，等.GdTO
+金鼠材料与工程, 2019, 48(4): 11791182
+[40] LIMARGA A M, SHLAN S, LECKIE
+R M, et al. Thermal conductivity of single-
+and
+multi-phase compositions in the ZrO,Y O,
+Ta;O, system[]. Joural of the European Cera
+Society. 2014, 34(12): 30853094.
+[42]  ZHOU S L, SHEN S B, CHEN Y
+Y, et al. Fast synthesis of novel micron porous
+particles of Gd, Yb and Ystabilized zirconia to
+prepare TBCs with low thermal conductivity[J].
+Materials Chemistry and Physics, 2021, 259:
+124018.
+[43] JI D P; CHONG X Y, GE Z H, et al.
+First-principles study of pres:
+Tanstccmaions in thasmoelccthkc MgSi[?]. Nurm
+of Alloys and Compounds, 2019, 773: 988996.
+[tt]
+al. The glas
+Dy,TaO,
+oating appli
+on[J]. Appli
+2018, 112(13): 131903.
+[45] 除琳, 冯品 择土但R盐 RE,TaO,
+和I RETa,O, 陶瓷热力学性质研究进展[B]
+现代技术期瓷 , 2019, 40(6): 367397.
+CHEN Lin, FENG Jing. Research progress
+tantalates RE,TaO, and RETa,O, ceramics[J]
+Advanced Ceramics, 2019, 40(6): 367397.
+MAO H K. High-pe
+[46]
+CARPENTER M A, HEMLEY R J
+and the P42/m
+=Pnnm pbase
+tion(J]. Jot
+of Geophysical Research: Solid Earth, 2000,
+105(B5): 1080710816.
+11
+, 2017, 126: 2
+[50] LU H R, WANG C G, ZHANG C
+G, et al. Thermo-physical properties of rare-earth
+hexaalumil
+inates LaMgAl,O,, (Ln: La, Pr, Nd,
+Sm, Eu and Gd) magnetoplumbite for advanced
+thermal barrier coatings[J]. Journal of the European
+Ceramic Society, 2015, 35(4): 12971306
+[55]韩志明，卢博文，王仕成 NiA1
+P 粘结层的制备及微观组织演变分析[]].材
+程毕报 , 2021, 35(4): 41444149
+[51]KIM D J, TIEN T Y. Phase stability
+ZrO, in the system ZrO,Y;O,Ta;O,[3] Joa
+ot the American Ceran
+nic Society, 1991, 74(12)
+S9061906
+[56] ZHANG B Y, YANG G J,LI C X, et
+puoq AIVIOIN painads eused asmssand mo[ o
+coat[]]. Applied Surface Science, 2017, 406
+99109
+H, et al. Highly
+eIective MCrAIY bon
+Material Genome Engineering
+LIANG Yingxue', YU Wei', ZHOU Yunxuan', GAN Mengdi', WEI Yan', ZHANG Jiankang
+CHEN Yongtai, YE Bo ,CHONG Xiaoyu ,FENG Jing
+(1. Faculty of Materials Science and Engineering, Kunming University of Science and Technology,
+Kunming 650093, China
+2. Sino-Precious Metals Holding Co., Ltd., Kunming 650106, China
+[ABSTRACT]  Material genome engineering is a revolutionary cutting-edge technology in the field of materials, which
+greatly shortens the process of materials from design to application, improves research efficiency and reduces cost, and
+ultra-high temperature rare earth tantalate and bonding layer of PrIr based superal
+the application of material genome engineering in the re
+coatings.
+Keywords: Material genome engineering; Rare earth tantalate; PtIr based superalloys; First-principles calculations;
+Machine learning
+[60]  ZHOU Y X, YU W, CHONG X Y, et
+al. Rapid screening of alloy elements to improve
+the elastic properties of dilute Pt-based alloys
+High-throughput firs-principles calculatioes and
+modeling[]. Journal of Applied Physics, 2020,
+128(23): 235103.
+[61]  YU W, ZHOU Y X, CHONG X Y.
+ind Comp
+nds, 2021, 850: 156548

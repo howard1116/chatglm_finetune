@@ -1,0 +1,172 @@
+常温固化耐高温环氧改性有机硅聚氨酯
+防腐蚀涂料的研制
+氯立新狄志刚傅敏朱晓丰许后麟许的（中化建常州涂料化工研究院213016）
+摘要：采用环氧601树脂和自制低相对分子质量有机硅树脂进行共绵合反应制得环氧树脂改性有机
+树脂，并以此改性树脂为基料
+劲能性填秤
+助剂等研制出耐高温自干型环氧改性有机硅聚
+有机硅树脂虽然具有热稳定性好、耐氧化、耐
+候、低温性能好、表面能低、介电强度高等优点，但
+是一般需高温（150~200℃）固化，高温固化时间长，
+给大面积施工造成不便，而且在高温前防腐能力较
+差，对基材的附着力差，耐有机溶剂性差等等。环
+氧改性有机硅树脂是近年来发展起来的既能降低
+环氧树脂内应力，又能增加环氧树脂韧性、耐高温
+性等性能的有效途径。环氧改性有机硅树脂的改性
+方法有物理共混和化学改性两种，化学改性的效果
+表5不同配比产品的实验结果
+从以上配方的测试结果可以发现，在保证产品
+密度、保护性能和施工性能的要求下，选择配方4
+较为合活
+文章编号：10091696(2005）11000904
+一般比物理共混改性好。化学改性主要是在聚硅氧
+烷链的末端或侧链上引人活性基团，再与其它高分
+子反应生成嵌段、接枝或互穿网络的共聚物，弥补
+两种树脂在性能上的某些不足，从面提高性能、拓
+展应用领域
+环氧601树脂，工业品；苯基三乙氧基硅烷单
+体，市售品；苯基二乙氧基硅烷单体，市售品：蒸
+馏水，市售品；二甲苯，工业品；乙酸丁酯，工业品；
+聚氯乙烯涂料具有密度低，单车耗用量少，能减轻
+整车重量等优点。采用该涂料能够降低车辆油耗、
+提高车辆时速，在汽车涂装市场具有很强的竞争
+优势。
+在力受.增型剂及共做用.北泉：化字1业出度社，航
+在200L具有搅拌和夹套的糖瓷衬里反应釜中
+加人两种硅单体，在搅拌下由加料口逐渐加人蒸馏
+水，维持20~40℃之间约1~1.5h滴加完水。夹套中
+通人蒸气升温，蒸出反应中生成的乙醇。待大部分
+乙醇蒸出后，温度上升到120-130℃左右时，接通
+减压系统，在600mmHg以上的真空度下脱除剩余
+乙醇，保持0.5-1h即可出料。
+环氧改性有机硅树脂的合成配方见表2
+表2环氧改性有机硅树脂配方
+在200L的导热油加热釜中加人已知固体分的
+环已酮溶液、有机硅中间体树脂和按配方需补加的
+环已酮，搅拌加热到160-180℃并保温反应。反应生
+成的乙醇和部分环已酮被随时蒸出，反应到5h后取
+样，测定在250℃下的胶化时间。以后可根据情况
+每隔1h测定一次，直到胶化时间为1.5-1min，停
+止反应，降温至120℃，加人环已酮调节固体分，过
+滤，出料。环氧改性有机硅树脂的技术参数如表3
+所示。
+表3环氧改性有机硅树脂的技术参数
+耐高温自干型环氧改性有机硅聚氨酯防腐蚀
+涂料的配方见表4。
+2.2.2操作工艺
+先将环氧改性有机硅树脂加人拉缸中，在高速
+搅拌下依次加人防腐增进剂、功能性填料、三聚磷
+酸铝和铁红，再加入混合溶剂调节上磨粘度，搅拌
+均匀后上卧砂，细度控制在40μm以下，调节固体
+分，过滤，包装。
+将漆浆和固化剂按配方量加人容器中，加入适
+量稀释剂搅匀，将粘度调节在18-21s（涂-4杯），
+静置15min左右，喷涂在按国标GB制备的钢板上，
+经过24h干燥后，进行性能测试。制漆配方见表5，
+性能检测结果见表6。
+表6耐高温自干型环氧改性有机硅聚氨能防腐蚀涂利
+般比较常见的有：苯基烷氧基硅烷单体和甲基烷
+氧基硅烧单体，我们选择了苯基单体，一是因为树
+脂中苯基含量高，树脂的热稳定性好，热老化时间
+长；二是因为由苯基单体合成的有机硅中间体树
+脂和环氧的相容性较好
+3.2合成工艺对环氧改性有机硅树脂性能的影响
+合成有机硅中间体树脂的温度控制在20-40°℃
+之间。若反应温度高于40℃，其水解反应不易控
+制；若反应温度低于20℃，二苯基烷氧基硅烷单体
+水解后容易发生结晶现象，苯基烷氧基硅烷单体水
+解物就会残留在树脂和形成的漆膜中，极大地影响
+涂料的性能
+另外，在合成环氧改性有机硅树脂时对于树脂
+胶化点的控制是相当重要的，胶化值反映出树脂在
+合成过程中的反应程度，胶化值越小树脂的反应程
+度就越高。在本反应中，随着环己酮和反应脱出乙
+醇的不断蒸出，有机硅中间体树脂与环氧树脂的反
+应进一步加深。将蒸出的混合溶剂做气相色谱，试
+验证明：接枝反应过程中产生的大量乙醇，只能是
+Si-OE和环氧树脂羟基缩合的产物。
+图1耐高温试股及耐高温后弹性试版
+通常耐高温漆经过高温后，漆膜变得较硬而
+脆。本文所述的涂料不但具有优良的耐高温性能，
+血且射高温后漆膜弹性也比常规的射高温除料要
+好得多。这表明本文所选的功能性填料与环氧改性
+有机硅树脂具有较好的配伍性。
+图2为上述环氧改性有机硅树脂的DTG和
+DSC曲线图。从图中曲线的走向变化可以看出：在
+250-400℃时，环氧改性有机硅树脂已经开始受热
+分解，到600-700℃后只剩下二氧化硅等无机化合
+物。在耐高温环氧改性有机硅聚氨酯防腐蚀涂料中
+因加有功能性填料，其中有不同熔点范围的玻璃
+料，在250-400℃环氧改性有机硅树脂开始受热分
+解时，玻璃料就开始熔化接替基料树脂发生二次成
+膜。随着温度不断升高，一方面不同熔点的玻璃料
+不断熔化，不断地填充有机物分解的空隙，形成一
+层致密的涂层；另一方面，填料中的无机组分在高
+温下渗人金属表层，形成牢固致密的合金层，从而
+不断熔化，不断地填充有机物分解的空隙，形成一
+层致密的涂层；另一方面，填料中的无机组分在高
+温下渗入金属表层，形成牢固致密的合金层，从而
+使涂层具有较高的热稳定性和防腐性能。填料中
+还含有调节涂层膨账系数的物质，使经过耐高温后
+图2环氧改性有机硅树脂的DTG和DSC曲线图
+3.4颜基比对涂层性能的影响
+由DTG和DSC曲线图可知：环氧改性有机建
+树脂的耐高温性能有限。要提高涂层的耐高温性，
+就必须向基料树脂中添加一定量的耐高温颜填料，
+额料除了能耐高温外，还要求涂膜具有一定的遮盖
+力；填料主要是增加其耐高温性能及在耐高温过
+程中保持漆膜的完整、附着力和弹性等。颜基比的
+大小对涂层性能的影响结果见表7。
+表7颜基比对涂层性能的影响结果
+从表7可以看出：随着颜基比的增大涂层耐高
+温性能变好，但漆膜的常态机械性能变差。当颜基
+表8加有防腐蚀增进剂与空白试验结果对比
+关于聚氨酯改性有机硅的研究近年来比较热
+门，有关的论文也较多。其原因是聚氨酯改性有机
+硅的防腐性能较突出。采用聚氨酯树脂和聚酰胺树
+脂作为射高温环氧改性有机硅聚氨能防腐蚀涂料
+固化剂的方法比较常见，但固化后漆膜的性能不尽
+相同。使用这两种固化剂固化后的漆膜性能对比结
+果见表9
+显而易见，聚氨酯类型固化剂固化后的漆膜性
+能要远远好于聚酰胺类型固化剂固化后的漆膜
+表9以不同固化剂固化后漆膜的性能对比
+（2）以环氧树脂改性有机硅树脂为基料，加
+人颜填料、助剂等再与聚氨酯固化剂一起制备出
+常温固化耐高温环氧改性有机硅聚氨酯防腐蚀涂
+料，所形成的涂膜具有较好的机械性能、耐高温性
+和耐介质性，其中耐热性能突出，可达950℃的高
+Influences of Solvent upon an Amine Cured Epoxy Reaction.....
+...YUF.g..CHENGXiu-ei(I)
+Abstract: On the basis of viscosity change during epoxy resin curing under the condlitions of the different solvent, the author adjusted the
+solvent ratio to tbe prolngaton of the pot lie of the amine cured epoxy coatings so as to manufacture anti-corrosive epoxy paint met the
+requirement of the coating application without any influenoe of film performanoe.
+Keywords: pot life; epoxy; solvent; curing agent
+Development of the High Transparent Wood Semigloss Varnish-
+....ZHANGJian-xin(4)
+Ahstract: High transparent wood semi-gloss vamish was prepared. The influences of resins, flatting material, hardener, additive and solvent
+on the transparency of coatings were discussed.
+Keywords:transparent; wood semi-gloss vamish; flatting
+Abstract: The study introduced some formulation design, performance test and applicatiom about low density automotive peotective
+doad ddepolqpg amu se eoo 00ap  uo
+effective reduction of specific application consumption and material weight in the whole automobile.
+Keywords: polyvinyl chloride ooatings: low density; automotive coatings
+Preparation of Anticorrosive Epoxy Modified Silicone Urethane Paint with Ambient Cure and High Temperature Resistance
+totive Protection
+.IANGC Qing-hua(7)
+The
+est
+and applicatiom about low density
+automotive peotective
+ffective
+reduction of specific
+automobile,
+Key
+PreparatiohotMhticorrosaveepoxyNiodinledSilcoheCretns
+Ambient Cure and High Temperature Resistance
+YUAN Li-xin, DI Zhi-gang, FU Min et al(9)
+ig et al(29
+alkvd
+ual Talk About Coil Ceating
+.-ZHOUFu-lin(35)
+-CHAI Guo-liang(37)

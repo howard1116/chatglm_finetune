@@ -13,10 +13,24 @@
 "object":{"仲羟基","环氧基团"}}
 
 {"subject":"仲羟基",
-"predicate":"可与之反应",
+"predicate":"可反应对象",
 "object":"异氰酸酯基团（—NCO）"},
 
 {"subject":"环氧基团",
 "predicate":"特点",
 "object":"自身可开环交联"}]
 ```
+
+
+instance = dict()
+instance["context"] = f"""Instruction: 你现在是一个很厉害的阅读理解器，严格按照人类指令进行回答。
+Input: 从下面的论文片段中提取三元组信息，以json格式输出。三元组应当包括信息的主语"subject"；信息的谓语"predicate"；信息的宾语"object"：
+
+{instance_paragraph}
+Answer: """
+
+
+instance["target"] = ""
+
+
+{"context": "Instruction: 陈凯歌\nInput: “陈凯歌”\n\n“陈凯歌”\nAnswer: ", "target": "陈凯歌"}

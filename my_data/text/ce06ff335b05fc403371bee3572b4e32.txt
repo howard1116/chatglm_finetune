@@ -1,0 +1,695 @@
+北京化工大学学位论文原创性声明
+本人郑重声明：所呈交的学位论文，是本人在导师的指导下，
+独立进行研究工作所取得的成果。除文中已经注明引用的内容外，本
+论文不含任何其他个人或集体已经发表或撰写过的作品成果。对本文
+研究做出重要贡献的个人和集体，均已在文中以明确方式标明。本
+人完全意识到本声明的法律结果由本人承担
+学位论文作者完全了解北京化工大学有关保留和使用学位论文
+定，即：研究生在校攻读学位期间论文工作的知识产权单位属北
+化工大学。学校有权保留并向国家有关部门或机构送交论文的复印
+和磁盘，充许学位论文被查阅和借阅：学校可以公布学位论文的
+新型气体分离材料的基因组学计算筛选与设计研究
+乙烯作为一种重要的化工原料，其分离纯化在化工领域中占有重要的
+烈的温室效应，因此其分离回收在环境保护方面意义重大。金属-有机
+肯架（Metal-Orga
+材料由于具有高孔隙率，高
+面积和尺寸可调控的特点，在气体吸附分离应用领域中受到了高度关
+注。鉴于该类材料种类和结构变化多样，本论文基于材料基因组学的指导
+思想，利用从剑桥晶体结构数据库，收集出
+Cu2（COO）轮桨型
+规模的材料计算筛选研究。开展的主要研究工作如下
+开放金属位点之间相互作用行为的精确分子力场，
+材料改性研究，发现不饱和铜位点与靠近不饱和铜位点的苯环上F原子间
+研究。根据模拟结来确立高性能材料对应的最佳结构特征区间，获得了
+氨化硫是一种应用非常广泛的绝缘气体，但其排放可导致
+种具有潜在高效分离效果的材料，并通过机理分析揭示出开放金属位点在
+现引人羟基（-0H
+的母体材料对CH/CH的分离效果有了明显的提升
+3.通过对比用于描述SF。分子的各种势能模型，本工
+确的SF七点带电模型进行SFN的分离筛选研究。通过研究获得了材料
+离效果均超过了文献报道的材料。
+关键词：金属-有机骨架材料，大规模计算，乙烯，六氟化硫，气体分离
+DESIGNOFNEWGASSEPARATIONMATERIALS
+Ithis sup
+romaviewpointofenvironmental
+thefieldsofgasa
+elrhighporosity，high
+addlewheel-likesecondaryinorganicstructuralunitwerecollectedinthis
+guidance of the 1deaofmaterialgenomics.‘Then,large-scale computationa
+matenalsscreening
+clnedoutto
+xamine the pertormanceof
+Themainresearchworkisoutlinedasfollows:
+behaviorsofCH/C2HmixtureincollectedMOFs.Accordingtothe
+structuralfeatures of optimalmaterialswereproposed.Basedonthre
+high-performancematerials identified,materialsdesign was furthercarriedou
+between theunsaturatedCusitesandtheFatom onthebenzeneringsnear the
+coppersite，whichcangreatlyimprove theperformanceofmaterialsforCH
+materials screening for CHCHeseparation was carriedout.According to
+high-performancematerials wereestablished,from whichone promisingMo
+roxylgroup（-OH
+1.BasedontheresultsofDensityFunctionalTheory(DFT)calculations
+2.Basedonthe forcefielddevelopedpreviously,acomputational
+high-performancematerialswa
+significantlyimprovedtheseparationperformanceofCHCHg
+3.Bycomparingtheresultsobtainedfromvariouspotentialmodelsfor
+eVen-charged
+MOFsforSF/N2mix
+separationperformancesexceedthosereportedintheliteratureatthemomer
+KEYWORDS:N
+sulfur hexafluoride,gas separation
+第二章含有开放金属位点的Cu-MOFs用于C2H2/C2H4分离的高通量计
+2.1前言
+17
+2.2模型和计算方法，
+18
+2.2.1数据库的构建。
+18
+2.2.2力场
+18
+2.2.3分子模拟方法
+19
+2.3结果与讨论，
+20
+2.3.1力场开发，
+20
+2.3.2力场验证，
+21
+三含有开放金位点的Cu-MOFs对CHCH分离的大规模筛选
+第四含有开放金属位点的Cu-MOFs对SF/N分离的大规模筛选41
+Contents
+Chapter1Introduction
+Chapter 2High-Throughput Computational Screening of Cu-MOFs with
+OpenMetalSitesforEfficientCH/CHSeparation
+17
+3
+41
+ResearchProductionandPublications.
+符号说明
+吸附剂性能指标，mmolVg
+1.1引言
+MOF的构造由Robson，Yaghil9，Kitagawal10]和Fereyl等团体率先提出并应用。独
+特的晶体结构类别使这类材料可以广泛应用于多种不同的场合，包括气体吸附和分离
+[12-14]，催化[15-1]，药物输送[18-20]，酶/蛋白质封装[21,22]，结晶[23,24]，磁性材料125,2]和
+扩散、溶剂的蒸发和溶液的分层来调节浓度梯度，利用缓慢冷却的激
+有机连接物以及所需要的性质和应用，
+图1-1无机节点（金属）与有机连接物结合形成MOF3
+Fig. 1-1 Inorganic nodes (metals) are combined with organic linkers to form MOF
+方形平面，通常用作MOF的无机连接体。MOF的形成主要是通过
+1.2金属-有机骨架（MOF）材科概述
+1.2.1IRMOF系列
+Mg, cyan; Be, purple; O, red; N, blue; C, gray; H, white
+充分的研究，结构如图1-2所示。基于MOF-5的IRMOF系列材料的设计是通过确定
+生成IRMOF-n所需的反应条件而启动的八面体与羧酸盐连接，对应的结构如图1-3
+所示。这意味着IRMOF是一系列具有相同拓扑结构但孔径不同的MOF。IRMOF系
+列材料具有很高的潜在应用价值，包括吸附，催化和传感。拥有高比表面积和孔体积
+的IRMOF是吸附小分子气体CH4的理想候选者。并且IRMOF-1由于不饱和开放
+器在重金属离子检测领域中也可以发挥重要作用I36。具有高孔隙率的IRMOF-8可用
+图1-2IRMOF-1中金属氧化物和有机连接基的裁剪示意图p叫。色码：Zn，绿色：Mg，青色：Be
+Fig.1-3 Structures ofnon-interpenetratingIRMOF-n (n =1-8,10,12,14 and 16
+许多具有沸石结构的MOF已经被成功合成，其中沸石咪唑骨架（Zeolitic
+ImidazolateFramework，ZIFs）的出现引起了相当多的关注[39。ZIFs是MOF的一个
+子家族，它是由M-Im-M组成（其中M代表Zn，Co阳离子，Im代表由自组装形成
+的咪唑基连接子）。ZIFs的结构类似于常规的铝硅酸盐沸石，其中通常为Zn²*离子发
+挥硅的作用，而咪唑起到沸石中氧原子的作用，金属-咪唑-金属（M-Im-M）的角度接
+斤145
+定性和化学稳定性，这使它们能够应用于众多场合。ZIF-8就是其中的一个典型代表
+它是由Yaghi等人在2006年首次合成（40]，拓扑结构为sod类型，具有大孔（11.6A）
+和高比表面积（BET：1630m²/g）的特征11。Kumar等人将ZIF-8和氧化石墨烯复合
+获得的复合材料可以高效存储COr42。Liu等人将ZIF-8和ZnzGeO4进行复合，得到
+棒的高结晶度。同时由于复合材料对CO2的强吸附性，他们发现ZnzGeO/ZIF-8材料
+比ZnzGeO4材料表现出更高的CO2光催化活性，该研究为实验中提高光催化CO转
+图1-4ZIFs的代表性品体结构（每个示例下的前三个大写字母代表沸石结构代码）
+Fig. 1-4 Representative crystal structures of ZlFs (the first three capital letters under each example stand
+PCN（PorousCoordinationNetwork）系列材科是由周宏才教授等人首先合成出米
+的45]。PCN系列材料被广泛应用于气体存储，氢气是理想的能源载体，周宏才教授团
+队发现具有互传结构的PCN-6展示出了优异的H存储量]。并且他们团队在298K，
+35bar的条件下使用PCN-11对CH4进行存储，结果显示PCN-11的甲烷超额吸附量
+为171VsTp/vt471，这非常接近美国能源部的目标，并且材料PCN-14在290K和35bar
+的条件下对CH4的绝对吸附量为230VsTp/V48，超出美国能源部的目标28%，展示出
+PCN系列材料在甲烷存储中的潜在应用，其中STP代表273.15K，1bar的条件。图
+1-5展示了PCN-14的3D框架示意图。同时该团队还发现PCN-5的孔径开口约为3.3
+A，CO和CH4动力学直径分别为3.3A和3.8A，受分子筛效应的影响该材料可以选
+择性地吸附CO2，而CH4分子却无法进入。
+1-5PCN-14的3D框架（a和b代表不同的方向）[4k
+Fig. 1-5 3D framework of PCN-14 (a and b represent different directions)
+MIL（MaterialsInstitutLavoisier）系列材料是由法国的Ferey教授团队首先发现
+的，该类材料展现出了良好的水稳定性和化学稳定性。Ferey等人研究揭示了拥有大
+孔的MIL-100和MIL-101在小于5MPa的高压和300K的条件下展现出很高的CH4
+和CO2吸附量，它们的结构如图1-6所示。并且在5MPa和304K的条件下，活化后
+的MIL-101对CO2的负载量高达390VsTr/VI50]
+图1-6MIL-101和MIL-100的结构0]
+Fig. 1-6 Structures of MIL-100 and MIL-101
+MIL-53是MIL系列材料的典型代表，它于2002年被首次合成出来，在受到外界
+刺激时会表现出著名的呼吸效应Bi，如图1-7所示。Zhong等人利用MIL-53材料进
+行苯胺/苯酚混合物的分离，然后发现MIL-53的柔性特征在增强苯胺/苯酚分离性能方
+1-7发生呼吸效应时MIL-53展现出的不同的孔道形态
+Fig. 1-7 The different pore morphologies exhibited by MiL-53 when the breathing effect occur
+UiO（UniversityofOslo）系列材料因其稳定性的结构而被深人地研究，该系列材
+料是由Lillerud教授团队发现的33。UiO-66是UiO系列材料中的代表，如图1-8所示，
+它由ZrsO4（OH）4节点组成的，其八面体几何结构中含有六个Zr离子，八面体各面中
+心有四个氧原子或羟基。UiO-66的表面积取决于制备方法和晶体缺陷，其范围为
+800~1200m2/g。中等温度下，UiO-66在广泛的pH范围内结构均保持稳定。而且，
+UiO-66在腐蚀性试剂（例如盐酸和胺）中也是稳定的4）。相比于许多其它MOF而言，
+高度稳定性的结构使得UiO-66作为催化剂有着特殊的优势。UiO-66还被应用于气体
+的吸附分离领域，Kim教授等人研究发现UiO-66对SF/N2的分离选择性高达74，分
+离性能明显高于Zeolite-13X和MIL-100-Fel351.并且该团队继续探究了在UiO-66中引
+入官能团对SF/N2分离的影响，他们通过比较带有NO2，NHz，CI，Br，I，Br2基团
+的UiO-66对该体系的分离性能，发现UiO-66-Br2对SF/N2的分离选择性最高，达到
+了220，分离性能明显高于未改性的UiO-66150。
+如图1-9所示，Yang等人将基团-Br，-NH2，-NO2，-（CF）2，-（OH）2，-SOH和-COH
+起到了关键作用。并且与传统的吸附剂相比，这种材料表现出兼具高吸附量和高选
+Fig.1-9 Ligands for modification of UiO-66
+CPL系列材科是由日本的Kitagawa教授团队首先发现的，该系列材料在气
+孔笼-孔道（Pocket-Channel）材料因含有孔笼和三维孔道面知名，其中的典型代
+表就是Cu-BTC，它含有船桨型二级结构单元Cuz（COO），其结构如图1-11所示。
+Cu-BTC自1999年被Williams等人成功合成出来后就成为被广泛研究的材料I61]。脱
+除溶剂后的Cu-BTC中的Cu原子含有不饱和金属位点，它能够对含有键的客体分
+子比如烯烃，炔经和CO2等产生特别强的吸附作用力，因此被广泛应用于气体的吸附
+Fig.1-10Schematie structure ofCPL-2
+除溶剂后的Cu-BTC中的Cu原子含有不饱和金属位点，它能够对含有键的客体分
+子比如烯烃，炔烃和CO2
+泛应用于气体的吸附
+随着计算机水平的不断进步，量子化学的计算方法不断丰富发展。量子化学的理
+论依据就是求解薛定谔方程，它的计算方法主要分为密度泛函理论（DFT），从头算
+法和半经验法31。目前量子化学的主要应用方向为物质结构与性能的探讨，微观化学
+反应的量子理论和表面量子化学等3。从微观层次解释实验并预测实验是量子化学追
+求的目标，材料学的快速发展为量子化学提供了不少新的研究方向，并不断促进量子
+化学的发展
+分子模拟方法相比于实验有着巨大的优越性，尤其是在高温高压或者试剂有毒的
+极端条件下。分子模拟方法包括不确定性和确定性两种。不确定性方法中的典型代表
+是蒙特卡洛（MonteCarlo，MC）模拟，以统计理论和概率为基础的MC模拟通过随
+机抽样统计平均得到宏观性质，通过MC模拟可以获得气体分子在材料中的吸附量和
+选择性[2)。确定性方法中的典型代表是分子动力学（MolecularDynamics，MD）模拟，
+以牛顿力学为基础的MD模拟既可以计算体系的平衡性质，又可以获取体系的动力学
+性质I62。MC和MD模拟均是由计算机研究宏观热力学性质的方法，虽然二者的计算
+精度不如量子力学高，但是它们的适用范围更广。
+1.4.1子化学在MOF研究中的应用
+解释了实验中该Cu-MOF高效分离CH/N的原因
+1-3使用
+OF两种不同孔道中CH和N的吸附结合位点：（a）（
+Fig. 1-i3 Using DFT to caleulate the adsorption binding sites of CH and N in two different channels of
+图1-12Mg-MOF-74的原子部分电荷∞31。颜色方案：Mg原子，绿色：O原子，红色：C原子，灰
+oms,green;O atoms,red;C
+atoms, gray; and H atoms, white
+基于MaterialsStudio中Dmol模块的DFT方法，Chang等人对选取的Cu-MOF
+进行了结构优化。如图1-13所示，他们发现疏水性孔道中CH4的H原子与骨架酯
+CH4中的H原子与骨架中的Cu原子的距离小于N中N原子与骨架中的Cu原子的距
+离，同时CH在两种孔道中的结合能均高于N在两种孔道中的结合能。该结果充分
+释了实验中该Cu-MOF高效分离CHN的原因
+1.4.2分子模拟在MOF中的应用
+（1）获取高性能材料
+2）研究构效天系
+分子模拟技术被广泛应用于气体的吸附分离研究。目前剑桥结构数据库
+（CambridgeStructureDatabase，CSD）中的MOF材料已经超过10万个，并且新的
+MOFs还在不断被合成，利用实验的手段在该数据库中寻找高性能材料会浪费大量的
+人力物力，而利用分子模拟对备选材料数据库进行高通量筛选可以有效解决该问题。
+高通量筛选可以在短时间内获取众多材料的性能，进而可以研究材料性能和结构特征
+之间的关系，分子模拟中的构效关系可以为实验寻找高性能材料提供有力帮助。Simon
+等人从650000个材料（包含虚拟MOF，实验MOF，ZIFS，沸石和多孔聚合物网络）
+系32]。图1-14说明了最大球体直径与可交付容量之间的关系十分明显，如果孔径变
+得太大，孔道中央的甲烷分子与骨架原子之间的范德华相互作用太弱，可交付容量将
+会变得很低。从图中可以直观地看出CH存储对应材料的最佳孔径为11A，这将为实
+验寻找存储CH4的高性能材料提供有用的指导
+图1-14司交付容量与最大球体直径之间的美系叫
+Fig.1-l4 Relationshipbetween the deliverable capacity and the largest included sphere diamete
+Wilmer等人生成了137953个虚拟的MOFs，并计算了每个MOF的孔径，表面积
+孔隙率和甲烷储存能力66]。他们发现超过300个MOFs的甲烷储存能力比任何已知材
+料都好，而且他们而还揭示了材料的构效关系。图1-15a显示了体积甲烷吸附量和体
+积比表面积之间存在清晰的线性关系，但吸附量与重力比表面积之间却不存在线性关
+系。图1-15b显示甲烷吸附量随重力比表面积的增大而增大，但当达到最佳重力比表
+面积时，吸附量开始减小，最佳重力比表面积的范围为2500~3000m²/g。图1-15c显
+示材料最佳孔隙率约为0.8.图1-15d显示数据库中的MOF具有一系列主要孔径尺寸，
+该图显示了高性能MOF（对应的体积CH吸附量为220VsT/V）的最佳孔径尺寸常
+图1-15从虚拟MOF数据库中获得的构效关系：体积CH吸附量与（a）体积比表面积：（b）
+力比表面积：（e）孔隙率：（d）主要孔径之间的关系
+e.1-isSuuctlire-nropentyre
+ationships obtained from the database of hypothetical MOFs
+elationship between volumctric methane adsorption and (a) volumetric surtace area; (b) gravimctnic
+surface area:(c)void fraction;(d) dominant pore diametei
+传统的分子模拟技术只能研究材料单个特征与性能之间的关系，而分子
+预测效果，他们发现支持向量机的预测效果最好，然后他们采用支持向量机进一步研
+究了材料的12个特征对材料性能的相对贡献。他们的这种研究方法为分子模拟研究
+材料的构效关系拓宽了新的思路。
+Fig.1-l6Relative importance ofmatcrialdcscnptors obtaincdtromgradicntboostngmachincstraining
+lraction,HDBM=highest dip
+hargc, MNC = most negative ch
+LPD=largestpore diameter,PLD=limiting pore diameter,SE=sum of cpsilons,GSA“gravimetn
+Gomar等人分析了5-氟尿嘧啶与ZIF-1、ZIF-3和ZIF-6结构中的Zn和N原子相
+互作用的径向分布函数（radialdistributionfunction，RDF）[69).如图1-18所示，Zn-N1
+Zn-F1和Zn-N1的RDFs表现出明显的第一个最大峰，表明5-氟尿密啶有从氟原子
+侧向ZIF-6的金属中心附近聚集的趋势。他们的径向分布函数分析完整地阐述了5-氟
+尿噬啶在ZIF-1、ZIF-3和ZIF-6中的吸附行为
+500 kPa (Right). Here C-gray, H-white, O-red, Cu-pinl
+图1-18在298K和1bar下，5-氟尿啶中原子和ZIFs原子之间的RDFs，（a，b）ZIF-1；（c，d）
+Fig. 1-18 RDFs for characteristic sites and atoms of 5-Fluorouracil around the (a, b) ZIF-1, (c, d) ZIF-3
+and (e, f) ZIF-6 structures at 298 K and 1 bar
+在众多研究中仍然被定义为新材料。根据混合物中不同组分的吸附/解吸行为的差异来
+分离混音物是典型的分离过程。浓缩、分离和纯化是分离过程的三大功能，它们在工
+业上扮滨着重要角色。蒸馏，结晶，萃取，吸附，以及膜分离是分离的常用过程，其
+中蒸馏十分耗能，它所消耗的能量约占化学工业耗能的90~95%，但是蒸馏并不适用
+于热敏性物质。气体混合物被广泛应用于各种生活和生产活动，例如，气体干燥、空
+气分离、合成气生产、二氧化碳捕获和污染物控制等。工业对新型吸附剂的合成需求
+越来越迫切，作为多孔材料的MOF表现出巨大的希望。实验已经证明，在分子水平
+上MOF的结构和孔性质的改变可以调节选择性吸附和分离性能。尽管目前通过选择
+性吸附进行实际分离的途径和实验室中的突破性实验都充满了障碍，并且路线尚未明
+确，但实验测量和理论分子模拟均表明，某些MOF对工业中的小分子气体具有很大
+的分离潜力。含有Cu开放金属位点的材料对含有键的低碳烃有着很强的特殊作用
+力，这对分离带有π键的低碳烃提供了新的机遇。目前CSD数据库收集了众多MOF
+材料，本工作使用程序从中挑选出了带有二级结构单元Cu2（COO）的MOF，建立了
+带有Cu开放金属位点的MOF数据库。
+GCMC）模拟。在这里，化学势、体积和温度是固定的，而分子的数量是允许波动的。
+它模拟了吸附剂内外的化学势和温度必须相等的实验平衡条件。化学势与气相压力通
+过一个状态方程联系起来，在压力增加时，通过一系列的模拟可以获得整个过程的吸
+附等温线。每个MC模拟都包含数百万个随机插入、删除、转换和旋转，它们根据基
+于Boltzmann类型加权的准则被接受或拒绝。然后在整个模拟过程中对结果进行平均。
+分子模拟在加深对吸附原理的理解方面发挥着越来越重要的作用，它正致力于MOF
+向实用化方向发展。在过去的几年里高通量筛选MOF已成为可能。到目前为止，大
+多数围绕MOF开展的工作都集中在小分子的吸附，气体储存和分离应用。面对数量
+几乎无限的金属-有机骨架材料，分子模拟中的高通量筛选技术为揭示材料的构效关
+（1）由于传统力场无法准确描述带有键的客体分子与Cu开放金属位点之间的
+相互作用，本工作开发了CH4与含有Cu开放金属位点的MOF之间的力场。然后将
+其用于C2H/CHa分离的大规模筛选，根据结果获得了选择性与材料特征之间的构效
+关系，并找出了3个可用于C2H/C2H分离的高性能材料。为了进一步提升分离性能，
+（3）通过分子势能模型的比较确定了可以准确描述SF6在骨架中吸附行为的模
+型。利用高通量筛选手段研究了带有Cu-OMS的数据库对SF/N2的分离效果，获取
+了材料选择性与特征之间的构效关系，并且获取的5个高性能材料对SF/N2的分离性
+本工作使用-F基团对高性能材料进行改性，然后发现了Cu-OMS和靠近不饱和铜位点
+的苯环上的-F基团对C2H的优先吸附起着显著的协同作用，该作用可以有效提高材
+料对C2H/C2H4的分离性能。
+第二章含有开放金属位点的Cu-MOFs用于C2H/C2H4
+分离的高通量计算研究
+2.2.1数据库的构建
+https://mofs-genomics.github.io/Cu-MOFs-Database-2019中是公开可用的
+2.2.2力场
+使用范德华（vdW）作用和库仑势描述目标体系中的相互作用。分别
+这些结果可为吸附分离法纯化C2H4提供有用的信息，也有助于对特定分离目标进行
+为了进一步丰富和完善含有Cu-OMS的MOF数据库，本工作将CSD数据库更新
+至2019年8月。目前，数据库中共有962个包含Cu-OMS的MOFs。利用开源软件
+Zeo++[i04]计算了MOF的孔道限制直径（PLD）、最大空腔直径（LCD）和可接触比表
+面积（Sac）。使用Myers和Monsonio5）提出的热力学方法计算了孔隙率（）和孔体
+积（Vor）。由于乙烯和乙炔的动力学直径（分别为4.2A和3.3A），本工作只考虑了
+PLD大于3.3A的MOF，使得C2H分子能够进入到材料孔道中，符合条件的MOF
+共有916个。这些MOF的结构数据库在网站
+使用范德华（vdW）作用和库仑势描述目标体系中的相互作用。分别使用带电刚
+性四点和六点模型描述了CH和CH4分子模型，C-H键长分别为1.071A和1.086A，
+C-C键长分别为1.211A和1.337A。使用Lennard-Jones（LJ）势能研究了客体分子
+间的vdW相互作用，势能参数从OPLS-AA力场获得I10]。采用了UFF力场参数下的
+LJ势能表示C2H4分子与MOF框架中除Cu以外的其它原子之间的vdW相互作用，
+并且用Morse势能研究了C-Cu的特殊相互作用。表2-1展示了本工作中所用到的客
+体分子势能参数。上述势能可由以下方程式定义：
+其中U表示在一定距离ry处原子i和j之间的势能。q表示原子i的部分电荷，e
+和a是LJ势能的能量和尺寸参数，r是原子间距离。Do是势能最小值，Ro是原子相
+互作用势能最小值处对应的距离，α是势阱的宽度。CzH2的Morse势能参数取自本课
+题组之前的工作[1l，而C2H4的Morse势能参数将在本工作中开发。
+表2-1本工作中用于CH和CH的势能参数
+Table 2-1Potentialparametersusedin thiswork for CHand CH
+为1:99的比例对MOF进行筛选。使用内部代码HT-CADSS（High-throughput-based
+ComplexAdsorptionandDifusionSimulationSuite）用于所有计算。将MOF骨架视为
+刚性，用14A的截断半径计算所有的vdw相互作用。用Ewald求和法计算了长程静
+电相互作用。对于高通量筛选，MOF中原子的电荷通过电离电荷平衡（I-QEq）方法
+进行分配[107。DFT计算与ChelpG方案相结合得出的静电势（ESP）电荷用作MOF
+骨架原子的部分电荷，已经被证明可以准确地评估被吸附物与MOF的静电相互作用
+[10%109]。在计算中，从所有末端都被氢原子饱和的优化结构中切割出分子片段。所有
+ESP电荷均由GAUSSIAN09程序[110在B3LYP/6-3G（d）级别上计算。对系统进行1x10”
+2.3结果与讨论
+APS=S
+中，分离势能是结合气体吸附量、选择性和成分对吸附剂分离性能进行评价的
+和DREIDING1在内的传统力场不能准确预测客体分子在骨架中的吸附行为。在本
+课题组之前的工作中[101]，开发了一个特殊的力场来准确描述C2H在含有Cu-OMS的
+MOF中的吸附行为。利用相似的方法，建立了一个新的力场来描述CH4与Cu-OMS
+之间的相互作用。最近，Kulkarni等人在DFT/VDW-DF2水平下研究了Cu-BTC中C2H4
+的吸附行为l15)。基于Kulkarni等人获得的相互作用能，本工作利用OPLS全原子力
+场重新拟合了C2H4分子的Morse势能参数。利用UFF力场中的LJ参数描述了MOF
+骨架原子（Cu除外）与CH分子中六个原子之间的vdW相互作用，并考虑了电荷的
+影响。C2H中C与Cu-OMS之间的特殊作用力用Morse势能表示，具体参数可见表
+2-2。从图2-1中可以看出，利用开发的新力场得到的相互作用能量曲线与在
+for CHe in Cu-BTC calculated using the fitted force
+tield (solid lines) with the DF'T data (filled circles) obtained by Kullkami et al
+装2-2拟合的客体分子与Cu-OMS之间的相互作用的Morse参数
+Table 2-2 Fitted Morse parameters for interactions between the adsorbate molecules and Cu-OMS
+为了验证新开发力场的准确性，采用GCMC模拟方法预测了C2H4在296K、0~0.1
+MPa下的Cu-BTC中的吸附等温线。如图2-2a所示，C2H4的GCMC预测等温线与
+Cu-BTC中的实验等温线一致[116。该Cu-BTC样品的结构参数如表2-3所示，与理论
+值非常接近，说明该样品活化效果好。计算得到的无限稀释吸附热为-38kJ/mol，非常
+接近实验值（-39kJ/mol）。这些结果表明，在本研究中开发的力场比Kulkami等人开
+发的力场表现得更好。如图2-2b所示，为了检验新力场的可移植性，进一步进行了
+GCMC模拟，得到了C2H4在PCN-16117，NOTT-101a时和NOTT-102a119中的吸附
+等温线。理论和实验上获得的MOF结构特性显示在表2-3中。如预期的那样，图2-2b
+三种材料的模拟结果与实验等温线非常吻合16。因此，新开发的力场适用于数据库
+图2-2（a）利用新力场模拟了296K下CH在Cu-BTC中的吸附等温线，并结合了实验数据和
+获取的吸附等温线与实验数据的比较
+表2-3MOF孔体积的计算值与实验值比较
+Table 2-3 Comparison of the calculated and experimental values of the pore volume of MOFs
+利用上述CH4的力场和之前开发的CH的力场110i)，在296K和0.1MPa下对
+利用上述C2H4的力场和之前开发的C2H2的力场01，在296K和0.1MPa下对
+1:99的C2H/C2H4混合物进行GCMC模拟，对916种MOFs的分离性能进行了大规模
+筛选评估。在吸附测量过程中，准确计算目标分子的选择性至关重要。在这项工作中，
+比较了传统UFF力场和新开发的力场所获得的C2H选择性。如图2-3所示，使用新
+开发的力场获得的选择性明显大于使用传统UFF·力场获得的选择性，这说明了开发
+CH新力场的必要性
+图2-3新开发的力场和传统UFF力场的选择性比较
+Fig.2-3 Comparison of the sclectivity obtained from the developed force field and the generic UFF
+能MOF相比，所获得的Cu-MOFs具有更好的C2Hy/C2H4选择性、工作容量和分离势
+过程的压力值，0.01MPa是解吸过程的压力值
+Fig. 2-4 Simulated C2Hy/C2Hs (1:99 mixture) separation performance in 916 MOFs with Cu-OMS
+Fig. 2-5 The structure-activity relationships of the 916 Cu-MOFs for C:Hz/C;Hl4 separation: (
+图2-5CH选择性与（a）最大空腔直径（LCD）：（b）孔体积（Vpor）的构效关系
+selectivityversuslargest cavitydi
+crsusporevolume(Vpar
+2-6b显示出了EBAMUS中的混合物CH和CH4分子的质心分布图。CH的吸附位
+点主要集中在Cu附近，而C2H的吸附部位不仅存在于Cu附近，而且存在于整个通
+道中，特别是在孔道中心。图2-6c展示了客体分子与EBAMUS中的骨架原子之间的
+径向分布函数g(r)。正如在S.J.Grabowski的研究中所指出的l129)，存在氢键的最重要
+的几何特征是质子与受体原子（HY）之间的距离短于其vdW半径之和。由于H和
+F原子的vdW半径之和约为3.1A(130，因此CH2的H原子与EBAMUS中的-F基团
+之间的相互作用距离（第一个峰的位置）大约为2.6A，该距离在形成氢键的范围内。
+而C2H4中H与-F基团之间的径向分布函数g（r）没有明显的峰值，这可以归结为C2H
+的四极矩小于C2H的四极矩31。因此，CH2与-F基团之间的相互作用比CH4更强。
+如图2-6c所示，在Cu-OMS与客体分子C原子的距离上也发现了类似的现象，这是
+因为Cu-OMS与CH2分子中C=C键的相互作用比C2H4分子中C=C键的相互作用强。
+CH4相比，这两种相互作用对C2H的优先吸附具有协同效应。
+Fig. 2-6 Center of mass (COM) probability density distributions of CyH2 (a) and CH (b) molecules in
+hemixtureadsorbedinEBAMUSatZ96Kand0.1MPa;(c)Radialdistributionfunctionsofvariou
+tom pairs between guest molecules and the framework atorms of EBAMUS
+withmaterialsreportedin the literature under ambient condition
+2.3.4新材料设计
+北京化工大学硕士研究生学位论文
+Table 2-5Structural characteristics ofthe topperformingMOF:
+考虑到这三种材料都含有F原子，进一步对材料进行了-F基团修饰，以提高分离
+性能。首先以EBAMUS为例，它的配体中只有一个F原子。使用-F基团取代苯环其
+它位置的H原子，得到了改性的EBAMUS（EBAMUS-3F），如图2-7a所示。引入-F
+基团后，EBAMUS-3F对C2H2的吸收量可从2.54mmol/g增加到2.88mmol/g，提高了
+为13%。与原来的MOF相比，选择性从55.4提高到73.8。APS和△Q也分别从67.2
+nmol/g增加到87.8mmol/g和230.2mol/L增加到291.9mol/L。为了确认改性机理，
+使用DFT方法计算了C2H2分子在EBAMUS-3F中的吸附位置构型，如图2-7b所示。
+详细的计算细节可以从本课题组之前的工作中获得l。如图2-10a所示，C2H中H与
+-F基团之间的距离为2.7A（CH2），该距离可以形成氢键。相比之下，由于CH的
+四极矩小于C2H的四极矩，因此-F基团与C2H中H之间的径向分布函数g（r）没有明
+显的峰值。同时CH中C与Cu的距离（2.7A）小于CH4中C与Cu（2.9A）的距
+离，这表明C2H2分子受到氢键和Cu-OMS的协同作用。因此，与C2H4相比，C2H
+在这两种相互作用的影响下被优先吸附，这导致改性材料的CH吸附量、选择性
+moietiesused for dicopper paddle-wheel andbenzene ringof terminal saturation are omitted for clarity
+优良材科具有重要的指导意义，
+图2-8PUPJER和改性的PUPJER的截取片段示意图（PUPJER-6F和PUPJER-2F），省略了片段末
+端的苯
+蓝色
+红色
+灰色和绿色分别指铜
+氧、
+碳和氟原子
+工作尝试将-F基团引入配体中间的苯环（参见图2-8b和图2-9b）。由于修饰的位置远
+离Cu，同一乙烘分子只能与-F基团或Cu-OMS形成相互作用，如图2-7d和图2-7f
+所示，因此在配体中间的苯环中引入-F基团的效果并不明显（参见表2-4）。这种在靠
+近不饱和铜的苯环中引入-F基团的改性方法，对实验人员改性用于C2H/C2H4分离的
+Fig.2-8 Cluster modelforPUPJER and modified PUPJER(PUPJER-6Fand PUPJER-2F),thebcnzene
+noieties atthe cnd ofthe fragmentwere omitted.Blue,red,gray andgrecn refer toCu,O.C andF
+Fig.2-9 Cluster model forWANHAX andmodifiedWANHAX (WANHAX-6F andWANHAX-3F),the
+oenzene moieties at the cnd of the fragmcnt were omitted. Blue, red, gray and green refer to Cu,O, C
+图2-10（a）EBAMUS-3F中客体分子与骨原子间的径向分布函数。（b）PUPJER-6F中客体分子
+pairsbetweenguestmoleculesandtheframeworkatomsinWANlAX-6F
+2.4本章小结
+综上所述，本工作在从头计算的基础上开发了一个精确的力场，以准确描述C2H4
+在含Cu-OMS的MOF中的吸附行为。利用GCMC模拟方法，结合已开发的力场，对
+916种含Cu-OMS的MOF材料进行了大规模的计算筛选，筛选出3种具有应用前景
+的材料。MOF的构效关系表明，LCD在5~10A，Vpore在0.3~1.0cm/g之间的材料是
+最有前途的用于C2H/C2H4分离的候选者。为了进一步提高分离性能，在前三种有前
+途的材料基础上设计了三种新的MOF，用-F基团修饰了靠近不饱和铜位点的苯环。
+与母体材料相比，它们对C2H2的吸附量、选择性、APS和△Q均有提高。结果表明，
+Cu-OMS与靠近不饱和铜位点的苯环上的-F基团对C2H2的吸附有协同作用，使得C2H2
+会被优先吸附，从而提高了C2H2的分离性能。这些结果可以为实验工作者通过引入
+合适的基团来合成最优材料提供指导，使多孔材料能够满足C2H/C2H分离的关键指
+第三章含有开放金属位点的Cu-MOFs对C2HC2H6分离
+的大规模筛选
+3.1前言
+CH和C2Hs是被广泛用作生产各种化学品的重要原材料[132]。例如，C2Ha
+油化工生产中最重要的烯烃原料，并且是生产聚合物（例如合成纤维和塑料）的起始
+为是石化工业中的重要过程，由于其巨大的需求，目前正在被广泛研究135.136。由于
+CH4和C2H具有相似的分子大小和挥发性，这使得C2H/CHs混合物的分离成为了
+一个具有挑战性的难题137]。在工业上，乙烯和乙烷的分离是在低温（183~258K）和
+高压（7~28bar）的条件下进行蒸馏实现的，乙烯/乙烷蒸馏的能耗占乙烯生产成本的
+75%至85%，这是一个十分耗能的过程37.138。因此，工业上非常需要具有低成本和
+节能特性的分离方法。在当前的替代方案中有蒸馏[139，吸附140.14]和膜分离42-145]，
+而用于乙烯/乙烷分离的吸附分离技术备受关注，它具有操作简便，能耗低，效率高和
+而用于乙烯/乙烷分离的吸附分离技术备受关注，它具有操作简便，能耗低，效率高和
+和x""堆积等超分子相互作用。而设计C2H选择性MOF的可行策略是增加C2H6
+Table 3-1 Potential parameters of C2He used in this work
+表3-1本项工作中用到的CH的势能参数
+Fig.3-1Comparison of simulatedand expcrimcntalvalues of C2Hsadsorption isothcmsin
+表3-2MOF孔体积的计算值和实验值比较
+Table 3-2 Comparison of the calculated and expcrimental values of the pore volume of MOFs
+3.3.2材料筛选
+研究材料的构效关系可以为实验合成高性能材料提供理论支持，大大加
+和Vp等结构属性与选择性之间的关系
+Fig.3-2 The structure-activity relationships of the S43 Cu-MOFs for CH/CH6 separation: (a
+electivity versus largest cavity diamcter (LCD):(b) selectivity versus pore volume (Vn
+属位点密度之间的关
+ig.3-3Relationshipbetween the selectivity of843 Cu-MOFs for CH/CHgseparation and the densi
+上与通道相似，而比率大于1时表示MOF具有通过猴窄通道连接的大腔体。由图3
+可知MOF对CH/C2H的选择性与孔道的形态有着较为明显的关系，具有高选择性
+的MOF对应的孔道形态较为规整（LCD/PLD的比率范围为1~1.5），而低选择性的
+MOF对应的孔道通常是通道和腔体尺寸差异较大（LCD/PLD的比率范围大于1.5）。
+PLD之间的美
+图3-5PACFOP的截取片段（a）和孔道结构（b）
+吸附性能指标APS作为评价好材料的依据。经过大规模筛选，确定了一个高性能材料
+PACFOPl160，，该材料可以正常活化并保持结构不变，它的LCD，Vpw和Cu开放金
+属位点的密度分别为9.8A，0.95cm/g和3.3mmol/cm。该材料的C2H4吸附量，选
+择性，工作容量和APS分别为8.48mmolg，35，7.41mmol/g和259mmol/g。目前文
+献中分离C2H4/C2H6性能最好的材料是UTSA-280l1611，选择性超过了10000。该材料
+具有合适的孔径可以有效阻断CH的通过，因此表现出对C2H4非常高的选择性。除
+了UTSA-280，筛选出的好材料分离性能明显高于文献报道的其它材料，比如
+3-3给出了高性能MOF的性能对比信息，图3-5a和图3-5b分别给出了高性能MOF
+CH分离性能的比较
+Table 3-3 Comparison of the separation performance of the high-performance MOF selected by
+screening with materials reported in the literature under ambient conditions
+Fig.3-5 Cluster model(a)andchannel structure (b) of PACFOF
+分布函数可以看出，骨架中的Cu与C2H中的C的距离大概为3.0A，骨架中的Cu
+与C2H中的C的距离约为6.2A。如图3-5a所示，PACFOP有两个不同类型的孔道。
+孔道I的PLD大小药为4.6A，孔道Ⅱ的PLD大小药为8.1A，这两类孔道都可以保
+证C2H和CH分子的正常进入。从图3-6b可以看出C2H分子主要分布在孔道1中，
+而C2H6分布在孔道ⅡI中。这是由于Cu-OMS与C2H4之间有着比较强的作用力，导致
+C2H4主要分布在Cu附近，而CH6主要分布在远离Cu的位置。
+CH4主要分布在Cu附近，面CH主要分布在远离Cu的位置
+图3-6（a）客体分子与骨架原子之间的的径向分布函数。（b）客体分子在骨架中微观吸附结构
+Fig. 3-6 (a) Radial distribution functions of various atom pairs be
+etween guest molecules and the
+ramcwork atoms of PACFOP.(b) Microscopic adsorption structures ofguestmolecules in th
+3.3.3材料改性与设计
+为了进一步提升高性能材料对C2HCH的分离性能并考察不同官能团对该体系
+分离效果的影响，本工作将基团-F，-CI，-Br，-CH3，-NH2，-NO2和-OH引I入到PACFOP
+中。计算中合理地对材料进行改性有助于实验上成功合成对应的改性材料。考虑到改
+性位置的合理性，本工作只对图3-5a中圈出位置的H原子进行改性，即使用上述基
+表3-4改性材料对CH/CH分高性能的对比
+Table 3-4 Comparison of modified materials for separation performance of CH/CH
+Fig.3-7 Structural diagram of PACFOP-OH,the hydrogen atom in the unmodified position is omittec
+表3-4中列出了引入不同基团的母体PACFOP对C2H4/C2H6分离性能的对比，从
+表中的APS值可以看出多数基团对应的改性材料分离该体系没有明显的效果，而引入
+OH的改性材料PACFOP-OH对C2H/C2Hs的分离效果有了显著提高，图3-7是材料
+PACFOP-OH的结构图。与母体材料PACFOP相比，PACFOP-OH对C2H4的选择性和
+APS分别提升了31.4%和35.3%。而且改性后的该材料孔道ⅡI的PLD约为6.9A，客
+体分子可以正常进入该孔道。该材料PACFOP-OH对客体分子C2H4和C2H的无限稀
+释吸附热分别为31.6kJ/mol和21.8kJ/mol，而母体材料PACFOP对C2H4和C2Hg的无
+限稀释吸附热分别为25.1kJ/mol和21.6kJ/mol。这说明改性后的PACFOP较母体材
+料而言，对C2H4的吸附作用力明显增强，而对C2Hs的吸附作用力基本不变，这是改
+性材料对C2H/CH6分离性
+曼原因
+本工作在前一章节开发的Cu-OMS与C2H之间力场的基础上进一步确定了可以
+准确描述C2H分子在MOF骨架中吸附行为的力场。通过构效关系分析可以发现高性
+能MOF对应的LCD在5.7~15.0A，Vpo在0.3~1.2cm/g，Cu开放金属位点的密度在
+3.0~4.8mmol/cm²，LCD/PLD的比率在1~1.5之间。根据模拟结果确定了一个可以高
+效分离C2H4/C2H6的MOF，通过分析高性能材料的分离机理可以发现开放金属位点对
+C2H4/C2Hs的分离起着重要促进作用。使用7种常见基团对确定的高性能材料进行改
+性，发现引入-OH的母体材料对C2H/CHs的分离效果有了明显的提升。本章获取的
+模拟结果为实验寻找高效分离CH4和C2H混合物的材料指明了方向，节省了实验寻
+第四章含有开放金属位点的Cu-MOFs对SF/N2分离
+的大规模筛选
+吸附（VSA）[73I等吸附分离工艺可能是有前途的选择。在PSA或VSA工艺中，有几
+种材料可以用作SF6分离的吸附剂。但是SF6的分离使用沸石174-17%，柱状粘土[177和
+活性炭178，179等常用吸附剂存在极限。它们对SF6具有很强的亲和力，使得解吸过程
+个含有Cu-OMS的MOF研究它们对SF/N的分离性能
+SF。在研究中存在多种不同的势能参数模型，如六点模型，七点模型等，其中七
+点模型中又分为带电模型和不带电模型。为了比较不同模型间的区别，根据不同模型
+将使用GCMC模拟获取的计算结果进行对比。针对六点模型和七点不带电模型使用
+UFF力场中的LJ参数描述MOF骨架原子与SF6分子中各个原子之间的vdW相互作
+用。而针对七点带电模型使用vdW作用和库伦静电势来描述MOF骨架原子和SF分
+子之间的相互作用。计算中所用到的SF势能参数如表41所示I184)。
+表4-1本项工作中用到的SF的势能参数
+Table 4-1 SFepotential energy parameter usedin this work
+本工作以经典HKUST-1吸附SF的实验数据为基础，通过模拟数据与实验数
+本工作以经典HKUST-1吸附SF6的实验数据为基础I3I，通过模拟数据与实验数
+据的对比确定
+SF六点模型和七点模型的可靠性，
+据的对比确定SF六点模型和七点模型的可靠性。模型对比中用到的HKUST-1的实
+验孔体积为0.585cm2/g，这与理论计算值0.622cm/g非常接近，为了得到更合理的
+吸附等温线对比，将实验获取的吸附量进行同比例的放大，然后再与模拟获取的SF
+图4-1使用不同势能参数获取的SF。吸附等温线对比
+Pig.4-lComparison ofSF6adsorptionisothcrms obtaincdusingditle
+crentpotentialencrgyparameter
+图41展示了使用三种不同势能参数获取的SF6吸附等温线与实验吸附等温线的
+对比。从图中可以看出使用七点带电模型获取的SF吸附等温线与实验值更为接近，
+七点带电模型在SF6的吸附模拟过程中也较为常用&，186。而七点不带电模型和六点
+模型获取吸附等温线均高于七点带点模型。经过模型比较，选用SF6的七点带电模型
+进行GCMC模拟计算
+N2分子势能参数来自于TraPPE力场[Iim，它的分子模型是经典的三点模型，其中
+两个N原子分别是两个作用位点，而N分子的质心（COM）是第三个作用位点。N-N
+的键长为1.1A，N原子的LJ势能参数为o为3.31A，&为36.0K。两个N原子带有
+的负电荷为-0.482e，为了保持电荷中性，将+0.964e的电荷置于N分子的质心（COM）
+上。本工作使用vdW作用和库伦静电势来描述MOF骨架原子和N2分子之间的相互
+上。本工作使用vdW作用和库伦静电势来描述MOF骨架原子和N2分子之间的相
+作用。
+4.2.2模拟细节和方法
+其中，Q为材料对客体分子的无限稀释吸附热，为材料的孔隙率。
+为了保证模拟获取结果的准确性，在进行筛选之前需要力场验证。
+在材料三维尺度上选用周期性边界条件。截断半径设置为14A，用于计算各种类型的
+vdW相互作用。而长距离静电相互作用使用Ewald求和方法计算。针对模拟过程中的
+流体逸度，使用Peng-Robinson（PR）方程来计算。在吸附模拟过程中，先使用1x10”
+步使系综达到平衡，然后再进行1×10”步用以统计各种热力学性质。客体分子SFs和
+N采用的势能参数模型均为带电模型，在大规模初始筛选过程中需要确定MOF骨架
+上的原子电荷，本工作采用电离电荷平衡方法（1-QEq）[07进行MOF骨架原子的电
+荷计算。使用更精确的静电势（ESP）电荷对筛选出的高性能MOF的骨架电荷重新
+计算，用以进一步确定材料对SF/N的分离性能。由于SF的动力学直径为5.5A，
+为了保证客体分子SF6能够进入材料孔道中，删去了数据库中PLD小于5.5A的材料，
+数据库中用于计算的材料总共剩余610个。
+吸附度（adsorbility，AD）是本课题组研究CH/H分离时提出的概念[]，它可
+的SF分子的七点带电势能参数模型进行力场验证，由图41所示，修正后的实验吸
+附等温线与模拟获取的吸附等温线基本一致，这表明本工作所选用的势能参数可以准
+确描述SF6分子在MOF骨架中的吸附行为。而所选用的N2三点模型的吸附等温线己
+经在本课题组之前的工作中进行了验证I21，通过验证表明模拟获取的Cu-BTCl1]，
+一致，证明该分子力场可以用于大规模筛选研究。
+了解吸附剂的性能与其结构特征之间的关系十分重要，研究构效关系不同于单个
+该指标与LCD，Vpor，
+Cu开放金属位点密度和1/AAD之间的关系，并给出
+了对应于高选择性的最佳特征区间，
+图42用于SFN分离的610个Cu-MOFs的构效关系：（a）选择性与最大空腔直径（LCD），（b）
+选择性与孔体积（Ve），（c）选择性与比表面积（S），以及（d）选择性与孔限率（）。散点
+颜色的不同表示对应材料的1/A4D值存在差异
+Fig. 4-2 The structure-activity relationships of the 610 Cu-MOFs for SF/N separation: (a) selectivity
+scatter color indicates the difference of 1/△AD value of corresponding material
+了MOF对SF/N的选择性与LCD之间的关系。合适的孔道尺寸能够对气体分离起
+到至关重要的作用，当LCD处于最佳区间5.9~12.1A时，材料对SF6的选择性最高。
+图4-2b描述了MOF对SF/N2的选择性与孔体积之间的关系，当Vpxv处于最佳区间
+0.3~1.1cm2/g时，材料对SF6的选择性最高。随着LCD和Vpw的增大，材料对SF6
+的选择性逐渐降低，这是由于在大的孔腔中，客体分子与材料骨架之间的距离往往较
+远，不利于区分二者之间的相互作用。从图4-2a和2b中也能看出并不是所有在最佳
+LCD和Vpor区间的材料都表现出高选择性，这同样是由于分离受到多种因素的影响。
+相比于选择性与LCD和
+之间的关系，
+Fig. 4-3 Relationship between the selectivity 610 Cu-MOFs for SF6/N separatior
+Cu-MOFs的选择性与Cu开放金属位点密度之间的关系
+nd the density of Cu open metal sites
+大规模筛选的目的就是为了获取高性能材料。高性能材料应当兼具高选择性和高
+工作容量两个特点，而APS可以同时衡量这两个特点。使用APS作为筛选好材料的
+指标，经过筛选确定了五个好材料，他们分别是LUSYEF[19]，GAFRUDI194]，
+MIZPUJ[195]，LAYQUA[196]和HIDVAU[197]。为了进一步评估这五个好材料的性能，本
+工作确定了这几个好材料的骨架原子的ESP电荷，然后对这些材料重新进行GCMC
+模拟计算。这五个好材料对SF/N2的分离选择性的范围是465~613，对SF6的工作容
+量范围为5.65~6.58mmol/g，APS的范围为2815~3793mmol/g-为了方便与目前SFs/Nz
+分离的最高水平进行对比，调研了实验中文献报道的相关材料。实验中SFN混合条
+件下选择性最高的MOF是Cu-MOF-OMel]，选择性达到了361，而吸附量最高的材
+料是HKUST-11183]，达到了1.41mmol/g。GCMC模拟获取的五种高性能材料无论在选
+择性还是吸附量上都高于目前实验报道的材料，这说明带有开放金属位点的Cu-MOFs
+是高效分离SF/N的备选材料。表4-2和表4-3分别给出了高性能MOF的性能比较
+信息和结构信息，图4-4和图4-5分别给出了高性能MOF的晶体片段和孔道结构。
+表42在环境条件下筛选确定的5个高性能MOF与文献报道的材料对SFN分离性能的比较
+omance MOFssclected
+screening with materials reported in the literature under ambient conditions
+表4-3确定的前5个MOF的结构特性
+Table 43Structuralcharacteristicsoftheidentified top5MOF:
+图4-4五种好材料的截取片段：LUSYEF（a），GAFRUD（b），MIZPUI（e），LAYQUA（d）和
+HIDVAU（e）.为了清晰，H原子和用于末端饱和的苯环被省略。（原子颜色：Cu，粉色：O，红
+HlDVAU (e).H atoms and the
+y.(aomcolors
+使用LUSYEF为例进一步分析了高性能材料分离SF/N的机理。从图4-6可以看
+图4-6SF和N分子在LUSYEF中的微观吸附结构
+Fig. 4-6 Microscopic adsorption structures of SFs and N2 in the framework
+4.4本章小结
+在确定SF6和N合适力场参数的前提下，根据材料基因组学的思想对含有
+Cu-OMS的MOF数据库进行大规模筛选。经过筛选，确定了材料结构LCD在5.9~12.1
+A，Vpon在0.3~1.1cm/g，Sac在300~3000m²/g，p在0.34~0.72，Cu开放金属位点的
+密度在1.6~6.3mmol/cm”之间时，材料会对SFs有着较高的分离性能。并且确定了五
+个可以高效分离SFN的材料，它们的分离性能均超过了目前文献报道的其它材料。
+研究发现拥有开放金属位点和适当孔径尺寸的MOF可以高效分离SF/N2。本工作的
+结果可以为实验上合成高效分离SFN的材料提供指导。
+第五章结论
+（1）本工作开发了可以准确描述CH4分子和Cu开放金属位点之间相互作用白
+力场，进而针对C2H/CH4分离进行大规模筛选，发现高选择性材料的LCD和孔体和
+最佳范围分别为5~10A和0.3~1.0cm/g，并得到了三个高性能材料。为进一步提
+材料的分离性能，向高性能材料引入-F基团，确定了Cu-OMS与靠近不饱和铜位点
+苯环上的-F基团对C2H吸附有协同作用，可以有效提高C2H的分离性能。
+参考文南
+MicroporousMesoporousMater.,2004,73:3-14
+frameworks[J].Chem.Soc.Rev.,2009,38: 1477-1504
+nd MOF-Derived Nanocatalysis[D].Chem.Rev.,2020,120:1438-1511
+[22] BILAL M, ADEEL M, RASHEED T, et al. Multifunctional metalorganic frameworks-basee
+structure analysis[0]. TrAC, Trends Anal. Chem., 2018, 102: 290-310
+framework composites[J]. J. Mater. Chem.A.,2013,1: 13033-13045
+ramework to the pore[J]. Chem. Soc. Rev., 2018, 47: 533-557
+24] DU Q, PENG J, WU P, et al. Review: Metal-organic framework based crystalline sponge method for
+alkylation reactions[D]. Appl. Catal., A, 2010, 382: 246-253
+Langmuir, 2008, 24: 6270-6278
+[39] WANG B, COTE A P, FURUKAWA H, et al. Colossal cages in zeolitic imidazolate frameworks a
+selective carbon dioxide reservoirs[J]. Nature, 2008, 453: 207-211
+ramew0rks7L Pr0c. Natl. Acad. Sci. 0. S.A, 2006, 103: 10186-10191
+Adsorption Affinity[0]. J.Am.Chem.Soc., 2006, 128: 11734-11735
+Frameworksby Ligand DesignJ1.Acc.Chem.Res,2011,44:123-133
+Langmuir, 2014,30:12229-12235
+hermoresponsive CPL-1[J].Chem.Eng-J.,2017,328:360-367.
+[48]MA S,SUN D,SIMMONS J M,et al.Metal-Organic Framework from an Anthracene Derivative
+[Cus(TMA)(H;O)s][]. Science, 1999, 283: 1148-1150
+[65] ZHOU F, ZHENG B, LIU D, et al. Large-Scale Structural Refinement and Screening of Zirconiun
+Metal-Organic Frameworks for HS/CHa separation[J].ACS Appl. Mater.Interfaces,2019,11:
+ a Supported lonic Liquid Phase
+2017, 9: 29374-29379
+[8S]JIA X,YANG Z,WANG Y, et al.Hollow Mesoporous Silica@Metal-Organic Framework and
+LB,CUIX,ONOLA
+with Record Selectivity and Productivity[D]. Adv. Mater., 201 7, 29: 1704210
+tructure of the carboxylate containing metaHorganic frameworks Cu-BTC, Mg-MOF-74, and UiO-6o[J
+Tameworksforprecon
+hm[J]. Sci. Adv., 2016, 2: e1600909
+lonization in MetalOrganic Frameworks[J]. 3. Phys. Chem. C, 2015, 119: 456-466.
+Molecular Simulations: The Effect of Strong Coulombic Interactions[J]. J. Chem. Theory Comput., 2008.
+Simulations[J]. J. Phys. Chem., 1990, 94: 8897-8909
+[113] RAPPE A K, CASEWIT C J, COLWELL K S, et al. UFF, a Full Periodic Table Force Field for
+[118] LIN X, JIA J, ZHAO X, et al. High H Adsorption by Coordination-Framework Materials[D]. Angew.
+[122] KO N, HONG J, YOU L, et al. Chemical Property Change in a Metal-Organic Framework by Fluorc
+FunctionalityD]. Bull. Korean Chem.Soc., 2015, 36: 327-332.
+acetylene capture from ethylene[D]. Science, 2016, 353: 141-144
+Metal-Organic Frameworks via Machine Leaming[J]. Matter, 2019, 1: 219-234
+propylene from propane[3]. Science, 2016, 353: 137-140
+with a Novel Solvent[D]. lnd. Eng. Chem. Res., 2005, 44: 7505-7510.
+845-849.
+153] KISHIDA K, WATANABE Y, HORIKE S, et al. DRIFT and Theoretical Studies of Ethylene/Ethank
+Mechanism[J]. J.Am. Chem. Soc., 2010, 132: 17704-17706
+separations[J]. Chem. Eng. Sci., 2016, 139: 49-60
+Angew, Chem. Int. Ed., 2002, 41: 2821-2824
+netal-organic framework[0]. Nat. Mater.,2018,17: 1128-1133
+Separations[J].J.Am. Chem. Soc., 2017, 139: 15363-15370.
+Microporous Mesoporous Mater., 2014, 190: 356-361.
+Indirect Heating TSA Process for VOC Removal[J]. Adsorption, 2003, 9: 77-85
+Microporous Mes0porous Mater.,2012,156: 115-120
+Frameworksfor CH/HSeparation[J].AIChE J.,2012,58:2078-2084
+The positional effect of th
+[198]常苗，刘磊，阳庆元，等.水热稳定金属-有机骨架材料用于高效分离SF/N混合物的研究[]
+化工学报,2020,71:320-328
+[196] CHEN F, BAI D, JIANG I
+致谢
+经过阳老师三年系统的科研训练，我学会了如何思考问题和解决问题。阳老师在自己
+的科研领域中做出了许多的成绩，这与阳老师对工作的热爱与勤奋密不可分。阳老师
+废寝忘食的工作精神值得我去学习，今后在工作岗位上我将严格要求自己，不断督促
+自己要勤奋工作。也要衷心感谢刘大欢老师，刘老师在我课题遇到困难的时候提出了
+建议，同时在我论文修改的时候提供了很大的帮助
+感谢已经毕业的张策师兄和李春梅师姐对我的科研和生活的无私帮助，感谢
+感谢我的论文评阅人以及参加我毕业答解的评审专家，相信你们的批评和指正将
+有助于我的论文更加完善
+2020年5月29日
+北京化工大学
+研究成果及发表的学术论文
+发表及已接收的论文
+作者及导师简介
+间历任讲师和副教授：2010一2011年期间赴法国科学研究中心（CNRs）、蒙彼利埃二大
+从事访问学者研究，2011年年底回国后，被聘为北京化工大学化学工程专业见习教授，
+2013年被聘为教授。
+本科
+2013一国家自然科学基金委优秀青年基金
+硕士研究生学位论文答辩委员会决议书
+硕士研究生学位论文答辩委员会决议书

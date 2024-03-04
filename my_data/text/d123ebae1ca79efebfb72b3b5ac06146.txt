@@ -1,0 +1,375 @@
+Recent trendsin environmentally friendly water-borne polyurethane coatings
+Institute of Chemistry, Government College University, Faisalabad 38030, Pakistan
+(Received 15 August 2015 • accepted I1 Noverber 2015)
+AbstractEnvironmentally friendly waterborne polyurethane (WPU) coatings are used extensively due to their low
+VOCs emission than solvent based PU coatings. Additionall, WPU coatings have low temperature flexibility, pH sta-
+bility, water resistance, superior solvent resistance, outstanding weathering resistance and desirable chemical and mech
+anical properties. This review provides an overview on the recent developments of WPU coatings and their value added
+applications in the coatings and paint industry: UV-cured WPU coatings provide an important class of green and eco
+friendly coatings with outstanding mechanical properties and rapid curing system. Hyper-branched polyurethanes
+(PUs) show interesting properties, such as high solubility, reactivity and good rheological behavior owing to muliple
+end groups, compact molecular structure and diminishing chain entanglement. Inherently: WPU coatings have reduced
+stiffness and mechanical strength that can be increased by the addition of nanoparticles, like Ag, Cu, TiO, SiO, and
+many more. Fire retardants, commonly phosphorous, are incorporated in the WPU' structure to increase the flame
+retardancy of WPU' coatings.
+Keywords: WPU, Eco-friendly Coatings, UV-WPU, Hyperbranched, Flame Retardan
+INTRODUCTION
+A variety of polymeric systems are employed in coating many
+products of everyday life including airplanes, automobiles, oil tank-
+es, container ships, industrial machines, household refrigerators
+etc. [1-3]. Organic coatings protect the materials against aggres-
+sive environments such as moisture, radiation, biological deterio-
+ration, mechanical and chemical destruction as well as providing
+color and gloss to the material [4,5]. However, most of the tradi-
+Jo xumoure a8mq e ueuoo sfugeoo spue8so auoq-uaps euon
+volatile organic compounds (VOCs), which are detrimental to the
+atmosphere and human health [6]. Therefore, environmentally
+friendly coatings, such as waterbome coatings, high-solid content
+to be a proper substiute for the traditional solent-based coatings
+coatings powder coatings and radiation curable coatings, have proven
+[7-10]. Among them WPU coatings have been paid progressive
+attention in the coating industry due to their low temperature flex-
+ibility zero or less VOCs, water resistance, pH stability, superior
+solvent resistance, excellent weathering resistance and desirable
+chemical and mechanical properties [11-19]. UV-cured WPU coat-
+ing technology is used extensively due to their environment friendlly
+behavior, high curing speed and low energy consumption [20], The
+mechanical strength and stiffness of WPU flms is classically infe-
+rior to most solvent borme PU films; hence, incorporation of nano-
+particles in WPU enhances the stiffness and mechanical strength
+[21-28]. Hyperbranched WPUs have been widely used to formu-
+late high performance coatings, while fire resistance WPUs are em-
+Polyurethanes
+elastomers, rigid insulation, soft flexible foam, elastic fiber or as an
+integral skin. The development of PU adhesive can be traced back
+more than 50 years to the pioneering efforts of one man's genius.
+Otto Bayers (1902-1982) and his co-workers work dates back to
+the beginning of World War I, when it was first developed as a
+replacement for rubber. Bayer is recognized as the “father” of the
+PUs industry for his invention of the basic disocyanate polyaddi-
+tion process During World War II PU coatings were used for the
+impregnation of paper and the manufacture of mustard gas resistant
+garments, high-gloss airplane finishes and chemical and corrosion-
+resistant coatings to protect metal, wood and masonry [29]. At the
+same time, the fist metal-to-plastic urethane adhesives were devel-
+oped The WPU was also being developed, with PU latex claimed
+to be useful as an adhesive disdosed in 1961 by DuPont [30]. With
+the development of a low-cost polyether polyol, flexible fams opened
+the door to the upholstery and automotive applications we know
+today. Today, PUs can be found in virtually everything we touch
+desks, chairs, cars, dothes, footwear, appliances, beds as well as the
+insulation in our walls and roof and moldings on our homes [31-36].
+WATER-BORNE POLYURETHANE (WPU) COATINGS
+Due to strict regulations all over the world about volatile organic
+compounds (VOCs), which affect health and atmosphere, envi-
+-1daoe pue endod Suoooq ane sfungeoo Apuapy Ageuauuon
+able to meet the growing consumer demands but maintaining ex-
+cellent performance and cost. Among these low VOCs technolo-
+gies the non-solvent based system is the best choice. Particularly,
+Iable 1. Composition and :
+because water is a cheap, non-toxic and environmentally benign
+solvent, which may increase the rates and effectiveness of a wide
+variety of organic reactions [37-39]. Therefore, WPU material has
+gained an increasing attention in last few decades owing to having
+several advantages like good abrasion resistance, flexibiity hard-
+ness, impact resistance, gloss, chemical resistance, reduced flam
+mabity, durabiity, high adhesive strength, easy eaning, low viscosity
+and weather-ability in adition to zero or low emission of VOCs
+[4048]. The viscosity of the WPU dispersion does not depend on
+molecular weight of the polymer; therefore, high solid content WPU
+dispersions can be prepared having a high molecular weight films
+with excellent quality merely by physical drying, In this short review
+environmentally friendly WPU coatings are highlighted in addi
+tion to an outline of potential applications that have been investi
+Fig. 1. (A) Schematic representation of WPU dispersion; (B) Scher
+micelles formed by(a)Gationc and (b) anonuc PU1onx
+gated up till now, which are summarized in Table 1 [49-100]
+which PU particles are dispersed in aque
+ous phase [101]. Inherently, polyurethanes are not dispersible in
+COXILIL
+water due to presence of hydrophobic isocyan
+water), while WPUs are dispersible into aqueous media due to pres-
+ates (also react with
+ence of ionic groups (ie., PU ionomers) in linear thermoplastic
+PU backbone (Fig. 1(a)) [102,103]. PU ionomer is defined as a co-
+polymer containing a PU backbone with the repeat units carrying
+pendant acid groups, which are comletly o partially nutralied
+to form salts. These ionic groups act as an intermal emulsifier [104,
+105] may be (i) cationic-like quaternary ammonium groups, (i)
+anionic-like carboxylated or sulfonated groups (ii) or nonionic,
+eg, pohyos with ethylene xide end groups 106] Schematic dia-
+mers in water are showm in Fig, 1(b) [107]. Types of ionomers, choice
+of isocyanate and types of polyols are major factors which influ-
+ence the performance of the resulting WPU dispersions [108-112].
+1. Synthetic Processes for WPU Dispersion
+Several synthetic routes are developed to obtain WPU disper-
+sion, including (i) acetone process, (i) melt dispersion process, (i)
+[S11-E11 sd suuax (at) pue saood upqu podad
+However, the first step is common to all of these processes, that is,
+the reaction of appropriate diols or polyols, generally macrodilos
+like polyethers or polyesters, with a molar excess of disocymates or
+reaction mixture a diol with an ionic group or a nonionic group
+polyisocynates to yield a low molecular weight prepolymer. In the
+is usually an intermal emulsifier which becomes part of the main
+chain of the prepolymer. Dispersion of the prepolymer in aqueous
+media and the molecular weight buildup is the key step in which
+the various synthetic pathways differ [116-119]. The most well-
+known process for synthesizing WPU dispersion is the prepoly-
+mer blending process and acetone process (Fig, 2(a) & (b) The
+WPU dispersions properties are chiefly determined by hard and
+process [129]
+soft segment interactions and by ionic groups interactions. Recent
+studies [120-129] established that the segmented structure, ionic
+group content, moleular weight of the polyol, the kind of chain
+extender and the hard and soft segments ratio decides the WPU
+dispersions properties A variety of polyos, depending on the required
+peoperties, are used in WPU dipersion synthes to change its struc-
+ture and consequently design their properties. The most common
+macrodiols used in PU synthesis are polyester, polyether, and poly-
+carbonate and polycaprolactone diols.
+2. One-component WPU Coatings
+acquired a con-
+Highly crosslinked PU films are formed, u
+temperature, radiation oe atmospheric oxygen. Hydrogen bonding
+in PU plays an essential role in determining the macroscopic prop-
+Fig. 3. The AFM (a) and SEM (b) images of low gloss WPU films [139]
+Fig. 4. Industrially important low viscous polyisocyanate cross-linker [146]
+Recent trends in environmentally friendly water-borne polyurethane coatings: A review
+physical crosslinks, thereby, strengthening the PU matrix and in
+creasing its stiffness and strength [130-132]
+2-1. One-component WPU Coating for Leather Material A Novel
+Coating Material
+Coatings, having low degree of gloss for leather materials, are
+-gap pm uale Buu u&aou jo uopppe q pamdand uao
+nite particle size distribution (such as SiO, particles) [133,134] But
+there is a progressive loss of matting agent with time, which leads
+to inrease n the degree of glos ofleather arfaes, bease of thir
+incompatibility with the other organic constitutions of coatings
+Therfore, matting agentsare nt fmlyatached and an e rbled
+out from the coating easily [135-139]. Currently, one-component
+WPU matting dispersions without inorganic matting agents have
+been paid more and more aention in the coating industry. One
+component WPU coatings with low gloss are used to alter the gloss
+of leather. Atomic force microscopy (Fig 3(a) and scanning elec-
+tron microscopy (Fig, 3(b) images of the WPU flm showed that
+the micro surface was coarse with a number of spherical granules
+that made the incident light to bend strongly, which is important
+in producing low gloss leather surface.
+Two-component waterbone PU (2K-WPU) coatings, usualy
+used in wood and furniture industry [140], are produced with the
+aim to increase woeking temperature range and final performance
+by the introduction of chemical crolinker in the PU structure.
+One component of 2K-WPU is usuall synthesized by polols, diso-
+cyanates and hydrophilic group by using the acetone process or a
+prepolymer mixing process Hardener or crosinke, another com-
+r pue sde o papap Xuouxoo s dM-X jo uuod
+matic isocyarnates [141-145]. Some of the industrially significant low
+viscous polyisocyanate crolinkers for the production of thermo-
+[91]   u umous ane sfueoo d pos u as
+UV-CURABLE WPU COATINGS
+During the last decade, UV-cured waterborme coatings technol-
+ogy has been increasingly successful in the industrial coating mar-
+ket due to less environmental impact along with novel performance
+areas proper to protecting the material in aggressive conditions.
+The UV curable coatings are cured in a short time under UV irra-
+Fig, 5. Preparation of acrylic-terminated PU pre-polymer for UV cure coatings [169]
+diation that provides the coatings with exceptional performance
+[147-152]. The UV-curable WPU has the advantages of both UV
+technology and waterbome coatings [153-155]. Atractivly, UV-
+curable WPU (UV-WPU) coatings have been most generally stud-
+ied because of their non-toxicity. versatility, chemical resistance
+and escelent mechanical properties [156-160] The UV-WPU coat-
+ings formulations typically contain three chief components: oligo-
+mer, photoinitiator and reactive diuent [161]. The oligomer is func-
+tionalized with reactive ending groups that contribute to the flm
+production process and the visco-elastic peoperties of the final cured
+film are govemed by the structure of the oligomer. The reactive
+diluents reduce the viscosity of the resin and copolymerize with
+oligomer to give the crosslinked film [162]. There are three main
+kinds of oligomers extensively used in free radical UV-cured coat-
+ings: epoxy acrylate, polyester acrylate and urethane acrylate oligo-
+mer [163-168]. Usually, acrylic or methacrylic monomers are used
+as reactive diluents (Fig. 5) for free radical based UV-curing sys-
+tems [169].
+tance to solvents and thermal stability than thos
+se of traditional sol-
+vent-based PU coatings and their tensile strength is reduced severely
+at an external temperature higher than 80 °C [170,171]. Melamine,
+a nitrogen-rich chemical, can be broadly used as additive to gener
+ate melamine resin, which is a synthetic heat-resistant polymer
+[172]. The TGA curves of the UV-WPU films, Fig, 6(left), showed
+that the melamine modified UV-WPU film has higher initial ther-
+mal decomposition temperature than film without melamine. The
+Tg of the unmodifed film is lower than the modified film due to
+increase in rigidity of content of the PU chain as ilustrated in the
+DSC curves (Fig, 6-right).
+HYPERBRANCHEDWPUCOATINGS
+molecules with three-dimensional molecular
+architectures, which
+their customary linear counterparts due to thei
+ unusual molecu
+Fig. 6. The TGA curves of the UV-WPU films at the heating rate of 10°C/min (left) and The DSC curves of the UV-WPU films at the heat
+ing rate of 20 °C/min (right) [172].
+polymers show the most interesting properties, such as high solu-
+bility and reactivity and good rheological behavioe; thus they have
+great potential applications. Various types of hyperbranched poly-
+Fig, 7. The steps involved along with the reaction
+for the synthesis of different chain extender b
+sed HBPU coatings [192].
+[182], poly(ether ketone) [183,184], polyamides [185,186], poly(4-
+chloromethy/styrene) [187] polyurethanes [188] etc., are commonly
+developed by step-growth polycondensation route. Recently; hyper-
+branched polyurethane (HBPU) coatings have been employed ex-
+Recent trends in environmentally friendly water-borne polyurethane coatings: A review
+tensively. Thermal and physical properties of PUs are changed by
+varying the compositions and soft and hard segment ratios [189-
+191]l. Synthesis of HBPU-urea or HBPU-imide coatings with the
+detailed reaction condition and chain extenders used is shown in
+Fig 7 [192].
+NANOCOMPOSITEWPUCOATINGS
+Waterborne polyurethane (WPU) coatings display an excellent
+toughness and easticity, whle the stiffness and mechanical strength
+of these films is obviously lower compared to most solvent based
+PU coatings Addition of nano-sized inorganic filers into WPU
+dispersions to form nano-structured coatings has become a suc-
+cesfulstrategy to augment the poperties of WPU Coention-
+ally fllers are added to coatings for imprwing pimentation, hiding
+power, abrasion resistance, chalking resistance and offering anti
+sagging and other flow properties, but they reduce coating clarity
+and gloss [193,194]. Consequently, now fllers are investigated more
+on nanoscale The partile size of fllers significantly infuences the
+characteristics of coatings like mechanical properties, rheology,
+corosin protection, barrier poperties, tc, particuarly when filles
+d uL [s6] uu os mopq up apd aae ure anq
+nano-composites containing nano-scale fillers, such as silica, ZnO,
+TiO, Fe;O, SO, lay, cellulose nano-crystals, he distinctive pop
+erties that are not studied with traditional microscale fllers. Addi-
+tionally, thermal stability can be enhanced by incorporation of poly-
+hedral oligomeric silsesquioxane (POSS) structures, the incorpora
+tion of Si-O-Si cross-linker, use of functionalized fullerenes in PUs
+and incorporation of carbon nanotubes (CNT) into PU [196-201].
+1. Nanoparticle Containing Antimicrobial Coatings
+of nano-partides (NP) as potential antimicrobial agents Basically,
+metals used for nanoparticles, e.g, Si, Cu, Ti, Zn and other NP, in
+coatings are extremely toxic against micro-organisms, which dimin-
+ishes their active growth. Broad spectrum antimicrobial activity is
+commonly exhibited by Ag NP, which is a renowned biocide [202-
+206] In antibateral hygenicoatings, nanometal xides like TO,
+ZnO, Al,O, SiO, are used, and these nano-metal oxides also find
+applications in marine coatings, which hinders the attachment of
+detrimental micro-oeganisms to the surface and making biofilms
+Metal NP displays shape- and size-dependent interactions with a
+microbial surface. The antimicrobial activity increases by decreas-
+ing the size of metal NP due to their larger surface area per unit
+volume. The small size aids the NP to dislodge the cell membrane,
+simply penetrate into the bacterial cell and obstruct the normal
+cell functioning of the cel 207-210]. 
+FLAME-RETARDANTWPUCOATINGS
+There is a developement of flame retardant PU coatings by in-
+Creasing the public awareness about their potential as fire hazards.
+Fire resistance of PU can be impeoved by incorporating either
+reactive or nonreactive additive type fire retardants. The additive
+type fire retardants (halogenated parafins, chlorofluorocarbons
+(CFCs), inorganic oxides and hydroxides, inorganic carbonates,
+boron containing inorganic compounds, inorganic phosphorus
+containing compounds, triphenylphosphine oxide, red phospho-
+rus, expandable graphite, melamine, etc) are added into the PU
+ties, low compatibity and leaching Coersely reactive type fame
+by physical means, which may result in poor mechanical proper-
+retardants are mainly organic compounds having a flame retard-
+ing moiety as well as active fumctional groups that can form covalent
+bonds with PUs [211]. Flame retardants are cdusified as oeganic
+materials such as halogenated and phosphorous compounds or inor-
+ganic material like metal hydroxide, metal oxide and metal borates.
+Although inorganic flame retardants are cost effective and hae non-
+toxic byproducts, their efficacy is comparatively pitiable. Haloge-
+nated compounds are effective flame retardants, but an elevated
+temperture is required to begin the radical trapping activity and
+these compounds also poses hazards due to emission of toxic gases
+like hydrogen halides. Therefore, organic phospborous-containing
+compounds are consideared to be non-toxic fire retardant addi-
+tives by lowering the thermal decompostion and formation of char
+at elevated temperature. In addition, the flame-retardant ability of
+phosphorus-containing WPU is higher than that of halogenated
+compounds. Phosphorous acid is produced at high temperature,
+which helps in char formation and protects the polymer from flame
+and heat. According to another proposed mechanism, there is a
+reaction of phosphoric acid with carbodimide which is formed
+during the thermolysis of PU [212-215].
+THE ADVANTAGES OF THE RECENT STUDIES
+The adlvantage of PU/polysiloxane hybrid coating/aluminum
+interface relies on the interaction between the inorganic compo-
+nent and a wide range of organic polymers that favor applicability
+over different metallic substrates or coatings [3]. Studies revealed
+that if an oil-based core molecule is well developed, it willsurely
+be of advantageously reduced viscosity which wil failitate the com-
+plete elimination of the use of solvents and reactive diluents in HYP
+coatings Water-based coatings have been developed from vegeta-
+ble oil generally prepared in water along with some co-sohent [7].
+Furthermore, i is advantageous to use jatropha oil because it is non-
+edible and thus its usage willreduce the consumption of edible oils
+for chemical purposes [85]. Glycolyzed PET waste and castor oil-
+based polyols for WPU adlhesives containing hexamethoxy methyl
+melamine [86] have also been presented Although nanoparticles
+hsve been widely employed to peepuare polymer composite materals
+with advanced properties due to the synergistic advantage of nano-
+scale dimensions, they tend to form aglomerates after incorporation
+into the polymeric marix, leading to segregation of the inorganic
+particles or limited improvement of the properties of the compos-
+ite materials [45]. Ultraviolet, water, and thermal aging studies of
+WPU elastomers-based high reflectivity coating [52] and the effects
+of the molecular weight and structure of polycarbonate diols on the
+CONCLUSION
+poly-
+ireth
+ (WPU)
+have many advantages such as low VOCs, flexibility, good mechani
+cal and chemical peoperties. The WPU are dispersible in water due
+to presence of hydrophilic ionic or non ionic groups in their struc-
+ture. Pre-polymer mixing peocess and acetoe proces are the most
+well-known methods for synthesizing WPU dispersions Introduc-
+tion of cro-linker in 2K WPU increased the thermal stability and
+final performances of coatings. The WPU coating cured by UV
+radiations is a promising technology to prepare environmentall
+safe, high curing rate and low energy consuming coatings. The UV.
+WPU film modified by melamine film has higher initial thermal
+decomposition temperature and Tg than film without melamine.
+The hyper-branched PUs have multiple end groups, compact molec
+ular structure and diminishing chain entanglement; therefore, they
+apad u smdaumoo mou meusno a tuog uaagp anb ane
+mance Nano-particles like Ag Cu, TiO, Al,O, SiO, clay, CNT,
+POSS, are added to WPU to increase the stiffness and mechanical
+strength, which is lower in conventional WPU. Ag-containing WPU
+shows broad spectrum antimicrobial activity that increases by de-
+creasing the size of metal NP due to their larger surface area per
+unit volume. Fire retardants, mostly phosphorous, are used to in-
+crease the flame retardancy of WPU coatings.
+REFERENCES
+26. H. T. Lee and L. H. Lin, Macrowof., 39, 6133 (2006),
+ and W.K Lee, / Appi. Poly: Sci., 110,
+36. X. D. Cao, H. Dong and C. M. Li, Bioucrowof., 8, 899 (2007).
+37. M. Barrere and K. Landfester, Macromol., 36, 5119 (2003).
+38. C. Xia, L I. Lee, T. W5dya and C. Macosko, Poly., 46, 775 (2005).
+39. S. H. Back and B. K. Kim, Collods Sserf, A, 220, 191 (2003).
+40. Y H. Guo, LJ. Guo, H. Miao, L J. Teng
+41. G. J. Wang, C. S. K:
+ng and R. G. Jin, Prog Org Coaf., 50, 55 (2004)
+Recent trends in environmentally friendly water-borne polyurethane coatings: A review
+89. Y. Lu, Y Xia and R. C. Larodk, Preg. Org Coat., 71, 336 (2011).
+90. C. J. Patel and V. Mannari, Prog. Org. Coa., 77, 997 (2014).
+91. K K. Jena, S. Sahoo, R. Narayan, T. M. Aminabhawi and K. V.S. N.
+111. P Krol, B. Krol, P Holler and N. Telitsyna, Colloid. Pohywn. Sci
+284, 1107 (2006)
+116. D. Dieterich:
+117. J. W. Rostha
+ and R. Nachtk
+np, Ath:
+137. S. P Lu and P J. Prucnal, US 5744522 A (1998)
+138. A. T. Chen, P: E. Kestyn and H. Zhao, US 6331582 B1 (2001)
+141. U. M. Westhues, Pofyuref/t
+148. R. D. Toker, N.K Apohan and M. V. Kahraman, Prog. Org. Coaf
+76,1243(2013)
+Recent trends in environmentally friendly water-borne polyurethane coatings: A review
+182. M. Trollsas, J. Hedridk, D. Mecerreyes, R. Jerome and P: H. Dubois
+J. Polym. Sci. Part A Polyst. 
+, 36, 3187 (1998).

@@ -1,0 +1,155 @@
+有机硅改性水性聚氨酯分散体的制备与表征
+康陈昕土武生
+（安徽天学化学化工学院合肥230601
+摘要：分别以双端单羟基聚二甲基硅氧烷和单端双羟基聚二甲基硅氧烷合成了有机硅改性水
+性聚氨酯分散体（SiPU）并对其进行测试和表征。通过衰减全反射红外（ATR-IR）表征了乳胶膜的
+结构：并通过粒径、接触角、力学性能和耐水性测试分析改性效果。结果表明：接枝改性效果明显优于
+嵌段改性聚二甲基硅氧烷（PDMS)在乳胶膜表面富集更明显湛甚至基本可达全覆盖
+PreparationandCharacterization ofOrganosilicone
+ModifiedWaterbornePolyurethaneDispersion
+Yu Xuekang , Chen Xin ,Wang Wusheng
+College of Chemustry and Chemical Engineering , Anhu Unerersily , Hefei Z506U1 , Chuna)
+thesized respectively by double dihydroxyterminated PDMS and single dihydroxyterminated
+PDMS. The measurement and characterization of SiPU was conducted. The structure of latex
+film was characterized by ATR IR. And the modification effects of SiPU were compared by
+particle size measurement , contact angle measurement , mechanical properties measurement
+and water resistance measurement. The results showed that graft modification was obviously
+better than the block modification. For graft modification , PDMS enriched more obviously on
+surface of latex film , and even gave a complete coverage.
+水性聚氨酯由于具有安全环保等优点正逐渐替
+代传统溶剂型聚氨酯越来越广泛地应用在皮革、纺
+织、密封胶和粘合剂等领域。聚氨酯材料本身具
+有杰出的性能如优异的力学性能、耐曲挠性和耐化
+学品性等但水性聚氨酯材料由于引入了亲水基团，
+导致其耐水性能较差从而限制了其应用、聚二甲基
+硅氧烷（PDMS)是一种重要的有机硅材料，具有极高
+的耐水性、耐热性、低表面能和生物相容性等[+-"独
+特的性能。因此将PDMS引I入聚氨酯材料中可以结
+目前PDMS改性水性聚氨酯主要是采用嵌段改
+性的方式将双端羟烷基聚二甲基硅氧烷二元醇或
+双端羟基聚醚聚二甲基硅氧烷二元醇引入到聚氨
+酯主链中[6-1]。由于PDMS表面能低在成膜时会
+自动向表面迁移富集赋予材料光滑的手感和较好
+的疏水性。但嵌段改性存在主键PDMS分子链自
+由度减小向胶膜表面迁移富集困难的问题[1-14]。
+而将PDMS通过接枝改性的方式引入聚氨酯链中，
+由于其位于侧链，分子链受束缚较小链自由度大，
+成膜时易于向胶膜表面富集，因而较少的有机硅引
+入量就能获得更低的表面能从而获得更高的疏水
+性和更好的手感，目前关于有机硅接枝改性水性
+聚氨酯的研究较少[1-16，且所用单端双羟基聚二甲
+基硅氧烷单体不全是伯羟基或存在位阻效应，反应
+活性低制备乳液时合成条件较为苛刻，无法适用
+于工业大规模生产。
+本研究采用单端双羟基聚二甲基硅氧烷（2个羟
+基均为伯羟基）制备了接枝改性水性聚氨蓄分散体
+并对其进行表征和分析并与嵌段改性水性聚氨酯分
+散体进行比较。结果表明在实验范围内接枝改性效
+果明显优于嵌段改性PDMS在乳胶膜表面富集更明
+显基至基本可达全覆盖。
+聚四氢呋喃醚二醇PTMG（M=1000）、异佛尔
+酮二异氟酸酯IPDI:分析纯科思创PTMG使用前
+110C真空脱水干燥2h:双端单羟基有机硅二元醇：
+Niax Silicone L-1162（M=2700）分析纯迈图有机
+硅材料有限公司；单端双羟基聚二甲基硅氧烷Si-
+5000( M,= 5 000) ,Si10000( M, = 10 000) ,Si15000
+（M=15000）：自制结构如式（1）所示；二羟甲基
+丙酸DMPA：分析纯四川成都化学试剂厂：一缩二乙
+二醇、乙二胺、三乙胺、丙酮：分析纯国药集团化学试
+剂有限公司使用前用分子筛脱水1周：有机：DY-
+20.上海德音化学：蒸储水
+傅里叶变换红外光谱仪：NEXUS型，美国
+Nicolet;纳米激光粒度仪：ZetasizerNano ZS-90 型英
+国马尔文；接触角测定仪：JY-PHB型承德金和仪器
+制造有限公司；电子万能拉伸试验机：UTM5305型，
+深圳三思纵横：X射线光电子能谱分析仪：ESCALAB
+250Xi型美国Thermo
+水性聚氨酯分散体（WPU）的合成
+在装有回流冷凝管、温度计、搅拌装置的500mL
+干燥四口烧瓶中加入计量的PTMG通入氮气，开动
+搅拌装置加入计量的IPDI加热至85℃反应2h，
+依次加入DMPA、一缩二乙二醇和少量丙酮85C反
+应1h加入适量丙酮降黏滴加占配方总量0.01%的
+有机催化剂65℃反应3h采用二正丁胺法滴定
+反应终点得预聚体。将预聚体倒入梅花桶中加入
+与DMPA等物质的量的三乙胺高速搅拌2min加
+入蒸馏水乳化最后加入10%乙二胺水溶液后扩链，
+搅拌30min脱去丙酮得到固含量30%的水性聚氨
+酯分散体记为WPU。
+同制备水性聚氨酯分散体（WPU）类似，仅在加
+入PTMG后按配方总量分别加入2%的双端单羟基
+有机硅二元醇NiaxSiliconeL-1162和单端双羟基聚
+二甲基硅氧烷Si-5000、Si-10000、Si-15000，得到4
+种固含量30%的有机硅改性水性聚氨酯分散体分
+别记为 SiPU1、SiPU2、SiPU3 和 SiPU4
+（2）粒径测试：采用马尔文纳米激光粒度仪对合
+成的乳液进行粒径测试，测试前乳液浓度稀释至
+0.1%测试温度25℃测试3次取平均值
+（4）拉伸性能测试：参考GB/T1040.3—2006采
+用电子万能试验机进行测试拉伸速率350mm/min，
+平行测试3次取平均值。
+有机硅接枝改性聚氨酯
+的红外光谱如图1所示，
+从图1中看到所有样品的红外光谱中在2000-
+2300cm之间没有出峰3317cm对应N—H振动吸
+收峰1707cm对应CO振动吸收峰表明—NC0反
+应完全成功合成了水性聚氨酯分散体。有机硅特征吸
+收峰与PTMG的醚键特征吸收峰在1000~1300cm处
+重合。但SiPU均在809cm处出现Si—CH的弯曲振
+动吸收峰（见小图），WPU在对应位置没有吸收峰表明
+有机硅链成功引入到了聚氨酯链中。
+表1和图2分别为WPU和SPU的粒径及其分布
+从图3可以看到未改性聚氨酯膜呈亲水性改
+性后膜均呈疏水性，其疏水性大小顺序为：SiPU4>
+SiPU3>SiPU2>SiPU1>WPU。其中 SiPU1为嵌段改
+性 SiPU2-SiPU4为接枝改性。疏水性的PDMS 在
+从表1可以看出改性后的聚氨酯乳液粒径明显
+增加其中SiPU1的粒径和SiPU2的相差不大。对于
+接枝改性的聚氨酯乳液随侧链PDMS相对分子质量
+的提高乳液粒径也增加因为PDMS具有疏水性其
+相对分子质量越高在预聚体分散形成乳液时越不易
+形成单峰分布粒径粒径增大
+从图2明显看到WPU呈单峰分布SiPU均为双
+峰分布（SiPU3为三峰分布）对于接枝改性的聚氨酯
+乳液随PDMS相对分子质量的提高其双峰趋向于
+接近和对称。
+WPU和SiPU胶膜的水接触角如图3所示
+成膜过程中会向胶膜表面迁移富集。对于接枝改性，
+PDMS相对分子质量越大其向胶膜表面迁移富集越
+容易因而接触角越大：对比不同改性方式接枝改性
+比嵌段改性效果明显，这主要是因为嵌段改性对
+从图4和表2可以看出经PDMS改性后的水性
+聚氨酯其乳胶膜力学性能得到明显改善弹性模量减
+小拉伸强度增大这是PDMS和聚氨蓄相容性较差
+而导致的微相分离所致。对于嵌段改性（SiPU1），
+PDMS位于主链分子链活动自由度小，且其端基含
+有醚键微相分离较小对胶膜力学性能提升较小；而
+对于接枝改性（SiPU2-SiPU4）PDMS位于侧链，分
+子链活动自由度大，且其端基不含醚键因而微相
+分离较为明显。但是当PDMS相对分子质量过大时
+表2
+WPU和SiPU胶膜的力学性能
+able2
+of WPU and SiPU latex film
+Table 2 Mechanicalproperties of WPU and SiPU latex film
+从表3可以看出有机键改性后的水性聚氨萌胶
+表4WPU和SiPU胶膜表面XPS分析
+Table 4
+Surface
+XPSofWPU
+and SiPU latex film
+膜耐水性较纯水性聚氨酯胶膜均有提升因为有机硅
+具有疏水性，它的加入可以提高纯聚氨酯胶膜的耐水
+性：接枝改性效果优于嵌段改性胶膜耐水性大小依
+次为：SiPU2>SiPU3>SiPU4>SiPU1>WPU,这和胶膜
+的拉伸强度变化一致因为胶膜的拉伸强度越大表
+明其分子链排列和组装越紧凑，链之间空隙越小故
+水分子进入链间空隙的概率也越小因而胶膜的耐水
+性也更好。
+从表4中明显看到经有机硅改性后的胶膜硅元
+素均在乳胶膜表面富集，但接枝改性（SiPU2-SiPU4）
+富集效果明显好于嵌段改性（SiPU1）且随PDMS侧
+链相对分子质量的提高富集效果愈加明显这与水
+接触角测试结果一致。对于SiPU4样品其实测结果
+N元素含量为0且C/0/Si含量比约为2：1：1表明
+其胶膜表面基本全为PDMS[—Si（CH）O—]

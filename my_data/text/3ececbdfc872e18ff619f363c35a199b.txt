@@ -1,0 +1,181 @@
+有机硅改性麻油基水性聚氨酯的制备及性能
+击业东，葛硕硕，张萍波，唐敏艳，俞晓琴，包燕敏，高学文
+（1.江南大学化学与材料工程学院，江苏无锡214122；2.昆山嘉利普制版胶粘剂油墨有限公司，
+摘要：端羟丙基聚二甲基硅氧烷（HP-PDMS>取代部分多元醇原料麻油·通过预聚体法制得植物油基水性聚氨酯
+(WPU) ,利用静羟基和异氧酸脂基之间的反质,引I入不同含量的 HP-PDMS 到 WPU 链段中 ,制备出 WPU/HP-PDMS
+复合材科。同时利用全反射傅里叶变换红外光增测试、透射电子显微销测试、热稳定性测定、静态接触角测试及拉伸测
+试探讨复合材料的疏水性、热稳定性和拉伸性能的变化。结果表明，HP-PDMS成功改性麻油基WPU；随着HP
+PDMS 含量的增加,复合材释的初始热分解温度( 7:×)从 225 C增加到 248, 5 ℃C ,同时,少量 HP-PDMS 的5I入可以-
+定范围内提高材科的蔬水性及拉伸强度
+Preparation and Performance of Castor-oil-based Polyurethane
+Modifiedwith Organosilicone
+LU Yadong'， GE Shuoshuo', ZHANG Pingbo*,TANG Minyan²
+Yanmin，
+GAOXuewen
+( 1, S:hool of Chemical and Material Engineering of Jian
+University.
+2, Kunshan Jialipu Making-plate
+Adhesive Ink Co, Ltd, Ku
+ 215021 , China
+Abstract; A series of plantoilbased waterborne polyurethane ( WPU) samples were synthesized
+using hydroxypropyl-terminated polydimethylsiloxane (HP-PDMS) and castor oil as raw materials
+by a prepolymer method. The different content of HP-PDMS was introduced into the polyurethane
+molecular chains to obtain the HP-PDMS/WPU hybrid composites through the chemical reaction
+between the OH groups on HPPDMS and the NCO groups on IPDl. The hydrophobicity, thermal
+stability and mechanical properties of the composites were investigated by FTIR, TEM, thermal
+analysis, static contact angle and tensile experiment. The results indicated that the modified
+nanocomposites were synthesized successfully and their thermal degradation characteristic
+temperature at 5 % weight loss was enhanced from 225 *C to 248. 5 °C due to the incorporation of
+HP-PDMS. Both the tensile strength and hydrophobicity of the composites could be fairly enhanced
+with the addition of small amounts of HP-PDMS
+Key words: hydroxypropl-terminated polydimethylsiloxane; plant oil-based waterborne polyure
+律、法规的更加完善，聚合物由可再生资源合成受到了
+广泛的重视，其中WPU的研发备受关注I3EI-。植
+物油作为一类常见的可再生资源，具有价格低廉、获得
+途径多、无毒性、不会造成污染、可生物降解等优点，并
+且含有较高的羟基官能度，可直接与异氰酸酯反应，改
+善WPU的性能。但该类聚氨醋由于引I入亲水基以
+及植物油本身的缺陷，但仍存在一些不足，如耐候性
+有机硅材料含有有机和无机双重结构，具有热稳
+定性优异、耐氧化性和耐候性好、分子间相互作用小、
+链段柔韧性好、生物相容性良好、表面能低等优点。但
+是纯有机硅材料存在力学性能差、附着力低等缺点，且
+成本较高，在一定程度上限制了其进一步应用和发展。
+而用有机硅改性WPU可结合有机硅和WPU的优点，
+可有效提高WPU固化膜的柔韧性、耐水性和热稳
+定性。
+讫今为止，在针对WPU的改性方面，进行封端只
+能通过短链硅烷偶联剂来实现，交联度的提高
+使得乳液稳定性有所下降；本课题组前期工作讨论了
+长链聚醚硅氧烷（PEPSO）对麻油基WPU性能的影
+响，结果表明，PEPSO含量为15%时，乳液稳定性
+及胶膜性能得到提高；但由于交联度的降低以及引入
+亲水醚键，复合胶膜的疏水性没有明显改善。因此，本
+文采用链段较短的HP-PDMS来改性麻油基WPU，
+并对改性前后WPU的力学性能、热稳定性和表面疏水
+性能进行了探究
+1.3样品制备
+乳液制备：按表1所示的配方将计量好的IPDI及
+真空脱水处理后的蘑麻油、HP-PDMS加入到充有氮气
+保护和装有冷凝管的三口烧瓶中进行机械搅拌，反应
+1h后加入含DMPA的NMP溶液，加入2滴辛酸亚锡
+催化剂反应1h后，添加10mL丙酮以降低黏度，防止
+凝胶化；继续反应2h后检测到异氰酸根的含量达到预
+算值（采用二正丁腰滴定法），缓慢降温至50C，加入
+适量的三乙胺成盐30min，最后将含反应物的烧瓶转
+移到含冰袋冷却的水中，冷却后，在高速搅拌的条件
+下，快速加水乳化，然后加入乙二胺反应30min，溶剂
+丙酮通过旋转蒸发分离，得到固含量为20%左右的改
+性丽麻油基WPU的乳液：
+胶膜的制备：在聚四氟乙烯板上均匀涂抹旋转蒸
+发后的产品，然后在室内放置12h，转移到温度为
+50C的烘箱中干燥48h，取出后置于干燥器中，备用
+ablFormualationolwatetb
+ polyurethane emulson f
+注 -' HP-PDMS 按多元膜总摩尔量的 (-30 % 添加
+有机鞋改性跑麻消基水性货氨脑的制备及性能
+试样裁成哑铃型，温度为25℃，相对湿度在65%
+85%之间，拉伸速率为50mm/min，主要测量涂膜的
+断裂伸长率和拉伸强度，测量结果取3次实验结果的
+平均值
+如图1所示，实验中对改性前后的麻油基WPU
+复合材料进行FTIR表征。可以看出，2200~
+2 300cm处没有吸收峰，且氨基甲酸酯键N—H的
+现了酰胺结构中N一H的变形振动吸收峰以及在
+1538cm-处酰胺中C一0的伸缩振动峰，说明体系
+中多元醇已经与一NCO完全反应，氨基甲酸酯键生
+成：与 WPU0的 FTIR 谱图相比，HP-PDMS 改性麻
+油基WPU的FTIR谱图在 1098cm处出现了 Si
+OSi的特征吸收峰以及在801cm处出现了Si
+CH中C—H的伸缩振动峰，且随着HP-PDMS含量
+的增加，1098,801cm一处吸收峰的强度逐渐增强，这
+说明HP-PDMS已经接入到WPU的大分子链中，HP
+PDMS改性麻油基WPU成功合成
+图2是不同HP-PDMS含量的复合乳液粒径区间
+nm粒
+径分布较宽。乳液平均粒径以及粒径分布随着HP
+PDMS含量的增加呈先增大后减小的趋势，其中平均
+粒径最小达到了 19.6nm。这是因为当HP-PDMS含
+量较低（≤10%）时，由于HP-PDMS（数均相对分子质
+量为1000)的链段较短，对WPU分子链的交联度影响
+很小，且其本身具有较强的疏水性，导致剪切乳化不易
+进行，使得粒径增大、分布变宽.但随着HP-PDMS含
+量的进一步增加，蘑麻油基WPU的交联度进一步下
+降，又由于HP-PDMS链段具有良好的柔顺性、疏水
+性·使得WPU分子易于组装，在水中聚集形成小颗粒
+粒子，因此在高含量HP-PDMS的存在下，平均粒径
+随着HP-PDMS含量的增加逐渐减小，粒径分布逐渐
+变窄。
+为探究改性麻油基WPU乳液粒子的微观形态，
+本实验分别对WPU0与HP-PDMS含量为0、5%、
+30%时的WPU乳液进行TEM测试，结果如图3所
+示。可以看出，未改性的乳液粒子均呈球形，且相互之
+间无粘连：当HP-PDMS含量为5%时，乳液粒子出现
+粘聚，粒径增大，粒径分布变宽：但当HP-PDMS含量
+为30%时，粒径减小，分布较窄，但形貌愈加不规则，
+这是由于HP-PDMS分子链较短，少量加入对WPU
+交联度的影响较小：同时由于HP-PDMS分子的柔顺
+性及较强的疏水性，使得WPU分子链的柔顺性提高，
+导致卷曲成团更容易，因此HP-PDMS高含量下的乳
+液粒径变小，分布变窄，形貌更不规则。该结果和粒
+径测试结果保持一致。
+作为有机硅化合物的一类，HP-PDMS具有很强的
+Fig 3 TEM of particles in emulsions with different dosage of HPPDMS
+表面疏水性和较低的表面自由能，因此将其引入到
+麻油基WPU复合材料中能降低胶膜的界面自由能，提
+高材料的疏水性11-。从图4可以看出，随着HP
+PDMS含量的逐渐增加，水接触角呈先增大后减小的
+趋势。当HP-PDMS含量为15%时，WPU表面硅氧
+烷含量达到极值，提高了材料的疏水性能·使水接触角
+增大.当HP-PDMS含量超过15%时，其与WPU发
+生了严重的相分离现象，导致HP-PDMS在复合膜表
+面上不均匀分布，水接触角呈减小的趋势，耐水性
+变差-
+图5为不同含量HP-PIMS 改性胶膜的 TG曲
+线，表2中T表示胶膜热分解x%时的温度。随着
+HP-PDMS的加入，胶膜的热分解温度有所改善，说明
+改性后胶膜的热稳定性得到了一定的提高。由图5和
+表2可以看出，随着HP-PDMS含量的增加，复合材料
+的T呈现出递增的规律。经改性过的胶膜WPU30
+的T;为2485℃（以失重5%时的温度为起始降解
+温度），比未改性胶膜WPU0的T;x（225℃）提高了
+235C。这是由于一方面HP-PDMS中—SiO
+Si一键的引入提高了涂膜的热稳定性1-；另一方面，
+HP-PDMS受热分解后会产生少量的硅质残渣，形成阻
+隔层，对热量的传递起到部分阻隔作用，改善了胶膜的
+热稳定性1。此外，500℃下HP-PDMS改性胶膜
+的残炭率较WPUO高，也说明了HP-PDMS的加入有
+助于改善胶膜的热稳定性（
+注:Tx为WPU膜热分解10%时对应的遇度:Tx为WPU膜分
+%时对应的温度
+范麻油基WPU复合材料的拉伸曲线如图6所示，
+整体上看来，葱麻油基WPU复合材料的拉伸强度随着
+有机鞋改性跑麻消基水性货氨脑的制备及性能
+HP-PDMS含量的增加呈先增大后减小的趋势。纯莞麻
+油基WPU的拉伸强度和断裂伸长率分别为155MPa和
+2555%，当HP-PDMS的含量为15%时，拉伸强度
+提高到了24.0MPa。这是因为麻油羟基平均官能
+度为27，因此纯觀麻油基WPU体系交联度过大，分
+子取向困难，出现脆断现象，将HP-PDMS引入到
+WPU主链中，随着Si一O键含量的升高·复合膜的柔
+软性得到一定程度的改善，拉伸强度和断裂伸长率得
+到增强。但当过量添加HP-PDMS（>15%）时，拉伸
+强度与断裂伸长率急剧下降，这是由于高含量下，聚氨
+酯硬段与HP-PDMS软段之间的相容性较差，体系内
+的分子链堆砌紧密，不利于结晶和微观相分离，增大了
+分子链的刚性，使复合膜的内部结构慢慢不均匀，影响
+了胶膜的内聚强度，以至于在测试递中产生一定的脆
+性断裂，因此降低了材料的拉伸强度和断裂伸长率”。
+因此添加适量HP-PDMS可在一定范围内改善WPU
+材料的力学性能
+（1）以蘑麻油这类可再生的环保型原料与有机硅
+HP-PDMS互混作为多元醇原料，然后利用IPDI和
+HP-PDMS反应，将其引入到WPU主链中，制备得到
+改性植物油基型WPU：
+（2）HP-PDMS的引I入在一定范围内提高了WPU
+复合材料的热稳定性：少量添加HP-PDMS可以提高
+WPU的疏水性和拉伸性能，但当其加入量过大
+（>15%）时，出现严重的相分离现象，导致材料的疏水
+性和力学性能有所降低：
+3合成的WPC复合材科剩备过程简单、性离优
+专考文献

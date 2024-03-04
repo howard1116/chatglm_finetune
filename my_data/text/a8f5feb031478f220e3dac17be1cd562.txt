@@ -1,0 +1,507 @@
+ISSN: (Print) 1568-5551 (Online) Journal homepage: https://www.tandfonline.com/loi/tdmp20
+Epoxymodifiedbio-basedhyperbranched
+polyurethanethermosets
+HemjyotiKalita&NiranjanKarak
+nyperbranched polyurethe
+10.1080/15685551.2012.747163
+To link to this article: https://dol.org/10.1080/15685551.2012.747163
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallinformation?journalCode=tdmp20
+Hemjyoti Kalita and Niranjan Karak*
+Modificationof the existingpolymersleads
+system was cured by cycloaliphatic amine hardener at 120 °C for a specified period of time. The curing reaction was
+hyperbranched polyurethane was modified with different amounts of bisphenol-A based epoxy resin. The modified
+qs (91s)qus asu  ps uas pe dds pmu s sm q pu
+hardness (310 kg) and gloss 85°94°) increased with the increase of epoxy content. The themo-gravimetric analysis
+showed the enhancement of thermal stability (240291 °C) of the modified systems. Biodegradation was tested by the
+broth culture technique and the modied hyperbranched polyurethanes also exhibited adequate biodegradation.
+Incorporation of reactive modifer into the polyurethane network was demonstrated to be an effective way to improve
+the thermal and mechanical properties, simultaneously.
+analysis
+1.Introduction
+Polyurethane has some specificity with respect to its film
+fomming ability, good toughness, high abrasion resistance,
+good chemical resistance, excellent adhesion, high tear
+strength, tunable mechanical strength, adequate flexibility
+and elasticity, including fabrication versatility due to the
+versatility in structure and composition of the compo-
+nents [13]. Polyurethanes are generally segmented
+block copolymers having altermating soft and hard seg-
+ments. Owing to the polar character of urethane groups,
+the hard urethane domains are hydrophilic in contrast to
+the soft polyol domains that cause the micro-phase sepa-
+ration in the structure. The soft segment of the polyure-
+thanes is usually moderately high-molecular weight
+polyol which is relatively flexible in nature. The hard
+segment is composed of a disocyanate and a low-molec-
+ular weight diol or diamine chain extender and hence rel-
+atively rigid. Depending on the physical and chemical
+nature of the segments or the ratio of soft to hard seg-
+ments, polyurethane exhibit a wide range of physical
+properties. Thus it is widely applied as coating material,
+sealant, adhesive, paint, leather, foam etc. The presence
+of two-phasic morphology resulting from micro-phase
+separation of soft and hard segments and strong hydro-
+gen bonding between the hard segments of polyurethane
+with altemative hard and soft segments exhibits the
+enhanced mechanical, thermal and chemical properties
+[4,5]. A large number of reports are in the literature on
+*Coresponding author. Email: nkarak(@tezu.ermet.n
+the effects of the structure of the hard and soft segments
+on the physical, thermal and chemical properties of these
+[sud q auoe o oqrssod ose s! 1 [89] suod
+nism, blending or via interpenetrating network formation
+with the other polymers. Epoxy resins are one of the
+most important classes of thermosetting matrices, which
+possess good mechanical, thermal, dielectric behavior,
+low shrinkage during curing, low creep, good adhesive
+strength, excellent corrosion and weather resistance,
+good chemical resistance, dimensional stability, wide
+range of cure schedules and their easy processibilities
+[913]. Polyurethane can be linked to the epoxy network
+through physical as well as chemical bonding and so it
+is used to modify polyurethane [14,15].
+Recently, vegetable oils have drawn great attention
+because of their advantages like sustainability, easy
+availability, versatility in structure and properties, biode-
+gradability, environmental friendly and overall low cost
+[1619]. The high price of the petroleum raw materials,
+turn down of the petroleum reserves, and stringent
+environment rules and regulations have promoted the
+utilization of vegetable oils as the feedstock for the
+development of many industrially important polymers
+[2022]. The bio-based polymeric materials exhibit better
+synthetic counterparts.The most extensively used
+vegetable oils are castor, sunflower, safflower, soybean,
+com, and linseed oils. A large variety of wildly grown
+plants and herbs are available in India. Mesua ferreα
+L. plant is abundant in different region of this country
+and its seeds surprisingly contain high amount (70%) of
+oil. Mesua ferrea L. seed oil is one of the most impor-
+tant vegetable oil for the production of many useful
+industrial polymers. This oil possesses mainly triglycer-
+ides of oleic (52.3%), linoleic (22.3%), palmitic (15.9%)
+and stearic (9.5%) acids [23].
+Authors, therefore, wish to report here the perfor-
+mance characteristics of epoxy modified hyperbranched
+polyurethanes
+(HBPUs)
+1
+different
+amounts
+bisphenol-A based diglycidyl ether epoxy resin and
+Of
+cycloaliphatic amine.
+2.Experimenta
+2.1.Material
+Mesaa ferrea L. seeds were collected from Darang,
+Assam, India. The oil was isolated by solvent soaking
+bS exe Kq pgndpue po
+Monoglyceride of the oil was prepared by the standard
+procedure [24]. Glycerol (Merck, India), poly(e-caprolac-
+tone)diol (PCL, Solvay Co., Japan M, = 3000 g/mol),
+1,4-butanediol (Merck, Germany) and triethanolamine
+(Merck, India) were used after drying in an vacuum oven.
+toluene disocyanate (TDL, SigmaAldrich, Germany)
+Calcium oxide (S.D. Fine Chemical Ltd, India) and
+were used as received. Xylene (Merck, India) was
+vacuum distilled and kept in 4A type molecular sieves
+before use. The epoxy resin, a glycidyl bisphenol-A based
+epoxy (product of epichlorohydrine and bisphenol-A)
+with epoxy equivalent of 182192 g/equivalent and
+cycloaliphatic amine hardener (Ciba Geigy, India) were
+used as supplied.
+.2.Preparation ofhyperbranchedpofyurethan
+dois om e q paedad sem sueamfod pououequad
+one pot A + B; approach. A 250 mL three-neck round
+bottom flask equipped with a nitrogen inlet tube, a ther-
+mometer, an oil bath and a mechanical stirrer for this
+polymerization reaction. Required amounts of PCL
+(2 mol) and monoglyceride of Messa ferrea L. seed oil
+(3 mol) were taken in the reaction flask with 20 mL of
+xylene at constant stirring. An exactly required amount of
+TDI (10 mol) was slowly injected into the reaction mix-
+ture at room temperature. The reaction temperature was
+slowly increased to 70 °C and the reaction was allowed to
+stir for 3h to obtain a viscous mass, which was treated as
+pre-polymer. The reaction mixture was then allowed to
+cool to room temperature followed by the addition of
+required amount of 1,4-butanediol (2.75 mol) and trietha-
+nolamine (1.5 mol). The temperature of the reaction
+mixture was then increased slowly to 110 °C and stired
+continuously for about 2h and stopped before gelation.
+The polymer was obtained as a solution of 3035% solid
+content (w/v) in xylene. The yield obtained after the
+isolation from solution by precipitation in a non-solvent
+followed by vacuum drying in an oven at 50 °C for 2
+days, was 98%.
+2.3.Modlification of hyperbranched polyurethane with
+epoxy resin
+The HBPU of 3035% solid content in xylene directly
+obtained from the polymerization reaction. was mixed
+with epoxy resin (100% solid content) and cycloaliphatic
+amine hardener (50% by weight with respect to the
+epoxy resin) in the desired proportion as given in Table 1.
+The mixing was carried out under constant and vigorous
+o no  q o  m o e 
+proper homogenization of the components. The modified
+HBPU films were obtained by drawing the homogenous
+mixture of the solution in glass plates followed by
+vacuum degassing and cured at specified time and
+temperature for further testing and analysis.
+slndy
+The mild steel strips of 0.12 × 0.10 × 0.002 m? were
+coated by the above prepared homogeneous polymer
+solutions for impact resistance and scratch hardness stud-
+ies. After removal of sufficient amount of solvent under
+atmospheric condition, the coated strips were degassed
+under vacuum to remove the last trace of entrapped sol-
+vent. Then the films were cured by heating at 120°C in
+an oven for a specified period of time. Finally, the cured
+films were kept under ambient condition for 24 h for fur-
+ther investigations. The dried films were peeled off from
+the glass plates by immersing the plates in warm water,
+ Sueo a uaao tnsea e u Sup Aq pamoog
+ness of the films was found to be 3540 μm as measured
+   
+Sheen Instrument Ltd, UK).
+2.5.Broth culture technique for biodegradatiot
+Mineral salt medium with the following composition was
+prepared for the study. 2.0 g NaHPOa, 2.0 g (NHa)SO4
+70 mg ZnSOg7HO, 4.75 g KHPO4, 1.2 g MgSO4-
+7HO, 0.5 mg CaC1·2HO, 10 mg H,BO,-5HO, 100 mg
+MnSO5HO, 100 mg CuSO47HO, 1mg FeSO4-7HO
+and 10 mg MoO; were dissolved in 1.0 L of demineral-
+ized water. 10 mL of this liquid culture medium was
+poured into 50 mL conical flask and was sterilized using
+autoclave at 121 °C and 15 Ib pressure for 15 min. The
+autoclaved media were
+then allowedto coolroom
+temperature and the polymer films were immersed to the
+media under sterile condition inside a laminar air hood.
+Media containing no polymer film were also cultured as
+negative control. P. aeruginosa strain MTCC 7814 bacte-
+ria was selected for this study. The bacterial strain was
+culture in the above prepared mineral media for 48 h at
+37°C. The 100 μL of culture medium containing
+10* mL
+microbes (as calculated from McFarland
+ p   po s (p 
+containing 10mL media. The flask was then incubated
+under sterile condition at 37 °C for the biodegradation
+study.
+2.6.Characterization
+The infrared spectra of the polyurethanes were recorded
+by impact 410, Nicolet (Madison, USA) (FTIR) spectro-
+photometer using KBr pellets. The X-ray diffraction
+study was carried out at room temperature (ca. 25 °C) by
+a Rigaku X-ray diffractometer (Miniflex, UK) over a
+range of 20= 10700. The thermal analysis, (TGA) was
+done by a Simadzu, Japan themmal analyzer, TG50, with
+a nitrogen flow rate of 30 mL/min at heating rate of
+10 °C/min. The differential scanning calorimetry (DSC)
+was done by DSC 60, Simadzu, Japan at 3 °C/min heat-
+ing rate under the nitrogen flow rate of 30 mL/min from
+(30 to 150) °C. The surface morphology was studied by
+a scanning electron microscope (SEM) of model JSM-
+6390LV (JEOL, Japan) after platinum coating on the
+surface. The gloss of the films was measured by using
+mini-gloss meter (Sheen instrument Ltd, UK). Scratch
+hardness of the dry film was measured by using a scratch
+tester, model number 705 (Sheen instrument Ltd, UK)
+with stylus accessory and a travel speed of 0.030.04 m/s.
+The tensile strength and clongation at break were mea-
+sured with the help of the Universal Testing Machine
+(UTM), Zwick Z010, Germany with a 10 × 10?N load
+cell and crosshead speed of 0.05 m/min using samples of
+dimensions: 0.1 m × 0.01 m × 0.00035 m.The impact
+resistance was measured by an impact tester (S.C. Dey &
+Co., India, 1.0 m is the maximum height) using the stan-
+dard ASTM D 1037 falling weight method. A weight of
+0.85 kg was allowed to fall on the mild steel plate coated
+film from minimum to maximum height up to which the
+film was not damaged. The maximum height was taken
+as the impact resistance. The chemical resistance test was
+performed using the standard ASTM D 54367 method
+by taking the weighted amount of dry film in different
+chemical media of 250 mL beakers containing 150 mL of
+the individual chemical medium for the specified period
+of time. The chemical resistance was determined by
+measuring the weight change for the individual film after
+the completion of test period.
+m Ss q no p se Sums 
+(W)
+cured
+film
+IⅡ
+dimethyl
+formamide
+(DMF). The samples were removed from the solvent
+after attaining equilibrium and the weight of the swollen
+film (W,) was also measured. The swelling value was
+calculated by using the following formula:
+3. Results and discussion
+The modified system reported here has significant differ-
+ences compared to the earlier reported system [16].
+Firstly, the polyurethane used here is a vegetable oil
+based hyperbranched polyurethane containing triethanola-
+mine as the branch generating moiety. This system was
+not reported earlier. Further, cycloaliphatic amine used as
+the crosslinking agent to obtain the epoxy modified poly-
+urethane thermoset, which was not reported earlier for the
+similar system. Therefore, the present study is on a
+completely new system except the same epoxy resin
+used.
+3.1.Curing study
+From the curing study it was found that the touch free
+time (minimum time required by the system to resist
+impression on touching its surface by thumb) and drying
+time (determined by indenting the cured film by an
+indenter) decreased with the increase of amount of epoxy
+resin and cycloaliphatic amine hardener at 120°C as
+shown in Table 1. This may be due to the increased
+cross-linking reaction between the epoxy/hydroxy1
+groups of the epoxy resin with hydroxyl/urethane groups
+of polyurethane resin in the presence of amine hardener.
+linking mechanism (Scheme 1). Due to the increase of
+This can be easily understood from the proposed cross-
+the amount of epoxy and hardener, the number strained
+oxirane and reactive amino groups increases so the inter-
+cross-linking network formation also increases and
+thereby afford a three dimensional network structure.
+Furthermore, there is a possibility of the formation of
+intermolecular H-bonding between C=O of the ure-
+thane linkage and the OH of the epoxy resin present in
+the system. The formation of network structure in the
+modified polyurethanes is confirmed by the decrease in
+Table 1. Compositions and curing time of modified HBPUs at
+120 °C
+Scheme 1.Proposed cross-linking reactions
+lIs
+916
+nfimed the
+fon
+The FTIR spectra of polyurethane and modified polyure-
+thane are shown in Figure 1. The characteristic bands of
+urethane group appeared at 34063430 cm (NH
+stretching) and 1729 cm (C=O stretching of urethane
+linkage) [2,25]. There are two bands at 1627 cm for
+amide I of urethane, 1470 cm for amide II of urethane.
+The bands at 870 and 730 cm are due to the substi-
+tuted aromatic ring of TDI. The disappearance of band
+22502270 cm indicates that there is no free NCO
+Figure
+(a)
+(b)
+(e) HBPU30 
+ing
+The characteristic band of epoxy groups were appeared
+at 916 cm~1 for the epoxy modified hyperbranched poly-
+urethane before the curing, whereas the same was absent
+after the curing that confirmed the participation of epoxy
+groups in such reaction.
+3.3.X-ray diffraction study
+Figure 2 shows X-ray difracto-grams of unmodified and
+modified HBPUs. The presence of crystalinity in the
+thermoplastic hyperbranched polyurethane and modified
+thermosetting polyurethane is confirmed by the XRD
+analysis. There are two strong diffraction peaks at
+20= 21.9° and 20=23.8° due to the (100) and (200)
+planes of PCL crystals. The position of the peaks
+remained same after the modification of hyperbranched
+polyurethane, though the intensity gradually decreases
+with the increase of epoxy content. This is may be due to
+the increase of molecular restriction through cross-linking
+and also decrease the percent of PCL in the matrix.
+3.4.Morphology study
+The morphological study of the HBPUs was carried out
+with the help of scanning electron micrographs. Figure 3
+shows the SEM micrographs of all the modified polyure-
+thanes. The SEM micrographs indicate the unifomm phase
+distribution of all the components of modified polyure-
+thanes and also they confimed the formation of homoge-
+neous intercross-linked network of the epoxy with
+polyurethane as no extra phase was observed. The
+compatibility of the systems may be attributed due to the
+hyperbranched structure of the polyurethane as well as
+polar-polar interactions as confirmed from DSC. Further-
+more, there is a possibility of H-bonding between the
+urethane linkages and the OH groups of epoxy resin
+Figure 2. XRD difracto-grams for (a) HBPU, (b) HBPU10,
+(c) HBPU20 and (d) HBPU30.
+present
+system
+Thus
+or the
+Thermal study
+Thermo-gravimetric analysis is one of the potential tech-
+niques for evaluation of thermal stability of materials.
+The thermal stability of the modified polyurethanes and
+unmodified polyurethane is shown in Figure 4. The
+mechanism of thermal decomposition of polyurethane
+involves three steps. The urethane linkage degradation
+starts from 180230°C, which is called as the tempera-
+ture of onset degradation. The degradation of aromatic
+moiety occurs at about 340380°C. The final stage at
+about 400600 °C may be atributed to thermal degrada-
+tion of isocyanurate rings and carbodimide linkages,
+which leads to the evaporation of CO, and the formation
+of char [26]. The thermo stability of the modified system 
+depends on the degree of thermo-stable moiety, cross-
+linking density and free volumes present in the systems.
+One of the most effective ways to augment the thermal
+stability of polyurethane is introducing high aromatic
+ring concentrations in the hard or soft segments of the
+polyurethane, because an aromatic ring has a high stabi-
+lizing effect against thermal degradation [27]. On the
+other hand thermal stability depends on the molecular
+rigidity because chemical reaction and degradation
+depends on macromolecular chain excitation and motion
+gained from the thermal energy during exposure to a
+polyurethanes increased with the increase of epoxy
+heat. It is seen that the thermal stability of the modified
+content. The incorporation of the epoxy resin in the polar
+as well as the aromatic ring concentrations. Thus, the
+molecular mobility of the chain is restricted and thereby
+making the material rigid. As a result, the bond breaking
+inside the bulk polymeric matrix requires high thermal
+energy and makes inert from the oxidative environment.
+Thus, the thermal stability enhances for the modified
+polyurethanes.
+The DSC curves of unmodified and modified HBPUS
+shown in Figure 5. The experimental results indicate
+that the glass transition temperature (7) was increased
+with the
+increase of epoxy content. This is due to the
+increased rigidity of the structure that is formed through
+different types of interactions as stated earlier.
+3.6.Mechanicalproperlie
+From the Table 2 it is found that the tensile strength of
+the modified HBPUs increases with the increase
+10
+cpoxy content. The cnhancement can be atributed to the
+eduo pue Aisup Suu-ssoo saao u asaou
+ity
+moietiesI
+present
+systen
+e 3. SEM micrographs for (a) HBPU, (b) HBPU10, (c) HBPU20 and (d) HBPU30
+Figure 4. TGA thermo-grams
+for (a) HBPU, (b) HBPU10
+(c) HBPU20 and (d) HBPU30.
+through polar-polar interaction and uniform distribution
+of epoxy in the polyurethane matrix. The increase
+in
+ m q pons s p -ss
+DMF. Due to the increase cross-linking density makes
+the
+material stiffer and causes the higher ultimate
+strength. However, the elongation at break decreases
+with the increase of the epoxy content. This is due to the
+decrease in chain mobility and increase in rigidity of the
+Figure 5. DSC curves for
+(a)HBPU, (b)HBPU10,
+(c) HBPU20 and (d) HBPU30.
+structure. The scratch hardness of the modified polyure-
+thanes also increased with the increase of epoxy content
+that causes the inerease in overall toughness and rigidity
+of the structure. The bending test results indicated that
+all the samples possess sufficient flexibility as the films
+could be bent onto a rod of 0.002 m diameter without
+any crack in the bent films. This is mainly due to the
+high flexibility of the soff segment and the presence
+[able 2. Mechanical properties of unmodified and modified HBPUs
+1.0 m is the limit of the instrument
+long chain fatty acid moiety in the structure of the poly-
+urethanes. All the modified polyurethanes showed the
+excellent impact resistance. Impact strength of the mate-
+rial may be explained from the angle of toughness of the
+films that is the ability to absorb the applied external
+energy as well as the transfer of energy to its adjacent
+molecular chains. The gloss is an optical property of
+materials and depends on the smoothness of the surface.
+The gloss property measured at an angle of 60° and it is
+seen that all the films exhibit good gloss.
+Chemical resistance
+Chemical resistance tests of all the modified and unmodi-
+fied HBPUs were studied under various chemical envi-
+ronments (Table 3) such as 3% NaOH, 20% EtOH, 5%
+HC1, 10% NaCl and distilled water for 10 days. All the
+films showed very good chemical resistance in almost all
+the chemical environments, except NaOH solution. This
+is due to the presence of alkali hydrolysable ester groups
+of PCL and monoglyceride segments. The very good
+chemical resistance of the films may be due to the pres-
+ence of secondary interactions such as polar-polar and
+H-bonding, increased cross-linking density, compact
+structure and presence of aromatic moiety etc.
+3.8.Biodegradation study
+The biodegradation of the unmodified hyperbranched
+polyurethane and modified hyperbranched polyurethane
+were tested and confirmed by direct exposure to bacterial
+strain by broth culture technique. In the present investi-
+Table 3.  Chemical resistance as changes of weight (g) of
+gation, P aeruginosa of strain number MTCC 7814 was
+used for the biodegradation study. The growth of the
+bacterial strain as obtained from McFarland Turbidity
+method is shown in Figure 6. The bacterial population
+was found to be lesser in the modified HBPUs as com-
+parable to the unmodified polyurethane. This may be due
+to the presence of cross-linking, synthetic bisphenol-A
+based epoxy moiety, etc. in the modified system. There-
+fore, it is very difficult to assess the modified system by
+the microorganisms. However, the bacterial growth
+decreased with the increase of the content of epoxy in
+the modified systems. This is due to the increased cross-
+linking density that makes the structure more compact
+and rigid. On keeping the samples in broth culture media
+for 45 days, they were found to be degraded. The
+scanning electron micrographs of the unmodified
+hyperbranched polyurethane and modified HBPUs after
+the bacterial exposure are shown in Figure 7. Both the
+unmodified hyperbranched polyurethane and modified
+hyperbranched polyurethane after the biodegradation
+study showed the significant surface erosion. Biodegra-
+dation of the polyurethane depends on the process condi-
+tions, chemical structure and compositions, morphology,
+crystallinity, hard and soft segment ratio, etc. [28].
+Figure 6.
+(d) HBPU30.
+HBPU,
+HBPU10
+(o)
+HBPU20
+igure 7.SEM micrographs for (a) HBPU, (b) HBPU10, (c) HBPU20 and (d) HBPU30 after biodegradation
+Microorganisms utilized polyurethane as carbon and/or
+nitrogen source. Generally, microbial degradation takes
+place in two steps. The high molecular weight polymer
+is initially hydrolyzed to form low molecular weight
+polymer with weak mechanical property, which makes it
+more accessible for the microbial assimilation followed
+by consumption of oligomeric products to produce CO,
+HO, bumus etc [29]. The presence of amorphous long
+chain fatty acid moieties and PCL in the bio-based
+hyperbranched polyurethane promotes microbial attack.
+Conclusions
+From the study it can be concluded that the bisphenol-A
+amine successfully modified the hyperbranched polyure-
+thane with good performance. The properties like tensile
+strength, scratch hardness, gloss and thermal stability
+significantly increased with the increase of epoxy con-
+tent. The uniform and homogeneous mixing of the com-
+ponents in all the modified systems results such
+performance. The modified hyperbranched polyurethane
+also showed the significant biodegradation as indicated
+by the broth culture technique. Thus the epoxy modified
+HBPUs can be used as an advanced thin film thermoset-
+ting material.
+Acknowledgements
+The
+Technology (DST), India through the g
+10
+SR/S3/ME/
+0020/2009-SERC,
+Grants Comr
+through
+the
+References

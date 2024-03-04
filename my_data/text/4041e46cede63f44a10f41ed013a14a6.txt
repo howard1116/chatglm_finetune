@@ -1,0 +1,489 @@
+Preparation and characterization of UV-curableurethane
+acrylateoligomers
+modifiedwith
+cycloaliphatic
+epoxideresin
+Zhen Jiao,Chenchen Wang.Oianqian Yang.Xianwei Wang
+ Ameriean Coatings Association 2017
+Abstract The UV-curable urethane acrylate oligo-
+mers modified with cycloaliphatic epoxide
+resin,
+ethane acrylate (CE-MP-UA) and oleic acid-modified
+cycloaliphatic polyurethane acrylate (CE-OA-UA),
+have successfully been synthesized and characterized
+by *HNMR and FTIR. The kinetics of the synthesis
+processes are studied in this paper. The effects of the
+molecular structure of the oligomers on the properties
+of cured film, including pencil hardness, impact resis-
+tance, adhesion and boiling water resistance,
+discussed in detail. The experimental results indicate
+are
+that the films formed by CE-OA-MP oligomcrs show
+good comprehensive performance, especially good
+adhesion and boiling water resistance due to the
+numerous hydroxyl groups, flexible scgment and ali-
+cyclic structure of the oligomers. The results reveal
+that the alieyclic structure in the oligomer molecular
+make-up can effectively improve the adhesion of UV-
+curable coatings.
+Keywords
+UV-curable c
+acrylateCyloaliphatipoxid
+Cured film properties
+215123, Jiar
+ngsu, People's Republic ot Chin:
+Introduction
+green industrial process. In the coating field, the
+traditional curing coatings cannot avoid the release of
+a large number of polluting volatile organic com-
+pounds (VOCs) during the curing process. For this
+reason, a greal deal of effort has been paid to develop
+curable coating is one of the most promising due to its
+environmentally friendly characteristics such as reduc-
+ing volatile solvents, fast curing, and reduction in
+energy costs.*
+ However, UV-curable coatings some-
+with traditional coatings.* To resolve this problem, it is
+necessary to improve the performance of the UV-
+curable coatings.
+The general formulation of UV-curable coatings
+contains photoinitiator, reactive monomers and func-
+properties of the cured film.* The performance gap
+tionalized oligomers which mainly determine the
+between UV-curable coatings and conventional ther-
+mal curable coatings on tinplate painting limits the
+application of the UV-curable coatings on tinplate.? In
+order to overcome this problem, some modified
+urethane acrylate oligomers are synthesized and the
+properties of the films cured by these oligomers are
+determined in our previous study.10.11 Although some
+progress has been made in this research, further
+improvement is needed on the adhesion of the curable
+film.
+To our knowledge, adhesion of UV-curable film is
+mainly dependent on the extent of the hydrogen
+bonding between film and tinplate, as well as the
+shrinkage force during the curing process. Due to its
+special molecular structure, cycloaliphatic epoxide
+resin is considered to modify the urethane acrylate
+oligomers because its epoxy structure can supply the
+hydrogen bonding and the
+reduce the shrinkage force.
+alicyclic structure
+cal
+mance of polymer materials, development and modi-
+on the perfor-
+fication based on cycloaliphatic epoxide resins become
+more and more attractive.
+ Some researchers used
+cycloaliphatic epoxide resins for the modification of
+UV-curable coatings. As expected, there is a great
+advantage in the comprehensive performance
+cycloaliphatic epoxide resin with respect to epoxy
+of
+acrylates. He et al. synthesized an epoxideacrylate
+hybrid monomer by the controlled reaction between
+the cycloaliphatic epoxy resin and acrylic acid. They
+found that the hybrid monomer-cured film formed a
+epoxy acrylate and cpoxide.The same cycloaliphatic
+more uniform polymer network than the blend of
+epoxy resin was used to prepare UV-curable organic-
+inorganic hybrid coatings. The formed film showed
+transparency. Similarly, the novel interpenetrating
+good toughness, great mechanical properties, and high
+polymer networks (IPNs) based on cycloaliphatic
+epoxy resin were synthesized, and the experimental
+results revealed that the resulting IPNs exhibited the
+rather high modulus and dense crosslinking network
+structure.
+Sangermano et al. prepared the acrylic-
+UV curing. They found that a reduction of shrinkage
+o s  su rod  xo
+was achieved by increasing the cycloaliphatic epoxide
+resin content in the photocurable formulation, result-
+ing in increased adhesion. In addition, the UV-
+curable, bismaleimide-modified aliphatic epoxy resin
+prepared from N-(p-carboxyphenyl) maleimide
+and
+cycloaliphatic epoxy was reported to effectively
+im-
+prove the surface properties of polycarbonate.
+cycloaliphatic
+polyurethane
+acrylate
+curable films cured by these prepared oligomers are
+are
+determined, and the cffects of the functional groups of
+the
+oligomerson
+the
+properties of cured film
+discussed in detail.
+are
+Experimenta
+Material
+hexylmethyl 3,4-epoxycyclohexane carboxylate was
+Cycloaliphatic
+epoxide
+sin
+(CE),
+3,4-epoxycyclo-
+purchased from Jiangsu Tetra New Material Technol-
+ogy Co.Ltd.Isophorone disocyanate
+obtained from Ketian Electronic Materials Co., Ltd. 2
+(IPDI)
+EM
+Hydroxypropyl acrylate (HPA) was supplied by Jin-
+sheng Auxiliaries Factory. Oleic oil (OA). maleic
+anhydride (MA), and polyethylene glycol (PEG200)
+were purchased from Lingfeng Chemical Reagent.
+Dibutyltin dilaurate (DBTDL) and p-hydroxyanisole
+(HQMME) were provided by Sinopharm Chemical
+Reagent. Tripropylene glycol diacrylate (TPGDA)
+used as reactive diluent was obtained from Shanghai
+Hechuang Chemical Co., Ltd. Triethylamine
+purchased from Nanjing Chemical Reagent Co., Ltd.
+was
+1-Hydroxycyclohexyl phenyl ketone (Irgacure 184) was
+supplied by Nanjing Wali Chemical Technology Co.
+Ltd. All other common chemical reagents were of
+analytical grade and used as received.
+PreparationofNCO-bearingadduc
+NCO-bearing adduct was synthesized between the
+reaction of IPDI and HPA.
+During
+the reaction,
+DBTDL
+was used as catalyst and HQMME
+as
+found in the literature,
+and the synthesis process is
+be
+shown in Scheme 1.
+Preparation of polyether-modified cycloaliphatie
+polyurethane acrylate
+Polyether-modified cycloaliphatic polyurethane acry-
+late (CE-MP-UA) was synthesized via a two-step
+procedure.First,polyether-modified cycloaliphatic
+epoxide resin (CE-MP) was obtained. Briefly, MA
+(19.20 g, 0.2 mol) and PEG200 (40.00 g, 0.2 mol) were
+reacted in a four-necked flask equipped with stirrer
+thermometer,
+nitrogen
+anddroppingf
+funnel
+HQMME (0.09 g) was used as inhibitor in the reaction.
+The reaction was continued at 75°C until the content of
+initial one. Then the temperature of the mixture was
+acid value of the mixture was reduced to half of the
+raised to 100°C, and CE (50.46 g, 0.2 mol) was added
+dropwise in company with a little triethylamine as
+catalyst to the system. The reaction was stopped when
+the content of acid value was <5 mg KOH/g by
+titration. Second, polyether-modified cycloaliphatic
+polyurethane acrylate (CE-MP-UA) was obtained by
+the reaction between polyether-modified cycloaliphatic
+epoxide resin (CE-MP) and NCO-bearing adduct using
+DBTDL as catalyst and HQMME as polymerization
+inhibitor. The reaction was carried out at 50°C under
+nitrogen atmosphere and stopped when the content of
+isocyanate was <0.1 wt%. In this study, the added
+NCO-bearing adduct was 42.29, 84.58 and 126.87 g for
+CE-MP-30% UA,
+CE-MP-60% UA,
+andCE-MP-
+90%UA, respectively. The synthesis process is de-
+scribed in Scheme 2.
+Preparation of oleic acid-modified cycloaliphatic
+polyurethane acrylate
+Oleic
+late
+acid-modified
+(CE-OA-UA)
+First,
+procedure.
+acid-modified
+synthesized
+cyecloaliphatic
+Scheme 1: Preparation of NCO-bearing adduct
+epoxide resin (CE-OA) was obtained. Briefly, CE
+(60.60 g, 0.26 mol) was placed into a four-necked flask
+equipped with stirrer, thermometer, nitrogen inlet, and
+dropping funnel. Oleic acid (112.99 g, 0.4 mol) mixed
+(0.52 g) as catalyst was added dropwise to the flask.
+with HQMME (0.26 g) as inhibitor and triethylamine
+The temperature was then raised to 120°C, and the
+reaction was continued until the acid value content of
+the mixture was <5 mg KOH/g by titration. Second,
+oleic acid-modified cycloaliphatic polyurethane acry-
+late (CE-OA-UA) was obtained by the reaction
+resin (CE-OA)and NCO-bearing adduct using
+between oleic acid-modified cycloaliphatic epoxide
+DBTDL as catalyst and HQMME as polymerization
+inhibitor. The reaction was carried out at 50°C under
+nitrogen atmosphere and stopped when the content of
+NCO-bearing adduct was 42.29, 84.58, and 126.87 g for
+isocyanate was <0.1 wt%. In this study, the added
+CE-OA-30%UA,CE-OA-60%UA, and CE-OA-
+90% UA, respectively. The synthesis process is repre-
+sented in Scheme 3.
+Characterizationofthepreparedoligomers
+The isocyanate content was
+ determined using di-n-
+butylamine
+acetone
+acid value
+hydroxyl value were determined according to Chinese
+and
+National Standards GB6743-86 and GB/T12008.3-2009,
+respectively. Fourier transform infrared (FTIR) spec-
+tra were recorded on a Nicolet-750 FTIR spectrometer,
+HNMR spectra of the oligomers were obtained on a
+and the
+ scanning range was from 4000 to 500 cm
+Bruker AVANCE 300-MHz instrument using CDCl;
+as solvent and TMS as internal standard.
+Film preparation and UV curing
+The mixture containing 50 wt % prepared oligomers, 45
+wt% TPGDA and 5 wt% Irgacure 184 as photoinitia-
+tor was coated on tinplate using an applicator and
+cured by exposing them to a UV lamp (INTELLI-
+RAY 400) in air. The UV lamp was made by Uvitron
+International Inc. Its main wavelength was 365 nm,
+and the light intensity was 100 mW cm*.
+Characterization ofthecuredfilms
+The properties of the cured films including pencil
+hardness, adhesion, impact resistance,
+Suoqpue
+water resistance were characterized by the Chinese
+National Standards of GB/T 6739-1996, GB/T9286-98,
+GB/T1732-1993, and GB/T1877-2007, respeetively. In
+addition, the thickness of the films was determined
+using a thickness gauge. The detailed information
+be found in our previous manuscripts.
+Scheme 3: Preparation of oleic acid-modified cycloaliphatic polyurethane scrylate
+MP:(b)
+MP-UA
+Results and discussion
+PreparationofCE-MP-PUA
+The reactant conversion with reaction time during the
+preparation of CE-MP-PUA is shown in Fig. 1. It is
+shown in Fig. la that the conversion of MA reaches
+99% and then remains constant when reaction is
+continued for 1.5 h. Figure 1b indicates that the
+reaction between CE and MP is relatively fast. The
+conversion of MP reaches 98% at the reaction time of
+0.5 h and slightly increases to 99% at the time of 1 h
+before keeping constant. Therefore, the reaction time
+should be 1.5 h at 75°C for the preparation of MP and
+1.0 h at 100°C for CE-MP. The conversion of NCO-
+bearing adduct during the reaction between CE-MP
+and different amount of NCO-bearing adduct is found
+added NCO-bearing adduct leads to the longer reac-
+in Fig. 1c. It indicates that the increasing amount of
+tion time when the conversion of NCO-bearing adduct
+about 3, 3.5, and 4 h at 50°C for the preparation of CE-
+reaches 98%. For that situation, the reaction time is
+MP-30%PUA,
+CE-MP-60%PUA,
+andCE-MP-
+90%PU A, respectively.
+PreparationofCE-OA-PUA
+Figure 2 shows the reactant conversion with reaction
+found in Fig. 2a that the reaction rate between CE
+OA is much lower than that between CE and MP. The
+and
+reason might be the chain length of OA is much longer
+than that of MP, which leads to the greater 
+steric
+hindrance effect. Therefore, it should take about 20 h
+to finish the reaction.
+The conversion of NCO-bearing adduct during the
+reaction between that and CE-OA shown in Fig. 2b
+reveals a similar outcome as the reaction between CE-
+MP and NCO-bearing adduct. The increasing amount
+of added NCO-bearing adduct also leads to the longer
+reaction time. However, the greater steric hindrance
+effect of OA structure may cause the slower reaction
+rate and the longer reaction time, which is about 5, 6,
+and 7h at 50°C for the preparation of CE-OA-
+30%PUA, CE-OA-60% PUA, and CE-OA-90%PUA,
+respectively.
+FTIR
+Figure 3 shows the FTIR spectra of CE-MP-PUA with
+different UCA group content. It can be found that the
+peak for NCO at about 2330 cm~ disappears, indi-
+cating that the added NCO-bearing adduct is reacted
+completely. The broad strong absorption peak around
+3410 cm*
+belongs to OH and NH bond of the
+oligomers.
+The peak at 2929 cm1
+belongs to the
+vibration absorption of
+CH2,
+and the stretching
+vibration absorption peak at 1721 cm
+is assigned to
+Fig. 3: The FTIR spectrum of CE-MP-PUA, (1) CE-MP-
+30%PUA; (2) CE-MP-60%PUA; (3) CE-MP-90%PUA
+bonds of the acrylate groups can be found at 1616,
+C=O. In addition, the absorption peaks of double
+1383, and 798 cm These FTIR assignments demon-
+strate that the polyether-modified cycloaliphatic poly-
+urethane
+acrylate
+oligomers
+are
+successfully
+synthesized.
+The FTIR spectra of CE-OA-PUA with different
+UCA group content are shown in Fig. 4. Because some
+groups of CE-OA-PUA are the same as those of CE-
+MP-PUA, their FTIR spectra are somewhat similar. It
+around2344 cm
+can also be found that the absorption peak of NCO at
+disappears
+and
+the peak
+3410 cm is assigned to OH and NH bond of the
+at
+the vibration absorption of CHy and CH, respec-
+oligomers. The peaks at 2942 and 2852 cm belong to
+tively. The stretching vibration absorption peak of
+peaks are observed at 1447, 1186, and 811 cm
+indicating the existence of double
+bonds in the
+Fig. 4: The FTIR spectrum of CE-OA-PUA, (1) CE-OA-
+30%PUA; (2) CE-OA-60%PUA; (3) CE-OA-90%PUA
+oligomers
+FTTR
+oleic
+'HNMR
+The HNMR spectra of the oligomers with different
+UCA draft content are quite similar. The HNMR
+spectra of typical polyether-modified cycloaliphatic
+polyurethane acrylate oligomers, CE-MP-60%PUA,
+are shown in Fig. 5. Some characteristic peaks are
+listed as follows: 8(ppm) = 6.44(NHCOO), 5.826.39
+(CH=CH),
+4.19(-COOCH-),
+3.79(CCHOH),
+0.893.28(CH, CH).
+For the same reason as the CE-MP-PUA oligomers,
+the 'HNMR spectra of typical oleic acid-modified
+cycloaliphatic polyurethane acrylate oligomers are
+determined. Figure 6 shows HNMR spectra of CE-
+are listed as follows: (ppm) = 6.77(NHCOO), 5.84
+OA-60%PUA oligomers, and the characteristic peaks
+6.45(CH=CH), 5.06(CCHOH), 4.21(COOCH),
+0.883.65(CHy, CHz).
+Properties of cured film
+Table 1 summarizes the properties of the cured films
+formed by the prepared oligomers in this study. They
+Table 1: Properties of UV-cured coating films
++, Good; -, damaged
+include dry film thickness, pencil hardness, impact
+was found that the dry film thickness of all the samples
+is 13.7 ± 0.9 μm. Therefore, the performance differ-
+ences due to the thickness of the film can be ignored in
+this study,
+Table 1 indicates that the pencil hardness of the film
+UA, while’ the impact resistance shows the opposite
+prepared by CE-MP-UA is better than that of CE-OA-
+result. The pencil hardness and the impact resistance of
+the film mainly depend on the content of the flexible
+segment within the oligomers. Specifically, the im-
+proved flexible structure leads to good impact resis-
+tance but bad pencil hardness. In this study, MP and
+NCO-bearing adduct provides the flexible structure of
+CE-MP-UA oligomers, and the flexible structure of
+CE-OA-UA oligomers is supplied by OA and NCO-
+bearing adduct. Compared to MP, the longer chain
+length of OA brings CE-OA-UA oligomers better
+flexibility than CE-MP-UA oligomers, which leads to
+better impact resistance and worse pencil hardness of
+the film cured by CE-OA-UA oligomers. For the same
+oligomers series, the increased content of NCO-bear-
+ing adduct raises the flexibility of the oligomers.
+Therefore, the film cured by the same oligomers series
+with higher NCO-bearing adduct grafting shows the
+oligomers is better than that cured by CE-MP-UA
+CE-OA-UA
+oligomers. The adhesion of UV-curable coatings
+mainly depends on the content of the hydrogen
+bonding between film and tinplate, as well as the
+the hydrogen bonding is provided mainly by the
+shrinkage force during the curing process. In this study,
+hydroxyl groups which are numerous in all the
+prepared oligomers. Therefore, the difference of the
+adhesion mainly depends on the shrinkage force.
+Compared to CE-MP-UA, the chain segment of CE-
+OA-UA has the better stretch which can effectively
+reduce the shrinkage force. This makes the films cured
+by CE-OA-UA oligomers exhibit better adhesion. It
+should be noted that the adhesion of the film cured by
+CE-OA-UA oligomers obtained the highest level of
+the test methods. Also, it is better than that cured by
+structure.
+The water resistance of the film is strongly affected
+by the adhesion. Besides that, the crosslinking density
+and hydrophilicity of the film also have some effect on
+the water resistance. In this study, the poor adhesion of
+CE-MP-UA oligomers leads the films cured using
+these oligomers to be damaged in the boiling water. In
+addition, the hydrophilicity of the ether structure in the
+CE-MP-UA oligomers makes for worse water resis-
+tance of the film. Oppositely, the good adhesion and
+the hydrophobicity of the CE-OA-UA oligomers allow
+for good boiling water resistance of the film cured by
+CE-MP-UA oligomers.
+In short, the curing film formed by the CE-MP-
+60% UA oligomers is observed the best comprehensive
+performance among all the films determined in this
+study.
+In our previous study, some modified urethane
+urethane acrylate, epoxy-modified polyurethane acry-
+late, and hyperbranched polyurethane acrylate were
+Obviously, the adhesion of film cured by CE-OA-UA
+is the best among all of the samples. It is mentioned
+that the adhesion mainly depends on the hydroxyl
+content of the oligomers and the shrinkage force
+during the curing process. The large number of
+hydroxyl groups in the CE-OA-UA oligomers allow
+for the good adhesion. Besides that, the unique
+cycloaliphatic structure of CE-OA-UA oligomers can
+further improve the adhesion. In other words,
+cycloaliphatic structure can effectively enhance the
+the
+adhesion of the cured film.
+Conclusion
+In order to enhance the adhesion of the UV-curable
+coatings, the urethane acrylate oligomers modified
+with cycloaliphatic epoxide resin are successfully syn-
+thesized in this study. The effects of the oligomer
+structure on the properties (e.g--
+pencil hardness,
+impact resistance, a
+adhesion, boiling water resistance)
+oligomers are discussed in detail. The results show
+that the curable films formed by CE-OA-MP oligomers
+have good  comprehensive
+performance,
+especially
+good adhesion and boiling water resistance
+due to
+alicyelic structure. The results reveal that the alicyclic
+their numerous hydroxyl groups, flexible segment, and
+improve the adhesion of UV-curable coatings.
+structure in the oligomer molecular can effectively
+Acknowledgments This study was supported by the
+NaturalScienceFoundation
+of JiangsuProvince
+(BK20130602), Collaborative Innovation Center of
+Suzhou Nano Science and Technology, the Priority
+Academic Program Development of Jiangsu Higher
+Education Institutions, the Fundamental Research
+Funds for the Central Universities and Jiangsu
+Himonia Technology Co., Ltd.
+References

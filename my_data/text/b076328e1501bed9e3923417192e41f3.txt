@@ -1,0 +1,88 @@
+水性聚氨酯的原位细乳液聚合规律（1
+加聚/水解反应的竞争
+詹晓力，石莹，张庆华，陈丰秋
+浙江大学联合化学反应工程研究所，浙江杭州310027）
+浙江大学联合化学反应工程研究所，浙江杭州310027
+摘要：采用异佛尔酮二异需酸酯（IPD1）与憎水性二醇进行原位组乳液聚合制备水性聚氨酯根据已建立的
+FTIR定量分析方法来表征聚合产物结构，通过产物中氨酯键服键的浓度比来研究主反应（加聚）与副反应
+（水解）的竞争，考察了憎水性二醇、乙烯基单体、反应温度、催化剂和乳化剂等因素对主副反应竞争情况的影
+鸭，并建立组乳液中加聚与水解反应竞争的物理模型研究发现二醇的反应活性越高越有利于加聚反应：乙
+低反应温度和增加催化剂浓度可促进加聚反应，抑制水解反应
+关键词：聚氨酯：组乳液：异佛尔酮二异氟酸酯：水解反应
+中图分类号：TQ3238
+文献标识码：A
+文章编号：0438—1157（2009）02—0490—07
+ZHAN Xiaoli SHI Ying ZHANG Qinghua. CHEN Fengqiu
+ZHAN Xiaoli
+SHI Ying
+CHEN Fengqiu
+Abstract; The poly addition of isophorone disocyanate (IPDI ) with hy drophobic diol w as performed in
+miniemulsion to obtain w ater-borne polyurethane The poly mer stnucture w as characterized w ith FT IR to
+dete mine the concentration ratio of urethane to urea group The effects of hy drophobic diol, viny1
+monomerss and such experiment parameters as tem peratures cataly st anxd surfactant on the com petition of
+the main reaction (po ly addition of isocy anate hy dro xy1 ) w ith the side reaction (hy dro lysis of isocy anate )
+were studied Based on the ex perimental results, the phy sical model of the com petition was established It
+was found that the high reactivity of diol and the high hy drophilicity of viny1 monomer could favor the
+poly addition It was also show n that the hydroly sis could be restrained by decreasing surfactant
+loncentration and decreasing temperature and the amount of cataly st. How ever, the hydroly sis could be
+rest rai ned by increasing the surfa
+1 polydimethy 1 silox ane (PDM S ) took part in
+xo ly merization
+Key words;polv urethane: miniemulsion; isophorone disocvanate; hy droIvsi:
+近年来无VOC的环保型水性聚氨酯成为该
+领域的研究热点。传统的水性聚氨酯乳液一般
+是在聚氨酯分子骨架中引入亲水性基团，通过自乳
+化法制备而成的.但是主链上亲水性基团的存在降
+低了聚氨酯的耐水解、耐溶剂和黏结性能。直接在
+水分散体系中制备憎水性聚氨酯能够克服上述缺
+点。但由于异氰酸酯单体易水解成脲。影响乳液稳
+定性，直接在水分散体系中进行加聚制备水性聚氨
+酯很困难
+Landfester等和Borsali等通过原位细乳
+液聚合法制备了稳定的聚氨酯乳液，即将异氰酸酯
+与二醇单体作为油相形成单体细乳液，然后在液滴
+中进行加聚反应生成聚氨酯，细乳液聚合为单体液
+滴成核机理，强憎水性助稳定剂可阻止Ostward
+熟化，减少单体在水相中的扩散，抑制水解反应，
+聚合产物中脲基团的存在会影响产物性能那么水
+分散体系中水解反应的发生及其与异飘酸酯-二醇
+的加聚反应的竞争成了原位细乳液聚合制备水性聚
+氨酯的关键但是Landfesler等的研究中并没有
+考虑主副反应的竞争问题
+本课题组已解决水性聚氨酯中氨酯/脲键含量
+的定量分析问题采用傅里叶自去卷积技术与
+Gauss曲线拟合技术相结合分离红外谱图中的多重
+基峰，建立了产物中氨酯键与脲键浓度比的FT-
+IR定量分析方法”，可用于表征聚合过程中主副
+反应的竞争情况，本论文在定量分析方法的基础
+上，采用反应活性温和的异佛尔酮二异氰酸酯
+（IPDI）与僧水性二醇进行原位细乳液聚合，考察
+二醇、乙烯基单体、反应温度、催化剂和乳化剂等
+因素对主副反应竞争的影响体系中加入乙烯基单
+体是为了制备聚氨酯/聚丙烯酸酯复合乳液
+在细乳液中，加入乙烯基单体进行原位细乳
+液聚合，产物结构见图2.细乳液聚合中，乙烯基
+单体的存在有效提高了F值，可促进加聚反应，
+抑制水解反应，原因在于乙烯基单体起到“情性溶
+剂”的作用，使IPDI在液滴表面和内部的浓度得
+到稀释，降低了水解反应发生的概率，促进了加聚
+2Mlinkemulslonpovadditionreulkcarriedou
+in the presenee of different vimyl monaner
+6乳1化剂浓度的啊
+在聚氨酯的原位细乳液聚合过程中，乳化剂
+（SDS）浓度（相对于油相的质量分数）对产物F
+值的影响见图6.PTMG作为二醇时聚合产物的F
+值随着乳化剂浓度的增加而下降，原因在于乳化剂
+浓度增加乳液粒径减小、粒子数增加液滴表面
+积会增大，界面上水解反应发生的概率也会增
+加.而PDMS作为二醇时，聚合产物的F值则
+随着乳化剂浓度的增加而上升，这是由PDMS的
+特殊性质引起的.PDMS的细乳液液滴尺寸会随
+着乳化剂浓度的增加而增大“，这样液滴的表面
+积会降低。从而抑制水解反应，所以，不同二醇的
+聚合中乳化剂浓度的影响是不同的，通常情况下，
+乳化剂浓度的增加会加速水解反应，抑制加聚反
+应：但是有机硅二醇作为二醇组分时，乳化剂浓度
+References
+2005,
+9892-9898

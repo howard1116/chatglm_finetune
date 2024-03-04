@@ -1,0 +1,34 @@
+基于材料基因工程的铝合金腐蚀机理探究及耐蚀设计
+摘要：
+7系铝合金作为轻质高强材料被广泛应用于航天及高速轨道列车等领域。然而在实际服役条件
+下，7系铝合金出现了明显的应力腐蚀开裂问题，不同批次生产的7系铝合金应力腐蚀敏感性差异
+较大。对比不同批次7系铝合金发现：其晶界位置的析出相分布出现明显差异。因此，针对7系晶
+界处的n/n’相展开了跨尺度计算模拟以探究晶界析出相对铝合金应力腐蚀敏感性影响。研究表明
+晶界分布的n/n’相削弱了晶界结合能。当H原子扩散经由晶界（A1/MgZn界面）时，极可能被捕获
+在该界面内，这进一步造成了品界结合能的降低（83%）。通过结合第一性原理和近场动力学模型
+发现：在力传导至晶界时，A1-H-MgZn模型出现了明显的沿晶界扩展裂纹。鉴于晶界析出相对7系
+铝合金应力腐蚀敏感性的影响，该相形成机制及其对铝合金力学性能影响的研究显得尤为重要。分
+子动力学方法模拟了轧制过程中铝合金不同品界处g及Zn原子的扩散聚集。研究表明：铝合金在
+热轧后，Mg/Zn原子借助位错扩散并在晶界（∑7）位置的n/n’相析出率提升了53倍。相比于在
+晶内析出的n/n'相（析出强化），晶界析出n/n'相使得铝合金位错密度下降一个数量级，导致
+晶界位置薄弱从而对应力腐蚀敏感，为弥补这一薄弱位置，基于第一性原理计算高通量算法筛选了
+全周期元素在铝中的稳定性及扩散能垒。该算法筛选的元素抢占Mg或Zn在晶界位置，从而避免口
+图1高通量算法筛选有利于铝合金品界强度的元素
+http://www.cnk1.nc
+作者简介：纪毓成（1994-），男，材料科学与工程博士研究生，主要研究方向为基于
+材料基因工程的铝合金腐蚀机理探究、耐蚀设计及快速制备。
+通讯作者简介：董超芳（1976一），女，材料学博士，教授，主要研究方向为腐蚀集成计
+算与应用与增材制造金属的腐蚀与防护。
+联系方式：北京市海淀区学院路30号北京科技大学新材料技术研究院，邮编100083，
+同：铝合金：应力腐蚀：高通量计算：材料基因工程：
+参考文献：
+[1] Ji Y, Dong C, Vei X, et al. Discontinuous model coabined with an atonic mechanism sinulates th
+precipitated q ′ phase effect in intergranular cracking of 7series aluminum alloys J]. Computationa
+Materials Science, 2019, 166: 282292.
+[2] Kotsikos G, Sutcliffe J M, Holroyd N J H. Hydrogen effects in the corrosion fatigue behaviour of the
+white zone of Txxx series aluminium alloy welds[J]. Corrosion science, 2000, 42(1) : 1733,
+[3] Su H, Toda H, Shimi zu K, et al. Assesssent of hydrogen enbrittlenent via inage-based techniques i
+Al - Zn - Mg - Cu aluinu alloys[J]. Acta Materialia, 2019, 176: 96108
+[4] Ji Y, Dong C, Chen L, et al. Highthroughput computing for screening the potential alloying element.
+of a 7xxx aluminum alloy for increasing the alloy resistance to stress corrosion crackingJ]. Corrosio
+Science, 2021, 183: 109304.

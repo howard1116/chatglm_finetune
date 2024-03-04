@@ -1,0 +1,285 @@
+High-ThermalConductiveCoatingUsedonMetalHeatExchanger
+LI Jing (李静)*,LIANG Ju (梁剧) and LIU Yeming(刘业明)
+Abstraet Based on modified silico
+sion-resistant fillers, heat-resistant fillers and thermal conductive fillers, a high thermal conductive coating can be
+made. On the basis of boronnitride (BN) and aluminum nitride (AIN) used as thermal conductive fillers and by
+means of the testing system of hot disk and heat transfer experiment, researches on the varieties of thermal conduc-
+tive fillers and the effects of the contents of high-thermal conductive coating have been done, which shows that the
+conductivity of the themal conductive filles of cating. With guaranteeing better heat resistance, stronger coro-
+thermal conductivity of coating increases writh the increase of the quality fraction and the coefficient of thermal
+sion resistance and adhesive force, the coefficient of coating can reach a level as high as 3 W·m*′ K
+Keywords
+thermal conduetivity, heat exchanger, coating
+INTRODUCTION
+Metal heat exchanger is a common piece of
+cquipment in chemical industry [1] and the corrosion
+problem in the process of production seriously affects
+the life span of the heat exchanger. As coating is im-
+portant to protect hcat exchangers from corrosion, and
+the thermal conductivity of coating is important for
+metal heat exchange [2, 3], in order to reduce the dis-
+sary to prepare an excellent anti-corrosion coating
+with high thermal conductivity and good heat resis-
+tance to be applied to metal heat exchanger for using a
+long time. At present, there are successive reports on
+thermal conductivity of coating. For example, Leivo [4]
+found that the thermal conductivity of coating was
+improved by adding thermal conductive filer. Lu [5]
+found that BN/silicon resin system had excellent heat
+thermal conductivity of coating was sharply increased
+dissipation properties. Fukushima [6] found that the
+with increasing quantity of graphite fillers. However,
+there are very few reports about high-thermal conduc-
+tive coating applied to metal heat exchanger. This ar-
+ticle provides a coating of thermal conductivity of 2.5
+   
+re-
+ported by Zhou [7] and studies the relationship be-
+tween thermal conductivity of coating and thermal
+conductive particles.
+Preparation of raw material
+the
+tion of China (51176053), the Key Technologies R&:D Pro
+rogram of Guangdong Province (2011B090400562), the Strategic
+ (2001CB710703), the Natic
+onal Natural Science Founda
+Emerging Industry Special Funds of Guangdong Province
+Guangzhou City (2010U1-D00221, 2011Y5000006).
+addition, amino resin is chosen to increase the
+crosslink density which improves abrasive resistance
+and water resistance of coating. Mixed solvents con-
+sisting of butyl acetate, PMA and xylene are also cho-
+match the curing temperature of 180 C needed for
+coating. Besides,butyl acetate and phorbol-12-
+myristate-13-acetate (PMA) have good solubility to
+the resin, and xylene helps reduce the cost of coating.
+The characters of fillers directly produce effect on the
+performance of coating, especially on the thermal
+conductive particles. AIN, BN, BaSO, TiO, SiO and
+glass powder are choosen as fillers. Properties of the
+materials used in the experiment are shown in Table 1.
+2.2 Characterization and measurement
+Thermal conductivity is performed by means of
+Hot Disk (Sweden TPS2500) and thermo-gravimetric
+analysis (TGA) is made by use of a TGA analyzer
+(SDTQ600, TA, USA) with a heating rate of 10
+°C·min from 30 to 1000 °C under 5% O and 95%
+N in volume fraction. Heat transfer experiment is
+conducted with a small size heat exchanger.
+2.3 Coating preparation
+Silicon modified polyester resin, amino resin,
+mixed solvent, BaSO4, TiO, glass power and AIN(BN)
+are successively put into the container, then zirconium
+bead weighing 1.5 times of the total components is
+also put into the container, and they are separately
+ground for 1 hour. Filter them out when the grain size
+by 4cup).
+is ≤30 μm, and adjust the viscosity to 1416 s (tested
+Chin. J. Chem. Eng-, VoL. 22, No. 5, May 2014
+Generally speaking, heat is transmitted from high
+temperature to low temperature by the thermal motion
+of molecules, atoms or free electrons in metal crystal.
+However, for nonmetal crystal, the thermal conduction
+mechanism is realized by the thermal vibration of the
+crystalline grains. The thermal conductivity of metal
+crystal is always higher than nonmetal crystal because
+of plenty of free electronics existing in metal crystal
+have been orderly rowed in crystallinc grains inside
+but not in nonmetal crystal. However, those which
+crystal also have good thermal conductivity. Resin
+belongs to nonmetal crystal but does not have the or-
+derly rowed crystalline, resulting in its very low ther-
+mal conductivity ranging from 0 to 1 W·m'·K-
+However, the thermal conductivity of resin can be
+significantly improved by adding a certain amount of
+tive chains or reticulation [8].
+thermal conductive particles to form thermal conduc-
+Making the coating into thin films, and testing
+thermal conductivity of coating film through hot disk
+test system. The measuring principle of Hot Disk is
+based on transient plane source method (TPS). In this
+method, Ni metal double helix sensor probe is placed
+among two samples. The temperature of probe in-
+creases when electric current passes through the Ni
+probe, and generates heat diffusing from Ni probe to
+the sides of samples. Heat diffusion speed depends on
+the thermal conductivity of the properties of samples,
+and thermal conductive efficiency can be achieved by
+recording the temperature and the response time of the
+probe. The schematic of hot disk test system is shown
+in Fig. 1.
+ity of coating and the mass fraction of BN fillers is
+The relationship between the thermal conductiv-
+shown in Fig. 2 (a). With the increase of mass fraction
+of BN fillers and binder ratio, the thermal conductivity
+of coating improyes. The thermal conductivity reaches
+3.283 W·mK" when the binder ratio is 3, but the
+influence of high binder ratio is still negative, which
+seriously weakens other performances of coating, such
+tance and flexibility. In addition, as shown in Fig. 2
+as adhesion force, corrosion resistance, water resis-
+(a), the increase trend changes when the mass fraction
+of BN fillers reaches 30%. When the mass fraction of
+BN transcends (is more than)>50%, it is a little dif-
+ferent from the results reported by Zhou [6]. Zhou
+used two kinds of thermal conductive particles in-
+cluding SiN and AlsO; with different sizes, but we
+uses BN as thermal conductive particles. The smaller
+AlO; particles might hinder the contact between SiN
+particles which causes low thermal conductivity of
+composed materials. Fig. 2 (b) shows that the thermal
+conductivity of coating consists of two different ther-
+mal conductive particles such as AIN and BN. The
+thermal conductivity of coating consists of BN parti-
+cles is higher than that of AIN particles. The thermal
+conductivity of BN particles is 250 W-mK, while
+that of AIN particles is 70 W·m'·K'. The thermal
+conductivity of coating discussed in this paper is
+2.824 W-m-K with binder ratio of 2 and BN mass
+fraction of 60%.
+3.2 Heat transfer
+performance of high-thermal
+high-thermal conductive coating prepared, a heat
+In order to test the heat transfer performance of
+transfer experiment with a heat exchanger is carried
+out. The surface of copper is coated and then A, is
+defined as the thermal conductivity of coating, 4 as
+the thermal conductivity of copper tube, X’ as the
+ as the thickness of copper pope wall,  as the
+thickness of coating, To as the temperature of interface
+of coating and copper tube wall, T; as the outside wall
+temperature of coating and Tz as the internal wall
+temperature of copper tube. The schematic of coated
+copper tube is shown in Fig. 3 and the schematic of
+heat transfer experimental process and device is
+shown in Fig. 4.
+Figure 3 Schematic of coated copper tube
+Based on the theory of heat transfer and fluid
+heat conductivity, the change of temperature is con-
+mechanics, it is known that in one-dimensional steady
+tinuous and the heat-flow density q is constant.
+cording to Fourier’s law, the following cquations is
+Ac-
+obtained [9, 10]:
+The flow pattern of cold water in circular tube
+heat exchange is forced convection and the heat trans-
+fer coefficient of cold water can be calculated in ac-
+cordance with Dittus and Boelter formula:
+The heat transfer coefficient of hot water con-
+densation is:
+Figure4Schematrcotheattransferexperimentalprocessanddevice
+The empirical Eqs. (1)-(5) are used to calculate
+the results obtained from the heat transfer experiment,
+the total heat transfer coefficient for comparison with
+as shown in Fig. 5. The comparison of experimental
+and theoretical results indicates that they match each
+other quite well.
+Comparsonotexperimmentalandtheoretirca
+The effect of thermal conductivity of coating on
+heat transfer performance obtained from the experi-
+ment is shown in Fig. 6. It can be seen that the total
+heat transfer coefficient increases as the thermal con-
+mal conductivity of coating ranges from 0 to 1
+ductivity of coating is strengthening. When the ther-
+W·m′K-′, the heat transfer performance in heat ex-
+change is significantly affected. When the thermal
+conductivity of coating ranges from I to 2 W·m-K
+the effect on the heat transfer performance in heat ex-
+change is relatively weak. When the thermal conduc-
+tivity of coating reaches more than 2 W·mK′, the
+effect on the heat transfer performance in heat ex-
+change is significant. Thermal conductivity of coating
+There
+heat transfer tube in heat trar
+nsfer c
+experiment. The firs
+copper tubc
+IS
+coated
+with
+conductIve
+Figure 6 Effeet of thermal
+conduetivity of coating
+heat transfer coefficient
+Figure 7 The heat transfer coefficient of three copper
+tubes under different flux
+coating on the outer surface, which is prepared in this
+on the outer surface.The third one is mooth tube with
+article. The second copper tube is with fouling layer
+nothing on the outer surface. The heat transfer coeffi
+cient of three
+copper tubes under
+different flux is
+shown in Fig.
+7, which shows that the heat transfer
+coefficient under different flux of the first copper tube
+is close to the third copper tube, but it is much higher
+than that of the second copper tube. High-thermal
+formance of heat exchanger.
+conductive coating can ensure the heat transfer per-
+3.3 Heat resistance of coating
+Silicon modified polyester resin is mostly used as
+the matrix resin of high temperature protecting resin.
+The main chain of this resin is SiO bond which has
+difference is clectro negativity of Si and O atom,
+higher bond energy than C—C bond. The significant
+which enhances the stability of alkyl groups connected
+with SiO—Si bond. The alkyl groups connected with
+form of Si—O—Si bond, which can prevent the pri-
+Si atom will be more stable when Si atom exists in
+mary bond from fragmentation.
+conductive coating. It is easy to find that the ignition
+loss increases as increase of the temperature intensi-
+fies. The ignition loss increases rapidly when the tem-
+perature excceds 300 °C, where the organics compo-
+nents in high-thermal conductive coating begin to de
+the degradation of organic components almost stops.
+The reason for this phenomenon is that the organic
+components in the high-thermal conductive coating
+are ablated when the temperature excceds 300
+C
+Figure 8 TGA of heat conductive coating
+Table 2 Acid corrosion results
+is to be fused, which is shown in Fig. 9. When the
+ 0g euxode oi  ose spoxo auneudu
+all the organic components disappear. When the tem-
+perature is about 600 °C, the fused glass powder and
+SiO—Si bond remain unchanged [i].The tempera-
+ture of fluid in ordinary metal heat exchanger retains
+100 °C250 °C. So the high-thermal conductive coat-
+tance used in ordinary metal heat exchanger.
+ing described in this article has excellent heat resis-
+3.4 Anticorrosion propertie:
+The corrosion of heat exchanger in chemical
+production process mainly includes hydrogen corro-
+sion and oxygen corrosion, which can be solved by
+the excellent anticorrosion coating with high thermal
+conductivity and good heat resistance. Table 2 shows
+the anticorrosion properties of the high-thermal con-
+ductive coating described in this article. The coating
+remains flawless and perfect after it is placed in acid
+solution for 240 hours in such temperatures as 25 °C,
+50 °C and 90 °C, and the adhesion force is in Grade 1.
+In this paper, the grade of adhesion force ranges from
+0 to 5.0 means the optimal value of adhesion force and
+5 means the worst value.
+CONCLUSIONS
+(1) The coating of thermal conductivity of heat
+exchanger is improved by adding thermal conductive
+particles, and the thermal conductivity inereases with
+increasing thermal conductivity and mass fraction of
+thermal conductive particles.
+(2)
+Thermal
+conductivity
+af-
+fects the total
+1 coefficient heat transfer when the ther
+uu-M 0Z U
+K
+Chin. J. Chem. Eng-, VoL. 22, No. 5, May 2014
+This can be used as a reference when choosing the
+coating for heat exchanger.
+NOMENCLATURE
+REFERENCES
+Guan, Z.Z., “Study of high tempera

@@ -1,0 +1,199 @@
+PAMAM树枝状大分子在水性聚氨酯合成中的应用研究
+王学川，张哲，郭子东，王娜，强涛涛
+（1.陕西科技大学轻化工助剂化学与技术教育部重点实验室，西安710021；
+2.陕西农产品加工技术研究院，西安710021）
+摘要：由异佛尔酮二异氰酸酯（IPDI）、聚醚多元醇（DL-2000D）、聚酯多元醇（CMA-244），二羟甲基丙酸（DM-
+PA）、1，4丁二醇、乙二醇合成含异氰酸醋基（—NCO）的聚氨酯预聚体，再令其与整代聚酰胺胺（PAMAM）接枝，
+合成不同代数的树枝状水性聚氨酯。用红外光谱（FT-IR）、透射电镜（TEM）、激光粒度分析表征乳液粒径及其分
+散状态，用原子力显微镜（AFM）、水接触角表征其表观性能，分析胶膜的理化性能，结果表明，由相对分子质量
+较小的PAMAM（G2）改性所得的水性聚氨酯WPU-G2的水性聚氨酯耐水、耐热性能有了明显提高。
+关键词：聚酰胺-胺；水性聚氨酯；合成：表征
+中图分类号：TQ323.8
+文献标识码：A
+DOI ; 10,3969/j.issn.1001  9731.2016,05,003
+随着人们对材料安全和环境保护的重视，以水为
+分散介质的水性聚氨酯（WPU）应运而生。与溶剂型
+聚氨酯相比，它具有安全、节能、环保等优点，在皮革、
+涂料、胶黏剂、纺织等行业已有广泛的应用。但其
+水性的分子结构特性决定其耐水性、耐热性以及物理
+机械性能较均低于溶剂型聚氮酯，因而应用受到了
+限制。为提高其综合性能，扩大其应用领域，则须对其
+合成原料及工艺进行更为深入的探索。
+树枝状大分子是一类具有三维结构、高度有序的
+新型高分子，具有官能度高、端基反应活性高、分子粘
+度低、易于成膜等特点，已是近年来的研究热点，也已
+在涂料、膜材料、表面活性剂、生物医药、线性聚合物的
+改性剂等有了广泛的应用。水性聚氨酯的异氟酸
+酯基（一NCO），能与含有大量高反应活性氨基
+（—NH）的整代聚酰胺胺（PAMAM）反应而实现扩
+链改性.PAMAM的高支化度特性，能有效改善水性
+聚氨酯的耐热性、耐水性及其物理机械性能，本文
+以整代PAMAM对水性聚氨酯进行扩链改性，得到了
+一系列改性水性聚氨酯分散体。通过红外光谱、X射
+线衍射、激光粒径分析、透射电镜和原子力显微镜等对
+改性乳液及涂膜的表征，研究了不同代数PAMAM的
+改性效果
+异佛尔酮二异氟酸酯（IPDI），工业级，德国拜耳公
+司；聚醚多元醇（DL-2000D），工业级，山东蓝星东大化
+作者简介：王学川
+放到初稿日期：2
+(1963
+4-1(
+1.男.山西芮城人
+，教授，博士生导师，研究方向为制革化学与技术
+通讯作者：主学川.B
+DOI: 10.3969/i.1ssn.1001 —9731.2016.05.003
+工有限责任公司；聚酯多元醇（CMA-244），工业级，华
+大化学集团；二羟甲基丙酸（DMPA），分析纯，阿拉丁
+试剂公司：二丁基二月桂酸锡（DBTDL），分析纯，上海
+青析化工科技有限公司：1，4丁二醇、乙二醇、三乙胺
+（TEA）、N-甲基-2-吡咯烷酮、二正丁胺、丙酮，分析纯，
+广州市科密欧化学试剂有限公司；PAMAM（G1~
+G5）：HPLC纯度为≥95%，威海晨源分子新材料有限
+公司。
+GT-7010-AE拉力试验机·高铁检测仪器有限公
+司；ZEN3690粒度及Zeta电位分析仪，英国马尔文公
+司；VERTE70傅里叶变换红外光谱，德国BRUKER
+公司：Hitachi H-600型透射式电子显微镜；SPA400-
+SP130N原子力探针显微镜（AFM），日本精工；
+JC2000A，水接触角仪，上海中晨公司。
+1.2
+PAMAM改性水性聚氨酯的合成
+PAMAM 改性水性聚氨脂的合成
+在装有机械搅拌、温度控制仪的反应釜中投入
+24.8g聚氧化丙烯二醇（DL-2000D）和31.2g聚已二酸
+~
+110“C真空脱水2h.降温至60℃，加入25.48g异氟
+尔酮二异氰酸酯、3.22g二羟甲基丙酸和适量催化剂
+二丁基二月桂酸锡（DBTDL)，升温至80~85C，保温
+3 h,再加入1.92 g 1.4丁二醇、0.88g乙二醇和4.5g
+N-甲基-2-吡略烷酮，80~85℃C反应2~3h至
+NCO%达到理论值（用二正丁胺滴定法测定—NCO
+含量）[12]，边降温边以丙酮稀释，至40~50℃时加入
+2.43g三乙胺，搅拌均匀，快速搅拌分散于计量的（按
+乳液照固含量30%计）水中，使形成均匀乳液：称取乳
+液质量0.3%量的PAMAM（HPLC纯度为≥95%)，
+并按1：5以水稀释，而后边搅拌边缓慢加入到上述均
+对比WPU-空白样及WPU-G1粒径图，可以看
+出，由于PAMAM-G1相对分子质量较小，两者颗粒大
+小差异不大，说明相对分子质量较小的PAMAM-G1
+分子是进入聚氨酯胶粒内部并与之反应实现分子间交
+联的，乳液颗粒形貌变化小.PAMAM代数增加，其
+相对分子质量随之提高，PAMAM分子进入到聚氨酯
+胶粒内核的难度增大，更多的是富集于胶粒表面，胶粒
+表面和内核的电子云有明显差异，如WPU-G2，形成
+了以PAMAM-G2为外壳、阴离子WPU为内核的核
+壳结构.随着PAMAM代数的提高，这种核-壳结构
+更加明显，如WPU-G3，还出现了少量胶粒间交联团
+聚，实现一定的体型交联；如WPU-G4~G5，PAM-
+AM-G4~G5相对分子质量更大，已完全无法进入
+WPU胶粒内部，发生的是胶粒和胶粒之间的分子交
+Iable 1 The emulsion particle size analysis
+通过PAMAM-G1大分子与WPU-G1红外图谱
+比较（如图4）可以发现，两者各基团吸收峰比较接近，
+但在3340cm处有明显变化，PAMAM-G1的伯胺
+基伸缩振动双峰在WPU-G1中消失了，说明PAM-
+AM-G1的伯胺基与异氟酸酯完全反应而消失了，生成
+了更为稳定的脲基，线性的WPU与较高支化度的
+PAMAM大分子如所预期地实现成功接枝。
+表1列出了乳液粒径分析情况。图3依次为
+WPU-G1~G5乳液粒径分析图。可以看到，它们的粒
+径相差不大，平均粒径（r/nm）都小于50nm。其中，
+WPU-G1与WPU-空白较为接近，分布较窄；WPU-G2
+~G3，由于PAMAM-G2~G3相对分子质量和支化度
+提高，开始对乳液粒径产生一定影响：WPU-G4~G5
+乳液粒径分布有所变宽，这种分布不均可能是由于
+PAMAM-G4~G5大量的端氨基可与乳液颗粒内残留
+的异氰酸前基发生反应，形成一定的立体网络结构，导
+致局部乳液颗粒相对密集，堆积成较大粒径的胶粒的
+Fig 5 The water contact angle of product:
+由图5可以看出，WPU-空白样所成胶膜的水接
+触角为75.6°，WPU-G1~G5所成胶膜的水接触角分
+别为 83.2,85.8,86.6,82.2和 79.2”。可见与PAMAM
+反应之后，聚氨酯胶膜表面能降低了，水接触角变大，
+水的润湿性降低，表面疏水性更强。
+2.3.2胶膜表面形貌（AFM）分析
+聚合物表面形貌用AFM直观。图6为WPU-空
+白及WPU-G1~G5的AFM相图及三维立体图。图
+中明亮而凸起的部分为AFM力场较强的区域，说明
+该区域存在着内聚能高的链段，一般认为是聚氨酯的
+硬段：而深色、凹陷的部分为AFM力场较弱的区域，
+说明该区域分子链内聚能低，难以形成分子间作用力，
+一般认为是聚氨酯软段相区，如此明暗相间，构成了
+聚氨酯特有的结晶微区结构。不难看出，WPU-空白
+胶膜的明暗区域较为明显，也就是说，干燥成膜时聚氨
+酯的软硬段发生各自单独聚集，力场分布区域明显：而
+WPU-G1~G5明暗区域界线变得模糊，说明其干燥成
+膜时趋于形成均一相。这是因为与PAMAM反应后，
+聚氨酯分子链间形成了更多的交联结构，影响其软硬
+段的聚集,限制了其结晶微区的产生;且随着PAM-
+AM支化度的提高，WPU-HBP的AFM形貌图趋于
+平坦，分子间力及力场分布逐渐均化，表面更为平滑，
+2.4胶膜性能分析
+出，PAMAM的引入对胶膜拉伸强度的影响较小。
+WPU-G1~G3胶膜比空白样略有提高,WPU-G4~G5
+胶膜却有所下降，说明添加量一定时，相对分子质量较
+小的PAMAM膜强度影响较小；相对分子质量较大
+时，对膜强度就有一定影响。PAMAM的引入，对胶
+膜断裂伸长率有明显的影响。随着交联程度的增加，
+断裂伸长率呈明显下降趋势，特别是WPU-G5胶膜断
+裂伸长率显着下降，这可能是高代数PAMAM会增
+加聚氨酯胶粒间的束缚程度，胶粒自由度降低，不利于
+均匀涂膜的形成；同时，过高的支化度也影响了成膜过
+程中胶粒间的彼此融合
+2.4.2胶膜耐水性分析
+表3为胶膜吸水率。由图7可以看出，经PAM-
+AM改性，水性聚氨酯耐水性吸水率明显降低，吸水率
+从 WPU-空白的 10.47 % 最低降到 WPU-G2 的4,64%。
+这是由于聚氨酯分子间交联程度增加，胶膜更加紧密，
+水分子不易进入，吸水率下降：但PAMAM支化度提
+高，胶膜吸水率先降后升，这说明过度交联反而对紧密
+而连续胶膜的形成不利，水分子可从颗粒成膜的间隙
+处渗透入。
+Table 2 Effect of GlG5 PAMAM to the mechanical
+溶剂型聚氨酯分子相对分子质量较大，分子链相
+对规整，分子间作用力强，耐热性较好，在较高温度下
+也能保持良好的物理机械性能：但水性聚氨酯分子链
+较短，且分子支链较多，链间缠绕少，因而耐热性能较
+低，是制约其使用的一项重要原因。从胶膜耐热性测
+试结果看，代数较小（G1~G3）PAMAM的改性，聚氨
+醋交联度提高·胶膜耐热性能改善：但PAMAM支化
+度过高（G4～G5），相对分子质量增加，反而由于对聚
+氨酯胶粒的过度束缚致使其无法形成均相膜，耐热性
+反而有所下降。
+Table 3 The water absorption of the filn
+Fig 7 The water absorption of the filr
+Table 4 The heat resistance of the film
+（3）WPU与PAMAM反应后，分子链间形成了
+更多的交联结构，影响了软硬段的聚集，限制了结晶微
+区的产生。PAMAM支化度提高，WPU-HBP的
+AFM形貌图趋于平坦，分子间力及力场分布趋于均
+化，表面趋于平滑
+（4）胶膜理化性能分析结果表明，添加量一定，
+低支化度PAMAM对胶膜力学性能影响较小，但明显
+提高耐热性能，软化点从173.5C提升到192.1C；
+PAMAM支化度提高，影响胶粒间成膜过程中分子的
+相互融合，会降低胶膜拉伸强度和伸长率，软化点也从
+192.1C逐渐降低到177.5C。PAMAM改性对耐水
+性能有明显的提高，吸水率从10.47%降到4.64%。水
+接触角有所增大，主要是PAMAM的改性降低了表面
+能，提高了胶膜表面疏水性。
+Fig 8 The heat resistance of the film
+PAMAMdendriticmacromoleculesin the applicationof
+Chemical Industry
+f Minis
+Chin
+2. Shaanxi Research Institute of Agricultural Products Processing Technology, Xi'an 71o021 ,China)
+Abstraet: The polyurethane prepolymer was prepared by the isophorone disocyanate ( IPDI) , polyether polyol
+(DL-2000D) , polyester polyol (CMA-244) , 2,2Dimethylol propionic acid ( DMPA) , 1 , 4Butylene glycol and
+ethylene glycol. The polyurethane prepolymer was grafted on whole generation of polyamide-amine ( PA MAM) ,
+and then a new series of dendritic waterborne polyurethane was synthesized. The products were characterized by
+sion electron microscope (TEM) , laser particle size
+analysis, Then the apparent performa
+nces were analyzed by using atomie force microscope ( AFM) and water
+contact angle, At last, the physical and chemical properties of the film were studied. The results show that the
+high elasticity characteristics of PAMAM can effectively improve the physical and chemical performance of
+waterborne polyurethane, Comprehensive compare different algebraic PAMAM and the physical properties of
+the modified waterborne polyurethane, the relative molecular mass of smaller PAMAM (G2) modification of
+waterbased polyurethane WPU-G2 can obviously improve the aqueous polyurethane water resistant and heat re
+Key words: polyamide-amine;waterborne polyurethane;synthesis; characterization

@@ -1,0 +1,60 @@
+热塑性聚氨酯弹性体中的氢键作用
+中国纺织大学纤维材料改性国家重点实验室，上海200051
+摘要采用动态力学分析方法研究了一系列由聚四氢味喃（M=2000]，4，4二苯基甲烷二异氟酸酯以）
+用符合Arhenius型的温度依赖性.从弹性模量温度关系曲线上估算出氢键解离活化能和物理交联密度
+关键词热塑性聚氨酯弹性体：氢键作用：物理交联：温度依赖性
+中图分类号06311,0633.4
+文献标识码A
+文章编号02510790( 2001)05084403
+近年来，以高效节能、环保为特征的TPU弹性纤维生产技术已成为国内外市场研究与开发的热
+点21许多研究者应用红外、热分析等方法研究了TPU中氢键的性质强度、数目等对温度的依赖
+性.本文采用动态力学分析法定量地研究了一系列由聚四氢呋喃4，4二苯基甲烷二异氰酸酯以
+聚四氢呋喃（PTMG，M=
+2000,日本）；
+二苯基甲烷二异氰酸酯（MDL烟台合成革总厂生
+）；N甲基二乙醇胺（MEDA,化学纯试剂，日本）；
+1,4
+1,2丙二胺（PDA)，化学纯试
+TPU通常在动态力学温度谱上显示很宽的模量平台区域，如图1和图2所示，与理想橡胶平台模
+量的温度依赖性不同的是
+TPU的平台模量随温度升高而逐步下降
+.其机理在于
+TPU中硬段微区的物
+收稿日期：2000-04-31
+Sample,structure of chain extender,molar
+compositions and ralative nolecular mass
+根据檬胶弹性分子理论，TPU的弹性模量可以表示为E=
+ARTexp(E /R T) ,且可
+由图1可见，PU-PDA，PU-BD和NPU-1样品的平台区的弹性模量均随温度升高而下降.根据
+InE/T=InAR+E/RT，以InE/T对1/T作图得到线性关系（图3).从直线的斜率和截距分别求出
+E和A,从而算出v/V,PD,BD,N PU1 的 E分别为 &79,12.81，& 95 kJ/molv/V分别为
+0.0368，0.0122,0.0035mol/cm.E的数值在812kJ/mol,这一结果与Macknight等应用红外
+是因为在3种扩链剂中，BD具有最规整的结构，能形成结构最有序紧密的硬段微区.v/v的顺序为
+PU-PDA>PUBD>NPU-1.这是因为PDA是二胺，与异鼠酸酯反应生成脉基，而BD和MEDA是
+醇，与异氰酸酯反应生成氨酯基，因此前者硬段中的质子给予体NH基团的数目比后两者多一倍，所
+以能形成更多的氢键作用.此外，BD的骨架原子数是偶数，而MEDA的骨架原子数是奇数，因此，与
+PU-BD相比，NPU-I的硬段之间将形成较弱的网络结构和较不规整的链段排列.随温度升高，物
+理交联密度比弹性模量下降更迅速（图4），这是TPU平台区弹性模量随温度升高而下降的原因
+PU-BD相比，NPU-I的硬段之间将形成较弱的网络结构和较不规整的链段排列.随温度升高，物
+理交联密度比弹性模量下降更迅速（图4)，这是
+TPU平台区弹性模量随温度升高而下降的原因
+α. PUPDA; b. PU-BD; c. NPUL
+由图2可以看出，弹性模量也显示出随温度升高呈现下降的规律.ln（E/7）对1/T作图（图5）也
+呈现良好的线性关系.相应的E分别为8.95,10.56，15.65kJ/mol,v/V分别为0.0035,0.0048,
+0.0099mal/cm（30C）.E随硬段含量增大而增大，这表明随硬段含量增大，氢键作用的温度依赖性
+更显著.此外，随硬段含量增大，v/V增大.这是因为硬段含量增大，其中包含的NH基团的数目也增
+加，能形成更多的氢键作用，从而提高物理交联密度.如图6所示，随温度升高，物理交联密度下降，
+CHEN-大俊
+Industry of Synth etic Fiber(含成,续工业 ) [ J], 1997
+Hydrogen Bonding in Thermoplastic Polyurethane Elastomers
+(Sate Key Laboraory of Fiber Maleriafs Modification, Chana Textile University , Shanghai 200051, Chano )
+Abstract  A relatively high degree of physical crosslink was inferred from the superior mechanical proper
+ties of thermoplastic polyurethane elastom ers( T PU). For the most part, this has been assumed due to hy-
+drogen bonding In this paper hydrogen bonding effects in some themmoplastic polyurethane elastomers
+consi sting of poly ( tetramethy lene oxide) of M= 2 000, 4, 4 dipheny 1 methane disocyanate and exten-
+ders V methy 1 diethanol amine, 1, 4butandiol and 1, 2ethylene diamine, hav e been studied by using dy-
+namic mechanical analysis  The activ ation energies of hydrogen bonding dissociation and the phy sical
+crosslink densities have been ev aluated from the elastic moduluslemperature relation of the TPU samples.
+Keywords
+Thermoplastic polyurethane e
+Hydrogen bonding Physical crosslink; Temperalure

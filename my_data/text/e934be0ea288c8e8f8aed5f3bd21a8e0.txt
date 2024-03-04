@@ -1,0 +1,194 @@
+马来酸酐改性麻油制备交联型水性聚氨酯
+陕西科技大学陕西省轻化工助剂重点实验室西安720021
+摘要：以马来酸酐与麻油制备含碳碳双键的三羧基菌麻油（MACO)作为内交联剂合成改性
+麻油水性聚氨酯乳液（MACO-WPU）。采用FT-IR和XRD对改性聚氨酯的结构进行表征，证实
+MACO被成功引入到聚氨酯大分子链中且分子链呈现无序状态。通过对力学性能、吸水率、粒径、热
+重分析等研究了MACO用量对聚氨酯乳液及胶膜性能的影响结果表明：当w（MACO）=3%时乳液
+外观和稳定性好平均粒径为48.45mm；胶膜的拉伸强度和断裂伸长率分别为13.15MPa、195%；与
+未改性WPU相比热稳定性略有提高
+Preparation of Crosslinked Waterborne Polyurethane
+from Castor
+Oil Modified
+by
+MaleicAnhydride
+Lai Shuili ,Gao Chen ,Liu Zhuan ,Wang Ruiqi
+(Shaanxi Key Laboratory of Chemical Additives for Industry , Shaanxi University
+Abstract: The tricarboxylic castor oil containing carbon  carbon double bond( MACO)
+produced from maleie anhydride and castor oil is used as internal crosslinking agent to prepare
+the MACO modified waterborne polyurethane emulsion MACOWPU. The structure of modified
+into polyurethane molecular chain. The effects of MACO content on the properties of polyure-
+thane emulsion and film thereof are studied by means of the mechanical properties , water ab-
+sorption , particle size and thermogravimetric analysis. The experimental results show that the
+emulsion has good appearance and stability when the mass ratio of MACO is 3%. Meanwhile ,
+the average particle size was 48. 45 nm. The tensile strength and elongation at break of the film
+are severally 13. 15 MPa and 195% , and the thermal stability of WPU is slightly improved as
+compared with the unmodified WPU.
+Key Words: waterborne polyurethane; castor oil modified by maleic anhydride; crosslink
+Key Words: waterborne polyurethane; castor oil modified by maleic anhydride; crosslink
+modification; network structure; mechanical property
+modification; network structure; mechanical property
+来水利等：马来酸酐改性施麻油制备交联型水性聚氨酯
+随着应用领域的不断扩展及环保要求的日益严
+格水性聚氨酯在印染、汽车涂料、建筑涂料等诸多领
+域正逐渐取代溶剂型聚氨酯.但水性聚氨酯乳液
+因其以水为介质存在干燥迟缓的问题还由于在合成
+时引入了羧基、磺酸基等亲水基团及缺乏化学交联的
+线性结构而表现出耐热性差、耐溶剂性差、拉伸强度
+低等缺点严重制约了水性聚氨酯的大范围推广
+应用、所以，为提高水性聚氨酯的耐水性、耐溶剂性
+及力学性能需要对其进行更加深入的交联改性使
+活性基团之间形成化学键而将聚氨酯大分子链交联
+起来形成网状结构的聚合物。交联改性按照机理通
+常可分为内交联法、外交联法和其他交联法。
+起来形成网状结构的聚合物、交联改性按照机理通
+常可分为内交联法、外交联法和其他交联法
+葱麻油（C.0)是天然油脂，具有活性基团多、来
+源广泛等优点主要化学结构是麻油酸三甘油酯。
+葱麻油分子中含有碳碳双键和羟基，为共聚、交联反
+应提供活性接枝点可引入WPU链段之间发生不可
+控交联形成具有交联网络状结构。但由于麻油羟
+基平均官能度约为2.7直接与异氰酸酯反应交联
+程度低所以用马来酸酐（MA）进行改性引I入双键，
+改性后的麻油双键官能度大幅提高与含双键的水
+性聚氨酯共聚得到交联程度更高的交联网络状结构，
+成膜力学性能显著增强
+本文以马来酸酐改性菌麻油合成了含碳碳双键
+的三羧基麻油（MACO）并将其作为内交联剂合成
+了改性麻油水性聚氨酯乳液（MACO-WPU）。采
+用FT-IR、TG、SEM、XRD、万能材料试验及乳液粒径
+测试等分析方法对MIACO-WPU进行表征，考察了
+MACO的添加量对MACO-WPU改性胶膜的热稳定
+性、耐水性、力学性能和乳液粒径等的影响
+精炼葱麻油（C.0羟值=163mgK0H/g)：分析
+纯广州南嘉化工科技有限公司：马来酸酐（MA）：分
+析纯天津市富力化学试剂厂：六亚甲基二异氟酸酯
+（HDI）：分析纯江苏富力化工有限公司：聚酯多元
+醇（PE-3020)：工业级青岛瑞诺化工有限公司；二月
+桂酸二丁基锡（DBTDL）、三乙胺（TEA）：分析纯天
+津市大茂化学试剂厂：22-二羟甲基丙酸（DMPA）：
+分析纯湖州长盛化工有限公司；4-羟基丙烯酸丁酯
+(4HBA):分析纯,AMERICAN BARLI CHEMICAL
+.2改性麻油（MACO)的合成
+将MA与C0以物质的量比3：1加入到装有温度
+计、聚四氟搅拌棒及冷凝管的500ml的三口烧瓶中，
+在120℃下反应4h。每隔1h测定酸值以监测反应
+进程。当酸值低于145mgK0H/g时反应停止-用
+氨水调节pH=7，加入一定量蒸馏水稀释到浓度
+为50%。
+将PE-3020在120℃下减压除水2h备用。将
+PE-3020、HDI及催化剂DBTDL加入带有聚四氟揽
+拌棒、冷凝管、温度计的烧瓶中，通入氮气升温到
+80°℃保温1h加入 DMPA在85℃反应2h,再加入
+4-HBA保温1h降温至50℃随即加入计量的TEA
+反应15min调节pH=7高速搅拌并加入蒸馏水高速
+分散即得到WPU乳液。实验过程中加入丙酮调节
+体系黏度。然后向WPU乳液中加入MACO溶液分
+散均匀以AIBN为引I发剂80℃下缓慢滴加3h，保
+温2h后减压蒸馏除去溶剂即得目标产物MACO-
+WPU.
+以德国Bruker-Verte型傅里叶红外光谱仪表征
+乳胶膜结构：采用离心加速沉降实验模拟测试乳液的
+贮存稳定性：以日本理光D/max2200PC型X射线衍
+射仪测试胶膜结晶性能：以美国TA公司Q550热重
+分析仪测试胶膜热稳定性；以HitachiS-4800型扫描
+电子显微镜测试胶膜的断面形貌：以英国Malverm
+BT9300Z型激光粒度分析仪检测改性乳液粒径：以台
+湾高铁科技股份有限公司GTS-2000-S型伺服系统
+拉力机并参照GB/T528—2009测定胶膜的物理机
+械性能。
+将胶膜制备成3mmx3mm的正方形胶片，真空
+干燥直到恒质量m，将胶片在蒸馏水放置24h取出
+胶片除掉表面水分称其质量为m胶膜吸水率如式
+（1）计算。
+从表1可知随着MACO用量的增加WPU乳液
+由半透明泛蓝状变至白色乳液，乳液亲水性、稳定性
+随之降低。这是因为MACO为体系提供共聚反应活
+性点随其用量增加，体系中无规则共聚程度增大形
+成支化交联结构相对分子质量提高，使其水溶性降
+低分子运动受到极大束缚乳液粒径变大难以形成
+稳定乳液：另一方面当MACO用量大于2%时胶膜
+疏水性逐渐增强这主要是因为MACO的引I入使聚
+合物长链可聚合双键含量增多交联度增大使聚合物
+内部的空间密度增大空间缩小水分子难以进入吸
+水率降低。
+由图2可见随着MACO添加量的增大乳液的
+平均粒径逐渐增大这是由于MACO分子结构中含
+有多个活性接枝点可作为交联剂与聚氨酯分子链段
+从图1可以看出3360cm处为—NHC0—中
+的N—H键伸缩振动峰，1710cm处为—NHCO—中
+的C=0伸缩振动峰2268cm处没有出现—NCO的
+特征吸收峰说明体系中一NCO已完全参与了反应。
+1531cm和1470cm处的吸收峰为羧基的伸缩振
+动峰2933cm和2873cm处为饱和碳的C—H伸
+缩振动吸收峰，观察MACO的红外光谱，在
+1640cm处为碳碳双键吸收峰，而在MAC0-WPU
+的红外光谱中1680-1620cm范围内并没有出现
+的碳碳双键吸收峰这是因为MACO与预聚体内位
+于端位的碳碳双键进行了自由基共聚反应MACO被
+接入聚氨酯结构中合成了内交联型水性聚氨酯。
+进行共聚形成致密网络结构分子链段也变得越来越
+僵硬亲水性减小，不利于乳化分散，从而使粒径增
+大，另一方面，MACO的增加使乳液平均粒径由
+28.19nm增大到72.08mm粒径的分布变窄。这是
+因为MACO在体系中发生无规则共聚反应形成网络
+结构且聚合程度随MACO的增多而变大将多数小
+分子链有效缠结在主体结构周围所致
+从图3可知MACO的增加使乳胶膜拉伸强度呈
+先增后减的变化趋势乳胶膜断裂伸长率不断降低
+随着MACO用量的逐渐增大，体系中发生无规则共聚
+反应的程度增大体系交联程度增大分子内及分子间
+氢键作用增强，从而使乳胶膜拉伸强度增大。当w
+（MACO)>3%体系内局部分子链交联过度聚合物网
+状链受力不均应力不再均匀分布网络结构的强度大
+大降低；另一方面随MACO用量增大WPU分子和
+来水利等：马来酸酐改性施麻油制备交联型水性聚氨酸
+Fig.2 Effect of MACO content on the average particle size of WPU emulsioe
+图4为WPU及3%MACOWPU乳胶膜的XRD
+图谱。WPU可以结晶原因在于作为原料的聚酯多
+元醇一般具有结晶性能而且聚氨酯材料中一般有软
+段结构和硬段结构，其相互聚集穿插，形成特殊的微
+相分离结构而内交联剂MACO的引I入，使聚合物的
+分子链堆砌发生改变将使聚合物结晶性能变化
+分子堆彻发生改变将使聚合物结晶性能变化
+由图4可见未改性的WPU的谱图中29=22°
+处出现一个尖锐结晶峰，说明该聚合物结晶能力较
+强：而在改性的MACO-WPU谱图中没有明显的结晶
+峰只是在10°-30°之间有一个较宽的弥散峰。这是
+因为当体系中引I入MACO改性时，体系中活性接枝
+点增多分子链间交联程度增大形成了空间网络结
+构严重破坏了链的对称规整性，使聚合物结晶能力
+下降[”
+从图5可知MACO改性WPU前后胶膜的耐热
+性能有略微提高但MACO-WPU胶膜的失质量率比
+WPU胶膜显著减小。WPU的最大分解速率为
+1. 2% /min ,而当w( MACO) = 3%时降低至 0. 9% /
+min.改性前WPU胶膜的分解温度为368℃C而改性
+来水利等：马来酸酐改性施麻油制备交联型水性聚氨酯
+后MACO-WPU胶膜的分解温度为377℃C，这一区
+域主要对应于硬段的分解。MACO属于多官能团内
+交联剂其中的双键与以碳碳双键封端的WPU发生
+自由基共聚，使得改性前线性的WPU转化为交联的
+网状聚合物，MACO-WPU胶膜的耐热性能略微
+在WP口胶膜断面中较亮部分为内浆能高的锁
+段较暗区域为软段，通过观察断面的平整度可以判
+断聚合物的相分离程度并能间接反映胶膜的交联程
+度交联程度越高断面形貌越粗糙.由图6可知，
+未改性WPU胶膜断面呈较光滑状表面表现出具有
+一定结晶性的鳞片状结构，经MACO改性后的胶膜
+断面形貌表现出大面积粗糙的褶皱，这是因为随着
+MACO的引I入WPU大分子链之间通过化学键有效交
+联胶膜变得紧密另外也使得体系中软硬段两相分
+离程度减弱所以在液氮脆裂时MACO-WPU胶膜断
+面形貌呈现均匀的明暗相
+成了具有更多活性接枝双键的MACO再将其作为内
+交联剂对端位含碳碳双键的WPU进性改性，即通过
+分子链间碳碳双键自由基共聚反应合成了内交联型
+网状结构改性离麻油水性聚氨酯乳液、该合成办法
+简单环保极大地提高了麻油的利用率符合“绿
+色化学”理念。改性麻油水性聚氨酯能够提高线
+型WPU的耐水性、力学性能。
+（2）MACO用量从0增长到3%时WPU胶膜拉
+伸强度由2.43MPa提高到13.15MPa断裂伸长率
+由537%降低至195%，吸水率由15.32%降低至
+6.74%热稳定性有所提高结晶度亦明显下降该用
+量下可获得乳液稳定、胶膜完整且性能优异的产品

@@ -1,0 +1,551 @@
+Synthesis and properties of spray-applied high solid content two
+componentpolyurethane
+coatings based on polycaprolactone polyols
+noSubut'nyzueuex',oerxuenSuenHueys
+ABSTRACT
+1.Introductior
+As the increasingly stringent laws about the utilization and
+emission of the volatile organic compounds (VoC), the coatings
+industryisunder great pressure toreducetheVOCcontents of coat-
+ing products. The options available for meetingthe requirement on
+VOC of coatings are well known as waterborne coatings, powder
+coatings, UV curable coatings and high solid content coatings [14]
+For obvious reasons of the excellent mechanical properties and the
+the preferable routes to reduce the VOC level in coatings industry
+outstanding adaptability, the high solid content (HSC) coatings are
+High solid content two component polyurethane (HSC 2K-PU)
+conventional solvent-borne systems in many diverse fields of the
+coatings industry because of their environmental,technical and low
+nsisted of hydroxyl
+E-matladsress:cejqquescut.educm(lQa
+(BDO), diethylene glycol (DEG), neopentyl glycol (NPC) 2,4-diethyl-1,5-pentanediol (PD-9), 1,4
+caprolactone initiated by small molecular polyols including ethylene glycol (EG). 1,4-butanediol
+cyclohexanedimethanol (CHDM), trimethylolpropane (TMP). di-trimethylolpropane (Di-TMP). di-
+pentaerythritol (DiPE) and maltitol. IR and H NMR spectra of PCLs disclosed that -caprolactone reacted
+paedad Agngssaons aam sd iae a uaq sjofjod ejnoa(ou (jeus po sdno xopq a qm
+and possessed similar molecular skeleton structures. The GPC data summarized the measured umber-
+average molecular weights ofPCLs approached totheirtheoretical values, and the polydispersity indexes
+(PDI) were ranged from 1.35 to 1.58. PCL.s prepared with maltitol displayed the highest viscosity up
+to 42000 mPas, while products obtained from diol substrates including EG, BDO, DEG, NPG and PD-9
+exhibited the lower viscosities in the range of 160300 mPas. The cured films of PCLs prepared from
+polyisocyanate curing agents exhibited good impact resistance, adhesion, flexibility, higher hardness
+and displayed better thermal stability with 5% weight loss at 260-C. PCLs obtained from TMP (PCL-7,
+TMP/3-CL) and Di-TMP (PCL-8, Di-TMP/4e-CL) exhibited the higher films hardness and lower viscosi-
+ties at 1003% solid content. The viscosities ofPCL-7 and PCL-8 were 1320 and 3900 mPas,respectively and
+the VOC contents of spray-applied 2K-PU coatings prepared from PCL-7 and PCL-8 were low to 180 g/L.
+ 2017 Elsevier B.V. All rights reser
+ved
+resins and polyisocyanate curing agents and the key technology of
+HSC 2K-PU coatings is preparing low viscosity, high solid content
+hydroxyl resins. Conventional hydroxyl resins used for the prepara-
+tion of 2K-PU coatings are usually including alkyd resins, polyester
+resins and hydroxyl acrylic resins [711]. However, these resins
+are usually linear polymers with the higher molecular weights, and
+possessing high viscosities to be hard to formulate HSC 2K-PU coat-
+ings [10,11]. Meeting the requirements for high solid and low VOC
+always been a challenge [12].
+contents without compromising on the coatings performance has
+In general, the VOC contents of 2K-PU coatings mainly depend
+on the properties of polyols and polyisocyanates, as well as the
+construction process [13] Developing HSC 2K-PU coatings, one tra-
+dlitional approach is to reduce the viscosities of hydroxyl resins by
+lowering the molar weight or narrowing the molar weight distri-
+bution [4.14,15]. However, hydroxyl resins with the low molecular
+weight often result in poor drying behavior and mechanical prop-
+erty, such as long drying and recoating time, low hardness and
+abrasion resistance [15,16]. Moreover, the using of low molecular
+weight hydroxyl resins is always resulted only a moderate increase
+in the solid content compared with conventional high-molecular
+systems [14,16]. Another approach, the use of reactive diluents,
+which become a part of the coating films after drying and indeed
+increases the solid content considerably [1416]. But such formu-
+lations are usually much more expensive because of the higher
+of the strong hydroxyl bonding effects, the high polarity and cohe-
+Hydroxyl polyesters (HPs) always exhibit high viscosity because
+sive energy of ester groups in molecules of HPs [6]. Recently, several
+studies have reported that the partial replacement of the hydroxyl
+an increase in solid content at the application viscosity as well
+groups in HPs with the less polar acetoacetate groups leads to
+found that the structural variation of diol and acetoacetylation
+as increase in adhesion due to chelate effect [4,6]. Raju et al. [6]
+help in significant reduction of viscosity of HPs and that is also
+reflected in an increase in solid contents of coatings, Meanwhile,
+there are many articles and patents focused on the oligomers con-
+tained potential reactive groups, such as oxazolidines, aspartate,
+aldimines and ketimines oligomers [17]. Those potential reactive
+groups are unblocked or activated and generated reactive groups
+when exposed to the air humidity. However, the slow unblocking
+reaction would lengthen the whole film-forming times, further-
+more the unblocking reaction sometimes releases organic volatiles
+Recently, the increase in molecular branching is performed
+along with the reduction of molecular weights of the poly-
+ols [15]. The highly branched hydroxyl-terminated polymers
+(i.e. dendrimer, hyperbranched polymer, star polymer, etc.) have
+ny Sueo u padde pue suone peas paee uaag
+lations [15]. In our previous studies [2022]. we prepared a
+series of hydroxyl-terminated hyperbranched polyesters (HBPs)
+via “pseudo one-step" method, then used c-caprolactone and dif-
+ferent mono-carboxylic acids to modify these HBPs. The results
+showed that using lauric acid to cap part of hydroxyl groups and
+utilizing e-caprolactone to react with end-hydroxyl groups of 2,2-
+dimethylol propionic acid then to extend the carbon chains could
+effectively reduce the viscosity of HBPs, and the lowest viscos-
+ity of the modified HBPs was only 7500 mPa s and the highest
+film hardness of 2K-PU coatings was F. However, these reported
+hydroxyl-terminated HBPs have always been synthesized through
+In addition, the xylene homologues used as the water-carrying
+“pseudo one-step* method [20,23], the viscosities are still higher.
+agent is difficult to be fully removed and will bring the environ-
+mental and health hazard [24,25]. DuPont Company developed
+polyesters based on star oligomers via the ring-opening polycon-
+densation, and these polyester star oligomers have been used as
+the sole hydroxyl component in 2K-PU coatings to boost-up the
+solid contents with a good overall balance of properties, and the
+lowest VOC was about 3 Ibs/gal [17,2629]. Huybrechts et al. [17]
+prepared the star oligoethers by ring-opening polyetherification
+of mono epoxyesters with different polyols, and the lowest VOC
+contents of 2 K clear coatings based on the branched polyethers
+was at 2.1 Ibs/gal with an acceptable overall balance of pot life,
+onod pue Aqenp 'oueseadde
+easily occurs ring-opening reaction with hydroxyl-terminated
+compounds without reducing the number of hydroxyl groups
+and generates high-active primary hydroxyl groups. In the mean-
+reduce the viscosity and enhance the flexibility of the modified
+while, the introduction of flexible hexa-carbon chain can effectively
+products. Hong et al. [30] used ε-caprolactone to modify the
+hydroxyl-terminated HBPs and obtained a hyperbranched polyol
+with long flexible chains on the surface of molecule, then the hyper-
+branched polyol was adlded into epoxy resin to prepare cationic UV
+curing films and found that the flexibility and impact resistance of
+the films increased significantly. Morell et al. [31] prepared mul-
+tiarm star hyperbranched poly(glycidol)-b-poly(c-caprolactone)
+by cationic ring-opening polymerization of e-caprolactone from
+a poly(glycidol) core and used it to modify diglycidylether of
+bisphenol A (DGEBA) formulations. Their study showed that the
+addition of star-like structures modifiers decreased the global
+shrinkage, and increased the conversion at gelation, and led to
+a more toughened fracture of the thermoset in comparison to
+sre puqau paredad [zel re pa sas va and
+copolyesters by the copolymerization of e-caprolactone and 2,2-
+the introduction of g-caprolactone decreased the viscosity of
+bis(hydroxymethyl)butyric acid, and the results displayed that
+polyesters and the flexibility of coating film also greatly increased.
+Nowadays, polycaprolactone diols have been wildly used as macro-
+diol extender in the preparation of PU materials [33,34]. However,
+there are few literatures have reported the utilization of polycapro-
+lactone polyols as the sole hydroxyl component in the preparation
+of spray-applied 2K-PU coatings.
+a simple method and to prepare spray-applied HSC 2K-PU coat-
+ings based on the star-like polyols, We synthesized a series of
+polycrprolactone (PCLs) polyols via the ring-opening reaction of z-
+caprolactone initiated by ten kinds of small molecular polyols, and
+used FTIR, NMR and GPC to characterize their structures and molec-
+ular weights. The cured films of PCL polyols were prepared using
+sadod aisuaqasdo aag pue suase Suno aeuesosod
+were tested. The influence ofthe categories of small molecular poly-
+polyols and their 2K-PU film properties were investigated. Since
+ols and the molar ratios of raw materials on the viscosities of PCl
+the performance of polyisocyanate component is also important
+for the VOC contents of 2K-PU coatings, the influence of different
+the high performance, low VOC, high solid content 2K-PU coatings
+polyisocyanate on the 2K-PU film properties were investigated and
+were prepared.
+2.Experimenta
+2.1. Materials cnd reogents
+Ethylene glycol (EG), 1,4-butanediol (BDO), diethylene gly-
+col (DGE), neopentyl glycol (NPG), 2,4-diethyl-1,5-pentanediol
+(PD-9), 1,4-cyclohexanedimethanol (CHDM), maltitol and anhy-
+aiam pue sjuatleas apeig jefjeue [e aiam ajejae suz snop
+purchased from Shanghai Aladdin Biochemical Technology Co,
+Ltd. (Shanghai, China). Trimethylolpropane (TMP, 99%) and di-
+trimethylolpropane (Di-TMP, 97%) were industrial products and
+were obtained from Wuxi Baichuan Chemical Industrial Co., Ltd.
+(Wuxi, China). Di-pentaerythritol (Di-PE, 90%) was industrial
+product and was supplied by Yunnan Yuntianhua Co, Itd. (Zhao-
+tong, China). e-Caprolactone (e-Cl, 99.5%) was indlustrial product
+and was purchased from Perstorp Group (Sweden). H137H-80
+(alkyd resin, with solid content of 80% in xylene, hydroxyl
+value = 140 mg KOH/g, z/25 =C= 20000 mPas) and toluene diso-
+cyanate/trimethylolpropane (TDI/TMP) adduct curing agent L-75
+(industrial product, with solid content of 75% in ethyl acetate,
+NCO% = 13 wt%, n)/25 °C = 2000 mPa s) were kindly provided by Car-
+poly Chemical Group Co., Ltd. Jjiangmen, China). Diphenylmethane
+solid content, NCO% =33.5 wt%, y/25°C= 30 mPa s), and polymeric
+disocyanate curing agent (MDl-50) (industrial product, 100%
+esnpu oota)uage ns aeeospuaudip auafqa
+product, 100% solid content, NCO% = 31.1 wt%, n/25 °C =400 mPas)
+were supplied by Wanhua Chemical Group Co, Ltd. (Yantai, China)
+Solid raw materials (i.e. NPG, CHDM, TMP, Di-TMP, Di-PE and malti-
+tol) were dried in vacuum oven at 100°C for4 h to remove moisture
+prior to use. Liquid raw materials (ie, e-Cl, EG, BDO, DEG and PD-9)
+materials were used as received without further purification.
+were dried over 3 A molecular sieves for 3 days before use. All the
+Scheme 1, Synthetic route and ideal molecular structure of PCL-1
+2.2. Instruments end measurements
+Fourier transform infrared spectra (FTiR) of PCls were recorded
+on a PerkinElmer spectrum 2000 spectrometer. For each sample, it
+was casted on the tinplate and scanned from 4000 to 400cm- at
+a resolution of2cm-
+(400 MHz) nuclear magnetic resonance spectrometer. PCL samples
+measured at room temperature in a Bruker AVANCE
+400
+were dissolved in deuterated dimethyl sulfoxide (DMSO-ds) with
+tetramethylsilane (TMS) as internal standard
+(GPC) equipped with Shodex RI-201H differential refractive index
+eluant at a flow rate of 1.0 mL/mir
+14900:2001. The viscosities and dilution curves (namely relation-
+ship of viscosity vs solid content) of PCls were surveyed at 25 °C
+2.3. Synthesis of PCLs
+The polycaprolactone polyols were symthesized via ring-
+opening reaction of e-CL by using small molecular polyols and
+stoichiometric EG (0.9 mol, 5.86 g) e-CL (1.8 mol, 205.45 g), and
+anhydrous zinc acetate as the initiator and catalyst. Typically,
+catalyst anhydrous zinc acetate (0.70g, 0.34 wt% of e-CL) were
+added into a 500 mLfour-necked round bottom flask equipped with
+Scheme 2. Ideal molecullar structures cf PCL-7 and PCL-8
+a mechanical stirrer, thermometer, reflux condenser and nitrogen
+inlet tube, and then the flask was heated to 120°C for 4h under
+nitrogen atmosphere until the IR spectrum of reacting system dis-
+closed that the characteristic absorption peak of e-CL at 1640 cm1
+disappeared. Then the flask was cooled to 30°C to give a color-
+less transparent fluid that was PCL-1. Other PCLs were synthesized
+according to the similar process. The structural characterization
+and performance test of all PCLs were conducted without further
+purification. Scheme 1 describes the synthetic route and the ideal
+molecular structure of PCL-1, and Scheme 2 describes the theoret-
+ical molecular structures of PCL-7 and PCL-8.
+2.4.Preparation of varnishes and test of Jlim propertte
+methyl isoamyl ketone, then poyisocyanate curing agents were
+The samples of PCLs were diluted to 50 wt% solid content with
+adlded into the diluted samples to prepare varnishes according to
+the molar ratio of NCO/OH as 1.05: 1. The films were casted on the
+sfep e ioj 0s 1e paup pue jojesidde umf os e um sjaued isa
+followed by 1 day at ambient temperature, then tested film prop-
+erties. Pendulum hardness and pencil hardness were determined
+according to ISO 1522:2006 and ISO 15184:2012, respectively.
+Adhesion was measured using a cross-hatch cutter according to ISO
+2409:2013. Gloss measurements according to ISO 2813:2014 were
+performed at incidence angle of 60°, Bending and impact resistance
+were determined according to IS0 1519:2011 and ISO 62722:2011,
+respectively. VOC contents of vanishes were measured according to
+ISO 11890-1:2007.
+The HSC 2K-PU coatings were sprayed using GX-8 spraying
+gun through Graco Reactor E-10 spraying machine (America). The
+The influence of the small molecular polyos categories cn the viscosities ef FCls
+spraying machine equipped with two heated supply tanks for
+the polyols (component A) and polyisocyanates (component B).
+The calculated amount PCL polyols, 0.2 wt% wetting agent, 0.2 wt%
+Ieveling agent, 0.3 wt% defoaming agent were blended and homog-
+enized with mechanical agitator, then them were poured into
+the polyols tank of machine, while the polyisocyanates tank was
+filled with the calculated amount polyisocyanate curing agents,
+and then the temperature of the two components were controlled
+at 3555 °C. In order to ensure the molar ratio of NCO/OH would
+be about 1.05: 1 after the two components mixing in a volume
+ratio of 1: 1, a certain amount of solvent was added to adjust the
+volume of the two components. The fluid working pressure in the
+was about 140 bar. The desired dry-filmthickness of one spray-
+heated hoses of components A and B during the spraying process
+applied layer was about 0.1 mm, and the total dry-film-thickness
+was about 0.20.25 mm. The properties of coating films were tested
+Suuno asod aoj sfep ≤ Joj uano 0s ut Busfsp uaug Jaje
+mance of the spray-applied HSC 2K-PU coatings obtained from PCL
+In order to evaluate the construction and application perfor-
+polyols, including gel time, tack-free time and polishing time were
+measured and analyzed to characterize the hardening behavior of
+coating films, The gel time of 2K-PU coatings was determined by
+referring the IS0 2535:2001. The polyols and polyisocyanates com-
+ponents were blended in a reaction vessel, and then diluted to 65%
+solid content using MIAK. Because of the intensively exothermal
+reaction, the vessel was immediately placed in a 25  C thermostatic
+water bath and then homogenized using a glass rod. The time mea-
+surement began with the mixing of polyols and polyisocyanates
+components and the gel time was determined by a glass rod repeat-
+edly immersed in and removed from the reaction mixture until the
+point when the rod draws fibers, The tack-free time was deter-
+mined by repeatedly testing the film surface with a mass of cotton
+until the cotton could freely detached from the film surface and
+there was no stuck cotton debris on the film surface. In this paper,
+we used 320 grit sandpaper to grind the surface of cured films, and
+observed the grinding process according to the amount of powder
+and whether the films stuck sandpaper or not to determine the
+polishing time.
+3. Results and discussion
+3.1. Inffuence of the small molecular polyols categories and molar
+ratios on the viscosities of PCLs
+The viscosity of polyols is an important parameter to evalu-
+sueo nd-Xz SH Suuedasd ui aoueuuoad uoendde agn ane
+Table 1 lists the viscosities of PCLs prepared with different small
+molecular polyols. Table 2 describes the viscosities of liquid diol
+raw materials measured at 20°C. It was found that PCLs prepared
+lower viscosities in the range of 160300 mPa s because of the lower
+from liquid diols including EG, DBO, DGE and PD-9 displayed the
+Viscosities of liquid diols.
+Ihe influence of mlolar ratios cf Di-TMP and ε-CL on the viscosities cf PCLs
+The solubility ef PCL-8 in organic solrents.
+hydroxyl functionality (fo = 2) and the lower initial viscosities of
+diol substrates. Meanwhile, the viscosities of PCL diols exhibited
+the increasing trend with the increase of diol substrates° viscosj-
+ties, PCL-6 obtained from CHDM showed the highest viscosity in
+all PCL diols because of the introduction of semi-rigid cyclohexyl
+structures. Their viscosities were significantly increased from PCL-
+Axopq pue giam senao jo aseaui a qm ot-d o1 9
+functionality of polyol substrates, which may be atributed to the
+PCls prepared with different molar ratios of Di-TMP to e-Cl, and
+hydrogen bonding effects of PCLs. Table 3 lists the viscosities of
+the results showed that the viscosities of PCLs were decreased with
+increasing the amount of ε-Cl.
+3.2.Solubility and difution cunves o/ PL2
+For solvent-based coatings, the solubility of resins in organic
+solvents is very important and a good solvent is conducive to
+reduce viscosity and regulate the construction performance. Table 4
+describes the solubility of PCL-8 in different organic solvents.
+PCL-8 was easily soluble in moderate and strong polar solvents
+including 2-butanone (MEK), methyl isoamyl ketone (MIAK), 1-
+ethyl-2-pyrrolidone (NEP), ethyl acetate (EA), butyl acetate (BA)
+propylene glycol monomethyl ether acetate (PMA), and so on. How-
+ever, the solubility in nonpolar solvents, e.g. toluene, xylene, were
+relatively lower, which suggested that those compounds contained
+jepod aq u panjossp Ajaaaga aou asam sdnoit fAxopq Aue
+solvents, and it was coincided with the *like dissolves like" princi-
+ple.
+dilution curves) of PCL-8 in PMA, BA, and MIAK measured at 25°C
+Fig. 1 illustrates the *viscosity vs solid content" curves (namely
+with the solid contents ranged from 50% to 100%, The solution vis-
+cosity of PCL-8 in PMA exhibited the highest value at the same solid
+content, which may be because that PMA has the highest solvent
+viscosity up to 1.2 mPa s (20 C) [37], while the solvent viscosity of
+BA and MIAK are 0.73 mPa s and 0.74 mPas (20 -C) [37], respec-
+tively. The solution viscosity of PCL-8 in MIAK was lower than that
+of in BA at the same solid content, which may be owing to the
+polarity of MIAK is higher than BA, and the ketone carbonyl group
+of MIAK as hydrogen bond acceptor is preferred to corrupt the
+hydrogen bonding of PCLs [38]. In contrast with linear PCL diols
+of the similar molecular weight, such as Capa 2085, Capa 2077A
+(industrial products of Perstorp Group, Sweden), PCL-8 exhibited
+the lower bulk viscosity and had lower solution viscosity at the
+Fig, 1. Viscosity vs solid content e
+ curves of PCL-8 in propylene glycol
+ther acetate (PMA), butyl acetate (BA)
+50% to 100%
+same solid content, for instance, the solution viscosity of 80% solid
+content in MIAK was less than 160 mPa s and 56 mPa s of 70% solid
+content in MIAK, which revealed that PCL-8 was more suitable for
+preparing HSC 2K-PU coatings.
+3.3.I. IR spectre of PCLs
+Fig. 2 describes the IR spectra of PCLs. Due to the strong hydro-
+gen bonding effects in molecule of PCLs, IR spectra exhibited the
+strong and broad stretching vibration absorption peaks belonging
+to the associated hydroxyl groups in the vicinity of 3440 cm1. The
+-osse aam uo o8zpue ot6z 1e pareadde syead uoqdiosqe dieqs
+of CH3, CH2 groups of PCLs, The strong and sharp absorp-
+ciated to the symmetric and anti-symmetric stretching vibrations
+tion peaks attributed to the stretching vibration of ester carbonyl
+pauasaud pou peq epoads di° uo os1 se paueadde asam sdnoug
+the characteristic absorption peak at 1640 cm~1 ascribed to the
+lactone group of s-Cl, which revealed that g-Cl had completely
+puaq a sood renoaou eus jo sdnors xopu qm paoeai
+ing vibration absorption peaks of CH, and CH were appeared
+at 1454cm-1. In the vicinity of 1176 cm-, the absorption peaks
+were stretching vibration of C(C=O)O— groups, and absorption
+peaks at 1072 cm-1 were assigned to the stretching vibration of
+CO groups. All PCLs showed similar IR spectra, which indlicated
+that these synthesized PCLs have analogous molecular skeleton
+structures.
+Fig. Z. IR spectra ot PCL-3, PCL-7. PRCL-8 amd PCL-9
+Hydroxyl values (mg KOH/g). molecular weights (g/mol) and molecular weight dis
+tribution (PDl) of PCLs
+3.3.2. H NMR spectre of PCLs
+ical shiftassignments of PCL-7 and PCL-8, respectively. The specific
+Fig. 3 (a) and 3 (b) de
+proton peaks of CHs groups at co 0.8 ppm was chosen as the
+internal standard to determine the relative integral intensities of
+other proton peaks. Specific peaks of H NMR (8, ppm) for PCL-7
+were as follows [31,39,40]:  = 0.81 (CHs, 3H, H);  = 1.301.54
+(CH, 20H, H, Hs. Hg, H, Ho): &= 2.28 (CHC=O, 6H, H4):
+= 3.273.38 (CH0H, 6H, Hg);  = 3.873.99 (CHO(C=0),
+6H, Hs): =4.164.65 (OH, 3H, Hg). Specific peaks of H NMR
+(6, ppm) for PCL-8 were as follows [31,39,40]: &=0.79 (CH,
+6H, H);  =1.311.55 (CH, 28H, H, Hs, He, H, Hto):  = 2.28
+(CHC=O, SH, H4):  =3.18 (CHO, 4H, H):; 3= 3.283.38
+= 4.154.43 (OH, 4H, Hg) Owing to the chain ring-opening poly-
+(CHzOH, 8H, Hg): 5=3.873.99 (CHO(C=O), 8H, H);
+merization of e-CL, the characteristic proton peaks of hydroxyl
+groups (OH) were divided into 3 groups in the vicinity of
+4.154.43, and the characteristic proton peaks of CHO(C=0)
+around 3.873.99 were also divided into 3 groups. All integral
+data of proton peaks were almost consistent with their corre-
+the ring-opening reaction of z-CL was fully conducted. PCL-7 and
+sponding theoretical proton numbers, which demonstrated that
+PCL-8 displayed similar H NMR spectra, and their corresponding
+indicated that they have analogous molecular skeleton structures.
+chemical shifts of specific protons were approximate, which also
+3.3.3. Hydroxyl values and GPC data of PCLs
+The theoretical and measured hydroxyl values of PCLs are listed
+in Table 5, and their molecular weights as well as PDI data are
+also given. The GPC curves of PCls are described in Fig. 4. All GPC
+curves showed just a symmetric single peak, which disclosed that
+there were not residual raw materials and low molecular weight
+by-products in these PCL products. As shown in Fig. 4, the elution
+enao gao a m si aam sd jo sa
+weights, for example, PCL-9 was of the largest molecular weight
+and it wasfirstlyeluted, and then followed byPCL-8,PCL-7 and PCL-
+3 with smaller molecular weights. The measured number-average
+molecular weights (Ms) of PCLs were close to their theoretical
+molecular weights Mhey)and the PDI data were ranged from 1.35
+to 1.58, which also indicated that the ring-opening reaction of g-
+CL was conducted completely and obtained these products whose
+structures were basically closed to the theoretical molecular struc-
+tures., The measured hydroxyl values (HV) were approached to
+the theoretical hydroxyl values (HV), which suggested that the
+reaction system had not occurred etherification reaction between
+the hydroxyl groups to reduce the hydroxyl content of PCLs.
+Fig. 5 describes the TG (a) and DTG (b) curves of PCL-7,
+PCL-8 cured by L-75, PM-400 and blending curing agents (L-
+Fig, 3. 'H NMR spectra of PCL-7 (a) and PCL-8 (b) in DMSO-ds: * means the signal of solvent proton
+films of PCL-7 and PCL-8 obtained from L-75 or blending curing
+75: MD1-50 = 1: 1, mass ratio), respectively. As shown, the cured
+agents L-75/MDI-50 exhibited almost similar two-step degrada-
+tion behaviors. Their initial decomposition temperature was about
+200 °C (weight loss exceeded 1%) and the 5% weight loss temper-
+ature was about 260°C, which displayed that these cured films
+have good thermal stability. Fig. 5 suggests that the introduction
+of bi-functional curing agent MDI-50 has not weaken the thermal
+cured films obtained from PM-400 displayed higher decomposition
+stability of cured films compared with using L-75 alone, while the
+temperature to reach the same weight loss. The DTG curves summa-
+rized that these cured ilms of PCL-8 have better thermal stability
+compared with the analogs of PCL-7 obtained from the same cur-
+ing agents, which may be due to the increasing of the molecular
+weights and hydroxyl functionalities of PCLs were able to increase
+the crosslinking densities of cured films and then to enhance their
+thermal stability
+3.5. Film properties of PCL.
+75 curing agent was used to formulate 2K-PU and the cured film
+In order to select the PCLs with better overall performance, L-
+Fig. 4. GPC curves of PCL-3, PCL-7, PCL-8 and PCL-9
+properties are listed in Table 6. The results showed that these
+cured films have good impact resistance, adhesion, flexibility. The
+pencil hardness of PCL diols was low to F, and with the decreas-
+ing of their hydroxyl values (Table 5), then the consumption of
+poyisocyanates decreased, so their pendulum hardness exhibited
+decreasing trends, However, the viscosity (Table 1) and pendulum
+hardness of PCL-6 was higher than those of other PCL diols because
+cosities (Table 1) and films hardness were significantly increased
+of the existence of cyclohexyl structure. In the meantime, their vis-
+with the increase of molecular weights and hydroxyl functionali-
+ties from PCL-6 to PCL-10, which may be due to the higher hydroxyl
+functionalities of PCLs were more effectively to form crosslinking
+structures, thereby enhancing the films hardness as well as other
+mechanical properties. Table 6 also lists the film properties of PCLs
+prepared from Di-TMP and e-CI with different molar ratios (i.e. PCL-
+S, and PCL-11 to PCL-15). With the amount of z-Cl increased, their
+viscosities (Table 3) and films hardness were notably decreased,
+which may be explained that for these compounds with the same
+skeleton structure and hydroxyl functionality, the films hardness
+will be decreased accompanied with the decreasing of hydroxyl
+values (Table 5), and the less consumption amount of the curing
+agents. As shown, the adhesion and impact resistance of PCL diols
+(from PCL-1 to PCL-6) were all weaker than those PCL polyols (from
+PCL-7 to PCL-10), which was because the lower hydroxyl function-
+of cured films and then weakened part of mechanical properties.
+ality of PCL diols resulted in the incompact crosslinking structures
+PU coatings. Here PCL-7 and PCL-8 were selected as the preferable
+ jo sadod  pue s o  ro neo Aa
+hydroxyl components, and then the influence of different poly-
+isocyanates on the overall performance of 2K-PU coatings were
+high viscosity L-75 with the mass ratio as 1: 1, and the blend-
+investigated. Low viscosity, solvent-free MDI50 was blended with
+ing curing agents L75/MDI-50 possessed very low viscosity only
+80mPas at 87.5% solid content in ethyl acetate. The polymeric
+methylene diphenyldlisocyanate curing agent PM-400 and blend-
+ing curing agents L-75/MDI-50 were used as the polyisocyanates,
+with the molar ratio of NCoj0H as 1.05: 1, and the spraying pro-
+respectively. The PCLs and polyisocyanate components were mixed
+cess was conducted using the Graco Reactor E-10 spraying machine.
+The formula of HSC 2K-PU coatings are listed in Table 7, and then
+their comprehensive performance are given in Table 8. In order to
+compare and evaluate the application performance of HSC 2K-PU
+coatings as the wood coatings, the conventional alkyd resin H137H-
+80 (Table 7) was introduced and its film properties obtained from
+the same curing agents are also listed in Table 8. H137H-80 was
+sprayed using VW-77-3G spraying gun (ANEST IWATA Corporation,
+Japan, gun nozzle Φ =2.5 mm) through the traditional pre-mixing
+process, and the initial construction viscosity of 2K-PU was about
+20 s (NK-2 IVADA viscosity cup, ANEST IWATA Corporation).
+curing agents L-75/MDI-50
+using L-75 alone, which possibly bec
+aecn
+tionality of the blending
+Flm properties of PCLs cured with L-75.
+of HSC 2K-PU 
+ (L-75: MD)-50= 1
+crosslinking densities as well as weakening physical and mechan
+ical properties of cured films [35,36]. Meanwhile, the higher NCC
+functionality of PM-400 led to the higher hardness of cur
+red films
+functionality of PM-400 led to the higher hardness of cured films.
+PCL-8 exhibited shorter gel times, tack-free times and polish-
+ing times, the probable reasons were that PCL-8 has four hydroxyl
+groups in per molecule, and it has higher viscosity and higher
+molecular weight compared with PCL-7, and thereby PCL-8 was
+easily to build crosslinking films and get a certain mechanical
+strength in a shorter time. PM-400 has a higher NCO functional-
+ity compared with MDl-50, and its NCO groups activity is higher
+than L-75, therefore the 2K-PU formulations prepared from PM-
+400 showed shorter gel times, tack-free times and polishing times
+dlue to the faster reaction rate.
+Compared with the film properties of allyd resin H137H-80
+cured by the same curing agents, cured films of PCL-7 and PCL-8
+exhibited a good advantage in the film flexibility. In the mean-
+time, the polishing time of PCL-7 and PCL-8 were all less than
+160 min, which were significantly less than the comparative values
+100% solid content were only 1320 and 3900 mPa s, respectively.
+(265280 min) of H137H-80. The viscosities of PCL-7 and PCL-8 at
+and the VOC contents of spray-applied 2K-PU coatings obtained
+from PCL-7 and PCL-8 were all less than 180 g/L, which were much
+lower than the comparative values (452465 g/L) of H137H-80. As
+to the traditional solvent-borne 2K-PU wood coatings, the entire
+technological process is usually more than 20 h, and the final thick-
+ness of cured film is generally greater than 0.200 mm. Considering
+all performance data listed in Table 8, the HSC 2K-PU coatings pre-
+pared from PCLs were expected that through one or two spraying
+to achieve the equivalent application performance of alkyd resin
+75/M
+The pendulum hardness and pencl hardness were measured on glass plates
+H137H-80 that obtained by traditional multiple spraying, which
+not only can save time, but also can greatly reduce the VOC content
+of coatings. In addition, it also should be noted that these 2K-PU for-
+mula based on PCLs does not apply to the traditional construction
+process (i.e. pre-mixing and then spraying) due to the higher reac-
+tivity of polyisocyanate curing agents and the existence of catalyst
+anhydrous zinc acetate in PCLs.
+4.Conclusion
+A series of PCL polyols were synthesized using the ring-opening 
+reaction of z-caprolactone initiated by small molecular polyols. IR
+and H NMR spectra of PCLs disclosed that &-CI has reacted with
+hydroxyl groups of small molecular polyols and all PCLs possessed
+the similar molecular skeleton structures. GPC results revealed that 
+the measured Mn were approached to the theoretical molecular
+weights with the PDI data ranged from 1.35 to 1.58. PCLs pre-
+pared from liquid diols including EG, DBO, DGE and PD-9 displayed
+the lower viscosity in the range of 160300 mPas, and their films
+hardness were all lower than 0.70. The viscosities of PCL polyols
+with dlifferent hydroxyl functionalities were significantly increased
+with the increasing of molecular weight and hydroxyl functional-
+ity, and maltitol displayed the highest viscosity up to 42000 mPas.
+With increasing the amount of e-Cl, the viscosity and film hardness
+of PCLs prepared from Di-TMP and ε-Cl were also decreased. The
+cured films of all PCLs displayed good impact resistance, adhesion,
+flexibility as well as higher hardness. The HSC spray-applied 2K-PU
+coatings obtained from PCL-7 and PCL-8 exhibited very low VOC
+contents within 180 g/L
+Acknowledgements
+This work was financially supported by the Natural Sci-
+ence Foundation of Guangdong, China (No. 2015A030313205)
+the Science and Technology Program of Guangdong Province
+(No. 2015A010105010), and Special Project on the Integration
+of Industry, Education and Research of Guangdong Province
+(Nos. 2012A090300004, 2014B090903010, 2015B0909250062,
+2016B030302004 and 2016B090930005)
+References

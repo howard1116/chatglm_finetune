@@ -1,0 +1,75 @@
+六甲氧基甲基三聚氰胺-多元醇-丙烯酸酯
+混杂聚合过程热互补效应的研究
+澳大利业联邦科学院分于科学研究所，费尔本3169
+聚和自由基聚合并表现出协同效应.DSC研究结果表明，丙烯酸酯在HMMM和酸的俪化作用下可在较低
+温度下发生自由基案合反应、并把反应释放出来的大量的热量有效地传递给缩聚反应，满足缩聚反应吸热
+的要求，从面节省固化所需要的能量，为了提高储存稳定性，本文以潜酸催化剩作为酸的来源，对该混杂案
+合体系进行了研究，仍有明显的热互补效应
+混杂案合是指同一体系内两种或两种以上不同类型的聚合反应同时进行的聚合反应，如自由基聚
+多的重视
+我们曾报道了一种由六甲氧基甲基三聚氰胺（HMMM）、多元醇、丙烯酸酯和酸催化剂组成的混
+杂聚合体系.该体系在较高温度下可同时进行缩景和自由基案合反应并表现出协同效应，从面大大加
+快了固化速度，提高了固化产物性能等-]，进一步的研究发现，该体系中自由基聚合放出的热量可以
+有效地传递给缩聚反应体系，满足缩聚反应吸热的要求，具有显著的热互补效应
+缩二乙二醇二丙烯酸酯（DEGDA）和二缩三乙二醇二丙烯酸酯（TEGDA）为Sartomer公司产
+品，六甲氧基甲基三聚氰胺（HMMM，Cytec公司产品）由红狮涂料公司提供，二苯碘对甲苯磺酸盐
+参照文献[6]方法合成并重结晶.其它试剂均为市售化学纯，使用前未经进一步纯化
+ingCalorimeter（DSC）测试仪测定反应过程中的热
+HMMM是一种很重要的交联剂，在酸的催化下可以与多元醇发生醚交换反应而得到交联结构
+收减日期：2000-11-07.
+洪啸吟等：六甲氧基甲基三聚氨胺-多元醇-丙烯酸酯混杂聚合过程热互补效应的研究
+Scheme 1Condensation reaction ofHMMM with polyol
+该反应为吸热反应，通常需要在110~150C下反应30~60min.图1（A）为HMMM和二缩三乙
+二醇（TEG）在对甲苯磺酸（TsOH)的催化作用下发生缩案反应的DSC图.在130C左右开始发生反
+应，具有很强的吸热峰除了与多元醇发生缩聚反应外，在酸的催化作用下HMMM还可发生自缩骤
+反应[图1（B）]，HMMM自缩聚也是吸热反应，但其吸热峰要弱得多
+/ 01 *4 3H *(S200)HOL-(0 DNNNH (8) *(S200)HO1-(S9 0)SG1-(0 °1)NNWH (V)
+Scheme 2Formatien of hydroperoxide on active methylene groups cntalyzed by HMMM
+生成的过氧化物在酸和HIMMM的催化作用下分解生成相应的自由基，引发丙烯酸酯发生自
+由基聚合反应（Scheme3）.因此，该混杂固化体系不需要加人自由基引发剂。
+DSC研究结果与以上反应机理完全符合.图2（A）为T;EGDA发生自由基聚合反应时的放热情
+况由于没有任何引发剂的存在，
+，反应在很高的温度（>175C）才开始发生.图2(B)为TEGDA在
+HMMM和TsOH存在下发生自由基聚合反应的情况.TEGDA在110C左右即可发生自由基聚合反
+应.反应的最大放热峰也从原来的185
+5C降低到170C.反应温度的降低显然是由于HMMM催化生
+过案化物，血过氧化
+物在TsOH和HMMM的催化作用下加速分解，引发自由基聚合引起的
+(A) TsEGDA only: (B) TyEGDA(1. 65)-HMMM(1. 0)-TsOH(0. 025). Heating rate: 10 C/min
+DSC的研究结果还证实，HMMM-多元醇-丙
+烯酸酯混杂聚合体系在反应过程中有显著的热互补
+效应.图3为HMMM-TEG-TEGDA-TsOH 混杂
+聚合体系反应过程的DSC图.由图3可见，HMM-
+M-TEG-TsOH缩聚和HMMM自缩聚的吸热峰
+（如图1）基本上消失了.这可能是由于T,EGDA自
+由基聚合放出的部分热量通过分子间的相互作用传
+递给了缩聚体系，如果体系配合得好（如图3），这
+部分热量足以满足缩案反应的需要，面不必再通过Fg
+外界来提供能量，因此缩聚反应于130~160C处
+的吸热峰消失，可见，热互补效应可以大大节省混
+杂聚合体系反应所需的能量，具有重要的意义.
+为了对该混杂聚合体系进行深人细致的研究，对该体系进行了简化，直接以对甲苯磺酸作催化
+剂.实际上，为了提高体系的储存稳定性，通常以潜酸催化剂作为酸的来源所谓潜酸催化剂是指在
+靠温条件下不具有催化性能，而在高温下可分解产生酸，起催化作用的化合物，如反-2-羟基环已基对
+甲苯磺酸酯、二苯镇对甲苯磺酸盐（DIT）等
+在对HMMM-多元醇-丙烯酸酯-潜酸催化剂混杂聚合体系进行差示分析（DSC）时发现，在反应过
+程中仍具有明显的热互补效应，即丙烯酸酯自由基聚合放出的热量可以传递给HMMM-多元醇缩聚反
+应，满足其吸热的要求.由图4（A）可见，DEGDA发生自由基聚合时放出大量的热，但由于没有引发
+剂，反应温度很高.图4（B）则显示HMMM和T,EG缩聚反应为吸热反应.将HMMM，TEG和DEG
+DA相混合，发现DEGDA自由基聚合的起始温度从110C降低到70C，反应最大放热峰从150C降
+低到90C、而且缩聚反应的吸热峰也基本消失[图4（C）]
+.4Energycompens
+ffect in the hybrid pelymerization of HMiMM-T,EG-DEGDA-DII
+(A) DEGDA, sample
+crylate
+HONG Xiao-Yin° , CHEN Qi-Dao, CHEN Lin, CHEN Ming, WU Rui-Guang
+Depa
+CSlRO Meleculer Science.Bag I0.Clayton South,Vic 3169.Aastralia
+Abstraet  The hybrid polymerization of hexamethoxymethyl melamine(HMMM)-polyol-acrylate and acid
+involves the condensation reactions of HMMM-polyol and the free radical polymerization of acrylate, DSC
+investigation shows that catalyzed by HMMM-polyol and acid , the free radical polymerization of acrylate
+takes place at a lower temperature and the released energy can be transferred to the endothermic condense
+tion reactions of HMMM efficiently , saving much energy needed for the curing. To lengthen the shelf time
+of the formulation, we have also investigated the hybrid polymerization system in which the latent acid cat-
+alyst was used as the source of acid, and observed the energy compensation effect, too
+methylmelamine;Acry

@@ -1,0 +1,877 @@
+原创性声明及关于学位论文使用授权的声明
+进行研究所取得的成果。除文中已经注明引用的内容外，本论文
+任何其他个人或集体已经发表或撰写过的科研成果。对本文的研究做出
+重要责献的个人和集体，均已在文中以明确方式标明。本人完全意识到
+本声明的法律责任由本人承担，
+本人完全了解陕西科技大学有关保留、使用学位论文的规定，同
+学校保留或向国家有关部门或机构送交论文的复印件和电子版，允许
+文被查阅和借阅：本人授权陕西科技大学可以将本学位论文的全部或部
+分内容编入有关数据库进行检索，可以采用影印、缩印或其他复制
+立论文收录到中国学位论文全文数据库》，开通过网络同社会公众提贷
+（保密论文在解密后应遵守此规定
+论文作者签名：
+本人郑重声明：所呈交的学位论文，是本人在导师的指导下，独立
+存论文和汇编本学位论文。同时授权中国科学技术信息研究所将本学
+申请理学硕士学位论文
+IPDI型高固含量水性聚氨酯的合成及应用
+BASEDHIGHSOLIDCONTENTWATERBORNE
+POLYURETHANE
+ShaanxiUniversity of Science and Technology
+inPartialFulfillmentoftheRequirementfortheDegree o
+Feifei Yang
+May2014
+IPDI型高固含量水性聚氨酯的合成及应用
+水性聚氨酯（WPU）是一种以水为分散介质的二元胶体体系，由于其
+无毒、环保、应用范围广，已经引起了社会的广泛关注。本论文采用预聚体
+分散法，合成出了一系列WPU乳液：并采用增大粒子粒径分布的方法，合
+成了高固含量WPU乳液：对WPU乳液的合成工艺、性能及热分解动力学
+进行了系统分析：并将高固含量WPU乳液作为成膜剂应用于超细纤维合成
+革表面涂饰中，对其在合成革上的应用性能进行了探讨。
+较佳的预聚温度为90C。实验选用不同分子量聚己二酸乙二醇酯二醇（PEA）
+相同分子量不同类别的二元醇[聚已二酸酯型二醇、聚四氢呋喃二醇
+（PTMG）、聚碳酸酯二醇（PCDL）]和相同类别不同分子结构的二元醇[PEA、
+鼎期二Z二一/载二Z翼二已案V（d/日d载二鼎载二/期二Z翼二已涨
+二醇P(E/DE）A、聚已二酸丁二醇酯二醇（PBA）、聚己二酸己二醇酯二醇
+（PHA）】作为软段，考察软段结构对WPU乳液固含量和性能的影响，结
+果表明：分子量为2000的PEA合成的WPU乳液各项性能较优，并有利于
+合成高固含量WPU乳液：软段分子链结构规整且结晶性较强的聚酯型WPU
+粒径较大且分布较宽、力学性能、耐水性和耐热性较好：软段结构中疏水链
+较短的且结晶性差的聚酯型WPU断裂伸长率较高：聚碳酸酯型WPU具有
+较好的力学性能和耐水性：聚醚型WPU乳液粘度和胶膜拉伸强度最小，分
+别为5.1mPa·s和11.7MPa；聚醚型WPU具有良好的耐低温性能，Tg为-54.4C
+考察了DMPA含量对不同软段WPU乳液固含量与性能的影响，结果表明乳
+液的粒径随DMPA含量的增加而减小，且当DMPA含量分别为2.9%、3.5%
+时，PEA-WPU和PHA-WPU粒径趋于定值且粒径分布最小：粘度则随DMPA
+含量的增加而增大，乳液离心稳定性增强：DMPA含量太高不利于合成高固
+其次利用球状物体堆积密度数学模型，模拟高固含量WPU乳液粒径分
+分布的方法
+合成了高固含
+其次利用球状物体堆积密度数学模型
+布与分散体极限浓度的关系，采用增大粒子粒径分布的方法，合成了高固含
+量WPU乳液，通过FT-IR、激光粒度分析仪、万能拉力机、接触角测量仪、
+扫描电子显微镜（SEM）、TGA对其主要性能及热分解动力学进行了表征和
+分析。结果表明，按此法合成的高固含量WPU乳液粒径呈多峰分布趋势，
+平均粒径为424.835nm，粘度为316mPa-s，固含量大于50%，乳液离心稳
+定性良好，与低固含量WPU相比耐水性有所提高，微相分离程度较
+P(E/DE)A-WPU有所减小：热解动力学研究表明高固含量WPU的热解过程
+分为3个阶段，且随着升温速率的增大，所对应的失重峰温度依次升高，并
+导致高固含量WPU出现延迟分解现象：根据Kissinger法、Ozawa法和Crane
+法分别求解出了热分解活化能（E）为116.097kJ/mol、反应级数（n）为0.911、
+频率因子（A）为1.963x107s，WPU的热解反应动力学是近似1的复杂反
+应。
+最后将合成的
+饰工段，并对其卫生性能及耐磨性能进行综合评定。结果表明P(E/DE)A/PEA
+型的高固含量WPU乳液透水汽性、透气性及耐磨性能均优于
+PTMG/PEA-WPU与PTMG/PBA-WPU乳液。
+THESYNTHESISANDAPPLICATIONOF
+IPDI-BASEDHIGHSOLIDCONTENT
+WATERBORNEPOLYURETHANE
+Waterborne polyurethane (WPU) is a type of binary colloid system with
+water as its disperse medium. Because WPU is non-toxic, environmental and
+widely used,it has attracted social widespread attention. A series of WPU
+emulsions were prepared by prepolymerization in this paper. The WPU
+emulsions with high solid content were prepared by increasing the particle size
+distribution. The synthetic technology, properties and pyrolysis kinetics of the
+resulting WPU emulsions were systematically analyzed.Furthermore, the high
+solid content WPU emulsions which were used as film formers were applied to
+superfine fibre synthetic leather surface finishing. The application performances
+ofhighsolidcontent WPU on syntheticleather were discussedinthis paper
+Atfirst.
+isophorone
+diisocyanate
+which
+as
+the
+main hard segment materials, different oligomer diol as the main soft segment
+materials.The effects of synthetic technology on properties of WPUwere
+characterized by Fourier transform infrared spectrum (FT-IR),particle size
+analyzer, universal tensile machine, contact angle measuring instrument, X-ray
+diffraction analysis (XRD),thermogravimetric analysis (TGA),differential
+scanning calorimeter (DSC). The results showed that the hydrophilic groups of
+WPU molecular chain which prepared by two-step method were more evenly
+distributed. The mechanical properties and water resistance of the WPU prepared
+by two-step method were better than the WPU prepared by one-step method. The
+better prepolymerization temperature was 90C.Poly adipic acidglycol ester
+glycol (PEA) with different molecular weight, the same molecular weight glycol
+with different types [poly adipate type,polytetrahydrofuran glycol (PTMG)
+polycarbonate diol (PCDL)], the same type glycol with different molecular
+structures [PEA,polyethylene adipate glycol/propylene glycolether glycol
+P(E/P)A,polyethylene adipate glycol/diethylene glycolether glycolester diol
+P(E/DE)A,poly adipic acid butyl glycol ether glycol (PBA),poly adipic acid
+glycol ester glycol (PHA)]were selected in experiments.The effects of soft
+segment components on solid content and properties of WPU were investigated.
+The results showed that the WPU prepared by PEA of 2000 molecular weigt had
+the better properties. PEA of 2000 molecular weigt also was benefit to improve
+solid content. The soft segments of the polyester-type WPU with a highly
+regularly arranged molecular structure and a strong crystallization tendency , the
+WPU exhibited a larger particle size and a wider particle distribution, as well as
+better mechanical properties, water resistance and thermostability. When the
+molecular structure of soft-segment was disordered and crystallization tendency
+was poor, the elongation at break of polyester-type WPU was better. And the
+WPU were better. The viscosity and tensile strength of polyether-type WPU were
+minimal, the viscosity of emulsion was 5.1 mPa·s and tensile strength of the film
+was 11.7Mpa.While the polyether-type WPU showedbetter low-temperature
+resistance, the Tg of PTMG was -54.4°C. The effects of DMPA content on solid
+content and properties of WPU with different polyester polyol structures were
+studied. The results indicated that the particle size of emulsions decreased with
+the DMPA content increasing. When the DMPA content were 2.9% and 3.5%, the
+particle sizes of PEA-WPU and PHA-WPU tended to the constant value and the
+particle size distributions became smaller. The centrifugal stability, viscosity of
+WPU emulsions improved with the DMPA content increasing. The increase of
+the DMPA content was not benefit to synthetize the high solid content of WPU
+emulsion. When the DMPA content increased by 1.2%, the elongation at break of
+PEA-WPU and PHA-WPU film reduced by 90.6% and 92.8%,the tensile
+strength increased by 8.6MPa and 10.5Mpa, the water absorption enhanced by
+3.65% and 21.09%. With the increase of DMPA content, the crystallinity of soft
+SIStcn
+esizeofemulsionsdecreasedwith
+ntent were 2.9% and 3.5%, the
+1 to the constant value and the
+entrifugalstability,viscosity of
+VPUemulsionsimprovec
+OsynthetizethehighsolidcontentofWPU
+mulsion.WhentheDMPAconi
+ntent increased by 1.2%,the elongation at break of
+EA-WPU andPHA-WPU film reducedby 90.6% and92.8%,the tensile
+trength increased by 8.6MPa and 10.5Mpa, the water absorption enhanced by
+.65% and 21.09%. With the increase of DMPA content, the crystallinity of soft
+segment decreased
+Secondly, the high solid content WPUs were synthesized by increasing the
+particle size distribution. The relationship between the particle size distribution
+and the maximal volume fraction of dispersed phase of the WPU was simulated
+through a mathematical model of close packing of sphere particles.The
+properties and pyrolysis kinetics of WPU were characterized by FT-IR, particle
+size analyzer,universal tensile machine,contact angle measuring instrument,
+scanning electron microscope (SEM) and TGA. The results showed that the
+particle size of WPUwith high solid content presented the trend ofmulti-peak
+distribution,the average particle
+size was 424.835nm, viscosity was 316 mPa·s
+the solid content greater than 50% and emulsion centrifugal stability was good
+Compared with lowsolidcontent WPU,
+resistance of high solid
+contentWPUimproved,
+pnase
+degreewasworsethan
+P(E/DE)A-WPU.The pyrolysis kinetics studies showed that WPU pyrolysis
+process was mainly divided into three stages, with the increase of heating rate,
+decomposition behavior of WPU with high solid content presented an hysteresis
+phenomenon.According tousing simulations of Kissinger's，Ozawa's and
+Crane's methods,the activation energy, the reaction order and the frequency
+factor of the thermal decomposition process of WPU were calculated as 116.097
+kJ/mol, 0.911, 1.963x107 s*', respectively. The kinetics of WPU pyrolysis
+Crane's methods,the activation energy, the reaction order and the frequency
+factor of the thermal decomposition process of WPU were calculated as 116.097
+kJ/mol, 0.911, 1.963x107 s*', respectively. The kinetics of WPU pyrolysis
+leather finishing agent
+Thirdly,a series of high solid content WPU emulsion were synthesized
+hich were used in the finishing section of superfine fiber synthetic leather. The
+initation properties and wear-resisting performance of superfine fiber synthetic
+ather composite were evaluated comprehensively. The results showed that the
+ater vapor permeability, oxygen permeability and abrasion resistance of the
+(E/DE)A/PEA high solid content WPU emulsion were better than PTMG/PEA
+符号说明
+PU（聚氨酯）分子的特点是分子主链中含有一定数量的氨基甲酸酯链段”。由软
+段（一般为低聚物多元醇，玻璃化转变温度低于室温）和硬段（一般为二异氰酸酯和小
+分子扩链剂，玻璃化转变温度高于室温）共同嵌段而成。在广泛意义上讲PU是异氰
+酸酯加成的产物3。WPU（水性聚氨酯）大分子链中除含氨基甲酸酯基外，还含有离子
+基团，分子链间除了有氢键作用还存在着库仑力（静电力）作用。离子型PU分散于水
+早在19世纪中期，德国Wurtz就合成了脂肪族异氰酸酯
+博士率先以异氰酸酯作为原料合成了聚氨酯。随后1942年德国H.Piten用二异氰酸酯和
+已二酸多元醇分别作为硬软段，合成了具有氨基甲酸酯结构的异氰酸酯橡胶"i-Rubber”
+同年德国人PSchlack（发明了聚己内酰胺）利用强剪切力，使二异氰酸酯充分分散于含
+PU（聚氨酯）分子的特点是分子主链中含有一定数量的氨基甲酸酯链段"。由软
+有乳化剂和保护胶体的水中，再通过与二胺反应进行扩链，成功地制备出了WPU。早期
+研究开发出的WPU需要添加乳化剂，通过强制乳化的方法制备而得，其粒径大小基本
+在10nm到5000nm范围之内、固含量在30%到40%范围之内，WPU产品主要应用于皮
+革涂饰及织物表面处理。但其缺点是乳化剂用量多、反应时间久以及乳液粒径粗大从而
+导致的贮存稳定性不好、胶膜物理机械性能不理想，因而应用范围受到了很大的局限。
+二十世纪七十年代以后，很多WPU产品在美国、德国及日本等发达国家从实验室
+基础研究转向了工业生产和实际应用。其时，这些WPU产品已在皮革涂饰剂、纸张涂
+层剂及钢材防腐等方向取得了突破性的进展，并且占有非常广阔的市场份额。这些国家
+产品：灿德国BASF公国的uehmeLatices旅y
+Hoechest公司的Acrymxilie系列，美国Wyandotte化学公司的X及E等系列产品等广受
+顾客的欢迎。Bayer.A.G研发出了的对塑料、橡胶有良好的粘接性的聚酯型阴离子WPU
+胶粘剂2。值得一提的是，在涂料的应用方面，荷兰的PLJanseS为使产品拥有优良的
+性能，首次采用多官能团的异氰酸酯来提高聚氨酯的交联度，还有PeterPfoehlef博士在
+工业中双组分WPU涂料的应用情况与应用前景方面做了大量的研究3
+目前，国外WPU已经在许多领域占有举足轻重的地位，包括：WPU胶粘剂领域，
+如合成革粘结层、装饰材料的粘接、鞋用胶等：WPU涂料领域，如皮革涂饰剂、家具漆、
+建筑及防腐涂料等方面：涂层织物剂领域，如无纺、针织及起绒棉机织布的仿皮涂层剂
+等：玻璃纤维上浆剂等：织物后整饰助剂，如织物或纤维的整理剂、防止丝绸材质织物
+折纹的整理剂、防止涤纶材质织物表面磨毛的整理剂等14
+在国外WPU不管是在各种新型材料的开发和市场化生产，还是在WPU产品的研制
+开发和应用方面都已处于成熟阶段IS。而国内的WPU仍处于初级阶段，WPU工业发展
+技术远落后于国外，存在着分析检测手段单一、精密设备缺乏、相关体制不健全，研究
+工作较少、生产水平落后等一系列问题，因此我国每年都需要从国外进口大量的WPU
+原料与产品来满足供不应求的国内市场。我国的脂肪族异氰酸酯的研发工作与工业生产
+刚起步，具有优良性能的WPU品种很少。由于受到一些原材料的制约，对芳香族异氰
+酸酯与聚醚多元醇体系合成WPU的研究较多，而对脂肪族异氰酸酯、聚酯多元醇体系
+合成WPU的研究与开发相对较少。由于不同种类的WPU拥有不同的优良性能，可适用
+于不同的领域，因此WPU的种类还有待进一步增加。制约国内WPU应用范围的主要原
+因是合成原料成本高、生产难控制，并且一些重要的实际应用性能不如溶剂型PU。如
+WPU仍然存在着干燥成膜时间长，较差的耐介质性、耐候性和耐贮存稳定性等缺点。国
+内研究团队间缺乏学术上的交流，具有国际高水平的WPU研究报告风毛麟角。因此在
+WPU研究和应用日趋成熟和扩大的情况下，如何尽快地使我国WPU研究能力与世界先
+进研究水平同步，实现WPU研究跨跃式的发展，优先研发出具有自主知识产权的性
+优良的WPU产品，已经成为每一位从事这一研究领域工作者所肩负的使命。
+1.3WPU简介
+1.3.1WPU的分类
+按WPU粒径大小和外观形态分类
+Tab 1-1 The assortment of WPU
+由于PU乳液中的大分子链溶于水的性能不佳，需要在机械搅拌提供持续而快速的
+剪切力的条件下或添加一定量的乳化剂将PU强制乳化分散于水中，从而形成PU乳液。
+在一般情况下，通过这种方法得到的外乳化PU产品粒径颗粒较大，同时残存于体系中
+的小分子乳化剂会对PU固化而成的胶膜性能造成较大影响，现在的研究重点与热点已
+转移至自乳化PU分散液方向。
+PU分散液的制备与PU乳液不同，不需要添加乳化剂，可直接在水中搅拌分散，产
+品为半透明分散体。在无乳化剂作用下，分散液粒子对剪切力、温度、电解质或稀释的
+敏感程度不大：固化后的胶膜在力学性能、粘附性能方面有所提高。
+按使用形式WPU可分为单组份与双组份两类：单组份WPU为无需交联剂或直接使
+用就可得到所需应用性能：双组份WPU体系由WPU主剂和交联剂二者构成，使用时不
+添加交联剂无法获得所需性能，或添加交联剂后使一般单组分WPU性能显著提高2
+表1-1WPU的分类
+由于PU乳液中的大分子链溶于水的性能不佳，需要在机械搅拌提供持续而快速的
+表1-2WPU按亲水成分分类表
+Tab 1-2 The assortment of WPU on hydrophilic component
+以低聚物多元醇类型为分类依据，PU可以分为以下几个类型，主要包括：聚醚型
+聚酯型、聚烯烃型及聚酯-聚醚等混合多元醇型
+以原料二异氰酸酯类型作为分类依据，PU可大致分为以下几种，包括：脂肪族异氰
+酸酯型、芳香族异氰酸酯型、酯环族异氰酸酯型。由具体原料划分，可分为甲苯二异氰
+以PU乳液特征基团为划分依据，PU可以分为以下几种，包括：PU乳液和PU-腺
+乳液。PU-腺乳液是指预聚体在水中分散的同时与水或二胺扩链反应形成的WPU。
+以分子结构为分类依据，PU可以分为以下几种，包括：线性分子热反应型单组份
+PU乳液（热塑性）、外交联型和低度交联型等。
+低聚物二醇（或三醇），脂肪族（或芳香族）二异氰酸酯，小分子二醇（或二胺）扩
+链剂，中和剂（成盐剂），溶剂（或去离子水）及其他辅助材料作为合成WPU的主要原
+料国。
+WPU软段指低聚物二醇（包括聚酯二醇和聚醚二醇），分子量在1000到3000范围
+低分子量扩链剂和二异氰酸酯共同构成了WPU的硬段链段，最常用到的二异氰酸
+WPU的扩链剂特点为含有酸性或碱性的基团，形成一定分子量的大分子后，需要用
+碱或酸中和成盐。适用于阴离子型WPU的中和剂有胺类（如三乙胺）、NaOH和氨水：
+其它的辅助材料包括：催化剂，例如叔胺类催化剂，以及一些有机金属化合物：增
+調剂，如聚乙烯基吡咯烷酮：还有根据不同用途添加如环氧化物、多元胺、氮丙啶及聚
+1.3.3WPU的合成方法
+一般制备WPU的过程包含两个最基本的步骤：首先异氰酸酯和低聚物多元醇参与
+聚合反应，生成具有中高分子量的嵌段WPU预聚体或高分子量的PU：其次在机械搅拌
+的条件下利用持续而稳定的剪切力将预聚体分散于去离子水中[22]
+如大家所熟知，PU是疏水性材料，用两种方法可以使PU分散于水中，形成稳定的
+乳液。一种是自发分散法，即在预聚体合成过程中引入亲水基团，在剪切力作用下乳化
+不需添加任何乳化剂。亲水基团越多，越易与水相溶，从而形成水溶液。另一种是强制
+备WPU最常用的方法是不需要漆加乳化剂的自发分散法（又称自乳化法）。该法是在制
+备WPU预聚体的过程中将适量的亲水基团接在聚氨酯分子链上，利用亲水基团成盐后
+易溶于水的特点，在剪切力作用下使WPU乳化于水中形成稳定分散液，通过改变分子
+链上亲、蔬水性基团的比例，可以制备出不同类型不同状态的WPU。也可根据WPU的
+自身特点把强制乳化法和自发分散法结合起来制备WPU。自发分散法根据分散过程的特
+点与溶剂量的多少可分为预聚物混合法、溶液法（丙酮法）、酮连氮/酮亚胺（ketazine）
+法、熔融分散缩合法、直接分散法和倒向分散法等23。
+溶液法是将PU（或PU预聚体）溶解到有机溶剂（可与水互溶的低沸点情性溶剂）
+中，乳化后制得较高分子量的PU溶液的方法。预聚体与亲水性扩链剂在均匀的有机溶
+剂氛围中进行扩链反应，有利于生成含亲水基的线型WPU，反应过程中可根据反应体系
+实时粘度的大小添加溶剂来降粘，使得预聚体可以很好地与亲水扩链剂进行反应，然后
+在去离子水中搅拌分散，形成乳液，最后将溶剂蒸离体系，得到WPU乳液。使用的溶
+剂中酮类有机溶剂最多，故文称之为丙酮法。本方法简单易行，重现性好，溶剂易于回
+收处理，但加溶剂降粘的同时体系的浓度也在降低，造成预聚体分子量不高，异氰酸酯
+基的含量偏高，乳化后形成的履键多
+所谓直接分散法就是将含有亲水基的WPU预聚体加入到水中，乳化得到WPU乳液。
+倒相分散法是将水加入到
+继续加水形成O/W的分散液，
+1.3.4提高WPU固含量的方法
+国内高固含量WPU的生产水平与国外相比还存在着较大的差距（24-25]，性能优良、
+稳定性好的产品种类少，价格昂贵，使得高固含量WPU未能在生产中获得广泛而实
+的应用。目前许多科研机构、生产企业已将提高WPU的固含量作为攻关方向。
+1
+分子链的运动受到约
+因而在乳化时不利于发生相转变[26-29]，而聚酯型WPU的软段部分含有酯基，一方面可
+以与硬段部分的氨基甲酸酯基形成氢键，促进了软段部分和硬段部分的相互融合使得微
+相分离程度较低，另一方面聚酯型WPU的亲水性又比聚醚型的强，高固含量WPU乳化
+（3）三羟甲基丙烷作为交联剂，OH可以与IPDI的NCO发生反应，PU发生分子
+内交联，形成了网状结构，适度交联的PU乳化时疏水链段由伸展状态变为卷曲状态并
+相互接近形成疏水体，而且很快聚集度达到上限，此时发生相转变只需极少量的水，因
+散方式来提高固含量。采用最多的是预聚体倒向分散工艺，乳液的固含量高低取决于分
+散过程中体系的相反转点出现的位置，相反转时间发生的越早，对产品的固含量的提高
+越有利。比如可以采用连续法工艺和连续瞬间分散工艺-高内相比乳化技术等提高固含量
+WPU在合成革上的应用技术相对来说比较落后，国内的主要研究集中在对合成革的
+表面处理方向上。随着国际市场一体化进程加快，高品质的产品及低污染的要求将会提
+升到更高的层次。如今许多国内科研机构相互合作，各种水性生态合成革和不同的
+WPU树脂产品不断涌入市场，并成为明星产品，最终将取代溶剂型PU树脂和油性合成
+革产品3。合成革用WPU有其特殊要求，不仅要拥有良好的成膜性能，最重要的是
+[40-42]
+WPU在合成革和皮革涂饰剂领域已经占有举足轻重的地位3。我国是皮革生产和
+WPU在合成革上的应用技术相对来说比较落后，国内的主要研究集中在对合成革的
+（5）合成革用WPU需满足机械化大生产的要求，工业合成革是连续性的流水线操
+作生产，这就要求使用的WPU树脂不仅具有良好的粘度和较持久的粘接性能，而且要
+易于干燥，固含量高，这样才能保证WPU树脂与基材的贴合速度快而且牢固，既不影
+响生产效率又易于工艺控制。WPU合成革生产难点是干燥速度快慢的控制，因为水的比
+热大于多数有机溶剂，并且生产过程中树脂要求不能使用较高的干燥温度，否则膜的表
+面平整度会受到较大影响。这就要求使用较高固含量的合成革用WPU材料、优良的工
+1.5本课题的研究内容和意义
+目前国内合成革市场，大部分使用溶剂型PU树脂作为基本原料来生产合成革的基
+层和面层，溶剂型PU树脂一般以二甲基甲酰胺（DMF）、甲乙酮（MEK）、甲苯（TOL）、
+丙酮等作为主要溶剂通过溶液聚合法制得。树脂成分60%以上为有机溶剂，这些溶剂都
+会对人体产生极大危害。WPU是以水作为主要分散介质，形成的二元体系，它不仅具有
+优良的耐介质性、柔韧性和耐磨性能，还具有不燃、气味小、绿色环保等优点，越来越
+受到人们的欢迎*。WPU即可用于合成革顶涂，又可满足底涂、中涂等不同层面的要
+求，与其它成膜材料如丙烯酸成膜剂相比，WPU成膜性好、黏结牢固、涂层耐介质、耐
+屈挠、耐候性、卫生性能优良，制成的成品手感丰满，质地柔软舒适。WPU用作皮革涂
+饰剂代替丙烯酸酯类皮革涂饰剂，可以避免其低温脆化、高温粘黏等缺点，
+WPU乳液在制备固态膜的过程中，水分挥发，液体浓缩，粒子间隙减小，最终通过
+WPU粒子间的分子链扩散与缠绕，形成有力学性能的胶膜。但水的比热高于常用的有机
+溶剂的比热，WPU的干燥时间长于相同固含量的溶剂型PU。目前市售的WPU产品固
+含量大多在20%-40%的范围之间，大部分国产WPU固含量低于35%，固含量低会增
+加运输成本和产品加工过程中的干燥费用、增加生产控制难度，造成最终成品质量的
+不稳定。提高固含量方法不当可能会使WPU乳液的稳定性降低，因此制备稳定的高固
+含量WPU已成为国内外研究者的研究热点
+含量WPU已成为国内外研究者的研究热点，
+在高固含量WPU的合成过程中高固含量和低粘度是一对
+针对以上问题本论文主要进行了以下几个方面的研究
+2合成工艺对WPU固含量和性能影响的研究
+WPU是由二异氰酸酯与聚酯、聚醚等长链多元醇、亲水扩链剂或小分子交联剂聚合而成
+的嵌段聚合物，其中聚酯、聚醚等长链多元醇构成柔性软段，由低分子量亲水扩剂及二
+异氰酸酯共同组成刚性硬段，WPU的性能与其软硬段部分的链段结构也有很大的关系
+异氰酸酯共同组成刚性硬段，WPU的性能与其软硬段部分的链段结构也有很大的关系
+[555]。因此，具有不同类型或者相同类型不同分子结构软段的WPU在乳液粘度与粒径、
+胶膜结品性、力学性能、耐水性能、热稳定性及耐低温性能等方面都存在较大差异，而
+DMPA，可使其自乳化，DMPA的含量对WPU涂层的手感、物理机械性能及耐水性有
+直接的影响。本部分在硬段和其它参数不变的条件下，首先探讨了合成方法与预聚温度
+对WPU固含量与性能的影响：其次筛选出低聚物二元醇合适的分子量：再次选用相同
+分子量不同类别的二元醇（聚己二酸酯型、PTMG、PCDL）和相同类别不同分子结构的
+二元醇[PEA、P(E/P)A、P(E/DE)A、PBA、PHA]分别合成出了软段结构不同的WPU乳
+液，以考察软段类型和结构单元中碳链长度对WPU乳液粒径、粘度、结晶性能、力学
+性能、耐水性、热稳定性、耐低温性能及乳液稳定性等方面的影响，为设计不同分子结
+构和用途的WPU提供依据和基础实验数据：最后研究了DMPA含量对不同链长聚酯二
+据和基础实验数据。
+Tab 2-1 Experimcntal materials
+IPDI型高固含量水性聚氨酯的合成及应用
+Tab 2-2 Experimental instruments
+陕西科技大学硕士学位论文
+在装有温度计、机械搅拌器、球形冷凝管的500mL四口烧瓶中加入所需计量的经高
+温真空脱水的低聚物二元醇、IPDI，通N气保护，滴加少量的二月桂酸二丁基锡
+（DBTDL），在90C下反应2h，然后向体系中缓慢加入计量的DMPA，反应过程中视实
+际情况适当滴加丙酮以降低体系粘度，2h后，随时监测反应体系中-NCO含量，达到理
+论值后停止加热。降温至50℃，采用三乙胺进行中和，搅拌0.5h，中和至pH为7.0±0.5，
+得到PU预聚体。将预聚体在高速（转速约为2000转/分钟）搅拌下分散于计量（依据固含
+量而定）的去离子水中，揽择2
+得到WPU乳液
+在装有温度计、机械搅拌器、球形冷凝管的500mL四口烧瓶中加入所需计量的经高
+温真空脱水的低聚物二元醇、IPDI，通N气保护，滴加少量的二月桂酸二丁基锡
+（DBTDL），在90C下反应2h，然后向体系中缓慢加入计量的DMPA，反应过程中视实
+论值后停止加热。降温至50℃，采用三乙胺进行中和，搅拌0.5h，中和至pH为7.0±0.5，
+得到PU预聚体。将预聚体在高速（转速约为2000转/分钟）搅拌下分散于计量（依据固含
+量而定）的去离子水中，搅拌2h，得到WPU乳液。
+将制备好的WPU乳液在洁净干燥的玻璃板上成膜，在烘
+40℃）烘干，控制厚度0.25mm，放入干燥器中备用，
+2.3结构表征及性能测试
+2.3.2乳液离心稳定性
+用低速离心机以每分钟3000转的转速在室温条件下对10mLWPU乳液离心15min，
+用得到的沉淀量来判断乳液的贮存稳定性（相当于室温下六个月的贮存稳定性）[6。
+称取一定量的复合乳液m倒在培养血中，在烘箱中放置24h，烘干温度为90℃，烘
+干至恒重后取出，称量为，则其固含量为：
+将干燥的WPU胶膜剪碎，DMF溶解，涂于KBr品片，制成液膜，采用傅立叶变换
+红外光谱仪对WPU膜进行扫描分析，测试范围是4000-500cm，扫描次数为36次，分
+辨率为1cm
+2.3.9WPU膜的吸水率测试
+WPU膜的吸水率可由库柏尔血法来衡量。具体步骤如下：将膜裁剪成d=70mm的
+圆形样片，称重m（g)，将其放入装有蒸馏水的库柏尔血中浸泡，24h后读取水分损失体
+积V（mL)，空白24h后水分损失V（mL)，平行3次试验，结果取其平均值。吸水率测试
+公式如下2]：
+采用热分析系统在氮气氛下，取适量试样，氮气流40mL/min，以10K/min为升温速
+2.3.13WPU膜的DSC测试
+采用示差扫描量热仪，测试温度-60~0℃，升温速率10C/min，氮气气氛，样品质量：
+4-6mg
+预聚体分散法可分为一步法和两步法。将二异氰酸酯、低聚物二元醇及亲水扩链
+剂同时加入反应体系中进行反应的方法称为一步法：如将二异氰酸酯与低聚物二元醇反
+应一段时间后，再向反应体系中加入亲水扩链剂的方法称为两步法。不同的合成方法制
+液粒径、粘度、固含量及贮存稳定性的影响，结果见表2-3。
+表2-3制备方法对WPU乳液性能的影响
+Tab 2-3 The effect of different methods on properties of WPU emulsion
+由表2-3可以看出，两种方法制得的WPU乳液均离心稳定性良好。一步法制得的
+WPU乳液的粘度小于两步法，平均粒径大小相似。这可能是由于在形成WPU分子的过
+程中，采用一步法使得DMPA、PTMG及IPDI无序地连接在一起，导致亲水基在分子链
+上分布不均匀：而在两步法的反应过程中，IPDI与PTMG交替连接，加入DMPA后，
+亲水基均匀的连接在分子链上，使得乳化完全，粒径较小时易于与水结合形成较大的水
+合半径和流体力学体积，从而粘度增大。制备方法对粒径及固含量大小的影响较小。
+WPU乳液制备胶膜，对WPU胶膜性能进行表征，结果见表2-4。
+PDI型高固含量水性紧氨酯的合成及应用
+表2-4制备万法对WPU胶膜性能的影响
+Tab 2-4 The effect of different methods on properties of WPU film
+由表2-4可以看出，两步法制得的WPU胶膜的拉伸强度低于一步法，断裂伸长率
+则高于一步法，这是因为两步法制得的WPU分子中，软硬段交替连接在一起，使得软
+硬段的相容性增加，而离子基团均匀分散在分子链上，使得亲水基之间的静电力小于一
+步法，所以断裂伸长率大于一步法，而拉伸强度小于一步法。由于一步法制得的WPU
+分子中离子基团相对于两步法密集程度高，静电力较强，使得部分分子间的空隙减小，
+水分子较难进入其中，耐水性略好于两步法，
+2.4.2反应温度对WPU结构与性能的影响
+影响WPU乳液合成的一个重要因素就是反应温度。一般情况下，随者反应温度的
+升高，异氰酸酯基与羟基的反应活性增强，但经过大量的基础实验证明，当反应温度高
+于130C时，氨基甲酸酯或脲基甲酸酯不稳定，易分解：而当反应温度低于70℃时，基
+团的反应活性较低，反应所需时间较长"，因此，本实验选取70℃、90℃、110℃、130℃
+四个温度点来探讨不同反应温度对WPU结构与性能的影响。实验条件：以PTMG1000、
+IPDI为原料，R值为1.6，DMPA含量为3.3%，设计固含量为30%，两步法合成WPU。
+度对WPU乳液性能的影响，实验结果如表2-5所示
+表2-5反应温度对WPU乳液性危的影%
+Tab 2-5 The effect of different temperatures on properties of WPU emulsion
+由表2-5可以看出，反应温度为90℃，粒径最小，仅为105nm，乳液离心稳定性良
+好：当反应温度超过110℃时，乳液粒子粒径粗大且稳定性差。90℃时的乳液粘度最大，
+这是因为此温度下制备的WPU分子链形成少量的支化和交联，而70C下制得的分子为
+表26反应温度对WPU胶膜性能的影响
+Tab 2-6 The effect of different temperatures on properties of WPU film
+由表2-6可以看出，反应温度为90℃的力学性能及耐水性能均优于70℃、80℃，这
+由表2-6可以看出，反应温度为90℃的力学性能及耐水性能均优于70℃、80℃，这
+是由于在90℃下生成少量的支化和交联的WPU分子链，生成的粒子分子量有所增大，
+力学性能较好，且分子链相互缠绕不易与水分子接触，耐水性较好。
+WPU分子链是由异氰酸酯、扩链剂构成硬段链段和低聚物二元醇构成软段链段形成
+W口分于链是用异摄酸脂、护锋剂构成牌段锋段和低案物一元醒移成软段锋段形质
+的嵌段共策物。不同分子量低策物二元醇合成的WPU具有不同的乳液性能和胶膜性能
+本实验选用分子量分别为1000、1000/2000（1000分子量和2000分子量等物质的量混合）
+2000的PEA作为软段原料，考察不同分子量的软段对乳液性能及胶膜性能的影响。实
+验分别以相同物质的量的PEA1000、PEA1000/2000、PEA2000和IPDI为主要原料，R
+值为1.4，设计固含量为30%。
+A软段分子量对WPU乳液性能的影响
+表2-7软段分子量对WPU乳液性能的影响
+Tab 2-7 Effect of soft segment molecular weight on properties of WPU emlusion
+由表2-7可知，PEA2000与PEA1000/2000合成的WPU乳液粒径非常小，而PEA1000
+合成的WPU
+乳液粒于粒径牧大
+这可能是因为软段的分于量越大，
+碳链链长越长，
+分
+表2-8软段分子量对WPU胶膜性能的影响
+Tab 2-8 Effect of soft segment molecular weight on properties of WPU film
+由表2-8可知，PEA2000合成的WPU胶膜与其它WPU胶膜相比，力学性能及耐水
+性最优，膜性能优良。这主要是由于软段的分子量大，力学性能变好，结品度也会相应
+提高，使得吸水率相应减小。
+2.4.4不同软段对WPU结构与性能的影响
+WPU的性能与其软硬段的分子结构有关。因此，具有不同类型或者相同类型不同分
+子结构软段的WPU在乳液粘度、粒径，胶膜结品性、力学性能及耐水性能等方面都存
+在较大差异，而这些性能决定了WPU最终的使用性能和应用方向。作为WPU基础研究
+工作的一部分，本实验在硬段和其它参数不变的条件下，选用相同分子量不同类别的二
+元醇（聚己二酸酯型、PTMG、PCDL）和相同类别不同分子结构的二元醇[PEA、P(E/P）A、
+P(E/DE)A、PBA、PHA]分别合成出了软段结构不同的WPU乳液，分别考察了软段类型
+和碳链长度对WPU结晶性能、力学性能、耐水性及乳液离心稳定性等方面的影响，为
+设计不同分子结构和用途的WPU提供一定的理论依据和基础实验数据。实验条件：低
+聚物二元醇的分子量均为2000，R值为1.6，DMPA含量为3.3%，设计固含量为30%，
+子结构软段的WPU在乳液粘度、粒径，胶膜结品性、力学性能及耐水性能等方面都存
+在较大差异，而这些性能决定了WPU最终的使用性能和应用方向。作为WPU基础研究
+工作的一部分，本实验在硬段和其它参数不变的条件下，选用相同分子量不同类别的二
+图2-1不同软段结构的WPU红外光谱图
+由图2-1可以看出，a、b、c红外曲线中3390cm、1530cm附近为N-H的特征吸
+收峰，1730cm附近为C=O的特征吸收峰，而位于3530cm附近的-OH吸收峰和
+2280cm~2240cm处的-NCO特征吸收峰基本不存在，表明-OH与-NCO完全反应生成
+了氨基甲酸酯基。2950cm附近是-CH、-CH伸缩振动峰，1450cm、1440cm、1380cm
+附近为-CH变形振动峰：a曲线中1120cm附近出现明显的聚醚C-O-C的伸缩振动特征
+吸收峰：b曲线中1250cm附近出现明显的聚酯C-O-C骨架振动峰：c曲线中1200cm
+附近出现明显的聚酯C-O-C骨架振动峰，在785cm处出现了O-C-O特征吸收峰，证明
+了产物中有碳酸酯结构的存在。FT-IR分析表明，PTMG、PEA和PCDL分别与IPD
+充分反应生成了不同软段结构的聚氨酯。
+由图2-1可以看出，a、b、c红外曲线中3390cm、1530cm附近为N-H的特征吸
+峰，1730cm附近为C=O的特征吸收峰，而位于3530cm附近的-OH吸收峰和
+280cm~2240cm处的-NCO特征吸收峰基本不存在，表明-OH与-NCO完全反应生成
+氨基甲酸酯基。2950cm附近是-CH、-CH伸缩振动峰，1450cm、1440cm、1380cm
+吸收峰：b曲线中1250cm附近出现明显的聚酯C-0-C骨架振动峰：c曲线中1200cm
+了产物中有碳酸酯结构的存在。FT-IR分析表明，PTMG、PEA和PCDL分别与IPDI
+聚氨酯分子链中的亲水基团含量、基团的疏水性和分子链柔顺性等因素都会对WPU
+P(E/P)A-WPU>PEA-WPU>P(E/DE)A-WPU。从分子链结构上可知，PEA、P(E/P)A
+P(E/DE)A分子链结构单元中具有相对较短的碳链，可以内旋转的C-C单键数目少，分
+子构象数少，刚性较大，使得分子链柔顺性差，合成的WPU在强剪切力作用下形成的
+粒子尺寸较小，相反PBA、PHA分子链结构单元中碳链相对较长，分子构象数多，分子
+链柔顺性好，增强了WPU的结品性，粒径较大。软段类别不同的WPU中，PHA-WPU、
+PCDL-WPU粘度最大，PTMG-WPU的粘度最小为5.1mPa-s，是因为聚己二酸酯型的
+图2-3是不同软段结构对WPU乳液粒径分布的影响
+Fig 2-3 Effect of soft segment on the particle size distribution of WPU emulsions
+由图2-3可知，PCDL-WPU、PTMG-WPU、PBA-WPU和PHA-WPU粒径分布宽于
+PEA-WPU、P(E/P)A-WPU、P(E/DE)A-WPU。由分子链结构可知，相同分子量的二元醇，
+结构单元中碳链越长，酯基数量越少。软段结构单元中碳链越长，粒径分布越宽，这是
+因为随者碳链增长，酯基减少，前弱了WPU的亲水性，使WPU分子链从溶剂相进入才
+相相对变困难，时间变长，形成的乳胶粒子的粒径分布较宽63。
+表2-9是不同软段对WPU乳液固含量、外观及离心稳定性的影响。
+表2-9是不同软段对WPU乳液固含量、外观及离心稳定性的影响
+图 2-2不同软投对WPU乳液粒径和粘度的影响
+Fig 2-2 Effect of soft segment on the diameter and viscosity of WPU emulsions
+图2-3不同软段对WPU乳液粒径分布的影响
+ab2-9Efccto1
+olid content, appearance and centrfugal centrfugal
+乳液外观与分散介质中PU粒子的粒径有关。由表2-9可见，具有不同软段结构的
+WPU乳液离心稳定性良好。随着粒径的增大，乳液逐渐由半透明状向乳白色转变。这主
+要是因为当粒径较大时（大于100nm），光线发生全反射，乳液呈乳白色：长波长的光被
+散射，透过的光趋于波长较短的蓝光，因而乳液外观呈透明状且带有蓝光，此时乳液离
+心稳定性极佳。PTMG-WPU固含量最低，这是因为聚醚体系中硬段间的氢键促进了硬
+段结品，有利于形成微离子聚集区，使得链段运动困难，因此采用聚酯型二醇更利于高
+固含量WPU乳液的制备
+表210不同软投对WPU胶膜拉伸强度和断裂伸长率的影响
+由表2-10可以看出，拉伸强度：聚己二酸酯型WPU>PCDL-WPU>PTMG-WPU。
+这是因为聚己二酸酯型WPU软段中酯基极性大，内聚能比醚键高8kJ/mol，聚己二酸酯
+型WPU的软硬段间可形成氢键，硬段如弹性交联点一样，可均匀分布于软段链段之中，
+分子间作用力增强，内聚强度增大。同时随着聚己二酸酯型WPU结晶性的增强，拉伸
+强度逐渐增大，因为WPU胶膜在受到拉力作用时，拉伸应力使得软段链段的规整性提
+高，结品性增强，因而提高了胶膜的强度。
+含有大量醚键，使PTMG-WPU软段柔性增强，断裂伸长率较大：同时聚己二酸酯型WPU
+结品性越强，断裂伸长率越小，但P(E/DE)A分子链结构中有一定数量的醚键，使其断
+裂伸长率有所增大：PCDL-WPU由于其结品性强使得断裂伸长率较小，仅为187.8%。
+Fig 2-4 XRD spectra of WPU films with different soft segments
+Tab 2-10 Effect of different soft segment on the tensile strength and elongation at break of WPU films
+胶膜的接触角和吸水率测试可以反映其耐水性，软段对WPU胶膜吸水性的影响见
+表2-11和图2-5
+表 2-11不间软投结构对WPU胶膜接触角和吸水率的影响
+Tab 2-11 Effect of different soft segment on the contact angle and water absorption of WPU films
+由表2-11和图2-5可以看出，聚己二酸酯型WPU胶膜吸水率：PEA-WPU>
+软段结构单元中，碳链较短，会有较多的亲水基团酯基，易与水形成氢键，结合水的
+力变强：另一方面随着结构单元中碳链的增长，亲水基团减少，分子热运动使链间会
+成孔隙，而结品有利于限制孔隙的形成，阻正水分子渗透、溶胀，聚酯型WPU胶膜
+水率随结品性增强而降低。同时PPA的侧甲基具有一定的疏水性，阻碍了水分子与酯
+的接触，P(E/P)A-WPU吸水率小于P(E/DE)A-WPU。不同类别软段的WPU胶膜吸水
+：PBA-WPU>PCDL-WPU>PTMG-WPU>PHA-WPU。PTMG-WPU结构中含有醚基
+图2-5不同软投结构WPU胶膜接融屏
+Fig 2-5 The contact angles of WPU films with different soft segment
+6可知，随着软段为聚己二酸酯型二醇结构单元中碳链的增长，分
+碳键和碳氢键，其键能大于碳氧键，所以聚己二酸酯型WPU分子更稳定，耐热性较好。
+IPDI型高固含量水性聚氨酯的合成及应用
+图26不同软投结构胶膜的热失重曲线
+Fig 2-6 TGA curves of WPU films with different soft segments
+软段对WPU胶膜耐低温性能的影响
+图2-7不同软投结构胶膜的DSC曲线
+Fig 2-7 DSC curves of WPU films with different soft segments
+表2-12不同软段结构对WPU胶膜的Tg
+Tab 2-12 Tg of WPU films with different soft segments
+图2-7为不同软段结构WPU的DSC测试曲线。
+。从图2-7和表2-12中可以看出：！
+着软段为聚己
+酸酯型
+Ig逐渐变小，
+这是因为分子链规整
+2.4.5DMPA含量对不同结构WPU性能的影响
+对于阴离子聚酯型WPU，在分子链上引入亲水扩链剂DMPA使其自乳化，DMPA
+的含量对WPU乳液粒径、粘度，涂层的手感、力学性能及耐水性有直接的影响。实
+验采用亲水基DMPA和聚酯二元醇PEA和PHA分别合成出了具有不同软段结构的WPU，
+重点研究了DMPA含量对不同结构聚酯二元醇的WPU粘度、粒径、耐水性、力学性能
+和结品性能的影响，为不同用途的高固含量WPU的合成提供理论依据和基础实验数据。
+实验条件：以PHA、PEA、IPDI为原料，R值为1.44-1.82，设计固含量为30%，两步
+将合成的PHA-WPU膜和PEA-WPU膜分别进行红外光谱分析测试，结果如图2-8
+图28其有不同结构录酯二元解的WPU红外光请图
+Fig 2-8 iR spectra of the WPU with different polyester polyol
+由图2-8可以看出，PEA-WPU和PHA-WPU红外曲线中3390cm、1530cm附i
+为N-H的特征吸收峰，1730cm附近为C=O的特征吸收峰，而位于3530cm附近的-O
+吸收峰和2280cm~2240cm处的-NCO特征吸收峰基本不存在，表明-OH与-NCO完
+反应生成了氨基甲酸酯基。2950cm附近是-CH、-CHs伸缩振动峰，1450cm、1440cm
+1380cm附近为-CH变形振动峰，曲线中1250cm附近出现明显的聚酯C-O-C骨架
+动峰，FT-IR分析表明，聚酯二元醇与IPDI已充分反应生成WPU。
+bDMPA含量对WPU乳液性能的影响
+接入亲水基团，而由于位阻的作用，DMPA中的-COOH几乎不参加反应，PU上的-COOH
+中和成盐后具有了亲水性。DMPA含量对PEA-WPU和PHA-WPU乳液粒径和粘度的影
+响分别如图2-9所示。
+图2-9 DMPAH量对PEA-WPU和PHA-WPU孔液粒径和粘度的%
+Fig 2-9 Effect of DMPA content on the diameter and viscocity of PEA-WPU and PHA-WPU emulsion
+由图2-9可知，随着DMPA含量的增加，WPU的粒径变小。当PEA-WPU中DMPA
+含量为2.3%时，乳液粒子较大，此时粒径为0.143um，而DMPA含量大于2.9%后，乳
+液粒径变化缓慢且趋向于0.102um，同样PHA-WPU中随着DMPA含量升高也呈现同样
+规律，即当PHA-WPU中DMPA含量为2.9%时，获得的乳液颗粒较粗，此时粒径为
+0.385um，而DMPA含量大于3.5%后，乳液粒径变化缓慢且趋向于0.11um。然而，随
+着DMPA含量的增加，WPU乳液的粘度增大，这是由于亲水基增多，PU分子链上的带
+有相反电荷的离子增多，电凝滞现象明显，离子的水化作用增强，水合膜增厚，离子的
+有效体积变大，粒子移动困难，乳液粘度增强：另外，平均粒径减小，离子相互靠近，
+任何两个粒子都有可能相互吸引，乳液粘度变大I。DMPA含量变化对PHA-WPU的粒
+由图2-10可知，DMPA含量逐渐增加，粒径分布由宽变窄。这是因为WPU的亲水性
+提高，使WPU分子链从溶剂相进入水相相对变易，缩短了时间，形成的乳胶粒子的粒
+径分布较窄I3。而PEA-WPU此现象不明显，可能是由于PEA的分子链相对较短，分子
+图2-10DMPA用量对PEA-WPU和PHA-WPU乳液粒径分布的作用
+表 2-13DMPA含量对WPU外观和离心稳定性的多响
+Tab 2-13 Effect of DMPA content o
+由表2-13可见，DMPA含量在实验范围内，WPU乳液均离心稳定性良好。当DMPA
+含量较少时，乳液外观呈乳白色，随着含量的升高，乳液变透明且带蓝光。这主要是因
+为当粒径较大时（大于100mm），光线发生全反射，乳液呈乳白色：长波长的光被散射，
+透过的光趋于波长较短的蓝光，因而乳液外观呈透明状且带有蓝光，此时乳液离心稳定
+随着DMPA含量的增加，羧基含量的增加，体系中的离子化程度增加，软硬段间的
+极性差异变大，不仅提高了体系的相分离程度，也使得微离子点阵的密度变大，从而使
+得乳化过程中相反转点的粘度变大，相反转点滞后，乳液完成需要更多的水，不利于制
+得高固含量的乳液。结合对粘度、粒径和乳液稳定性的影响，发现控制DMPA含量在3%
+DMPA含量对WPU胶膜力学性能的影响
+聚氨酯材料是一种多嵌段共聚物，致使聚氨酯易产生微相分离，WPU的力学性能取
+决于其微相分离的程度。图2-11表示的是DMPA用量对WPU胶膜拉伸强度和断裂伸
+长率的影响
+图2-11DMPA用量对PEA-WPU和PHA-WPU胶膜拉伸强度和断裂伸长率的影响
+由图2-11可以看出，随着DMPA含量的提高，胶膜的拉伸强度呈正相关，而断裂
+伸长率呈负相关。这主要是由于DMPA用量较少时，分子间作用力小，导致产物的断裂
+伸长率较大，拉伸强度较小。而DMPA用量增加，分子结构中腺键及氨酯键的浓度高，
+由图2-11可以看出，随着DMPA含量的提高，胶膜的拉伸强度呈正相关，而断裂
+伸长率呈负相关。这主要是由于DMPA用量较少时，分子间作用力小，导致产物的断裂
+伸长率较大，拉伸强度较小。而DMPA用量增加，分子结构中腺键及氨酯键的浓度高，
+产物具有较高内聚能密度，分子内氢键、库仑力增加，固态胶膜的拉伸强度增大。当DMPA
+含量的增加1.2%，PEA-WPU和PHA-WPU胶膜的断裂伸长率分别减小了90.6%和92.8%，
+而拉伸强度分别增大了8.6MPa和10.5MPa。PEA-WPU中DMPA含量过高达到3.5%时，
+拉伸强度反而会有所减小，可能是由于硬段含量过高，导致分子链行动困难，同时增大
+了溶剂丙酮的使用量，残余量增多，干燥过程膜中的微小气泡相继出现，造成拉伸强度
+和断裂伸长率分别下降了19.35%和1.17MPa
+含量的增加1.2%，PEA-WPU和PHA-WPU胶膜的断裂伸长率分别减小了90.6%和92.8%，
+而拉伸强度分别增大了8.6MPa和10.5MPa。PEA-WPU中DMPA含量过高达到3.5%时，
+拉伸强度反而会有所减小，可能是由于硬段含量过高，导致分子链行动困难，同时增大
+了溶剂丙酮的使用量，残余量增多，干燥过程膜中的微小气泡相继出现，造成拉伸强度
+胶膜的接触角和吸水率测试可以反映其耐水性
+图2-10DMPA用量对PEA-WPU和PHA-WPU胶膜接触角和吸水率的影响
+Fig 210 Effect of DMF
+id water absorbility of PEA-WPU and
+为不同DMPA用量下PEA-WPU和PHA-WPU胶膜的XRD谱图
+Fig 2-13 XRD spectra of PEA-WPU and PHA-WPU films with different content of DMPA
+从图2-13可以看出，PHA-WPU曲线中21.3°和24°处存在很强软段的衍射峰，说明
+增加，21.3°和24°处的衍射峰随之减弱，这是由于软段的规整结构和硬段的有序排列都
+会形成结品，而硬段中一些刚性基团氨酯基的亚氨基（-NH-）增多，与软段中的酯基
+形成氢键增多，会增加软硬段之间的相容性，导致结品并不完整，多为一些无定形相态
+或微品、次品。同时，DMPA的分子中有侧甲基，随着其用量的增加，不会对WPU硬
+段的规整性进行破坏，因此DMPA的引入量增加会使削弱WPU的结品性。但软硬段间
+的相容性不能完全抑制软段的结品行为，衍射曲线显示的主要还是软段的衍射结品峰，
+产品中仍存在一定程度的微相分离，只是峰强度减弱。PEA-WPU中20处衍射峰随DMPA
+含量增加，强度变化不明显，这是因为PEA-WPU软段链长较短，结品性不好。当DMPA
+含量为3.5%时，PHA-WPU软段结构单元比PEA-WPU中多了亚甲基（-CH-）结构，
+导致PHA-WPU的结品性明显高于PEA-WPU。因为具有长-CH-结构的WPU因自身规
+整的结构而易排入品格，所以具有较高的结品性。
+首先采用预聚体分散法，以PTMG作为软段材料、IPDI及DMPA作为主要的硬段
+材料，合成出了WPU乳液，并干燥成膜，初步探讨了不同合成方法及反应温度对乳液
+性能及胶膜性能的影响：其次研究了不同分子量聚已二酸乙二醇酯二醇作为软段对WPU
+乳液性能及胶膜性能的影响：再次在硬段和其它参数不变的条件下，选用相同分子量不
+同类别的二元醇（聚已二酸酯型、PTMG、PCDL）和相同类别不同分子结构的二元醇[PEA、
+P(E/P)A、P(E/DE)A、PBA、PHA]分别合成出了软段结构不同的WPU乳液，详细考察
+了软段类型和碳链长度对WPU结品性能、力学性能、耐水性及乳液离心稳定性等方面
+的影响：最后重点研究了DMPA含量对不同聚酯二元醇的结构的WPU粘度、粒径、吸
+水性、力学性能和结品性能的影响，为不同用途的高固含量WPU皮革涂饰剂提供理论
+P(E/P)A、P(E/DE)A、PBA、PHA]分别合成出了软段结构不同的WPU乳液，详细考察
+了软段类型和碳链长度对WPU结品性能、力学性能、耐水性及乳液离心稳定性等方面
+的影响：最后重点研究了DMPA含量对不同聚酯二元醇的结构的WPU粘度、粒径、吸
+水性、力学性能和结品性能的影响，为不同用途的高固含量WPU皮革涂饰剂提供理论
+2）当反应温度为90C时，WPU乳液粒子粒径较小、乳液离心稳定性良好、力学
+宽、力学性能、耐水性和耐热性较好，有利于合成高固含量WPU：聚酯型WPU软段结
+沟中疏水链较短的结品性较差，拉伸强度较小，断裂伸长率较高：与聚酯型、聚碳酸酯
+结构规整、结品性较强的聚酯型、聚碳酸酯型WPU粒径较大且分布较
+（5）乳液的粒径随DMPA含量的增加而减小，且当DMPA含量分别增加到2.9%、
+3.5%时，PEA-WPU和PHA-WPU粒径分别逐渐趋于定值0.102um和0.11um，但粒径分
+布变小：粘度则随DMPA含量的增加而增大，乳液离心稳定性增强，当DMPA含量分
+别超过2.6%、3.5%时，PEA-WPU和PHA-WPU乳液颜色逐渐由乳白色变成带蓝光的半
+透明状：DMPA含量太高不利于高固含量WPU乳液的合成：DMPA含量的增加1.2%，
+PEA-WPU和PHA-WPU胶膜的断裂伸长率分别减小了90.6%和92.8%，而拉伸强度分别
+增大了8.6MPa和10.5MPa，吸水性随DMPA含量的增加分别提高了3.65%和21.09%；
+软段微区的结品性能随DMPA含量的增加而减小，PHA-WPU的结晶性高于PEA-WPU。
+（5）乳液的粒径随DMPA含量的增加而减小，且当DMPA含量分别增加到2.9%、
+3.5%时，PEA-WPU和PHA-WPU粒径分别逐渐趋于定值0.102um和0.11um，但粒径分
+布变小：粘度则随DMPA含量的增加而增大，乳液离心稳定性增强，当DMPA含量分
+别超过2.6%、3.5%时，PEA-WPU和PHA-WPU乳液颜色逐渐由乳白色变成带蓝光的半
+工业生产中WPU干燥所需时间比相同固含量的溶剂型PU长，产品能耗高，生产难
+控制因而限制了其在工业上的应用。解决方法之一就是设法提高WPU乳液的固含量
+提高固含量的方法有在一定粘度体系中可利用控制粒径分布、乳液颗粒发生变形及增大
+乳液颗粒直径三种方法。热性能是影响材料应用的重要因素之一。对于合成革用WPU
+其热性能直接影响加工、能耗、和产品性能，WPU结构不同热解过程不同，研究热解过
+程可分析材料的热解机理，了解其热性能7-，热解方程可定量的描述材料的热稳定性
+假设在一个封闭的盒子中无规紧密堆放相同大小的小球，使小球充满整个盒子，当
+盒子的体积记为V，单个小球的体积记为V2，（V>>V2)，小球的总体积占到盒子体积的
+74%，即堆积密度是74%。紧密堆积密度与相同大小球体的大小无关。从以上球状物体
+的无规紧密堆积数学模型中可知：在大的空间中堆积大小均一的球状物体，其无规紧密
+堆积密度极限是74%：堆积大小不均一的球状物体，其堆积密度可以高于74%，球状物
+体大小分布越宽，堆积密度越大。大多数乳液粒子为球型，由总粒子的体积分数可以
+本实验采用相同分子量的PEA、P(E/DE)A、IPDI及DMPA作为主要原料，利用球
+状物体堆积密度数学模型，合成高固含量WPU乳液，研究乳液及胶膜的主要性能，并
+通过TGA探讨了其热分解动力学-8得到了热解的重要参数E、A和n，来定量描述其
+热性能，以期为研究此类高固含量WPU热分解机理、确定使用寿命和热稳定性应用提
+3.2.1主要实验仪器
+Tab 3-1 Experimental instrumcnts
+在装有搅拌器、温度计、冷凝管的四口烧瓶中加入干燥的P(E/DE)A，IPDI（mPE/DE)A
+mIPDi=10：3），N保护，滴加少量的DBTDL，在90℃下反应2h，然后缓慢加入DMPA
+（mDMPA：mP(E/DE)A=1:22），反应2h后降温至55C，中和至pH为7.0±0.5，得到预聚体
+图 3-1高固含量WPU乳液的合成路线
+Fig 3-1 The synthetic route of high solid content WPU emulsion
+3.3高固含量WPU性能测试
+将WPU膜液氮脆断成大约10mm×1mm的试样，喷金后采用扫描电镜对其截面形
+貌进行观察
+热解分析：采用热分析系统在氮气氛下，取适量试样，氮气流40mL/min，分别以5、
+10、15、20K/min为升温速率，由298.15K升到773.15K，得到高固含量WPU的TGA
+曲线。
+3.4结果与讨论
+3.4.1高固含量WPU的红外分析
+将合成的高固含量WPU进行红外光谱分析，结果如图3-2
+由图3-2可以看出，3390、1542cm处为N-H的特征吸收峰，1720cm处为基的
+特征吸收峰，3529cm处的羟基吸收峰和位于2280cm~2240cm处的-NCO特征吸收
+峰基本不存在，表明-OH与-NCO完全反应生成了氨基甲酸酯基：2950cm处是亚甲基、
+甲基伸缩振动峰：1460cm”、1380cm、1465cm处为甲基、亚甲基面内弯曲振动峰。
+1200cm、1139cm处为聚酯中C-O的特征吸收峰。FT-IR分析表明，已生成WPU。
+3.4.2高固含量WPU的性能分析
+图3-3为WPU乳液固化成膜过程示意图，聚合物乳液固化成膜过程分为三个阶段：
+第一阶段是大部分溶剂水分子向外界自由蒸发扩散：第二阶段游离水分子蒸发完后，乳
+Fig 3-2 1R spectra of high solid content WPU
+含量的提高，体系中的水份减少，成膜速度加快，干燥时间缩短，
+第三阶段
+聚合物分子相互缠结，还渐融合
+图33WPU乳液图化成膜过程示意函
+Fig3-3ThefilmformingprocessofWPUemulsiot
+bWPU固含量与粒径、粘度的关系
+含量。乳液的粘度、固含量、贮存稳定性是WPU产品的重要性能指标。如表3-2所
+出现，由于大分子阻碍了这种自由状态，分子间不可以互相之间缠绕、盘绕在一起或缔
+合、成键，便得乳液的粘度开高临度致小：另一万面策酯型WPU的软段含有能基，可
+从图3-4上可以看出，合成的高固含量WPU粒径分布呈多峰分布，粒径大的粒子
+数量较少。说明多元化的粒径分布可提高乳液固含量而不会使粘度增加过高。可以推断
+增加大粒径粒子的数量是获得更高固含量（如60%以上）的乳液的有效方法之一，且不
+表3-2高固含量WPU的物性指标
+Tab 32 The performance of high solid content WPU
+Fig 34 Particle size distribution of WPL
+看出，合成的高固含量WPU粒径分布呈多峰分布，粒径大的粒子
+不同固含量WPU的膜性能对比
+表 3-3高固含量WPU的性能
+Tab 3-3 The performance of high solid content WPU
+由表3-3可知，高固含量WPU较两种原料合成的WPU有良好的耐水性，吸水率为
+6.72%，接触角为101.1°，由此可见，WPU的微粒粒径大小对膜耐水性有较大的影响，
+这是由于高固含量WPU分子排列紧密使得水分子不易进入到胶膜内部，从而耐水性有
+所提高。固含量的提高对力学性能影响不明显，拉伸强度为29.21MPa，断裂伸长率为
+图3-5为不同固含量WPU胶膜横断面的SEM图，通过观察断面的平整度可以判断
+WPU的相分离程度，其中亮色区为硬段的结品区，软段及非结品的硬段构成图中的黑色
+图3-5不同图含量WPU胶膜的SEM图（X2000）
+Fig 3-5 SEM micrographs of different solid content WPU films ( X 2000)
+由图3-5可知，P(E/DE)A-WPU胶膜横断面平整程度最差，说明微相分离程度最大，
+高固含量WPU次之，PEA-WPU胶膜横断面平整程度最好，微相分离程度最小。由PEA
+和P(E/DE)A合成的高固含量WPU相分离程度介于PEA-WPU和P(E/DE)A-WPU之间，
+3.4.3高固含量WPU热分解研究方法
+热分析动力学的方程如下：
+式中，dald、k(T)、fa)分别为转化百分率、速率常数与温度T的函数关系式、反应
+机理函数。温度T与速率常数k在动力学方程中有紧密关系，使用最多的速率常数与温
+度关系式为
+级模型、Kamal模型及自催化模型为具有不同反应机理函数的三种动力学模型
+以上三个方程式中β为升温速率，Tm为热失重峰。
+式（3-5)变形后，
+得
+3.4.4高固含量WPU的热解分析
+在氮气氛下，分别以5、10、15、20K/min为升温速率由室温升温至773.15K，
+（图3-6）。
+在氮气氛下，分别以5、10、15、20K/min为升温速率由室温升温至773.15K，得到
+图3-6不同升温速率下高固含量WPU热分解TGA图
+由升温速率5k/min得DTG曲线可以看出，WPU的热分解主要由3个阶段组成：质
+量开始损失的温度约为230℃，第一阶段温度在230~335℃范围内，第二阶段温度在
+335~400℃范围内，第三阶段从400C开始，直至480℃热解结束。因为聚氨酯的硬段链
+段氨基甲酸酯基团在碳氧键处断裂，分解生成多元醇和异氰酸酯，再继续分解为胺、不
+饱和化合物烯烃和气体CO2。热解过程中部分二异氰酸酯产物反应形成二酰亚胺，400℃
+时分解基本完成，当温度继续升高时，物质二酰亚胺又一次分解生成异氰酸酯。由图3-6
+b)可以看出，低于300C部分，升温速率对热失重速率的作用甚微，高于300C部分，升
+温速率5、10、15、20K/min相应的失重峰为348、363、377、384℃。当升温速率增大，
+高固含量WPU的热解行为滞后。
+热解反应的E和A的计算，所需的参数如表3-4所示
+图3-7高固含量WPUlnβ~1/Tmandln(β/Tm)~1/Tm图
+以lnβ和In(β/T）对1/Tm作图，并拟合，如图3-7所示，得到0.996和0.995分别为
+拟合曲线的相关系数，证明了Inβ、In(B/T）与1/Tm线性相关。将斜率导入式(3-6）和（3-8)，
+116.097kJ/mol。将其代入式(3-5)得到A为1.963x10's。将Fig3-7a)中斜率代入式(3-9)
+中得到高固含量WPU的热解反应n为0.911，n为非整数，说明高固含量WPU的热解
+该方程可定量的描述应用于皮革涂饰剂的高固含量WPU的热稳定，这对于
+ig3-/Inβ~1/TandIn(B/Im)~I/lcurvesforhighsolidcontent WP(
+陕西科技大学硕士学位论文
+量WPU的制备和应用等均具有重要的意义
+本实验采用相同分子量的PEA、P(E/DE)A、IPDI、DMPA作为主要原料，利用球状
+物体堆积密度数学模型，
+合成高固含量WPU乳液
+研究乳液及胶膜的主婴性能，
+并通
+过TGA探讨了其热分解动力学，
+得到了热解的重要参数E、A和n，来描述其热性能，
+为此类高固含量WPU
+（1）高固含量WPU粒径呈多峰分布趋势，平均粒径为424.835nm，粘度为316mPa-s，
+乳液离心稳定性良好，耐水性有所提高，力学性能变化不大，软硬段的微相分离程度较
+P(E/DE)A-WPU有所减弱
+（2）高固含量WPU的热解过程主要分为三个阶段，升温速率与对应的失重峰温度
+正相关，造成高固含量WPU出现延迟分解现象：WPU的热解反应动力学是近似1的复
+杂反应，其热解E为116.097kJ/mol，A为1.963x10's，n为0.911，热解反应动力学
+4高固含量WPU在超细纤维合成革上的应用
+WPU可作为皮革、合成革涂饰剂应用，具有涂层薄且有光泽、粒面平整、手感丰满、
+质感好及遮盖原皮瑕疣的优点，同时还具有优良的耐介质性、耐候性、耐折牢度、耐干
+湿擦等。WPU所需十燥时间比相同固含量的溶剂型PU长，因而产品能耗高，本实验用
+软段原料P(E/DE)A/PEA、PTMG/PEA、PTMG/PBA合成固含量分别为51.43%、50.3%、
+软段原料P(E/DE)A/PEA、PTMG/PEA、PTMG/PBA合成固含量分别为51.43%、50.3%
+50.1%的WPU乳液，用于超细纤维合成革面层涂饰中，通过对超细纤维合成革的卫生性
+能及耐磨性能表征，考察其应用性能。
+Tab 4-1 Experimental material
+Tab 4-2 Experimental instruments
+4.2.2超细纤维合成革的制备
+称取200g制备的高固含量WPU树脂于干燥的烧杯中，并分别加入质量分数为0.3%
+的增稠剂（以树脂质量计），适量消泡剂、流平剂及深咖啡色水性颜料膏（便于观察涂饰
+后皮革表面是否有瑕疣），机械搅拌均匀，利用离心机以3000r/min的转速对浆料进行服
+泡20min，静置30min。在离心纸上用涂覆棒纵向刮涂配好的浆料，放入105C烘箱中烘
+干，再贴于涂有粘合层的超细纤维合成革基布表面，得到超细纤维合成革，
+4.3.1超细纤维合成革卫生性能的测试
+4.3.2超细纤维合成革耐磨性能的测试
+试样直径约为11cm，采用织物耐磨试样机检测，观察磨损程度。检测条件：砝码质
+4.4.1超细纤维合成革卫生性能分析
+透水汽性和透气性是判断合成革卫生性能必不可少的物性指标。测定了不同固含
+量超细纤维合成革的透水汽性与透气性，并研究不同原料对高固含量WPU涂饰剂卫生
+量超细纤维合成革的透水汽性与透气性，并
+表42梅细纤维合成单卫生性能
+eHbersvnthetcleatne
+以表4-2可知：以PE
+含量WPU涂饰剂透水汽性与透
+气性优于其它两种，分别为0.3mg/（10cm²·24h）和6.4mL（cm²-h）。主要是由于P(E/DE
+与PEA都为聚己二酸酯型二元醇，酯基易于与水分子结合形成氢键，增加了分子间的
+隙，所以透水汽性和透气性良好。PBA-WPU粒径呈多元分布，胶膜内部结构较紧密，
+卫生性能较差。PTMG/PEA与PTMG/PBA两种涂饰剂因其中一部分原料为聚醚二元
+而与水的结合能力减弱，形成的胶膜内部结构紧密，透水汽性和透气性能有所下降。
+PTMG/PEA与PTMG/PBA。低固含量WPU涂饰剂的卫生性能优于高固含量WPU涂
+PTMG/PEA与PTMG/PBA。低固含量WPU涂饰剂的卫生性能优于高固含量WPU涂饰
+4.4.2超细纤维合成单府磨性能分析
+耐磨性是衡量合成革涂层材料综合性能的一项重要的参数指标，对不同固含量WPU
+涂饰剂做了耐磨性对比试验。以一定转数后革表面开始起毛、底基裸露作为判定依据。
+其实验结果如表4-3所示
+Tab 4-3 The surface states of superfine fiber synthetic leather after friction
+由表4-3可知，以P(E/DE)A/PEA为原料制备的高固含量WPU涂饰剂耐磨性远远优
+于其它两种。主要是由于P(E/DE)A与PEA都为聚酯型的二元醇，制备的涂饰剂形成了
+柔性界面层，同时柔性层改善了材料的变形程度，材料的耐磨性能相应提高。结果表明，
+以P(E/DE)A/PEA为原料制备的高固含量WPU涂饰剂的耐磨性能明显优于PTMG/PEA
+与PTMG/PBA。高固含量WPU涂饰剂的耐磨性优于低固含量WPU涂饰剂。
+4.5本章小结
+WPU作为合成革涂饰剂，涂层具有遵且有光泽、粒面平整、手感丰满、质感好及通
+原皮瑕批的优点，同时还可以赋予皮革优良的耐介质性、耐候性、耐折劳、耐干湿擦
+表4-3超细纤维合成革耐度性能
+固含量WPU涂饰剂的卫生性能优于高固含量WPU涂饰剂
+（2）以PE/DE)A/PEA为原料制备的高固含量WPU涂饰剂的耐磨性能明显优于
+PTMG/PEA与PTMG/PBA。高固含量WPU涂饰剂的耐磨性优于低固含量WPU涂饰剂
+本论文采用预聚体分散法，合成出了一系列WPU乳液：在此基础上采用增大粒子
+粒径分布的方法，合成了高固含量WPU乳液：对WPU乳液的合成工艺、性能及热分解
+动力学进行了系统分析：并将高固含量WPU乳液作为成膜剂应用于超细纤维合成革表
+面涂饰中，对其在合成革上的应用性能进行了探讨。
+为0.911、n为1.963x107s，高固含量WPU的热解过程主要分为三个阶段，升温速率与
+对应的失重峰温度正相关，高固含量WPU出现延迟分解现象：WPU的热解反应动力学
+是近似1的复杂反应，热解反应动力学方程为：
+是近似1的复杂反应，热解反应动力学方程为：
+（6）将高固含量WPU应用于超细纤维合成革涂饰，应用性能实验表明
+P(E/DE)A/PEA型高固含量WPU涂饰剂透水汽性与透气性分别为0.3mg/(10cm2·24h）和
+6.4mL(cm2.h)，卫生性能及耐磨性均优于PTMG/PEA与PTMG/PBA型WPU涂饰剂。
+仅为我提供了优良的科研条件，还给我提出了许多建设性的意见，帮助我拓展思维空间
+教会我严谨务实的科研态度。不仅如此，罗老师还在生活上给予关心和鼓励，罗老师是
+我今后工作生活中学习的榜样。在此向罗老师致以最真诚的谢意！
+析中心的众多老师在科研过程中给予的技术支持
+感谢1B323陪我工作学习的师兄弟姐妹：李鹏妮、赵国徽、吴东秋、张鹏、刘蕊
+吴弟、葛炳辉、曹敏、梁杰、赵雷等对我研究工作的帮助。同时感谢舍友张丹、钟黎、
+卫颖菲在我生活上的陪伴与以及学习中的帮助，时时刻刻让我能感到家的温暖。这三
+的生活，是人中一笔宝贵回忆，不论将来在哪里，这份友情将永远留在我心底，
+才使我有了今大
+由建波、王海军老师在学习生活给予的指导和帮助以及仪器分
+[8]Athawale V D, Kulkarni M A.Synthesis characterization and comparison of polyurethane
+13] Wolfgang H, Rudolf H, Walter M, et al. Adhesive and use of the adhesive for the
+formation of bonds[P].
+德国专利：DE3630045,1989-9-26
+[T/]Liu X, Xu K, Cai H L, et al. Preparation and properties of waterborne polyurethanes with
+20]王培，王念贵，李陵岚等，水性聚氨酯研究进展[川].胶体与聚合物，2006，24（3）：
+等，聚氨酯的热分解研究进展]，高分子材料科学与工程
+之，内烯酸树脂-坏氧树脂改性水性聚氨酯的研制D]，北京化工大学，200
+吴少明.高固含量聚氨酯分散体的合成以及在真空吸塑胶中的应用D].华南理工
+26]DongHJ,Eun YK.Y
+ormanceUVcured
+5]张红武，倪思斌，陈明清等.扩链剂对脂肪族水性聚氨酯性能的影响叮].中国皮革
+共等，水性聚氨酯末器涂料改性研究进展团]：弹性体，2006
+毛立新，聚醚多元醇和醇类扩链交联剂并用对聚氨酯弹性体性能的
+黎明等，二羟基内酸对聚氨酯复合乳液合成及性能影响闭：皮
+卫英等，二羟甲基丙酸对聚酯型水性聚氨酯性能的影响]].石油
+39]James J J,Wayne R W,James E P.Continuous Process for Preparing aPolyurethane
+[41] Mohammed J, Nasrullah M J, et al. Automated parallel polyurethane dispersion synthesis
+and characterization P]. Journal of Coatings Technology and Research, 2009, 1(6):1-10
+，王玉香，HDI-IPDI型高固含量水性聚氨酯分散体的合成及微观
+SWang N, Zhang L, Lu Y. Effect of the Particle Size in Dispersions on the Properties of
+刘大亮，高档木器涂料用水性聚氨酯内烯酸酯复合乳液的合成研究D].华南理
+令，桌云，潘肇琦等，软段对水性聚氨酯结构与性能的影响口
+[70] Vanesa G P, Victor C, Manuel C,et al. Waterborne polyurethane dispersions obtained with
+李树材，软段结构及相对分子量对阴离子水性聚氨酯性能的影响叮].涂料
+73Branca C,Blas1CD,Casu A.1hermochim Acta>.2003.399:127
+王宇，曾俊，超高固含量水基聚氨酯分散体的合成理论与实践团：案氨留
+等，反相意浮酚醛树脂对苯和苯胺的吸附动力学及热力学
+玉安等.非等温热重法研究g-C3N4热分解动力学[J].功能材
+霞，毛敏等，水性硝化纤维涂膜的热分解动力学，涂料工业，2013，43
+春，黄机质，织物防水透湿原理与层压织物生产技术[M]，北京：中国纺织出
+政读硕士学位期间发表的学术论文目录
+杨菲非，冯见艳等.不同填料对水性聚氨酯合成革贝斯性能的影响团.中国
+菲等.一种水性聚氨酯磨砂革的制备方法[P].中国，专利申请号：

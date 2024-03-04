@@ -1,0 +1,279 @@
+POLYMER MATERIALS SCIENCE AND ENGINEERING
+基于材料基因工程设计筛选耐高温易加工聚酰业胺
+华东理工大学材料科学与工程学款上海市先进聚含物重点实验室、上海200237
+摘要：聚酰亚胺（PI)树脂在航天航空工业领域具有重要应用·被要求其兼具热稳定性和良好的加工性。但是·在耐热性
+能提高的同时。P1的加工性能通常会变差，这种矛盾加大了树脂设计与研发的难度，文中提出了一种基于材料基因工
+程的两步法筛选策略，这种新方法能加速设计兼具热稳定性和加工性的PI结构。第1步，从聚合物数据库中的化学结
+构提取出各种化学基元·以化学键解离能和键级作为热稳定性指标·以旋转松弛时间和零切黏度作为加工指标对化学基
+元进行第1次筛选·获得候选基元。第2步，通过候选基元的组合获得候选PI结构，以50%热分解温度作为热稳定性指
+标，以LUMO-HOMO和零切黏度作为加工性指标，筛选得到主链含二甲基硅和炔基的新型耐高温易加工的P1树脂
+关键词：聚酰亚胺：材料基因工程：耐热性：加工性能：理论模拟
+中图分类号：TQ323.7
+文献标识码：A
+文章编号：10
+聚酰亚胺（P1）树脂具备优异的热学和力学性
+能，在以航天航空工业为代表的众多领域受到广泛关
+注。在航空航天工业中，碳纤维增强的热固型P1
+复合材料凭借其高比强度和优秀的耐热性替代了发
+动机和飞机框架中的部分金属材料，提升了飞行器的
+运力。随着航天航空工业的发展，对PI树脂的需
+求越来越大，性能要求也越来越高。
+性能的要求不再只追求单一指标，而是需要提升P1
+树脂的多项性能，然而，某些性能之间本身存在着一
+定的矛盾，难以同时提高，如耐热性能和加工性能。
+普遍认为，PI本身优异的耐热性是由于其刚性结构
+和分子内、分子间强烈的电荷转移相互作用所致，但
+刚性结构和分子内、分子间强烈的作用力也导致P1
+加工性能变差。也就是说，在主链中引入刚性结构
+（如芳环结构等）有助于提高耐热性能，但不利于加工
+性能：而引入柔性结构（如醚键等）有助于提高加工性
+能，但不利于耐热性能。由此可见，只是粗略地把
+能提升单项性能的基团、结构组合在一起往往不能同
+时提升这些相互制约的性能
+dot, 10.16865/j.cnki.1000-7555.2021.0019
+页目：国家白然科学基金资助项目（5182
+王立权：生要众馨高分字材料基
+度章8号:1600-7555(2021)01-005 1-0R8
+目前，开发制备新型聚酰亚胺的主流方法仍然是
+通过反复试错来寻找新高性能树脂结构的实验试错
+法。这种方法严重依赖研究者的开发经验，一旦在研
+究者所熟悉的化学结构空间中没有能满足性能的结
+构，实验试错法将耗费更多的人力、物力和时间去探
+索更广阔的化学结构空间来寻找满足要求的结构。
+因此，急需一种能在更广阔的化学结构空间中有效、
+迅速地寻找合适的树脂结构的新方法，用以解决因不
+同性能之间存在相互制药关系而难以同时满足要求
+的新型树脂研发困境。
+材料基因工程是一种将数据库技术、计算技术和
+实验方法相结合，减少开发新材料所需的时间和成本
+的新型材料研发方法。近年来，材料基因工程已被用
+于研发多种新型高性能聚合物材料，如聚合物介电材
+料、耐高温树脂等，最近，本团队运用基于材
+料基因工程的两步法筛选策略·成功设计并合成出低
+温固化耐高温含硅芳炔树脂，其5%分解温度达655
+C、固化仅241.9J/g。相较于实验试错法，材料
+基因工程所需时间成本和物料成本更低，能探索更厂
+阔的化学结构空间
+航空航天工业迫切需要同时具备更好的热稳定
+性和良好加工性能的P1树脂。然而P1本身的结构
+特性表明了加工性能与热稳定之间存在矛盾，这种性
+能上的相互制约大大提升了研发满足性能要求的树
+脂的难度。解决这类相互制约的性能关键是寻找到
+合适的刚性和柔性结构组合。本文将刚性结构和柔
+性结构作为“基因”，运用基于材料基因工程的两步筛
+选策略对”基因”和由“基因”组合得到的P1结构进行
+耐热性能和加工性能的筛选，最终获得主链含二甲基
+硅和炔基、封端剂含募环的新型聚酰亚胺
+密度泛函理论是一种用电子密度分布函数代替
+波函数来简化多电子体系的量子化学计算方法，本
+文采用DFT计算分子结构的化学键解离能（BDE）和
+Mayer 键级。首先，利用B3LYP泛函和 6-311G（d，
+p）基组对分子结构进行优化，获得能量极小点时的分
+子结构和Mayer键级。然后，在25C下，对优化后
+的分子结构进行断键处理，并将断键后的自由基和优
+化后的结构进行频率分析，计算其热力学函数，得到
+反应变。最后，根据反应燃变获得键能。前线轨道
+(LUMOHOMO能级）则是根据DFT,在 B3LYP/
+6-311G（d，p）水平上计算分子的最低未占分子轨道
+(Lowest unoccupied molecular orbital, LUMO) 和
+最高占据分子轨道（Highest occupied molecular or
+bital，HOMO)的能量差。本文所有DFT计算均使
+用Gaussian O9进行，其中Mayer键级数据使用
+Multiwfn软件[计算。
+1.2
+分子动力学模拟
+分子动力学模拟是根据经典力学和哈密顿方程，
+利用计算机计算各个分子每时每刻的坐标和动量，进
+而通过统计力学获得系统的各项特征。由于遵循
+经典力学，每个粒子所受的力可由牛顿运动方程获
+得，即
+子的质量：r（
+个数子在：时刻的位置
+算，为
+http://www,cnK1
+本文所有MD均使用Material Studio软件中的
+Forcite模块实现。旋转松弛的模拟过程中，采用
+COMPASS力场，时间步长为1fs,在NPT系综（温
+度327C，压强01MPa)中分子运动500ps使系统
+达到平衡，之后再运动500ps得到运动轨迹，根据运
+动轨迹计算旋转松弛时间。
+式（5)中,E是T
+时零剪切速率下黏性流动的
+活化能，可用摩尔黏度温度和重复单元的分子量计
+所有分子连接指数法的计算都在Materials Stur
+dio软件的Synthia模块中实现。
+计算过程中将低聚
+张宋毒等：基于材科基因工程设计第选耐高湿易加工聚酰亚股
+七字基元收集
+从PoLylnfo聚合物数据库中收集大量聚合物的
+化学结构信息，再利用BRICS算法将分子结构拆
+分成大量的化学基元，将非常宰见的化学基元去除，
+保留合理的化学基元。对得到的大量化学基元进行
+分类，得到反应基元、刚性基元和柔性连接基元3大
+类。由于热固性聚酰亚胺主要是以炔基为反应官能
+团，所以选择炔基为反应基元。刚性基元具有较大的
+刚性，主要为芳环结构，如蔡环等。柔性基元通常包
+含可以旋转的柔性化学键，如醚键等。
+2.2
+贰元端选
+由于柔性基元含可旋转的柔性化学键，P1主链
+结构嵌入柔性基元有助于增加P1分子的柔顺性，改
+善树脂的加工性能。但是，柔性基元的化学键键能较
+低，受热易断裂分解，导致树脂热稳定性下降。对于
+柔性基元而言，热稳定性和化学键的柔性是互相制约
+的性能。因此，本文以热稳定性和化学键的柔性作为
+筛选指标，对收集到的柔性基元进行评估和筛选
+BDE为化学键断裂前后的热变化，可以用来
+polyimide with tlexiblke units. the stars are screened units: (c) the screened flexible units
+评价化学结构的热稳定性，本文把柔性基元嵌入到
+P1中二酐结构两苯环的连接处，即Fig2（a）所示的
+R基元。运用DFT，计算了柔性基元与苯环连接的
+化学键的BDE，用其评价柔性基元的热稳定性
+BDE值越大，柔性基元的热稳定性越好
+苯环的松弛时间是苯环克服能垒旋转1周所
+需时间，体现了分子的柔顺性。对含柔性基元的二酐
+进行分子动力学模拟，计算了与柔性基元相连的苯环
+的旋转自相关函数，得到苯环的，用其评价柔性基
+元的柔性大小，松弛时间越短，柔性越好
+Fig.2（b）所示为相连苯环的r与BDE的关系
+图。图中虚线表示不嵌入柔性基元时苯环的松弛时
+间。由图可知，有10类柔性基元的BDE大于330
+kJ/mol,r小于804ps,其分子结构如Fig2（c）所
+示。其中，二甲基硅是这2种性能综合后的最佳选
+择。推测二甲基硅综合性能最佳的原因是Si原子与
+苯环形成的dn-Px共轭，增大了BDE，且Si一C的键
+长大于
+运用DFT，计算了在优化后的刚性结构中的所
+运用DFT，计算了在优化后的刚性结构中的所
+有化学键的Mayer键级。以Mayer键级大于1.2为
+筛选阅值，筛选出了7种刚性基元。将这7种刚性基
+元分别替换对照组PI结构（见Fig.4（b））中二胺的
+联苯结构，得到7种仅在二胺结构上不同的PI主链
+Tab.1 Mayer bond order and zero-shear viscosity of rigid units
+优家考等：基于材科基固工程设计等选耐高温易加工装能重路
+结构，并使用分子连接指数法预测其y（T）。计算结
+果如Tab1所示。由表可知，葱环的引入会导致较
+大的x（T），因而不适宜引入到P1结构中。另一方
+面，含氮杂环系列的刚性基元虽然r（T）不大，但难
+以修饰氨基或合成成本过高，不考虑将其纳入下一步
+筛选。因此，本文采用苯环和蔡环作为刚性基元，纳
+入下一步的筛选
+高分子材移科学与工程
+合可以形成无数PI主链结构，出于合成和计算代价
+两方面考虑，本文做出了限制，组合得到的二酐和二
+胺结构中只能含有1种基元。考虑到常见的二酐结
+构（如3，3，4，4-联苯四羧酸二酐）往往含有2个苯
+环，本身的刚性较强，再在结构中增加刚性基元可能
+导致在二酐合成和PI树脂的加工方面出现困难，因
+此本文只将柔性基元嵌入到二酐中，考虑到柔性基
+元已加入二酐中，过多的柔性基元会导致耐热性能大
+幅度下降，因此本文只将刚性基团添加到二胺中。
+本文将筛选得到的柔性基元嵌入到二酐结构中
+得到10种候选二。另一方面，考虑到主链上含有
+反应基团能进一步提高固化后的热稳定性，将筛
+将筛选出的刚性基元、反应基元与酸酐或者胺
+结构结合形成9种候选封端剂：封端剂的反应活性
+选得到的刚性基元（苯环和蔡环）和反应基元（快基）
+嵌入二胺结构中得到34种候选二胺，如Fig3（a）所
+示。将候选二酐和候选二胺组合，获得340种候选
+PI主链结构，并使用分子连接指数法预测这些候选
+PI主链结构的T和（T）。将T和（T）的数值
+归一化后，以1：1的权重对这些结构进行综合评价，
+其结果如 Fig 3(b)所示，在Fig 3(b)所示的热点图
+中，颜色越亮，综合评分越高，其中由含二甲基硅的二
+构是综合评分最高的结构.说明二甲基硅是最佳柔
+性基元，乙快和苯环组成的复合结构是最佳的二胺结
+构。
+和黏度对PI材料加工性能有重要影响。因此，从反
+应活性和黏度角度出发：对9种候选封端剂进行筛
+LUMO-HOMO是指最低未占据分子轨道与最
+高占据分子轨道之间的能量差，LUMO-HOMO越
+小，表示分子的反应活性越大。在P1领域，P1分子
+反应活性越大，越有利于加工。运用DFT计算了候
+选封端剂的LUMO-HOMO，使用分子连接指数法
+预测候选封端剂的y（T）。Tab2所示为所有候选
+封端剂的LUMO-HOMO和（T),其中第1组封端
+剂结构因兼具较低的LUMO-HOMO和较低的
+（T）而被选为最佳封端剂
+Fig.4（a）所示为通过两步法筛选得到的新型P1
+Feg+Screcncdpalyamdea)andihepalyamde（bjchasenIorcampartse
+用MD模拟初步验证了P1-a的性能.Fig.5所
+示为由MD计算得到的PHa和P1-b的黏度与玻璃
+化转变温度。由Fig5（a）可知，在107~207C温度
+范围内，P1-a的黏度均比P1-b的黏度小。另一方面，
+由 Fig 5(b)可知,PI-a和 P1-b的 T,均随反应基团
+re eid anpeadwal esue ssep (a) eaneadma jo opuny e se qid pue eid po isosta (e)  sid
+张宋毒等：基于材科基因工程设计第选耐高湿易加工聚酰亚股
+结构 PH-a。 与对照组的 PI 结构 PI-b(Fig, 4 (b))相
+比，PI-a主链嵌入了含二甲基硅的柔性基元和能参与
+交联反应的快基反应基元。PI-a主链中的Si一C键长
+大于C一C键长，使苯环的旋转自由度增大，提高了分
+子整体的柔顺性·有利于加工性能的提升。而PI-a
+中的Si原子与苯环形成的dπ-px共轭，增强键能从
+而减弱柔性基元的加入对耐热性能的影响。另一方
+面，主链中炔基的引入使得PI-a主链中的快基含量
+提高，在固化过程中，主链快基参与固化反应，增加了
+固化交联点，且使交联点的分布更均匀，有利于耐热
+性能的提高
+不断发生交联而增加，且两者相近。但是，由于PI-a
+的主链结构比P-b的主链结构多了可反应的炔基，
+固化后的PI-a将拥有更多的交联点，从而获得更高
+的T。。以上结果均验证了筛选方法的有效性，
+结构和封端剂结构）进行耐热性能和加工性能的筛
+选，获得兼具优秀的耐热性能和加工性能的新型P1
+结构。此外，MD的计算表明，新型PI结构中柔性基
+元和刚性基元的加入提升了树脂的耐热性能和加工
+性能，验证了方法的有效性。
+性能，验证了方法的有效性
+结论
+结合聚酰亚胺（PI)的结构特性，提出了一种基于
+材料基因工程方法的”两步法筛选”的策略，用来设计
+兼具良好耐热性和加工性能的PI树脂。首先，用化
+学键解离能和Mayer键级表示耐热性能，用零切黏
+度表示加工性能，对PoLyInfo聚合物数据库中提取
+的化学基元进行初步筛选。然后，根据PI的单体结
+构特点和合成难易程度，将符合要求的化学基元进行
+组合，获得P1主链结构和封端剂；分别以50%热分
+解温度和零切黏度对PI主链结构、以LUMO-HO-
+MO和零切黏度对封端剂，进行第2次筛选，最终获
+得一种蔡环封端、主链含二甲基硅和炔基的新型P1
+树脂。主链中的二甲基硅基元能提高树脂的韧性和
+加工性能·而炔基可以在固化时进一步反应，提高树
+脂固化后的热稳定性。本文所提出的材料基因工程
+方法可以加速新型PI树脂的设计与研发，可启发其
+它聚合物材料的耕发
+参考文献：
+ 下$ 66 页。 to be continued on P.66)
+Hongyu Liang, Qingxiang Li, Xuemin Lu、 Qinghua Lu
+Hongyu Liang, Qingxiang Li, Xuemin Lu, Qinghua Lu
+ABSTRACT:Chiral additive driven selfassembly of block copolymer is an effective method to construct heli
+cal nanostructure with controlled handedness, However, the effect of the small chiral molecules on the for
+mation of helical structure is still unclear. In this work, small chiral molecules with different chemical struc
+tures were used to co-assemble with poly(14butadiene) b-poly(ethylene oxide) (PBd-b-PEO), Small angle
+Xray scattering- TEM and circular dichroism (CD) were utilized to verify that the chiral malic acid ( MA)
+and mandelic acid ( MDA) can induce the PEO phase to form a helical structure at solid film state, while the
+chiral tartaric acid dibenzyl ester (DBTA) and diacetyl tartaric acid (DATA) cannot induce a helical phase
+due to the hydrogen bonding sites and the effect of their substituents. The assembly shows distinct CD sig
+nals based on the change of the polymer structure and the aggregation of chiral molecules, On the basis of
+molecular simulation, the stability of the hydrogen bond association in co-assembled system was analyzed,
+and the effect of chiral additives on the helical self-assembly of block copolymer was explained.
+Keywords:block copolymer: helix: chiralitv : molecular simulation
+.上接第 58 页。 continaed (rom p.58)
+Design of Heat-Resistant Polyimides with Good Processability
+bya Materials
+Genome
+Approach
+byaMaterialsGenomeApproach
+Songqi Zhang, Junli Zhu, Liquan Wang, Jiaping Lir
+Songqi Zhang, Junli Zhu, Liquan Wang, Jiaping Lin
+(Shanghai Key Laboratory of Advanced Polymeric Materials, School of Materials Science and
+Engineering、 East Chinα University of Science and Technology, Shanghai 2o0237, China)
+ABSTRACT; There are implacable contradictions in the requirements of modern industry for new polyimides
+(PI) , such as the relationship between heat resistance and processing property. The experimental trialand
+error method is not an efficient strategy for discovering new PIs with contradictory performance, A two-step
+strategy based on the materials genome approach to facilitate the design of new heat-resistant Pls with good
+processability was developed. At the first step, ten kinds of flexible units and two kinds of rigid units were
+screened based on a heat-resistant feature of bond diss
+lociation energy or bond order and a processing feature
+MO-HOMO, and zero shear viscosity as key features, The present work provides a new method for the rapid
+design and screening of polymeric materials with incompatible performance,

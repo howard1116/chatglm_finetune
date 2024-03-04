@@ -1,0 +1,113 @@
+Journal of Chemical Engineering of Chinese Universities
+文算编号 : 1003-9015(2002)02-0212-05
+瞿金清，涂伟萍，陈焕钦
+（华南理工大学化工所，广东广州，510640）
+捐要：随着环境法规对涂科的挥发性有机化合物（VOC)含量的限制，高性能与低VOC含量相结合的效组分水性聚
+氨幅涂科成为涂科工业发展的超势。采用三经甲基内烷（TMP)为扩链剂合成具有交联结构的水性紧氨幅分散体多元
+尊，与多异霸酸输固化剂组成双组分水性聚氨幅涂科。缺究发现双组分涂膜的机械性能和外观是由合成的水性聚氨
+为100%，NCO:OH=1.0~12时所得双组分水性聚氨酯涂膜外现好、快干、硬度高和施工方便
+双组分聚氨酯涂料具有成膜温度低、附着力强、耐磨性好、硬度大以及耐化学品、耐侯性好等优
+越性能，因而广泛作为工业防护、木器家具和汽车涂料。随着各国环保法规的健全和环保意识的增
+强，传统溶剂型聚氨酯涂料中的挥发性有机化合物（VOC）的排放量愈来愈受到严格限制。水性涂料以
+水为分散介质，具有不燃、无毒、不污染环境和节省能源等优点。水性双组分聚氨酯涂料将双组分溶
+剂型聚氨酯涂料的高性能和水性涂料的低VOC含量相结合，成为涂料工业的研究热点口3。水性双组
+分聚氨酯涂料是由含NCO基的低粘度多异氯酸酯固化剂（甲组分）和含OH基的水性多元醇（乙组分）组
+成，其涂膜性能主要由乙组分羟基树脂的组成和结构决定的。与溶剂型双组分聚氨酯涂料不同，水性
+双组分聚氨酯涂料的乙组分必须具有良好的分散性能，能以尽量低的剪切能耗将甲组分很好的分散在
+水中。通常乙组分采用丙烯酸乳液多元醇（粒径在0.08-0.5微米之间），其主要缺点是对固化剂的分散
+能力差施工时限短，涂膜外观差：采用丙烯酸分散体多元醇（粒径小于0.08微米），存在粘度高、
+固体含量低和涂膜干燥速度较慢等缺点。目前水性聚氨酯分散体多为线性树脂，它与固化剂配制的涂
+料干燥速度慢，硬度低。然而自乳化水性交联型聚氨酯分散体多元醇具有较好的分散功能，与固化剂
+的相容性好，可通过调整氨基甲酸醋键的含量和交联结构来调整涂膜性能，得到具有优异的物理机械
+能力差施工时限短，涂膜外观差：采用丙烯酸分散体多元醇（粒径小于0.08微米），存在粘度高、
+固体含量低和涂膜干燥速度较慢等缺点。目前水性聚氨酯分散体多为线性树脂，它与固化剂配制的涂
+料干燥速度慢，硬度低。然而自乳化水性交联型聚氨酯分散体多元醇具有较好的分散功能，与固化剂
+的相容性好，可通过调整氨基甲酸酯键的含量和交联结构来调整涂膜性能，得到具有优异的物理机械
+性能和耐化学性能的涂膜。本文合成了具有交联结构的聚氨酯分散体多元醇，用以配制性能优异的水
+TDI(80/20)，工业品，从日本进口：三羟甲基丙烷（TMP），工业品，Bayer公司产品：二羟甲基丙
+酸，工业品，Perstop公司产品：聚酯多元醇T1136，数均分子量1000，羟值106mgKOH·g，赫司公
+司产品：二甘醇（DEG），工业品，上海高桥化工厂产品：N甲基吡略烷酮（NMP）、丙酮、三乙胺为分析
+纯，使用前用4A分子筛干燥处理：T1136在90°C,0.09MPa下干燥3小时后用。多异氟酸酯固化剂：
+Desmodur DN，NCO%=21.8±0.5%，粘度：1.250±0.300Pa-s，固含量：100%，Bayer 公司产品。
+收磺日期: 2001-06-25;推订日期 : 2001-12-28,
+作者简介：霍金酒(1970-)，男，湖北洪湖人，华南理工大学讲师，博土
+图2为水性双组分聚氨酯涂料体系及固化过程
+的红外光谱图。谱线1为羟基水性聚氨酯多元醇，
+在3410cm处为羟基的特征峰，在3330cm、1550
+cm为NH的特征峰，在1730cm为酯键碳基的
+特征峰，表明经基水性聚氨前含有经基和氨基甲酸
+酯基；谱线2为多异氰酸酯固化剂，在2270cm
+为NCO基的特征峰：谱线3为水性双组分聚氨酯
+体系（涂膜表干后），在3400cm和2270cm处存
+在羟基和NCO基：谱线4为实干后（已固化）的聚
+氨酯涂膜，体系中NCO基消失在3300cm和1550
+cm处出现明显的NH峰，而且峰面积增大，说明
+双组分水性聚氨酯的固化是通过羟基和NCO基的
+反应形成氨基甲酸酯键来完成的
+涂膜性能如表1所示。
+表1TMP含量对聚氨酯分散体和涂膜性能的影响
+表1TMP含量对紧氨静分数体和涂膜性能的影啦
+Fable 1 The effect of TMIP content on the properties ef PUD and PU film
+表1说明，随TMP含量的增大，聚氨酯预聚物分子量增大，聚氨酯分散体（PUD）的外观由透明、
+半透明到不透明和不能乳化。因为TMP为三官能度多元醇，随TMP含量增大，体系的平均官能度增
+大，缩聚反应产物的分子量增大，PU预聚物逐渐由线形分子结构发展到具有交联的结构。在相同亲
+水离子浓度的条件下，即亲水性相同的条件下，线形低分子量的PU预聚物易于分散到水中，甚至能
+溶于水中，形成聚氨酯溶液：随着PU预聚物的分子量增大，交联结构增多，PU预聚物越难分散到水
+中，形成的乳液粒径越大，乳液外观由透明变为不透明。表1还说明，随TMP含量增大，双组分水
+性聚氨酯涂膜的表干时间缩短、硬度增大、但涂膜光泽降低、外观变差。因为随TMP含量增大，PUD
+分子量增大，交联结构增多，有利于物理成膜，而且涂膜的最终硬度增大。另一方面，随TMP含量
+增大PUD乳化固化剂的能力下降，影响涂膜的外观与光泽。因此适宜的TMP质量分数为2.0%-4.0%。
+Fig.3The GPC curve of betore(1)and atter(2) TMPextend of WPU
+中和度定义为三乙胺与DMPA的摩尔比值，表2列出了中和度对分散体外观及涂膜性能的影响。
+表2表明，随中和度的增大，PUD的外观由乳白不透明变为蓝色半透明乳液，双组分配方体系的外观
+由白色粗粒状变为蓝色半透明乳液，涂膜外观逐渐变好，涂膜变为不粘的时间缩短。因为随着中和度
+增大，乳液的亲水性增加，PUD分散固化剂的能力变强，配制的双组分体系的粒径变小，小粒径乳液
+有利于组分间的相互扩散，有利于NCO基与OH基的反应，缩短涂膜的干燥时间。当中和度超过100%
+时，由于PU聚合物链上没有更多可溶解的羧基，不会影响PUD的粒径，所以对其它性能没有影响。
+过量中和剂可能会催化双组分成膜过程的副反应，影响双组分体系的活化期和涂膜外观。因此，适宜
+Iable 2 The effect of degree of neutralization on the appearance and properties of filn
+中和工艺可分为乳化前中和(pre-neutralization）和乳化后中和（post-neutralization），研究发现乳化前
+中和得到半透明的PUD，双组分涂膜的外观好，光泽高：采用乳化后中和工艺所得的PUD为不透明
+石灰水状分敲体，贴存不稳定，贮存2周后有少量沉淀，配制的双组分聚氨能涂膜的外观不好，光泽
+较低。因此选用乳化前中和工艺。
+3.4配比的影响
+按照本文2.3节配制不同的NCO：OH的水性双组分聚氨酯涂料，检测涂膜性能列于表3
+表3不同配比对涂膜性能的影响
+Tahie 3 The eflect of ratio cf NCO: OH en the properties ef PU film
+表3表明，随NCO：OH比例增大，即随固化剂含量增加，涂膜表干时间延长，硬度增大，较低含
+量的固化剂有利于表干时间的短和涂膜外观的改善。因为增加固化剂含量，增大涂膜中氨基甲酸酯
+键和腿键的浓度，增大涂膜的硬度：但涂膜中残留的NCO基将和水发生副反应，生成的二氧化碳会
+滞留在涂膜中影响涂膜的外观和性能。而且过多的固化剂会增加涂料成本，因此较适宜的配比为
+1.0-1.2。
+以实验筛选的配方和工艺合成的PUD为羟基组分，按照本文2.3节配制双组分水性聚氨酯涂料
+检测涂膜性能
+，结果列于表4
+表4双组分水性聚氨解涂科性能
+able4Thepropertiescftwo-cumponentwadertameppolvurethanepain
+表4表明，本文研制的水性聚氨酯多元醇配制的双组分水性聚氨酯涂料，在涂膜外观、光泽、硬
+度等方面和溶剂型聚氨酯涂料相当，而其溶剂含量较低，为溶剂型双组分聚氨醋涂料的14.5%，能满
+足环保要求
+应用TMP扩链合成具有交联结构的水性聚氨酯分散体多元醇，并与多异氟酸酯固化剂配制双组
+分水性聚氨酯涂料，其涂膜的基本性能与溶剂型双组分聚氨酯涂膜性能相当，但含有机溶剂约为溶剂
+型涂料的14.5%，满足环保要求，具有较好的应用前景。研究得到适宜的工艺参数为：扩链剂含量为
+2%-4%，采用前中和工艺，中和度为100%，固化剂与羟基树脂的NCO:OH为1.0-1.2
+参考文献
+Synthesis and Characterization ofTwo ComponentWaterbornePolyurethanePaints
+Abstraet:  With the restrictions of environment regulations on volatile organic compounds (VOC) in
+coatings, two-coimponent waterborne polyurethane paints, in which high performance combines with low
+value of VOC, become the developing trend of coatings technology. Two-component waterborme
+crosslinked polyurethane, which was synthesized by using TMP as an extender. It was observed that the
+mechanical properties and appearance of the cast films of the two-component coatings depend on the amount
+of chain extender (TMP), neutralization content, neutralization technology and the ratio of NCO group and
+OH group. It was shown that the two-component waterborme polyurethane based on crosslinked aqueous
+polyurethane dispersion is possessed of good appearance of film, fast drying, high hardness film and using
+convenience. The obtained satisfactory technology parameters are 2%~4% of chain extender, 100% of
+neutralization content, 1.0~1.2 of NCO/ OH ratio and pre-neutralization technology
+免费论文查重：http://www.paperyy.com
+3亿免费文献下载：http://www.ixueshu.com
+超值论文自动降重：http://www.papery.com/reduce_repetition
+PPT免费模版下载：http://ppt.ixueshu.com
+阅读此文的还阅读了：
+14. 双组分水性聚安翰保科彩绘地面引领工业地坪新时尚
+25.双组分水性丙烯酸聚氨酯防腐装饰涂料的研制
+27.水性双组分高光聚氨酯涂料适用期测试方法研多

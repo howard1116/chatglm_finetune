@@ -1,0 +1,148 @@
+HDI/IPDI物质的量比对PPG型
+水性聚氨酯性能及微观形貌的影响
+刘文济丁
+伟涂伟萍胡剑青王
+锋戴飞亮
+（华南理工大学化学与化工学院广州510640)
+摘要：将聚氧化丙烯二醇（PPG)、16-己二醇（HDO）、二羟甲基丙酸（DMPA)与不同物质的量
+比的六亚甲基二异氰酸酯（HDI)和异佛尔酮二异氰酸（IPDI）反应通过预聚体混合法制备了一系列
+环境友好的PPG型水性聚氨酯。利用FT-IR、DSC、SEM等研究了HDI/IPIDI物质的量比对水性聚氨
+酯的性能和微观形貌的影响，结果表明：随着HDI/IPDI物质的量比的增加水性聚氨酯链段的氨基
+甲酸酯键之间的氢键密度增加水性聚氨酯分散体的平均粒径增大硬段的结晶性和柔韧性随之提
+EffectofHDI/IPDIMolarRatioonPropertiesandMicro
+MorphologyofPPG-BasedWaterbornePolyurethane
+Liu Wenji , Ding Wei , Tu Weiping , Hu Jianqing , Wang Feng , Dai Feiliang
+( School of Chemistry and Chemical Engineering , South Chinc
+Abstract: PPG  based Waterborne polyurethane ( WPU) dispersions were synthesized
+from poly( propylene glycol) ( PPG) , dimethylolpropionic acid ( DMPA) , 1 ,6 hexanediol
+( HDO), different molar ratio of 1 6hexamethylene disocyanate ( HDI) and isophorone di
+s. The effect of HDI/IPDI molar ratio on the
+Fourier transform infrared ( FT IR) spectroscopy , differential scanning calorimetry ( DSC)
+and scanning electron microscope ( SEM) , etc. The results indicated that the particle size of
+WPU dispersions increased , the flexibility and crystallinity of hardsegment , hydrogen bonds
+density between carbamates were enhanced as well as the induced crystallization of soft
+在链段中作为物理交联点为材料提供刚性常用的多
+异氰酸酯有IPDI、HDI、甲苯二异氰酸酯（TDI)等；B代
+表软段主要由柔顺性好的低聚物多元醇构成为材料
+提供韧性，常用的低聚物多元醇有PPG、聚乙二醇
+（PEG)、聚碳酸酯二醇（PCDL）、聚四氢呋喃醚二醇
+（PTMG)和聚己二酸14-丁二醇酯（PBA)等。硬段
+之间的化学结构和比例会极大地影响WPU的粒径分
+布、结晶性、热性能、耐溶剂性、力学性能、微观形貌
+等[-”。目前国内研究集中在对PBA型和PTMG型
+水性聚氨酯性能的影响等方面对HDI/IPDI比例于
+PPG型水性聚氨酯性能影响的研究较少-
+实验使用异佛尔酮二异氰酸酯（IPDI）、六亚甲
+基二异氟酸酯（HDI）、聚醚二元醇（PPG）二羟甲基
+丙酸（DMPA）为主要原料采用预聚体分散法制备了
+一系列PPG型的WPU通过改变HDI/IPDI物质的
+量比的大小，分析了其对PPG型WPU的分散体性
+能胶膜结晶性能、力学性能、吸水率以及拉伸断裂面
+形貌等方面的影响。
+异佛尔酮二异氟酸（IPDI）、六亚甲基二异氟酸
+Table 1Formulation ofwaterborne polyurethane
+红外测试采用德国BRUKER公司VECTER33型
+红外光谱仪测试区间：400-4000cm。粒径测试
+采用英国Malvern公司ZSNanoS型纳米粒度分析
+仪稀释倍数：1000倍；扫描次数：3次；测试温度：室
+温：时间：10min-热性能测试采用德国耐驰仪器有
+限公司DSC204F1型综合热分析仪取样品5-8mg
+温度测试区间：-80-220°C；降温速率：10C/min;流
+动介质：N。力学性能分析采用英国Instron公司
+3367型万能拉力机，样品有效长度30mm，厚约
+1mm宽度约6mm-测试条件：25℃，拉伸速率
+100mm/min。扫描电镜测试采用德国Zeiss公司
+酯( HDI) :工业级德国 Bayer Material Science 公司;
+聚氧化丙烯二醇（PPGM=2000)：工业级嘉宝莉
+化工集团股份有限公司；16-己二醇（HDO)：化学
+纯国药化学试剂有限公司；二羟甲基丙酸（DMPA）：
+工业级丹阳市华盛化工有限公司；三乙胺（TEA)：化
+学纯广州化学试剂厂：16-己二胺（HDA）：分析纯，
+江苏强盛功能化学股份有限公司；二月桂酸二丁基锡
+（DBTDL)：试剂级上海凌峰化学试剂有限公司。
+实验过程
+在装有电动搅拌器、回流冷凝管、温度计、氮气进
+在装有电动搅拌器、回流冷凝管、温度计、氮气进
+出口的500mL四口烧瓶中，加入计量的PPG、
+DMPA在100-110C下-0.1MPa真空脱水2h然
+后降温至65℃左右加入计量的IPDI和HDI，于85
+C下反应直至体系中的一NCO含量达到理论值（甲苯
+一二正丁胺法测定）。降温至80℃加入HDO，直至
+体系中剩余的一NCO含量达到设定值。降温至45
+C加入TEA中和反应30min。将所得预聚物在去
+离子水中进行高速剪切分散然后加入HDA进行后
+扩链得到环境友好的聚醚型WPU分散体。实验配
+方如表1所示，固定n（—NCO）：n（—0H）=1.3，
+DMPA占单体总质量的3.5%硬段的含量为33%
+( HDO) :n( HDA) = 2 :1 .
+刘文济等：HIDI/IPDT物质的量比对PPC型水性聚氨脂性能及微观形貌的影响
+吸收峰；3326~3332cm处是N—H的伸缩振动吸
+收峰而未氢键化的N—H的伸缩振动吸收峰为3400
+3 450cm，1536~1548cm处是N—H的弯曲振
+动吸收峰而未氢键化的N—H的弯曲振动吸收峰是
+1650-1580cm表明试验合成的WPU中的N—H
+基本上已完全氢键化从而使质子给予体N一H的伸
+缩振动和弯曲振动吸收峰大幅度向低波段方向移动；
+1455-1456cm为—CH和—CH—的弯曲振动吸
+收峰；1241cm处是C—N的伸缩振动峰，1099~
+1098cm处是C—0—C的非对称伸缩峰，表明体系
+由图2和表2可见增大HDI在混合异氰酸酯中
+的比例WPU的平均粒径增大粒径分布变宽。这是
+因为IPDI上连接在脂肪环上的—NCO基团由于位阻
+效应的影响活性要弱很多而HDI为脂肪链型多异
+氟酸酯没有位阻效应相比之下两个—NCO基团的
+活性要强很多所以当HDI含量增加时在乳化分散
+和后扩链时，HDI中残存的一NCO基团与水、己二胺
+反应时反应就会激烈很多微粒之间的碰撞也会更
+加激烈胶粒更容易粘附在一起，使得平均粒径增大，
+粒径分布变宽
+中生成氨基甲酸酯基；1373cm处是羧酸基团的特
+征吸收峰：在2200-2300cm区间内未出现特征基
+团—NCO的伸缩振动吸收峰表明一NCO基团已经基
+本反应完全；综上所述，本试验成功合成了一系列氢
+键化程度较高的聚醚型WPU。
+此外由图1还可以发现随着HDI/IPDI物质的
+量比的增大，在1536-1548cm处的N—H弯曲振
+动吸收峰和3326~3332cm处的N—H伸缩振动吸
+收峰的吸收谱带变宽、吸收度增大-证明随着HDI/
+IPDI物质的量比的增大实验制备的WPU的氢键密
+度也随之增加
+表2不同HDI/IPDI物质的量比的WPU粒径
+Particle size of WPU with different HDI/IPDI molar ratio
+由图3和表3可见聚醚型WPU的玻璃化转变
+温度（7）都在-50℃左右而在150~200℃之间都
+有两个结晶熔融峰：而硬段主要是由两种不同的多异
+氰酸酯构成才使得硬段区出现两个不同的熔融峰。
+随着HDI/IPDI物质的量比的升高，T先上升后下
+降；而硬段的结晶熔融有明显的增大趋势。这是由
+于含有六个业甲基的线性多异氟酸酯HDI的规整性
+和柔韧性都比脂肪环结构的IPDI要高：因此随着
+HDI含量的上升和IPDI含量的下降硬段整体上的规
+由图4可以看出，WPU胶膜拉伸强度随着HDI/
+IPDI物质的量比的增加而下降.胶膜断裂伸长率随
+着HDI/IPDI物质的量比的增加而上升。这是由于，
+一方面HDI是线型的脂肪族异氟酸酯结构中含有
+六个易旋转的亚甲基柔顺性好所以当硬段中HDI
+含量增加时，WPU链段的柔韧性和弹性会有所增加，
+断裂伸长率随之上升。另一方面HIDI的刚性弱于含
+有六元脂肪环结构的IPDI，所以当硬段中HDI含量
+上升IPDI含量下降时，WPU中硬段的刚性下降胶
+膜的拉伸强度也随着下降。
+由图5可见，WPU胶膜的吸水率先下降后上升。
+这是由于，一方面随着规整性更好的HDI含量的提
+高硬段的结晶性得到提高硬段链段之间的互相作
+用增强鲢段之间更紧密胶膜的阻水性提高；另一方
+面随着活性更高的HDI含量的提高WPU分散体的
+平均粒径增大所得胶膜间隙增大致密性降低造成
+胶膜的阻水性下降。两方面的作用，使得WPU胶膜
+的吸水率先下降后上升。
+刘文济等：HDI/IPDI物质的量比对PPG型水性聚氨酯性能及微观形貌的影响
+改变二异氰酸酯HDI与IPDI之间的物质的量
+比制备了一系列的环境友好的PPG型水性聚氨酯
+利用FT-IR、DSC、SEM等研究发现随着HDI/IPDI
+物质的量比的增加水性聚氨酯分散体的平均粒径增
+大、粒径分布变宽水性聚氨酯链段的氨基甲酸酯键
+之间氢键密度提高，硬段结晶性能和韧性也得到改
+善水性聚氨醋胶膜的拉伸强度下降而断裂伸长率上
+升吸水率先下降后上升玻璃化转变温度先升高后
+下降同时促进了软段的拉伸诱导结晶。

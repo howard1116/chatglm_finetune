@@ -1,0 +1,431 @@
+TheinfluenceoftheNco/oHratioandthe1,6-hexanediol/
+dimethylolpropionicacidmolarratioonthepropertiesof
+waterbornepolyurethanedispersionsbasedon
+1,5-pentamethylenedlisocyanate
+Jiao Feng', Qiuhao Lu',Weiming Tan*, Kequan Chen ()',Pingkai Ouyang
+1 State Key Laboratory of Materials-Oriented Chemical Engineering, College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech
+University, Nanjing 211816, China
+oiuru ~pr *o aynsug mssa nsnpug sugro pue ued noszueu Doon 'suo nog ou qurosay uuoudug peuogen Z
+213016, China
+Abstract 1,5-Pentamethylene disocyanate, a novel ali-
+phatic disocyanate formed from bio-based 1,5-penta-
+methylenediamine, has been used as a hard segmented
+material to synthesize polyurethane. In this study, several
+waterbome polyurethane (WPU) dispersions have been
+-°1 og ssod oodd e q pedrd gssons
+pentamethylene disocyanate poly(polyether) with differ-
+ent NCO/OH ratios and 1,6-hexanediol (HDO)/dimethylol
+propionic acid (DMPA) molar ratios. The Fourier trans-
+form infrared (FTIR) spectra, thermogravimetric analysis,
+differential scanning calorimetry, X-ray diffraction, and a
+mechanical tensile test were used to investigate the
+structures, thermal stability, phase separation, crystallinity,
+mechanical properties, and adhesive performance of the
+WPU dispersions. The FTIR results indicate that the
+degree of hydrogen bonding and the numbers of urea
+groups increase as the NCO/OH ratio and HDO/DMPA
+molar ratio increase. Furthermore, the phase separation
+increases and the thermal stability decreases as the
+NCO/OH ratio increases or the HDO/DMPA molar
+ratio decreases. Finally, WPU3.0-2.4 (NCO/OH =3,
+HDO/DMPA = 2.4) exhibits a maximum tensile strength
+and shear strength, pointing to its possible use as an
+adhesive. These results could provide a very valuable
+reference for industrial applications of WPU.
+Keywords
+1,5-pentamethylene disocyanate, polyur-
+ethane, water based
+Received March 9, 2018; accepted July 3, 2018
+E-mail: kqchen(ainjtech.edu.cn
+Introduction
+Polyurethanes (PUs) have become one of the most
+important and versatile polymers because of their excel-
+lent mechanical strength, fexibility, damping ability, adhe-
+siveness, and suitable curing rates [1,2]. Hence, PUs have
+been widely applied in coatings, adhesives, medicinal
+products, foams, paints, ink binders, and biomaterials
+[39] since their discovery in 1937 [10]. However, the
+main drawbacks restricting the development of PUs are
+environmental pollution and the depletion of petroleum
+raw materials [11,12]. Petroleum resources are the main
+raw materials used in the traditional preparation of PUs,
+which produces volatile organic compounds (VOCs) and
+o ssn s  a] siosns oxo o
+sustainable development, the eco-friendly polyurethane
+alternatives have received ever-increasing attention [13
+15]. Manufacture of waterborne PU (WPU), as an
+alternative to the solvent-based type, is associated with
+reduced VOCs and manufacturing costs as water is a safe,
+nontoxic and inexpensive solvent [1618].
+containing organic units and urethane linkages (NHCOO)
+[19]. Generally, WPU can be prepared via the reaction
+between disocyanate (containing isocyanates (NCO)) and
+water-based polyols (containing active hydroxyl groups
+(OH), which are referred to as a rigid hard segment and a
+flexible soft segment, respectively. A chain extender such
+as 1,4-butanediol or ethylene diamine is then used to
+improve the properties of the polymer [4,11]. For many
+years, researchers have been studying the preparation and
+properties of WPU as they are impacted by various factors
+such as the chemical structure, compositional variation,
+contents of diisocyanates or polyols, neutralizing agents,
+and block length [4,2023]. Among these factors, the hard
+segment substantially affects the performance of the WPU
+because of its high polarity and high solubility [24]. In
+previous research, the main disocyanates used include
+toluene disocyanate, 4,4'-diphenylmethane disocyanate,
+1,6-hexamethylene disocyanate (HDI), isophorone diso-
+cyanate, tetramethylxylylene disocyanate, and so on
+[4,2527]. It has been reported that WPUs synthesized
+from aliphatic disocyanates exhibit a higher mechanical
+strength than those synthesized from cycloaliphatic and
+aromatic disocyanates [28]. Recently, 1,5-pentamethylene
+disocyanate (PDI), an aliphatic disocyanate, has been
+produced by phosgenating 1,5-pentamethylenediamine
+(PCA) [29]. PDI is similar to HDI in its physical and
+chemical properties, but the use of PDI as a hard segment
+would require lower consumption during the WPU synth-
+esis because it has a higher proportion of isocyanate than
+HDL. In addition, PCA can be obtained by eco-friendly
+biochemical methods such as fermentation and enzymatic
+methods. However, few studies have been reported on the
+synthesis and characterization of PDI-based WPU; only a
+few studies suggested the methods for producing PCA and
+PDI, and the feasibility of synthetic PU resin [29]. But
+these studies focused on solvent-based PU, and there have
+been no detailed report on the effects of PDI, the NCO/OH
+ratio and 1,6-hexanediol (HDO)/dimethylol propionic acid
+(DMPA) molar ratios
+Herein, we report the synthesis of WPU dispersions by
+using PDI as a hard segment, and the influence of the
+NCO/OH ratio and the HDO/DMPA molar ratio on the
+properties of WPU. These data could provide a very
+valuable reference for the industrial application of WPU
+dispersions.
+PDI was produced by Jiangsu Kuaida Agrochemical Co.,
+ether 210 (N201, Mn = 1000±50, industrial grade, Tianjin
+Ltd. (Jiangsu, China) using the phosgene method. Poly-
+Petrochemical Plant, Tianjin, China) was dried in a
+vacuum oven at 120°C for 2 h before use. DMPA,
+dibutyltin dilaurate (DBTDL), N,N-dimethylformamide
+(DMF), triethylamine (TEA), acetone, 1,6-hexanediol
+(HDO), and deionized water were purchased from local
+companies and used as received.
+2.2 Synthesis of WPU disperston
+Each WPU dispersion was prepared in a dry round bottom,
+four-nccked flask (500 mL) cquipped with a mechanical
+stirrer, a thermometer, a condenser, and an argon inlet.
+Firstly, PDI and N210 were added to the flask placcd in an
+oil bath (80°C). The NCO-terminated prepolymers were
+obtained by nucleophilic addition of the active hydroxyl
+groups of the N210 to the isocyanate group of the PDI
+under an argon atmosphere with a moderate stirring rate
+(150200 r/min) for about 2 h. Next, a certain amount of
+DMPA as hydrophilic groups dissolved in DMF, DBTDL
+as catalyst and HDO (chain extension) was added to the
+flask. After 2 h, the residual NCO content reached the
+desired value. The prepolymer was cooled to < 50°C and
+TEA was added to neutralize the carboxylic acid for 30
+min. During the neutralization, acetone was added to
+decrease the viscosity. Then, the prepolymer was dispersed
+in deionized water for 30 min (Schemel). Finally, acetone
+was removed by spin-steaming at 50°C for 30 min to
+obtain the WPU. The compositions of the WPU disper-
+sions are shown in Table 1.
+NCO content was tested according to the Chinest
+standard HG-T2409-1992 (formula 1):
+where Vo is the wasting volume of a standard solution of
+hydrochloric acid (HCl) of a blank control, V is the wasting
+volume of a standard solution of HCl of the samples (the
+unit of volume is mL), c is 0.5 mol/L, which is the
+concentration of the standard solution of HC1, M is the
+weight of the samples, and 0.042 is cqual to 1 mL of a
+standard solution of HCl concentration.
+2.4 Preparation of WPU films
+WPU dispersions were poured onto a teflon disc and dried
+under ambient conditions for 24 h to prepare the films.
+Then the films were vacuum-dried at 45°C for 2 h and
+stored in a vacuum desiccator at room temperature
+2.5 Analyses
+Attenuated total reflectance Fourier transform infrared
+dM pue Id jo suousmseowu (81La-V) Adossonoods
+samples were obtained using a Nicolet iS5 spectrometer
+(Thermo Fisher, USA) at room temperature. The FTIR
+spectra were recorded by accumulating 16 scans at a
+resolution of 4 cm~′ in the wavenumber range from 4000 to
+500 cm*.
+Thermogravimetric analysis (TGA) measurements were 
+u 01 o  go stm ods  ( su
+performed using a Q50o thermogravimetric analyzer (TA
+Film samples were heated under a nitrogen environment in
+the temperature range from room temperature to 600°C at a
+heating rate of 10°C/min (nitrogen flow rate, 60 mL/min).
+Dynamic differential scanning calorimetry (DSC)
+experiments were carried out using a Q200 Calorimeter
+Dynamic
+differential
+scanning
+calorimetry (DSC)
+experiments were carried out using 
+a Q200 Calorimeter
+Scheme 1 Synthesis route of the WPU dispersions
+Table 1  Sample designations and compositions of the WPU dispersions
+(TA Instruments, USA) with sample weights from 3 to
+6 mg cut from the films. The samples sealed in an
+aluminum pan were heated under a nitrogen atmosphere at
+a heating rate of 10°C/min (nitrogen flow rate, 60 mL/min)
+within a range from
+ 70°C to 120°C
+Bruker D8 Advance
+Ihe
+instrument (Bruker, Ettlingen,
+Cier-
+andthc
+ments were made. The test films were cut into a dumbbell
+shape and the mechanical properties were measured at
+room temperature on a UTM6104 material testing machine 
+(Suns Technology Co., China) at a cross-head speed of
+100 mm/min. The walnut wood pieces were cut into strips
+poddeoao sdns om pue tuu Z × oo1 × 57 Sunseou
+(about 25 × 12.5 mm² adhesive area). The shear strengths
+were obtained as the average maximum load per square
+millimeter of shear area.
+The molecular structure of PDI and the progress of the
+reaction between PDI and N210 to fomm WPU were
+estimated from the FTIR spectra. As shown in Fig. 1(a),the
+3467 cm~ decreases significantly and the peaks of the
+NH bond (NH stretching at 3345 cm′, NH bending
+vibration at 1530 cm~′) appear [6,30,31], indicating the
+reaction of the hydroxyl group of N210 with the isocyanate
+(NCO) group of PDI. Meanwhile, the crystalline hydro-
+gen-bonded carbonyl (C =O) absorption at around
+1718 cm also confirmed the formation of the NCO-
+terminated PU prepolymers [31]. The absorption at
+1249 cm*′ was assigned to the coupled peaks of the CN
+stretching vibration [2]. After adding DMPA and HDO,
+chain extension progressed until the characteristic absorp-
+tion peak intensity of the free NCO at 2275 cm was
+reduced to a constant value [27]. On the other hand, the
+ATR-IR spectra shows the absorption at 1108 cm
+belonging to COC stretching is in concordance with
+the N210 spectrum [32]. Further, the bands at around
+s os  on posoo o I pe o
+vibration and bending vibration of the methylene groups
+(CH), respectively [26]. Moreover, the peaks at around
+2930 and 1363 cm belong to the CH antisymmetric
+stretch and the bending vibration of CH, [33]
+with different NCO/OH ratios. The stretching bands of the
+hydrogen-bonded NH and C = O shift to lower wave-
+numbers than those of the free NH and C = O [34]. For
+example, the NH stretching peak of WPU was at
+the hydrogen bonding of the NH groups as proton donors 
+with the C =O groups as proton acceptors during the
+formation of WPU [36]. Generally, the extent of hydrogen
+bonding plays a key role in the estimation of the
+segregation effects of hard and soff segments in WPU.
+Across the scries the intensity of the band area ncar
+3345 cm′ is gradually strengthened, suggesting that the
+extent of hydrogen bonding between NH and C=O
+increases with the increase in the NCO/OH ratio. The more 
+highly hydrogen-bonded hard segments as a physical
+crosslink can result in more significant phase separation
+between the hard and soft segments because hydrogen
+bonding restricts the segmental motion of the polymer
+chain [35]
+To further study the effect of the NCO/OH ratio, the
+C=O stretching vibration in the region from 1600 to
+1800 cm~ was investigated, as depicted in Fig. 1(c). The
+C = O groups were divided into fre and bonded urethane
+carbonyl groups (17391707 cm) and urea carbonyl
+groups (17001635 cm ) [37]. As the NCO/OH ratio
+increases, the intensities of the absorption peaks of the urea
+carbonyl groups and the NH bending peak at 1531 cm
+of the urea group are enhanced (Fig. 1(a)). Because the
+urea groups are generated during chain extension of the
+prepolymer, the results suggest that the degree of hydrogen
+bonding and the regularity of the segment structure of
+WPU are affected significantly by the NCO/OH ratio.
+1.2Thermalcharactenzation oftheWPUhlm
+TGA curves for thermal degradation of the investigated
+WPU are presented in Fig. 2, and the detailed characteristic
+data of TGA are shown in Table 2. The complex
+degradation mechanism of WPU is related to their
+chemical molecular backbone structure and was studied
+on the peaks in the derivative curves. As for WPU3.0-1.8,
+a small proportion of the mass loss in the 50°C200°C
+region may be due to the removal of residual water, solvent
+or the decomposition of allophanate. The derivative curves
+of the samples with different NCO/OH ratios suggest that
+there are two primary pyrolysis processes: the degradation
+of the hard segments formed through the urethane and urca
+bonds at 240°C360°C and the degradation of the more
+stable soft segments at higher temperatures between 367°C
+and 370°C [5,3839]. As shown in Table 2, the mass loss
+of the soff segment content for sample WPU2.2 is greater
+than that for sample WPU3.0. Moreover, the mass loss
+corresponding to the degradation of the hard segment
+content (urethane and urea bonds) in the WPU decreases
+when the NCO/OH ratio decreases from 3.0 to 2.2. It was
+also observed that two temperatures, Tios and Tso%, at
+Fig. 1 F11R s
+er, PD1,
+ymer, (b)
+Fig. 2 TGA curves of WPU films with different NCO/OH ratios
+which 10% and 50% degradations occur, are lower for
+WPU3.0-1.8 than for WPU2.2-1.8. This trend indicates
+that thermal stability increases with decreasing the NCO/
+OH ratio from 3.0 to 2.2 due to the poorer thermal
+resistance of hard segments than that of soft segments
+ratio on the thermal properties of WPUs was provided by
+the DCS analysis, as shown in Fig. 3. WPU2.2-1.8 exhibits 
+only one glass transition temperature related to soft
+segments at 39.4°C, probably due to the low intensity
+of the hard segment phase [38,40]. However, WPU2.61.8
+and WPU3.01.8 have two glass transition temperatures.
+The first one is related to the sof segments (Tg SS) at
+The first one is related to the
+47.7°C and  47.6°C. As the NCO/OH ratio decreases,
+the incremental increase of Tg SS might be attributed to the
+increase of soft segment content. Because of the high OH
+activity, the high cross-linking density restricts the
+segmental mobility of the polymer chains and strengthens
+the intermmolecular interactions [17,41]. This result sug-
+gests that a higher degrce of phase separation between the
+hard and soft segments is generated with increasing NCO/
+OH ratio, as confimed by the result for the hydrogen
+bonding from the FTIR spectra. The second glass transi-
+tion temperature corresponding to the hard segments (Tg
+hs) appears at 45.18°C and 35.4°C, probably due to the
+formation of stronger hydrogen bonding which leads to
+more compact packing of the hard segments. For the two
+WPUs, the transitions appear in the temperature range of
+61°C79.3°C because of the disruption of hard domains
+with the short-range order of WPU.
+by X-ray diffraction (XRD) analysis,
+andthe X-ray
+diffractograms are shown in Fig. 4. There is no sharp
+peak for the soft segments, indicating an amorphous
+structure of WPU. The two broad diffraction peaks at 29 =
+22° (main diffraction peak) and 43° are attributed to the
+soft segments in the segmented PUs [39]. With increasing
+the NCO/OH ratio, the intensity of the diffraction peaks
+decrease, indicating a decrease in crystallinity.
+Table 2 TGA data of WPU films with different NCO/OH ratio
+ig.4XRDofWPUhlnswithdifterentNCOOHratios
+Figure 5(a) shows FTIR spectra of the WPU films with
+different HDO/DMPA ratios. The intensity of the band
+near 3345 cm* gradually increases with increasing the
+contribution to the band area near 3460 cm°′, indicating
+that the H-bonding extent between NH and C=O
+increases with the decrease of DMPA content in HDO/
+DMPA. The C = O stretching vibrations in the region from
+1600 to 1800 cm ′ are shown in Fig. 5(b). Three absorption
+peaks at around 1718, 1700 and 1688 cm were observed
+in the FTIR spectra of C =O groups with different HDO/
+DMPA molar ratios. The peak at 1718 cm′ is due to
+Fig. 5 FTIR spectra of (a) WPU films with different HDO/
+DMPA molar ratio, and (b) C = O stretching vibrations
+hydrogen bonding to the C = O of the urethane linkages,
+whereas the peak at 1700 cm*′ corresponds to the free C =
+O of the urea groups. The absorption peaks of hydrogen
+bonds to the urea groups ncar 1688 cm′ are enhanced
+when the HDO/DMPA molar ratio increases to 2.4. The
+results show that the degree of hydrogen bonding of WPU
+is affected by the HDO/DMPA ratio.
+2.2Thermalcharactenzation of theWPUhilm
+TGA curves of the WPU films are presented in Fig. 6. For
+all of the WPU samples, the insignificant mass loss in the
+50°C200°C region is caused by the removal of residual
+water or solvent or the decomposition of allophanate. The
+detailed characteristic data of thermal decomposition are
+summarized in Table 3. As shown in Table 3, Tios and
+Tso% values increase with increasing the HDO/DMPA
+molar ratio, indicating that the thermal stability of WPU is
+enhanced as the HDO/DMPA molar ratio is increased from
+1.8 to 2.4. This is ascribed to the high extent of hydrogen
+bonding, which is in good agreement with the results of the
+FTIR measurements.
+Fg.6TGA
+The effect of the different HDO/DMPA ratio on the
+thermal properties and crystallinity of the WPU
+studied using the DCS analysis. As shown Fig. 7, Tg SS
+Was
+increases a little from
+42.6°Cto
+41.8°Casthe
+crystallinity ratio
+hble3TGAdataandDSCdihotWPUfilmswithditferemHlXWDMPAmolarratioe
+DMPA molar ratios
+because the hard segment domains are dispersed in the
+amorphous soff-segment micro-domains and the segmental
+motion is thus restricted. This result suggests that a higher
+degree of phase separation between the hard and soft
+no v/OCH Suse q p si suios
+ratio. According to the DSC data (Table 3), the
+temperatures of the melting peaks increase as the HDO/
+DMPA molar ratio increases from 1.8 to 2.4. The melting
+enthalpy (AHμ) increases as the HDO/DMPA molar ratio
+increases from 1.8 to 2.2 but decreases as the HDO/DMPA
+molar ratio increases from 2.2 to 2.4. This result indicates
+that the crystallinity is improved in the following order:
+WPU3.0-1.8 < WPU3.0-2.4 < WPU3.0-2.0 < WPU3.0-
+2.2. This result is also confirmed by XRD (Fig. 8). The
+increase in the DMPA content reduces the crystallinity,
+which is attributed to higher ionic content [26]. WPU3.0-
+2.4 has a lower crystallinity possibly because of its higher
+degree of hydrogen bonding compared to WPU3.0-2.0 and
+WPU3.0-2.2.
+The measurement results of tensile strength, shear strength,
+and elongation at break of the WPU films are shown in Fig.
+9. All the WPU films display low tensile strength due to the
+aliphatic character of PDI [6]. As the HDO/DMPA molar
+ratio increase, WPU3.0-2.4 exhibits a maximum tensile
+Fig. 9  Tensile strength, elongation at break, and shear strength of
+WSPU films with different HDO/DMPA molar ratios
+strength; however, the elongation at break decreases
+significantly. The increases in tensile strength and the
+decrease in elongation at break might be due to a higher
+degree of hydrogen bonding and cross-linking density with
+decreasing DMPA content.
+WPU dispersions, which may possibly be used as
+adhesives, were compared for adhesive performance. As
+shown in Fig. 9, WPU with a higher HDO/DMPA molar
+ratio exhibits a stronger shear strength than the other WPU
+samples. This result suggests that the shear strength of
+WPU could be improved through adjustment of the content
+of the components.
+Conclusions
+rent NCO/OH ratios
+and HDO/DMPA
+nolar
+ratios
+PDI
+have
+been
+synthesized
+using
+thc
+dispersions were investigated on their chemical character-
+ization, thermal stability, crystallinity, and mechanical
+properties. The FTIR results show that increasing the
+NCO/OH ratio (reduction of polyether) or the HDO/
+DMPA molar ratio could improve the extent of ordered
+hydrogen bonding, and the NCO groups could generate
+urea groups during chain extension of the prepolymer. A
+higher HOD/DMPA molar ratio or lower NCO/OH ratio is
+associated with improved thermal stability. An increase in
+the NCO/OH ratio or the amount of DMPA in the HDO/
+DMPA molar ratio decreases the glass transition tempera-
+ture, which might be due to a greater degree of phase
+separation in the PUs. Finally, all WPU films display low
+tensile strength due to the aliphatic nature of PDI, and
+WPU3.0-2.4 has the maximum tensile strength and shear
+strength.
+Aeknowlkdgement
+Aeknowledgements
+This work was supported by the National Natural
+Science Foundation of China (Grant Nos. 21576134 and 51503097), the
+National Key Research and Development Program of China (Grant No.
+2016YFA0204300), and the Jiangsa Province Natural Science Foundation
+(No. BK20150244).
+References

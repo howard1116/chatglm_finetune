@@ -1,0 +1,450 @@
+Synthesis and characterization of a novel fluorinated waterborne
+polyurethane
+Jiating Wen,ZheSun°,Haojun Fan,",YiChen°,Jun Yan
+State Key Leboretory of Polyrxer Meteriels Eeginrering, &
+SicAust Utiersity, Chengds, PR Choiaa
+AB ST RACT
+1.lntroduction
+Waterborne polyurethane (WPU) is an nontoxic and environ
+friendly material, which has been used in various fields, such as ad-
+hesive, leather/synthetic finishing, textile laminating, plastic printing
+and wood coating, etc [15]. Water used as a solvent often results in
+some defects stuch as high surface tension, poor wetting and spreading
+ability together with water/solvent resistance of WPU on low surface
+free energy substrates, which limits it application. Thus, how to im-
+prove its weting and spreading ability and water/solvent resistance is
+considerably imperative
+hydrophobic property of WPU via blending and/or copolymerizing with
+Various methods have been adopted to adjust the surface
+fluorinated components. Early studies [6] primarily were focused on
+investigating additive-type fluorine-based hydrophobic materials to
+oaq nq 'dM yo soadoud Supeads pue Suam aq aouruua
+geneous dispersion and poor compatibility with wPU cannot be ig-
+nored. In this regard, copolymerization of fluorine based monomers
+into polymer to endow low surface tension and high water and solvent
+repellence as well as maintain the original physical and mechanical
+properties of WPU has hereby triggered tremendous research interest.
+Previous studies have shown fluorocarbon chains possess relative
+Previous studies
+tns poss
+sess relative
+https://doi.org/10.1016/j.porgo
+Received 6 June 2018; Received in revised form 9 Ja
+003t.2019.02.029
+0300-9440/ C 2019 Elsevier B.V. All rights :
+reserrec
+A series of fluorine-containing water-based polyurethane (FWPU) were symthesized by u
+terminated isocyanate trimer (F-HIT) prepared from 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafuoro-1-ctanol (TF)
+using fluoro alcohol
+hydrophobic and solvent-resistance properties of FWPU were investigated n detail. The rsults indicated that
+and hexamethylene disocyanate trimer (HDIT). The structure of F-HIT and the wetting and spreading ability
+with the increase of F-HDTT, the latex particle size, the water/solvent resistance and elongation at break of FWPU
+increased. More interestingly, the wetting and spreading ability on non-polar substrates was enhanced with the
+introduction of F-HDIT and the sarface tension of FWPU film/latex was decreased by 69.5%/17.3% Meanwhile,
+the water/methylene iodide contact angles were increased from 54.0"/34.1° to 121.8′/90.7" respectively,
+showing good hydrophobic and solvent-repellence characteristics
+omolecular mai
+fluorine. Forthis reason in the later case, Jiang et al. synthesized atye
+chains, which leads poor surface enrichment and migration freedom of
+trifluoroethanol as chain extender, but they found the
+of short side-chain fluorine waterborme polyurethane(FPU) with 2,2,2-
+ water contact
+angle of solid film was around 90° and further improvement could not
+be obtained. The reason they induced is that the fluoroalkyl chains
+[11].
+Up to now, the preparation and application studies of fluorinated
+WPU with controllable surface tension and high water and solvent re-
+pellence have developed slowly due to the lack of fluorinated iso-
+cyanate and fluorinated diol with longer fluoroalkyl chains. Hence, in
+this study, a fluoro alcohol-terminated isocyanate (F-HDIT) prepared
+from 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-1-octanol (TFO) and hex-
+amethylene disocyanate trimer (HDIT) was used as raw materials, a
+series of fluorine-containing water-based polyurethanes (FWPU) with
+long fluoroalkyl side chain were synthesized. Simultaneously, the
+wetting and spreading ability, water and solvent repellence of FWPU
+were investigated. The aim of this study is to provide a new way to
+develop novel fluorinated disocyanate and create diverse functional
+polyurethane with controllable surface tension and high water re-
+pellence.
+Scheme 1. Preparation cof F-HDIT.
+2. 1. Material
+Poly(propylene glycol) with number-average molecular weight of
+1000 gmol (PPG 210), poly(tetramethylene glycol) with number-
+average molecular weight of 2000 g mol ~1 (PTMG 220) were provided
+by Kelong Chemical Co. Ltd (Chengdu, China) and dehydrated at 120 °C
+under high vacuum (0.5 mmHg) for 12h before synthesis. Isophorone
+disocyanate (IPDI), 1,4-butanediol (BDO), acetone, butyl acetate,
+triethylamine (TEA), 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-1-octanol
+(TFO) of extra-pure grade were acquired from Aladdin Industrial
+0.4 nm molecular sieve for 48 lh. Bismuth neodecanoate was obtained
+Corporation (Shanghai, China) and were used after dehydration with
+from Energy Chemical Co. Ltd (Shanghai, China). Hexamethylene-1,6-
+disocyanate trimer (HDTT) was supplied by Bayer Co. Ltd (Germany).
+Other chemicals were used as received.
+2.2. Preparation of F-HDIT
+The synthetic route of F-HDIT is shown in Scheme 1. A mixture of
+HDIT and butyl acetate (weight ratio was 1:1) was added into a four-
+neck flask equipped with a magnetic stirrer, a thermometer, a dropping
+funnel, a nitrogen catheter. A combination of TFO and butyl acetate
+(weight ratio was 1:1) together with 0.1 wt% bismuth neodecanoate
+was added dropwise into the flask with constant pressure funnel over a
+period of 0.5 h. The reaction was carried out at 75 °C until the residual
+-NCO groups reached theoretical value under Nz atmosphere with
+agitation and determined according to the method described in the
+literature [12]. Product of F-HDIT was obtained after cooling the re-
+action system to ambient temperature, The excess unreacted TFO and
+butyl acetate solvent will be removed by vacu
+um distillation
+2.3. Preparation of FWPU and WPU latex
+The synthetic process of FWPU emulsion is shown in Scheme 2. F-
+HDIT, IPDI, PPG210, PTMG220 and BDO (molar ratio IPDI + F-HDIT:
+the three-necked flask equipped with a mechanical stirrer, thermometer
+PPG210: PTMG220: BDO = 1: 0.189: 0.094: 0.208) were poured into
+and nitrogen inlet. F-HDIT accounts for 5% to 20% of tbe total diso-
+cyanate (calculated by molecular ratio). 0.1 wt% of bismuth neode-
+canoate was used as a catalyst and the polymerization was carried out
+chain extender 3-hydroxy-2-(bydroxymethyl)-2-methylpropanoic acid
+with vigorous agitation at 80 °C for 2 h. Then, 5 wt% of hydrophilic
+(DMPA) neutralized by TEA (molar ratio of DMPA: TEA = 1:1) with 5 g
+acetone as solvent was added into the reactor and allowed the reaction
+to continue at 55 °C for 3 h. During the prepolymerization, a suitable
+amount of acetone was added to dilute the viscosity of the reaction
+system. Finally, the resultant mixture was dispersed into deionized
+water with vigorous stirring for 2h. The white-blue WPU emulsion was
+obtained and the solid content was controlled to 30%. The preparation
+of WPU is as the same as FWPU except FHDTT replaced by equal mole
+2.4. Characterisetion
+Fourier transform infrared (FIIR) spectra were collected on a
+Nicolet IS10 FTIR spectrometer (ThermoFisher Scientific, USA) in the
+region from 400 to 4000 cm ~2 after 32 scans at 2 cm~ resolution. H
+NMR spectrum was acquired on a Bruker AV-400 NMR (500 MHz)
+spectrometer at 25 °C with tetramethylsilane (TMS) as an intermal
+standard and deuterated dimethyl sulfoxide (DMSO-dg) as solvent.
+Electrospray ionization mas spectrometry (ESI-MS) was measured on a
+Finnigan TSQ Quantum Ultra (America) instrument. High performance
+liquid chromatography (HPLC) was performed with an Agilent binary
+pump system using a YMC-Pack Pro C18 column (150 × 20 mm; 5 μm
+particle size) fitted with a guard column. The eluents A and B are
+methanol and deionized water, respectively. The sample was eluted
+with a flow rate of 1.2 mL/min. Ratios were determined at the isosbestic
+point  = 260 nm. The preparation of HPLC samples refer to the
+method described in the literature [13]. The thermal stabilities of
+FWPU were analyzed by using TG-209F1 thermal analyzer (Netzsch,
+Germany) at a scanning rate of 10 °Cmin~ under anitrogen flow rate
+of 60 ml-min~. Sample masses of about 5 mg were used. Mechanical
+properties were examined with a universal material testing machine
+(model tensiTECH) supplied by Tech-Prolnc. (Woodstock, USA) at room
+temperature. The samples were cut into dumb-bell shapes with 0.5 mm
+in thickness and the test was carried out at a cross head speed of 100
+mm-min based on the standard with standard number of BS EN ISO
+ata ue a o sou ang peadau sem pod mep upeg 866t-1
+carried out on a TA instrument Q800 DMA (USA). All samples were
+value. The dynamic mechanical analysis (DMA) of the FWPU films was
+analyzed under tension mode with heated temperature range from
+-80 °C to 120°C at a heating rate of 3K/min and a frequency of 1 Hz.
+The average particle size of wPU dispersions was measured with a
+Malvern Nano-ZS laser particle sizer (UK).
+ThermoESCALAB250Xlspec
+Scientilie.USA
+The
+ssile-drop method
+The reported r
+equation [14] as follows,
+x4) + p(<) = (gs + t)
+where y; is the surface energy of solid film, y is the dispersion force,
+and  is the polarity force. The testing liquids used were water (L1)
+and methylene iodide (L2), and their y, 7, Y, and y, were 21.8 mN/
+m, 51.9 mN/m, 1.3 mN/m and 49.5 mN/m, respectively [15]. The
+ured by Force Tensiometer (K20,
+Scheme 2. Preparation of FWPU
+Kruss, Germany.)
+Water and organic solvent resistance of WPU and FWPU latex films
+were characterized by the swelling ratio of film soaked in water or
+cyclohexane, respectively. The film was cut into 30 × 30 mm piece and
+dried in a vacuum oven for 24h to determine dry weight Ma. The
+sample weight absorbed water or cyclohexane M was determined by
+wiping off the surface water or cyclohexane with a piece of filter paper.
+The swelling ratio was calculated using the formula: swelling ratio (%)
+e pue samn ag paeadau sem agdes yoeg %oo x [°/9  wo] =
+OCNR.IN
+CONHHR.NC
+mean value was calculated
+AFM was performed using a SPM9600 AFM (Seiko Instruments Inc.,
+Sunddes ug suoppuoo juaque sapun parnbse auam saseuj (ueder
+mode using TAP150AI-G nanoprobe. For AFM measurements, the cor-
+oo doup auam (uauoo pgos %im 1) suorsnua piqfq Supuodsa
+mica plates and then sample by spin coater.
+3. 1. Characterization of F-HDI7
+Fig. 1(a) presents the FTIR spectra of TFO, HDIT and F-HDIT. For
+ Supans aup o suoaq _> Izte ie yed uogaosqe a o
+bration of OH, and the absorption peak at 1251 cmd should be at-
+tributed to the stretching vibration of CF. Compared with HDIT, a
+absorption peak at 2200 cm ~, corresponding to the stretching vibra-
+pue _u g9EE te syead uoqxosqe mau pue uewau Is ON jo uo
+1577 cm? corresponding to the bending vibration of NH and the
+stretching vibration of NH occur [16], indicating the formation of
+urethane bond (-NHCOO-) in F-HDIT. Additionally, a peak appears at
+1251 cm ~′, which is assigned to the stretching vibrations of CF.
+Hence, it can be concluded that the fluoro side-chain was succesfully
+attached to HDIT.
+au st 1I unnads NN H,  u *(q)1 ) Adoods NN
+The molecular structure of F-HDIT can be further confirmed by °H
+worthy that the peak located at 7.19 ppm is attributed to the proton
+attached to the HN COO  group of urethane bond [17], Besides, the
+relative intensity of resonance peak at 2.10 ppm is contributed by the
+proton of methylene connected to perfluoroethyl group (label I). The
+distributions of other peaks are labeled in Fig. 1(b). The details of H
+NMR are listed below. F-HDIT H NMR ((DMSO-d6, 500 MHz) 8 7.30 
+6.93 (m, NH, 1 H), 4.24 (s, COOCH, 2H), 3.74 (d, CH, 6 H), 3.34 (d,
+NCO CH, 4 H), 3.27  3.13 (m, CH, 2 H), 1.52  1.17 (m, CH, 26 H).
+Additional identifications of F-HDIT structure were carried out on
+HPLC and ESI-MS and the results are shown in Fig. 2. As can be s
+from Fig. 2(a), the HPLC curves of HDIT and F-HDIT have only one
+distinct peak and the retention time of F-HDIT peak is longer than that
+(positive) m/z 869.4 (M + 1, 29.3), 505.4 (100), 506.4 (28.6), 259.3
+of HDIT. The mass spectra detail for F-HDIT is as follows: ESI-MS
+(70.7), 260.3 (12.8), 868.5 corresponds the molecular weight of F-
+HDIT. All qualitative data provide sufficient evidence for the reaction
+occurrence between TFO and HDIT, as shown in Scheme 1.
+s.2.TnefectofuorrouponaermatstablyofFWPuim
+Thermogravimetric analysis (TGA) was used to assess the effect of F-
+HDIT on the thermal stability of synthesized FWPU films. TGA curves of
+FWPU under N atmosphere are presented in Fig. 3 and the corre-
+sponding detailed data, including the 5% weight loss temperature
+CTas%), the 10% weight loss temperature CTasos), the temperatures of
+recorded in Table 1.
+It can be seen trom
+281 °C for control sample FWPU-0 to 241.2°C and 267.4°C for
+NH COO  bond was suggested to be the weaker bond and easy to
+decompose in heating [18], so with the increase of F-HDIT, the number
+% weight loss temperature decreased. According to previous literature,
+of weaker urethane bond increased, which causes
+s the 5 wt% and 10 wt
+polyurethane has two decomposition stages where the first decom
+the scission of soft segments [19,20], corresponding to Tμs and T
+The value of Tuxi reduced may be due to the introduction of long
+contrary, the Tmc shows a slight enhancement with the content of F.
+branched hydrocarbon chain and the addition of urethane bond. On the
+HDIT increase, which might be arises from the increment of nitrogen
+heterocyele. The introduction of nitrogen heterocycle is belie
+3.3. Dynamic mechanical analysis of FWPU fimi
+Dynamic mechanical analysis (DMA) was used to study the effect of
+F-HDIT on glass transition temperature (T,). The dependence of the
+storage modulus (E) and los modulus (E°) on temperature of FWPU
+films are presented in Fig, 4. The E' curves revealed that the storage
+modulus in the glassy plateau region decreased with the increment of F-
+HDIT content, suggesting that the reslience of FWPU was reduced The
+reason may be that the introduction of long hydrocarbon side chain
+motion. As shown in Fig, 4(b), the E* curves exhibited one peak at
+from F-HDIT decreases the intemal friction resistance of the chain
+about -50 °C which corresponds to the T; of FWPU, and the peak of E*
+curves was found to shift slightly to higher temperature, which suggests
+the motion of main chain of FWPU was restricted by nitrogen hetero-
+cycle and enhanced polar force coming from F-HDIT.
+.4.TneeffectofAuorgroupommecnurxcatpuoprgoFwPUf
+FWPU-20 while the elongati
+FWPU samples decrease from 18.0 MPa for FWPU-0 to 5.8 MPa for
+Fig. 2. a HPLC spectra of HDIT and F-HDIT, b mass spectra of HDIT and F-HDIT
+FWPU-0 to 1220.1% for FWPU-20, With the
+ase of F-HDIT c
+onten
+from 0% to 20%,
+4.15% to 4.82%
+The decrease of tensile strength and increase of elongation at break
+and permanent elongation should be attributed to the special structure
+of F-HDIT, The fluorine containing side-chain, flexible CH  and six
+heterocyelic ring have opposite influence to the mechanical properties
+of FWPU films. Although the six heterocyelic rings of HDIT are bene-
+ficial for increasing the tensile strength of FWPUI ilms because of its
+rigidity, the fluorine containing side-chain, due to its plasticizing effect,
+can efficiently destroy the macromolecular interactions, as a result,
+decreasing the tensile strength of FWPU films. In addition, the longer
+CH spacer between NCO group and heterocyclic ring also pro-
+vides the flexibility, both contribute the FWPU high elasticity.
+Comparing with the main-chain type fluorinated WPU reported by Zhao
+et al. [21], the optimized tensile strength and elongation at break were
+5 MPa and 500% or so, from this point, side-chain type fluorinated WPU
+prepared from F-HDIT with six beterocyclic rings and long fluorine
+side-chain shows more higher mechanical properties
+5.5.Tnerelatwsipxetweenjaomecontentadpurtkciesz
+Fig. 6 shows the variation of average particle size of FWPU latex
+from 0% to 20%, the mean diameter of particle size increased from
+with different F-HDIT contents. As the content of F-HDIT increased
+25.4 nm to 66.8 nm, correspondingly. For WPU, the latex particles size
+is mostly determined by the content of hydrophilic groups (DMPA),
+lower hydrophilic groups content often results in larger latex particles
+size. In aqueous phase of FWPU, the latex particles retain a state in
+which hydropbobic chains are encapsulated by bydrophilic chains.
+With the intensification of F-HDIT content, the hydrophobic component
+increases which wilenlarge the particles size, on the other hand, the
+quantity of hydrogen bonding between fluorine atom and water mole-
+cular increases, more water molecular are trapped by latex particle, also
+resulting in the enlargement of particle size. Therefore, the average
+particle size of FWPU dispersions graxdually increases with the increase
+of F-HDIT content.
+The wetting and spreading ability on a substrate is the basis and
+prerequisite for coating materials. WPU is a type of polar polymer and
+shows good affinity to polar substrates. But for non-polar substrates (i.e,
+PS, SBS), they are often hard to be wetted. The wettability of WPU to
+low surface energy substrates can be evaluated by the surface tension of
+WPU latex, the interfacial tension and contact angle between WPU latex
+and low surface energy substrates, and so on.
+enon caused by cohesive force
+between liquid molecules and dependent on the number and size of the
+polarity in macromolecular chains. Generally, the lower the surface
+tension of WPU, the better the wetting performance on non-polar
+fluorine content and shown in Fig, 7. It can be seen that with increasing
+substrate. The surface tension of WPU latex can be adjusted by different
+the fluorine content, the surface tension of FWPU latex gradually de-
+crease from 40.0 mN/m to 33.1 mN/m. The reason should be ascribed
+to the surface of FWPU latex was partly occupied by hydrophobic
+fluorocarbon chains, which results in lower surface tension of FWPU
+latex. In addition, the introduction of fluorocarbon chains reduced the
+amount of polar groups in the WPU molecular chain, which is propi-
+tious to decrease the surface tension of FWPU latex.
+Fig. 4. DMA analysis of FWPU films: (a) Storage modulus (E') vs. temperature, (b) Loes modulus (E°) vs. temperature
+FWPU
+Fig 6. Particle size distribution of WPU and FWPU
+WPU
+Fig. 7. Surface tension of FWPU latex with different F-HDIT content
+PP filme
+decrease to a certain degree, which implies that the wetting ability of
+WPU
+(,Ex
+Fig. 9. Interface tension between FWPU latex with different F-HDIT co
+and EVA/SBS/PS/PP films
+(2)) [22], the interfacial tension between FWPU and low surface energ)
+surface can be calculated:
+37.0 (PS), 32.2 (PP) mN/m [23], respectively),
+energy of substrates (the meae
+asured value
+were 36.5 (EVA), 31.9 (SBS),
+tensionbeweenFWPUan substrats, repctivelyFig9lists h
+the interfacial
+between the FWPU and above substrates. It was found that the y, were
+EVA and PS have relative higher surface tension compared to SBS or PP
+lower for EVA/PS substrate than for SBS/PP substrate. This is bec
+content, suggesting the introduction of F-HDTT is beneficial for
+cient (Sc) of FWPU on s
+The wetting ability can also be evaluated by the spreading coeffi
+calculated.
+As demonstrate in Fig. 10, with the increase of F-HDFT content, the
+Sc on all substrates increases dramatically, meaning the increase of
+wetting ability. According to the research of Bao etal [25], it is ne-
+cessary for WPU to get a higher Sc (>  20 mJ/m*) or a lower yz, value
+Fig. 10. Spreading coefficient of FWPU on EVA/SBS/PS/PP films
+10, FWPU-15 and FWPU-20 have preferable
+confoemity with Fig 11 which shows that the FWPU emulsion drople
+vettability.This
+spread ot on all substrates. In adition, the wetablity and spred
+ability of FWPU-20 on both EVA and SBS substrates are close to that of
+et al. [25].
+3.7. Water and sobvent repellence of FwPU films
+As coating materials, the water and solvent repellence is necessary
+and related to the contact angles (CA) and surface energy of FWPU
+films. High contact angle and low surface energy are often used as
+important indexes for evaluating the water or solvent repellence of
+coating materials.
+It can be seen form Fig. 12, with the F-HDIT content increased from
+0% to 5%, the CA of water /methylene iodide to FWPU films abruptly
+increased from 54.0°/34.1° to 105.5′/79.9" respectively. Further in-
+creased the content of F-HDIT from 5% to 20%, the CA of water and
+121.8′/90.7". The enrichment of the long fluorinated side chains and
+methylene iodide to FWPU films increased slowly from 105.5’/79.9° t0
+formation of hydrophobic membrane should be responsible for the
+improvement of contact angles. The enrichment ability of fluorinated
+component is closely related to their fixed position, for main-chain type
+stricted by rigidity of main-chain, so the water contact angle of this type
+FWPU prepared by Zhao et al [21], the migration of fluorinated is re-
+FWPU is limited to 90.51° even if large amount of fluro polyester was
+employed.
+larly, due to the migration of ffuorine atoms oeto the surface.
+m to 12.2mN/m with increasing total F-HDIT content from 0% to 20%
+(Fig. 12b). Generally, lower surface energy and higher water/solvent
+contact angles are believed to contribute FWPU excellent water/ sol-
+vent resistance.
+Fig. 13 reveals the swelling ratio of FWPU film in water and cy-
+clohexane. Result indicates that with increasing of F-HDIT content, the
+swelling ratio of FWPU film decreased gradually from 19.8% to 15.3%
+for cyclohexane and from 15.1% to 4.6% for water, showing 22.7% and
+69.5% improvement of solvent/water resistance. This is still atribu
+table to the formation of fluorine hydrophobic membrane, which de-
+cules [26].
+To further confirm the above deduces, X-Ray photoelectron (XPS)
+was used for analyzed the surface elements of FWPU. The depth of
+detection was around 10 nm from the top layer. As presented in Fig. 14,
+the peaks at 284.6, 397.9, 531.6 and 684.9eV are related to C1s, N1s,
+O1s and Fls, respectively [27]. Especilly, the intensity of peak at
+684.9eV, belonging to the F1s, increases with the increase of F-HDIT
+content. The atomic percent of C, N, O, and F on the surface of FWPU
+are obtained base on the integration of the corresponding peaks and the
+sensitivity factors of elements [28] and listed in Table 2.
+It can be seen that the fluorine atom
+creased from 0% to 28.19% with the increase of F-HDTT content from
+surface in
+0% to 20% The result suggested that the flurinated atoms had high
+migration performance and aggregated on the surface to form a hy-
+drophobic
+membrane,
+which is responsible for the i
+water and organic solvent resistance.
+improve
+3.8. Surface morpioiogy of FWPU
+The enrichment of fluorine side chain on the surface of FwPU film
+will influence the surface roughness [29,30], and the surface roughness
+oapftq rog (iepoadsa “[te] sauadoud aoejns uo paga qureogru8is seq
+phobic surface, influences the water coetact angle [32]
+: the AFM 3D ii
+mages of FWPU. The
+ple FWPU-0
+samples exhibit rough
+Fig. 11. Photograps of FWPu emulslon dropleB spreid out on EvA/SRs/Ps/PP hilm
+Fig. 12. The methylene iodide/water contact amgles and surtace energy of FWPU
+Fig.13.Thewater/cyclohexaneabsorptionotFMWPVhilms
+mean square deviation (Rq), which is obtained from AFM software
+analyses. As can be seen from Fig. 15, the FWPU-o film had the
+mn
+imum Rq values, with the increase of F-HDIT from 0% to 20%, the
+Rq value increased from 0.76 nm for FWPU-0 to 1.34 nm for FWPU-20
+eted as follows. When the
+FWPU-20 sarface.
+water evaporates, a film is formed by coalescence of polyurethane
+particles, During the coalescence process, there are some particles with
+making the surface rough [33]. According to the analysis above that the
+Atomic percent of C, N, O, and F on the surface of FWPU
+particle sizes of FWPU emulsion increase with the content of F-HDIT, it
+may be one of the reasons for the surface roughness increment. The
+other reason for the intensification of surface roughness is the presence
+of fluorine substance in polyurethane. Fluorinated segments prefer to
+migrate toward air/film interface and minimize interfacial energy
+which is roughening the surface. The result of the AFM keeps good
+consistent with the analysis of the contact angles and XPS mentioned
+above [34].
+from the graph, the water contact angle and film surface roughness
+show the same variation tendency, i.e, increased with F-HDIT content
+mhent of fluorine groups has
+great
+impacts on hilm surface roughness and hydrophobicity
+4. Conclusions
+In summary, a series of FWPU based on fluoro alcohol-terminated
+tension of FWPU emulsions was decreased and the wetting ability of
+isocyanate trimer (F-HDIT) were synthesized successfully. The sturface
+FWPU films was improved compared with the control sample FWPU-0,
+Meanwhile, the water and methylene iodide contact angles increa
+with the F-HDIT content and film surface roughness, highest reached
+Fig- 15. AFM 3D images of FWPU, (a)FWPU-0, (b)FWPU-5, (e)FWPU-10, (d)FWPU-15, (e)FWPU-20
+121.8° and 90.7", respectively. Simultaneously, the water and solvent
+resistance of FWPU films both decreased with the increase of F-HDIT
+content. The enrichment of long fluorinated side chains on the top layer
+surface of the FWPU films confirmed by XPS was believed to contribute
+FWPU high water/solvent resistance and enhanced weting ability. In
+general, a novel approach for developing FWPU with low surface free
+fluorine content.
+Acknowledgements
+great help in AFM/TG/FT-IR observation
+Industry, Textile and Food Engineering, Sichuan University) for 
+Relenences
+[1] M. Barrere, K. Landfester, High molecular w
+particles in aqueous miniemi
+weight polyerethane and polymer hybrid
+kciles (2003), http5/7dA.0p/10

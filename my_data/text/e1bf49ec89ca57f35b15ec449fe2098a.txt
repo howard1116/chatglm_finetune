@@ -1,0 +1,767 @@
+Cite this: Polym. Chem., 2021, 12
+009
+Introduction
+Polyurethane is one of the most widely used resins in the
+current coatings field. According to the type of dispersion
+medium, polyurethane coatings can be classified as solvent-
+based polyurethane coatings or waterborme polyurethane
+(WPU) coatings. With the increasing worldwide attention to
+environmental protection, solvent-based polyurethane coatings
+have been gradually replaced by WPU coatings. The early WPU
+coatings in previous reviews from Noble? and Fiori² were
+mainly one-component WPU coatings, which have engineering
+advantages such as convenient usage and wide applications,
+but also some poor physicochemical properties including poor
+chemical resistance, hardness and mechanical properties. In
+order to make up for these shortcomings, two-component
+waterborne polyurethane (2K-WPU) coatings have been devel-
+oped.? A 2K-WPU is composed of an aqueous hylroxyl com-
+*College of Mevheical ond Efectricel Engix
+ring. Bejueg LitinA
+rsity ef Caem
+Teclssology, Bejing r00029, Chine
+J0008r, CAins. E-meil yinogaff.efu.cn
+nte oy Tacfnoog, bejing
+ity, Beging J00084, CRins
+Eco-friendlyfunctionaltwo-componentflame-
+retardantwaterbornepolyurethanecoatings:a
+review
+Xuan Yin, @ a,b Haosheng Pang,c Yunjun Luo  *b and Bing Zhang
+pollution. Based on various synthesis designs, such as the use of different flame-retardlants and compo
+sitions, 2K-FWPU can exhibit various functionalities in addition to excellent flame retardance. This reviev
+introduces the components, performances, functionality, andl mechanism of 2K-FWPU coatings, which
+are mainly based on different flame-retardant modihcations, in three sections: (1) their components
+eosi pue (sjuepaeai-aej eoid jo sad) om) suauoduo xoipfy suepesaael apnlul um
+nate components (three kinds of typical syntheses);: (2) a comparison summarizing the effects of the
+flame-retardants and the synthesis method on the emulsion properties, mechanical. performance, wate
+resistance, thermal properties, and flame retardance; and (3) functionalization and mechanisms, particu-
+larly optical functionalization and thermal degradation/flame-retardance mechanisms. Current ZK-FWPL
+aunbas Aqrjeuoqouny snouea Aysges osje fau μnq fouepaeqai auey panoudua) mous quo jou sfupeoo
+ments. In future, the designs of 2KFWPU coatings wil significantly assist and guidle the potential dlevelop-
+2K-WPU coatings have the advantages of both solvent-based
+two-component polyurethanes and waterborne coatings, with
+excellent mechanical properties, high thermal stability, low
+toxicity, low volatile organics (VOCs), outstanding weather re-
+sistance, and convenient storage and transportation,610 These
+merits allow 2K-WPU coatings to satisfy the requirements for
+extreme working conditions. Therefore, 2K-WPU coatings have
+attracted worldwide attention from both the scientific and
+industrial communities, and they have become a research
+The applications of coatings mainly include building, tex-
+tiles, woodware, leather, etc.; of these, textiles and woodwares
+are highly flammable. Hence, the coatings applied in these
+fields require flame-retardant properties. Two-component
+flame-retardant waterborne polyurethane  (2K-FWPU) has
+superior flame retardance, excellent mechanical properties
+and thermal stability, meaning that it is able to meet the 
+requirements of flame retardance. In addition to flame retar-
+dance, versatile properties, such as luminescence, ultraviolet 
+(UV) shielding and temperature sensitivity, are also required
+for the coatings in these applied fields. Appropriate flame
+retardants are required for improving the flame retardance of
+materials, and suitable functional modifiers are also required
+for achieving versatile properties in the materials. At present, 
+organophosphorus flame retardants without halogen or tox-
+icity have been initially applied in 2K-FWPU.14-17 This kind of
+flame-retardants, which show excellent flame retardance and
+satisfy environmental protection  concerns,
+has partially
+the research focus, Homever,research into multifunctional
+replaced the previous halogenated flame-retardants to become
+2K-FWPU is still in the early stages of development.
+The
+functionalization of halogen-free 2K-FWPU can improve its
+comprehensive properties to meet various demands
+for
+dlifferent fields. To date, there are still some problems in the
+field of 2K-FWPU: (i) the relevant research on the flame retar-
+dance of 2K-WPU is extremely limited due to the usage of a
+single flame-retardant; (i) the hydrophilicity of polyisocyanate
+needs to be further improved in order to improve the perform-
+ance of 2K-WPU; (i) 2K-WPU lacks functionality (e.g. tempera-
+ture sensibility, UV shielding and luminescence), and thus
+cannot meet the requirements of application fields based on
+special backgrounds. Therefore, the development of functional
+2K-FWPU with high flame retardant efficiency is of great
+significance.
+1950s,12° Around 1950, polyurethanes appeared in Europe as
+Polyurethanes have been extensively studied since the
+coating additives, but most of them were solvent-based poly-
+urethane products. In 1953, DuPont Co., Ltd first synthesised
+a polyurethane emulsion vie binary amine chain extension.
+With the increasing attention of countries worldwide to
+environmental protection, the application of solvent-based
+polyurethane was strictly limited due to the emission of VOCs,
+which accelerated the appearance of WPU. The development
+of WPU was rapid after the 197os.。a In 1972, Bayer Co., Ltd first
+used WPU in leather surface finishing, which drew the atten-
+tion of researchers. The research and application of WPU had
+a breakthrough in 1980s, and they were widely applied in
+textile dyeing-finishing and processing. Europe, the United
+States and Japan competed to develop WPU, which resulted in
+many product series, such as the Impramil series of Bayer, the
+Elastron series of DKS and the Imron series of DuPont. WPU is
+a type of emulsion that uses water as a dispersion medium. Its
+dispersion liquid contains little or no solvent, which results in
+workability? Additionall, its viscosity and rheological pro-
+low  toxicity, non-pollution, energy conservation and
+furniture and building applications.21-2 Depending on the
+perties are easily adjusted and controlled for textile, leather,
+application area, these modified surfaces require different out-
+standing applied properties. For instance, fabric WPU coatings
+require high wear-resistance, water-resistance, and film-
+forming properties, while wood WPU coatings require high
+strength, rigidity and glossiness,a Aditionaly, flame-eta-
+it prevents tetiles and wood from catching fire and presenting
+dance is a vital property for fabric and wood WPU coatings, as
+safety hazards t le an proerty1 Therefore, the evlp-
+ment of flame-retardant WPU (FWPU) is of great significance
+in terms of research and application prospects. The main com-
+ponents of WPU/FWPU and 2K-WPU/2K-FWPU are shown in
+Scheme 1.
+adding mode 
+and the
+2K-FWPU
+instinct-type FWPU. Although the preparation of blending-type
+reaction type. First, FWPU is divided into blending-type and
+FWPU is simple, e.g, physical blending, and good flame-retar-
+dance is obtained, the method influences the stability and
+grain size of the emulsion.4- Unlike blending-type FWPU,
+instinct-type FWPU is synthesized via the incorporation of a
+reactive flame-retardant with polyurethane chains. The flame-
+qpdadndd jo aqnp pue oua supa
+instinct-type preparation are higher and longer than that of
+blending-type FWPU, respectively,7-* although the prepa-
+ration is a complex technology. Instinct-type FWPU is com-
+posed of flame-retardant units containing flame-retardant
+elements and polyurethane chains, and is obtained by chemi-
+cal reactions.*° The innovative instinct-type FWPU is realized
+by modification at the molecular level, which overcomes the
+interface incompatibility (e.g., volatilization, dissolution,
+migration and exudation). Secondly, based on the component
+type, FWPU can be divided into one-component FWPU,
+2K-FWPU and intumescent FWPU.
+One-component FWPU is composed of a combination of
+soft and hard segments in the form of blocks, which act as a
+matrix to participate in the synthesis reaction. The flame
+retardant can be introduced into the soft segment, the hard
+segment, or both at the same time. Because the preparation
+process of one-component FWPU is simple and easy to
+operate, and different molecular structures and functionalities
+can be designed, it is currently the most-researched type of
+FWPU. However, one-component FWPU also has some disad-
+adhesion. Therefore, 2K-FWPU has gradually begun to replace
+vantages, such as poor strength, rigidity, thermal stability, and
+one-component FWPU in certain application fields. 2K-FWPU
+and 2K-WPU have similar structures and properties. They
+consist of two components, a water-based flame retardant
+hydroxyl component and an isocyanate component. After the
+two components are mixed, a 2K-FWPU is obtained. There are
+three main reasons that 2K-FWPU can replace one-component
+FWPU. First, the 2K-FWPU has high thermal stability, tensile
+strength and hardness. Second, water-based hydroxyl com-
+ponents with different molecular structures can easily be
+designed using such materials, thereby providing the
+2K-FWPU with versatility. Finally, the formulation of the iso-
+cyanate component and the aqueous hydroxyl component
+ratio is flexible. 2K-FWPUs can be prepared with different pro-
+perties according to the actual needs. 2K-FWPU prepared
+using a reactive soft-segment flame-retardant modifier has
+greater advantages in flame-retardant performance, thermal
+stability and application performance. 2K-FWPU can overcome
+the disadvantages of one-component FWPU, and further
+expand the application fields of FWPU.
+Components
+Flame-retardant hydroxyl component
+The hydroxyl component of waterborne flame retardants is
+-p *pofjod asafjod 1o pofjod 1oajod uo paedaad Aensn
+socyanate, a reactive flame retardant, a hydrophilic chain
+extender and an alkaline neutralizer, The synthesis method is
+similar to that of one-component FWPU, except that the end-
+group is hydroxyl, and the stoichiometric ratio of the isocya-
+ensn zt0°t ueq sa[ s (aneA ) xoupq o dnor8 aeu
+polyether polyol or polyester polyol is reacted with disocyanate
+first, the reactive flame retardant is added to continue the reac-
+tion, and then the hydrophilic chain extender and alkaline
+neutralization are used to obtain the flame retardant water-
+borne hydroxyl component. The water-borne hydroxyl com-
+ponent is the most variable component in 2K-WPU, and deter-
+mines the properties of the 2K-WPU. Modification of the
+intrinsic flame retardant of WPU includes soft segment flame
+retardant modification and hard segment flame retardant
+modification. A high content of flame retardant elements is
+obtained in 2K-FWPU using the soft segment flame retardant 
+modification method. 2K-FWPU obtained by the hard segment
+flame retardant modification method has not only good flame
+Soft molecular chain segment-based modifiers. We* modi-
+fied the halogen-free soft segment flame retardant modifier
+polyphosphate (OP550) to synthesize soft segment flame
+retardant hydroxyl components with different OP550 contents
+(OFPUD). We used MHP1s** polyisocyanate curing agent and
+-uoo aeuesost a se qua8e Suuno ageueAsospjod ,pV-ZIN
+ponents to synthesize OFWPU and OGWPU, respectively. We
+investigated the influence of the OP550 content on the struc-
+ture and performance of the hydroxyl component and the two-
+component system. The following results were obtained: (i)
+When the OP550 content is 15%, the particle size of the emul-
+sion is 36.0 nm, the viscosity is 22.4 mPa s, and the zeta poten-
+tial of the emulsion is 40.6 mV. There is no precipitation
+after high-speed centrifugation, and the emulsion
+canbe
+used as the aqueous hydroxyl component of the OGWPU
+system. (i) We used MHP15 and OFPUD to prepare and syn-
+thesize OFWPU with different OP550 contents. When the
+OP550 content is 15% (this sample is named OFPUD-15), the
+limiting oxygen index (LO1) can reach 28.6%, the UL-94 rating
+is V-0, and the emulsion has good stability. (i) We prepared
+OGWPU with different R values by mixing M12-A4 and
+OFPUD-15. When the R value is greater than 1.4, the LOI of
+OGWPU is above 28.0%, and the UL-94 results are all
+V-0 grades, indicating flame-retardant materials that have
+N,N-bis(2-hydroxyethyl)aminomethylene
+(Fyrol 6) as the hard segment flame retardant modifier for the
+diethyl
+phosphate
+hydroxyl component for a modified water dispersion. We used
+-ospjod ,pV-ZIN pue qua8e Suuno aeueoosjod sSIdHN
+cyanate curing agent as the isocyanate components. By adljust-
+ing the content of Fyrol 6 and the amount of polyisocyanate
+curing agent, we studied the preparation and performance of
+2K-FWPU. Through experiments, we found the following
+phenomena: (i) When the content of Fyrol 6 is 15% (this
+sample is named FFPUD-15), the particle size of the emulsion
+is 124.8 nm, the viscosity is 19.4 mPa s, and the zeta potential
+of the emulsion is 30.2 mV. It is a stable emulsion and can
+be used as the aqueous hydroxyl component of the FGWPU
+system. (i) FFWPU with different Fyrol 6 contents was pre-
+pared using MHP15 and FFPUD. It was found that when the
+Fyrol 6 content was 15%, the LOI could reach 27.8%, and the
+UL-94 rating was V-0. (i) FGWPUs with different R values were
+prepared using M12-A4 and FFPUD-15. It was found that when
+the R value is greater than 1.4, the LOI of the FGWPU is above
+28.0%, and the UL-94 results are all V-0, which is difficult to
+achieve. It is a combustible material with good flame retardant 
+properties.
+Isocyanatecomponent
+t Supnponu ao aeueioosjjqod auq on 1agsjnua ue Suppy
+hydrophilic group into the molecular chain can cause the poly-
+isocyanate to disperse uniformly in water to form a stable
+emulsion. There are two main methods for the hydrophilic
+modification of polyisocyanates, the physical method and
+chemical method. The physical method is called the external
+emulsification method, and involves adding the emulsifier to
+the polyisocyanate monomer. The process requirements are
+not high, but it has an obvious disadvantage. After curing into
+a film, there will be unreacted curing agent floating on the
+surface, redlucing the hydrophilicity of the curing agent and
+water resistance of the coating film. Therefore, chemical
+methods, that is, the introduction of hydrophilic groups into
+the molecular chains of the polyisocyanate monomers, are
+more popular. This method is also called internal emulsifica-
+tion. The chemical modification methods for water-dispersed
+fqod s suo sad omq opu papap fueu aue saeueoosjod
+ether modification and the other is sulfonate modification.
+pod fq pagpou fjeoudoupiq suale Suuno ajeueiospjod
+agents, which are also known as non-ionic polyisocyanate
+curing agents., There are non-ionic ethyleneoxy groups in the 
+molecular structure of polyether organics. The ethyleneoxy
+groups have good hydrophilicity and are beneficial to the dis-
+persion of polyisocyanates in water. Polyisocyanate curing
+agents modified by sulfonate are called polyether polyisocya-
+nate curing agents, which are also known as ionic polyisocya-
+nate curing agents. Sulfonate ions have strong hydrophilicity
+and can improve the water dispersibility of the polyisocyanate
+fpa poq seq ua8e Buμno aeueoospod ou J uae uμns
+leneoxy groups and sulfonate groups in its structure, it can
+exhibit not only low viscosity and good water dispersibility, but
+also non-ionic polyisocyanate curing. The agent shows a long
+pot life. However, there have not been reports of hybrid polyi-
+socyanate curing agents.
+ublished on 06 September 2021. Dowmloaded by Shanghai Jiaotong University on 9/25/2022 5:07:17 PM
+component of 2K-WPU, and is formed by uniformly dispersing
+u sdnog supig qm yuae Suno aeuiosod a
+water. The polyisocyanate curing agent has only six-membered
+nitrogen-containing heterocycles, carbon chains and isocya-
+nate groups in its molecular chain. The six-membered nitro-
+gen-containing heterocycles and carbon chains have strong
+hydrophobicity, and the isocyanate groups will react with
+water. If appropriate hydrophilic groups are added to the mole-
+cular chain, it will not only facilitate the dispersion of the poly-
+isocyanate curing agent in water, but also inhibit the reaction
+of the isocyanate groups with water. The hydrophilic modifi-
+cation of polyisocyanate curing agents is usually performed
+using a chemical method, that is, the introduction of hydro-
+philic groups into the polyisocyanate molecular chain; this
+method is also called the intermal emulsification method. A
+polyisocyanate curing agent prepared by the internal emulsifi-
+cation method not only has the characteristics of good compat-
+ibility, fast drying, low odor, low viscosity, etc., but can also
+slow the failure rate of the isocyanate group when dispersed in
+water, and is suitable for use as a two-component curing agent
+for water-based coatings. Two-component water-based paints
+prepared using the above polyisocyanate curing agent can be
+used for wood coatings, flexible coatings, metal coatings, and
+automotive mid-top paint coatings.
+Polyether-based modifiers. In 1993, Jacobs broke the barrier
+that polyisocyanate could not be hydrophilic. He found that
+when the hexamethylene disocyanate (HD1) trimer was modi-
+fied with polyethylene glycol monomethyl ether with a mole-
+cular weight between 120 and 1040, the modified HDI trimer
+had good water dispersion. The first generation of water-based
+HDI curing agents was generated by the reaction of monohy-
+droxypolyether and HDI trimer. The structure of the first gene-
+ration of waterborne HDI curing agents is shown in Fig. 1a.
+Bayer has made continuous progress in this respect. Based on
+the first generation of water-based HDIs, the synthesis process
+was improved to obtain the second generation of water-based
+HDI curing agents, and the formula of the second generation
+of water-based HDI curing agents is shown in Fig. 1b. The
+content of hydrophilic groups decreased and the number of
+NCO groups increased, and the film performance of the
+second generation water-dispersible curing agent was close to
+ags t se suase Suns au suale Suno puaos jo te
+storage period of more than 90 days. The excellent coating
+material can be obtained by the simple proportion of amine
+Fig. 1
+with other components after neutralization. In recent years,
+Chinese researchers have made breakthroughs in polyether-
+-sp-iaem sapajod amou v suale Surno aqsaadsp-raem ad
+persible curing agent was prepared by the Qu group of South
+China University of Technology.4" The dispersion curing agent 
+was prepared from HDI trimer, 2,2-dihydroxymethyl butyric
+acid, polyethylene glycol monomethyl ether and 1,4-cyclo-
+hexane dimethylmethanol (CHDM). When the molar ratio of
+dimethylolbutanoic acid (DMBA)/MPEG/CHDM is 3 : 7 : 3, the
+2K-WPU cured with this curing agent has high hardness, high
+water resistance, and excellent apparent properties and
+glossiness.
+Sulphonate-based modifiers. Compared with polyether type
+water-dispersible curing agents, films cured with sulfonic-acid-
+type water-dispersible curing agent have more durable water re-
+sistance. The preparation method involves dispersing HDI
+trimer in water by neutralizing isocyanate with triethylamine
+(TEA). In 1996, Haberle began to use hydroxyethyl sulfonic
+acid grafting to modify polyisocyanate to prepare sulfonic-acid-
+type water-dispersible curing agents that can be easily dis-
+persed in water or coatings. In particular, the prepared
+2K-WPU has low viscosity and strong water resistance.
+However, the compatibility between the sulfonate group and
+traditional curing agent is poor. Subsequently, Bayer’s Laas
+used zwitterionic biological buffer to neutralize sulfonate to
+modify the HDl trimer, allowing the sulfonic waterborne
+polymer to be stably dispersed in water and stored for a long
+time. The structural formula of the third generation of water-
+borne HDI curing agents is shown in Fig. 2c. The 2K-WPU film
+ 2017 Springer-Verlag GmbH Germany
+nisms of M type, A type, and MA type polyiso-
+cured with this curing agent has high hardness and good
+chemical resistance. By adding sulfonate to modify HDI
+trimer, the thermal stability, tensile strength and water resis-
+tance of the FWPU film were improved. Introducing hydro-
+philic groups into the polyisocyanate molecular chain
+through chemical modification is the main method to
+prepare waterborne HDI curing agents. The most commonly
+used polymer containing hydrophilic groups is polyethylene
+glycol monomethyl ether. The ethyleneoxy structural unit
+(CH,CHO) in the structure is hydrophilic. The ethoxy
+structural unit can be introduced into the molecular chain of
+polyisocyanate by the reaetion of the hydroxyl end group of
+polyethylene glycol monomethyl ether with the isocyanate
+group of polyisocyanate. The most commonly used sulfonate
+modifier is sulfamate, and polyisocyanate modified by sulfa-
+mate has good water dispersibility. The data in Table 1 shows
+HDI curing agents
+a performance comparison of the third-generation curing
+agents. As shown in Table 1, the third-generation water-dis-
+film impact strength.
+Polyether-sulphonate based modifiers. At pres
+commonly used polyisocyanate trimers are the HDI trimer and
+sent, the most
+isophorone disocyanate (IPDI) trimer.* In terms of polyiso-
+cyanate curing agents, Bayer company has prepared three gen-
+uoj-uou Supnous rsquale Suuno ageueoosjod jo suoea
+and ionic-types.2 Zhai and Wang also successfully prepared
+non-ionic and ionic water-dispersible curing agents,46,71 In the
+preparation of non-ionic polyisocyanate curing agents, poly-
+ethylene glycol monoether is the most commonly used non-
+ionic hydrophilic modifier, and its structure is hydrophilic.**
+In the preparation of ionic polyisocyanate curing agents,
+amino salts containing an ionic hydrophilic sulfonic group are
+often used as ionic hydrophilic modifiers. The dispersibility of
+polyisocyanate in water can be greatly improved after modifi-
+cation. If there are both non-ionic hydrophilic segments and
+ionic hydrophilic groups in the structure of a polyisocyanate
+curing agent, f.e., if it is a mixed polyisocyanate curing agent,
+the polyisocyanate curing agent can have not only the low vis-
+cosity and good water-dispersibility of an ionic polyisocyanate
+curing agent, but also the long storage life of a non-ionic polyi-
+socyanate curing agent, and the emulsion properties, thermal
+stability and mechanical properties of 2K-WPU can be further
+improved.
+dispersibility and low viscosity, we** designed and prepared a
+non-ionic (M-type) polyisocyanate curing agent, an ionic type
+VW) adk paxu e pue *uale Suuno aqeueisospfjod (ad6 v)
+saadosd pue anonns aq suale Suuno aeuioosjod ad
+of the three polyisocyanate curing agents and their emulsions
+were characterized, as shown in Fig. 2. This laid a foundation
+for the preparation of two-component flame retardant water-
+borme polyurethanes. (i) The M polyisocyanate curing agent
+was synthesized from MPEG and HDI trimers. It was found
+that when the methoxypolyethylene glycol (MPEG) content was
+between 12% and 20%, the storage period of the M-type polyi-
+socyanate curing agent could reach 168 days, and the NCO
+content was more than 15.3%. The emulsion had good stabi-
+lity and the application period could reach 6 hours. (i) A polyi-
+socyanate curing agent was synthesized from sodium ethylene-
+diamine ethanesulfonate (AAS salt) and HDI trimer. It was
+found that when the AAS salt content was between 4% and
+6%, the content of NCO was more than 17.5%, the particle
+size of the emulsion was less than 17 nm, the viscosity was
+less than 128 mPa s, and the emulsion had good stability. (i)
+The M-A polyisocyanate curing agent was synthesized from
+MPEG, AAS salt and HDI trimer. It was found that the content
+of MPEG was between 12% and 15%, and the content of AAS
+salt was 2% to 6%, The NCO content was more than 15.9%,
+the storage period was 112 days, the emulsion viscosity was
+less than 90 mPa s, the emulsion stability was good, and the
+emulsion application period could reach 6 hours.
+Comparison
+To further understand the effects of curing agents and flame
+retardants on the properties of 2K-FWPU, OFWPU-15,
+FFWPU-15, OGWPU-1.4, OGWPU-1.6 and FGWPU-1.6 were
+selected as four kinds of 2K-FWPU (Table 2).
+Emulsion propertes
+OGWPU-1.4 has the smallst particle size and the greatest
+absolute zeta potential value (Table 3). The
+SO,H group of M12-A4 is smaller than that of the
+volum
+ofthe
+group, which has a smaller infuence on chain movement.
+OCH
+Aditionally, SO,H enhances the electrostatic repulsion of the
+emulsion double
+ran Edward force
+Table 2 Compositions  of OFWPU-15,  FFWPU-15,  OGWPU-1.4,
+OGWPU-1.6, and FGWPU-1.644,45
+among particles, preventing them from condensing.d The par-
+ticle size and zeta potential of OFWPU-15 are smaller than
+those of FFWPU-15. Similar results can be found between
+OGWPU-1.6 and FGWPU-1.6. Compared to Fyrol 6, larger
+numbers of polyether soft segments and smaller size OCH,
+groups are found in the OP550 structural units, which
+improve the flexibility of the molecular chain, reduce the par-
+ticle size and improve the emulsion stability,
+Mechanical properties
+Compared with OFWPU-15, the tensile strength of OGWPU-1.4
+is increased by 53%, and the elongation at break is increased
+by 44.5% (Table 4). Firstly, the SO,H group of M12-A4 is
+shorter than the long ether chain. The barrier is higher and
+the internal rotation conformations are fewer, which increases 
+the chain rigidity and tensile strength. Secondly, SOH
+increases the Coulomb forces and intermolecular forces
+between COOH and molecular chains to reduce chain entan-
+glement. Meanwhile, the tensile strength of FFWPU-15 was
+higher than that of OFWPU-15. Similar results were found
+between OGWPU-1.6 and FGWPU-1.6 due to the enhanced
+interaction of the Fyrol 6 hard segments.
+Watetresistance
+The water resistance of OGWPU-1.4 is much higher than that
+of OFWPU-15 (Table 4). Firstly, SO,H overcomes the water re-
+sistance deficiency of carboxylic WPU. Secondly, the combi-
+nation of carboxylic, sulfonate and non-ionic hydrophilic
+groups improves the synthesis stability of 2K-WPU.
+Additionally, 2K-WPU film modified by OP550 has worse water
+resistance because of the many hydrophilic OCHs, groups.
+Thermal properties
+Comparing the DSC results of OGWPU-1.4 and OFWPU-15,
+there is little difference in the degradation temperature of the
+soft segment (7g), the degradation temperature of the hard
+segment (7g) and the temperature difference between the Tgh
+and Tg (T,) (Table 5). SO,H has little effect on microphase
+separation. Additionally, the T Tg and T, of FFWPU-15 are
+higher than those OFWPU-15. Similar results can be found
+between OGWPU-1.6 and FGWPU-1.6. Fyrol 6 enhances the
+aggregation of the hard segments and microphase separation.
+The maximum decomposition peak temperature of the hard
+segment (Tmax) and soft segment (7ma2) of OGWPU-1.4 are
+lower, and the maximum decomposition rate of the hard
+segment (Vmxs) and soft segment (Va2) are higher than
+those of OFWPU-15 based upon the TGA results. The bond
+energy of S—O is lower than that of the CC bond, which leads
+to the thermal decomposition of SO,H and a shorter time to
+reach Tm.- Additionally, SO,H is decomposed into SO, accel-
+erating thermal decomposition. Additionally, FFWPU-15 has a
+higher Vmaxs and smaller Vmao than OFWPU-15. Similar
+results can be found between OGWPU-1.6 and FGWPU-1.6.
+Fyrol 6 makes phosphoric acid and metaphosphoric acid more
+effective in catalytic decomposition.
+Flameretardance
+OGWPU-1.4 has higher a LOI and lower carbon residue than
+OFWPU-15 (Table 6). M12-A4 exhibits polyether-sulphonate (P-
+S) synergistic flame-retardance with OP550 during combustion.
+SOH reduces the carbon chain proportion and accelerates the
+carbon formation rate, but SOH also accelerates the heat. The
+heat causes SO;H to promote thermal decomposition more
+than char formation. OFWPU-15 has a higher LOI and lower
+carbon residue than FFWPU-15. Similar results can be found
+between OGWPU-1.6 and FGWPU-1.6. OP550 generates more
+polyphosphoric acid and polymetaphosphoric acid, thereby iso-
+Iating oygen and inhibiting combustion.
+Functionalizationandmechanisms
+Functionalization
+With the advancement of technology and the improvement of
+living standards, the requirements for the appearance of coat-
+ings have also increased. With its excellent physical and
+value in textiles, woodware and other fields,,S However, so
+chemical properties, 2K-FWPU has important application
+far, there are almost no reports on the modification of the
+appearance and funetionality of 2K-FWPU, Water-based coat-
+ings with fluorescent properties can be used not only as
+marking materials, but also as temperature-sensitive lumines-
+cent functional materials, which have huge potential appli-
+cation value.12,3s There are two methods for the fluorescence
+and the chemical method,s-57 Each method has its own
+modification of waterborne polyurethane: the physical method
+advantages and disadvantages. When 2K-FWPU is endowed
+with fluorescence through physical methods, there are limit-
+ations related to fluorescence quenching and fluorescence
+stability. Therefore, small reactive molecules with an organic
+conjugate structure have been selected as fluorescence agents,
+and chemical methods have been used to weaken the fluo-
+rescence quenching of the fluorescent waterborme poly-
+urethane and increase its luminescence ability.S-61
+Organic
+conjugated structural units not only exhibit high luminous
+efficiency and a wide range of luminous colors, but also have
+relatively simple use conditions, high color purity, flexible
+adljustability and good luminous stability.“*
+We prepared a 1,5-dihydroxynaphthalene-modified water-
+based flame-retardant hydroxy component (NOPUD) and its
+2K-FWPU (NOWPU), and studied the emulsion performance of
+contents,a,s1 The influence of adjusting the solvent polarity,
+OGWPU-1.6with
+dlifferent
+1,5-dihydroxynaphthalene
+temperature, emulsion concentration and storage time on the
+fluorescence intensity of the membrane were studied to lay the
+foundations for its application. Our research had the following
+findings: (i) As the content of 1,5-dihydroxynaphthalene
+increases, the particle size of the emulsion increases, the vis-
+cosity decreases, and the emulsion stability is good. The emul-
+sion can be used as the aqueous hyclroxyl component of the
+NOWPU system. (i) When the content of 1,5-dihydroxy-
+naphthalene is 1.0% (this sample is named NOPUD-1.0), the
+fluorescence intensity of NOPUD is the strongest; when the
+concentration is 10 g mL*, the fluorescence intensity is the 
+strongest; with increasing storage time, the fluorescence stabi-
+lity of NOPUD is good, and the fluorescence half-life reaches
+109 days. (i) As the content of 1,5-dihydroxynaphthalene
+increases, the particle size of the emulsion increases, the vis-
+cosity decreases, and the stability of the emulsion is good;
+when the content of 1,5-dihydroxynaphthalene is ≥0.5%, the
+LOI is above 29.0%, the UL-94 result is V-0, the tensile strength
+reaches 25.2 MPa, and the coating film hardness reaches 3H.
+(iv) When the content of 1,5-dihydroxynaphthalene is 1.0%
+(this sample is named NOWPU-1.o), the fluorescence intensity
+of NOWPU is the largest; NOWPU is insensitive to solvent
+polarity and sensitive to temperature; when the concentration
+is 10? g mL~, the fluorescence intensity of NOWPU is
+maximum; as the storage time inereases, the fluorescence
+stability is good, and the fluorescence half-life reaches 145
+days. (v) When 1,5-dihydroxynaphthalene is decomposed by
+heat, an expanded carbon layer is formed to isolate heat trans-
+fer, inhibit combustion, and exhibit a flame retardant effect.
+The fluorescence applications are displayed in Fig, 3 and 4.
+to reduce the transmittance of UV by absorbing or reflecting
+UV. Generally, 2K-WPUs are coatings with high gloss and have
+basically no shielding effect on UV rays. However, in certain
+specific environments, such as when textile materials or
+wooden furniture is used outdloors, the coatings applied on
+the surface can shield UV or reflect natural light. Based on its
+wavelength, UV light is divided into the short-wave region
+(190280 nm), medium-wave region (280320 nm) and long-
+wave region [320400 nm). The UV rays in the medium-wave
+and long-wave regions are more harmful to the human body,
+and wood and other materials are prone to lignin degradation
+under UV light in the short-wave and medium-wave regions,
+which willdamage the wood. When the human body or wood-
+ware is exposed to UV, a 2K-WPU coated on the surface of the
+fabric or woodware that does not have the function of shield-
+Fig. 3 Photographs of various materials coated with NOPUD-1.0 under
+wencUnTt
+room light and UV. a = 365 nm. (a) The left BIT was written on non
+woven fabric  with NOPUD without
+(NOPUD-0). (b) Nonwoven fabric samples without words. (cf) Four
+1,5-dihydroxynaphthalene
+materials have been written on with a ballpoint pen. Three states are
+show
+wn for each material: the uncoated material, the material coo
+with
+Springer-Verlag GmbH, DE part of Springer Nature
+Fig. 4  Coating films irradiated by UV and natural light: (a) NOWPU-0.5
+and (b) NOWPU-1.0.° 2017 MDPI, Basel, Switzerland.
+ing UV rays or refecting natural light cannot meet the require-
+ments for protecting the human body or woodware.6
+At
+present, because the research progress in 2K-WPU is slower
+than that in one-component water-based polyurethanes, and
+there is less research on the functionality of 2K-WPU, there is
+paseq-apem puauoduoo-omq Supuelau uogeuopu ap fuan
+polyurethanes that can shield UV rays or reflect the UV rays in
+natural light to reduce gloss Therefore, in order to meet the
+requirements of textile materials or wood furniture for shield-
+ing UV rays or having low gloss, it is highly necessary to
+improve the light shielding performance of 2K-FWPU.
+Nano-TiO, has not only good light resistance, chemical re-
+sistance and environmental friendliness, but also the charac-
+teristics of whiteness and different transparency. Its most pro-
+minent advantages are its anti-UV performance and strong
+rigidity.° Additionally, anatase nano-TiO has a wide energy
+stabilizer and inhibit photooxidants69Aditionaly, the
+band gap and catalytic activity, and can be used as an efficient
+anatase-type hydrophilic nano-TiO2 particles are spherical,
+and after strong stirring, they can be dispersed well in a one-
+component WPU
+Jemulsion without agglomeration.67
+Therefore, the introduction of hydrophilic nano-TiO into
+2K-WPU to prepare a 2K-FWPU with light shielding perform-
+ance has potential application value, We9,50°
+paredard
+2K-FWPU modified with hydrophilic nano-TiO (TOWPU),
+studied the influence of adljusting the pH value, temperature
+ pue aread upas s au to an aes pue
+shielding effciency, and carried out structure and perform-
+ance tests. The study had the following findings: (i) With
+increasing hydrophilic nano-TiO- content, the UV transmit-
+tance decreases and the gloss decreases; in an alkaline
+environment, the UV shielding efficiency and the UV shielding
+effect are stronger, and can reach 100% and 0% respectively.
+As the storage time increases, it can slow the increase in UV
+transmittance and gloss (Fig. 5). (i) When the content of
+hydrophilic nano-TiO, is 0.5% (this sample is named
+TOWPU-0.5), the tensile strength of the film is 22.3 MPa, and
+the pencil hardness is 2H. (ii Hydrophilic nano-TiO will
+react with NCO to form a cross-linked network structure,
+which improves the thermal stability of the system,
+reduces the rate of thermal decomposition, and inhibits
+thermal decomposition; during combustion, the hydrophilic
+nano-TiO; deposits on and coats the surface of the carbon
+residue to isolate heat transfer, and SO, phosphoric acid,
+metaphosphoric acid and polycondensate have a gas-conden-
+sation phase synergistic flame retardant effect (Fig. 6). In our
+previous work, we balanced the UV shielding and photodegra-
+dation of nano-TiO, mainly by regulating the amount
+aded.49,52 Ssince only 2.0% hydrophilic nano-TiO, relative to
+the prepolymer mass was added, the photodegradation was
+weak in this case.
+PS synergistie mechanism
+According to the analysis of gas-phase TGA-FTIR and con
+dlensecl-phase
+FTIR
+preW
+works,
+Fig. 5 Optical shielding performances of emulsions and spun films
+after various storage times. (a) Curves of the change in ultraviolet-light
+transmittance for the TOWPU0 and TOWPU-0.5 emulsions. (b) 60°*
+glossiness curves of the TOWPU-0 and TOWPU-0.5 spun films. (c)
+Visible-light transmittance curves or TOwPU-0 and TOWPU-0.5 spun
+fitting: the Gaussian fitting is presented as light red colored curves.*
+films. The variations in the points in the plots were fitted using Gaussian
+2021 Royal Society of Chemistry.
+Nd L1:00:s 220g/92/6 0o rss50 3uosoer rqaurgs Aq popromwog '120g sqotdog 90 to poustqnd
+Fig. 6 The flame retardance of matte film. FTIR spectra of pyrolysis gas
+at 10 *C min~ warming. Images of char residues of TOWPU-0 and
+of Chemistry-
+TOWPU0.5 shot after being tested in air at 500 *C.*? 2021 Royal Society
+thermal degradation/flame-retardance mechanism based
+PS synergism is proposed
+ether soft segments, TEA and CO, at 180245 °C, as shown in
+Scheme 2.
+Thermal decomposition of OP550 and SO,H. The thermal
+degradation of phosphate ester in OP550 occurs first, and the
+thermal decomposition produces phosphoric acid and meta-
+phosphoric acid (Scheme 3). Then, the thermal decomposition
+of SO,H in the polyisocyanate curing agent occurs to generate
+SO, HCN, NH, CO, and other gases in order to dilute O, and
+other flammable gases. The second thermal decomposition
+occurs at 245324 °C. There are small molecules including
+ketones, aldehydes, ethers, phosphoric acid, metaphosphoric
+acid, polyether soft segments, and urethane hard segments.
+Scheme 4 shows the thermal degradation of sulfonic acid
+uale Suuno aeue(xosjod a ul sdno18
+ments of the water-based hydroxyl component (Scheme 5) and
+cross-linked segments (Scheme 6) are thermally decomposed
+to generate polyether soft segments, isocyanate, and HCN,
+NHs, CO, and other gases, which occurs at 324391 °C. The
+phosphoric acid and metaphosphoric acid generated in the
+second stage will delay the decomposition of hard segments,
+generate polyether soft segments and release CO, HCN, NH,
+and other incombustible gases in order to dilute O and other
+Scheme 3  Thermal decomposition of the phosphate ester in OP550
+isocyanate curing agent
+Scheme 6  Thermal decomposition of cross-linked segments
+flammable gases; at the same time, phosphoric acid and meta-
+phosphoric acid are heat-dehydrogenated to give  polypho-
+sphoric acidandcondensed
+polymetaphosphoric
+(Scheme 7), There are small molecules including ketones, alde-
+hydes, ethers, and polyphosphoric acid, polymetaphosphoric
+acid, and polyether soft segments in the residue.
+Thermal decomposition of soft segments. Under the cataly-
+sis of polyphosphoric acid and polymetaphosphoric acid, soft
+segments are first decomposed to form small-molecule com-
+pounds such as aldehydes, ketones, ethers, H;O, and CO, at
+391480 °C. The soft segments then sequentially undergo
+thermal decomposition to be dehydrated and finally carbo-
+nized into carbon. The composition of the residue includes
+only polyphosphoric acid, polymetaphosphorie acid and a
+carbon layer. The detailed process is shown in Schemes 812.
+metaphosphoric acid
+Scheme 10  Production of small-molecule aldehydes and ketones
+Scheme 11  Production of small-molecule ether
+Scheme 12  Process of charring
+Conclusions
+2K-FWPU not only exhibits good flame-retardance 　and
+mechanical properties, but it also has the advantages of being
+environmentally friendly, having low toxicity, and creating no
+pollution. At present, although 2K-FWPU and even 2K-WPU
+have been less researched, 2K-FWPU is gradually replacing
+one-component FWPU in the fields of textiles, woodware, auto-
+mobiles, and related applications. This is based on in-depth
+research into phosphorus-based modified 2K-FWPU. In order
+to better expand the applications, in the next stage, we could
+use different flame-retardant modification methods and physi-
+cal or chemical methods to modify the dual components of
+FWPU to provide more functionalities. (i) In terms of modif-
+cation of the flame retardant, we can try to modify two-com-
+ponent polyurethane with a sof-segment flame-retardant
+modifier and a hard-segment flame-retardant modifier to
+balance the mechanical properties and flame-retardant pro-
+perties. (i) This could endow 2K-FWPU with more functional-
+ities, such as anti-corrosion, super-hydrophobic, bio-antibac-
+terial, and bio-degradable properties to meet the needs of a
+wider range of applications. (ii) The initial decomposition
+temperature of 2K-FWPU is relatively low. The thermal stability
+of 2K-FWPU could be improved vin adding a matrix containing
+fluorine and rigid macrocycles to make up for the lack of
+thermal stability,
+Conflictsofinterest
+There are no conflicts to declare
+Acknowledgements
+This  work  is funded by the  National Natural Science
+Foundation of China under Grant No. 51905295, Talent
+Introduction Program of BUCT under Grant No. buctrc202101,
+and the National Key Research and Development Program of
+China under Grant No. 2016YFC0204400.
+Published on 06 September 2021. Downloaded by Shanghai Jiaotong University on 9/25/2022 5:07:17 PM.
+29 U, von Pidoll, IEEE Trars. Ind. Appl., 2008, 44, 1519.
+30 Y. Tang, D.-Y. Wang,
+X-K. Jing, X.-G. Ge, B. Yang anc
+a and S. Ito, Colloid Polymt. Sci. 2004, 283, 731737.
+49 X. Yin and Y. Luo, RSC Adv., 2021, 11, 1269612702.
+50 X Yin and Y. Luo, Cofloid Polym. Sci., 2021, 299, 845853.
+51 X. Yin, X. Li and Y. Luo, Polymters, 2017, 9, 492506.
+52 X. Yin, C. Dong, C. Chai and Y. Luo, Prog. Org Coef., 2018,
+ L1:20:s c20g/sz/6 uo Aarssanru, Suogoeyg rqurgg Aq poproqumog 170g saquadog 90 uo poustqnd
+65 H. Huang, Z. Qiu, T. Han, R. T. K. Kwok, J. W. Y. Lam ano
+, 2017, 6, 13521356.

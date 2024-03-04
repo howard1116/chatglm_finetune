@@ -1,0 +1,151 @@
+双组分水性形状记忆聚氨酯的合成及
+其涂层胶应用研究
+摘要：由聚己内酯二醇（PCL）和甲苯二异氰酸蓄为主原料合成了端羟基水性聚氨酯与可水分
+数多异氰酸酯交联剂组成双组分水性形状记忆聚氨酯（2K-WPU）涂层胶。研究了PCL相对分子质
+量和交联剂用量对2K-WPU薄膜的热性能、结晶性能以及对涂层织物的温敏透湿性能和耐静水压
+等性能的影响.结果表明PCL相对分子质量高的2K-WPU结晶性好：选择合适的交联剂用量可
+以使2K-WPU涂层织物显示较好温敏透湿性能透湿量在35~50C的温升范围内提高了4-8倍
+形状记忆聚氨酯以其独特的形状记忆功能和温
+敏透湿性能受到广泛关注-。研究显示，当温度
+低于形状记忆开关温度时湿气难以通过薄膜：而当
+温度高于形状记忆开关温度时薄膜的透湿性能明
+显升高从而表现出温敏透湿性-。将形状记忆
+聚氨酯应用于纺织上，可以实现在较高的温度下织
+物良好的透湿性为人体内水蒸汽和热量的排出提
+供更多的途径低温时能够阻止人体内水蒸汽和热
+量向外传递因而达到了保暖的作用-1
+现有的关于形状记忆聚氨酯温敏透湿性能的研
+究大多是基于溶剂型聚氨酯-而将这些溶液用
+于织物涂层整理无疑对环境造成污染。因而开发
+水性形状记忆聚氨酯具有重要意义。水性聚氨酯
+（WPU）用于织物的涂层整理时通常需加入外交联
+剂组成双组分水性聚氨酯（2K-WPU）以提高涂层的
+耐水性和力学性能。目前还未见有采用双组分水性
+形状记忆聚氨酯并对织物进行涂层整理的研究
+报道
+本研究先合成羟基封端的水性聚氨酯乳液再
+与可水分散多异氟酸酯交联剂组成2K-WPU研究
+配方组成对2K-WPU薄膜的热性能、结晶性能和涂
+基金项目：五邑大学校青年基金（项目编号2013z22）
+层织物的防水透湿性能的影响，为开发具有温敏型
+透湿性能的涂层织物提供新的思路。
+甲苯二异氟酸酯（TDI）拜耳公司；聚己内酯二
+醇(PCL3000 M,=3000; PCL4000 AM=4000) 济宁
+宏明化学试剂有限公司：二羟甲基丁酸（DMBA）江
+西南城红都化工科技开发有限公司；14-丁二醇
+（BDO）、三乙胺（TEA）分析纯国药集团；二乙醇
+胺（DEOA）分析纯阿拉丁试剂（上海）有限公司：
+可水分散多异氟酸酯固化剂（BayhydurXP2547，
+NCO质量分数23.1%），拜耳公司；消泡剂（BYK-
+028）德国毕克公司：增稠剂SE江苏三木化工公
+司：防水剂TG-410C浙江传化股份有限公司；春亚
+纺（240T涤纶）广州市轩德纺织有限公司。
+1.2乳液制备
+按表1中的配方量在四口烧瓶内先加入PCL，
+升温至75℃时加入TDI在80℃反应2h然后降
+温到70C再加入DMBA和BDO在80℃下继续
+纪风龙等·双组分水性形状记亿聚氨酯的合成及其涂层胶应用研究
+注：异氧股酯指数R为1.2段基质量分数为1.5%硬段质量分数设计为25%
+反应其间加入丙酮调节黏度。当NCO基含量达到
+理论值时降温至40℃以下加入TEA中和15 min
+后加入DEOA对预聚体的NCO基进行封端0.5h后
+加水乳化再采用旋转蒸发仪脱除丙酮得到固含量
+为26%的乳液样品编号分别为WPU1和WPU2两
+者分别以PCI3000和PCL4000为软段
+配制2K-WPU:取150g上述水性聚氨酯乳液
+加入计量的固化剂Bayhydur XP 2547和0.5%的消
+泡剂BYK-028搅拌10min，停止搅拌后静置备用。
+由WPU1与 Bayhydur XP 2547按NCO/OH摩尔比
+WPU11、2KWPU122KWPU13 和 2KWPU14 的双
+组分水性聚氨酯样品。由WPU2与Bayhydur XP
+2547按R值1.0、2.0和3.0分别配制编号为2K-
+先将尼丝纺面料剪成40cmx25cm的布样用
+30g/L防水剂TG-410C做拒水处理再将2K-WPU
+用增稠剂将黏度调至1000mPa·s然后采用CAB-
+Coator涂布机刮涂到拒水处理后的布上，放置到
+F&FMD定型烘干小样机中90℃预烘2min再150
+C培烘3min得到涂层织物.控制刮刀缝隙，使得
+织物上干胶量在10-12g/m²。
+采用Perkin-Elmer 公司DiamondDSC对聚氨酯
+薄膜进行差示扫描量热分析（DSC）扫描温度-25
+-100℃升温速度为10℃/min。聚氨酯中软段相
+的结晶度X,通过公式X=△H_/pax△F）计
+算。其中△H为聚氨酯样品的熔融转变热H
+为PCL在100%结晶时的熔融转变热（139.5J/
+g）.为2K-WPU中软段PCL的质量分数。
+采用Perkin-Elmer公司DMA8OOO对薄膜进行
+动态力学分析（DMA）扫描温度-50-150C升温
+速度为3℃C/min频率2Hz。采用Brookhaven公司
+的 ZetaplusZeta电位及激光粒度分析仪对合成的水
+性聚氨酯乳液进行乳液粒径分析-涂层织物透湿量
+（WVP)按照GB/T12704—91（透湿杯法）标准，采
+用宁波纺织仪器厂的YG601型电脑式织物透湿仪
+测试25-70℃区间每隔5℃测试一次.涂层织物
+耐静水压按GB/T4744—1997标准采用宁波纺织
+仪器厂的YG825E-20型数字式渗水性测试仪测定。
+涂层织物撕破强力采用YG033D数字式撕裂仪参照
+GB/T3917.1—1997试验方法进行测试。
+表22组2K-WPU薄膜的热性能分析数摄
+从表2可以看出在40-50℃区间2组样品的
+DSC曲线均出现了一个吸热峰对应的是聚氨酯软段
+PCL的结晶熔融峰。随着交联剂用量的增加样品的
+T、△H和X都呈降低的趋势这是因为随着交联
+剂用量的增加分子交联密度提高对软段束缚增加
+使得PCL的结晶度和结晶完善程度逐渐降低
+为软段的聚氨酯较PCL3000为软段的聚氨酯更容
+易形成结晶如2K-WPU13和2K-WPU22两个样品
+的R均为2.0，前者的结晶度为17%而后者为
+从图1可以看出随着温度升高2K-WPU薄膜
+的E值逐渐降低在约40℃开始明显降低这是因
+为2K-WPU的软段相受热熔融造成的在经过熔融
+转变后60℃以上2组2K-WPU的E下降缓慢进
+入平台区，而且平台区的E值随交联剂用量的增
+加而增加这说明2K-WPUs体系交联密度增加。在
+相同的R值下以WPUI系列薄膜的平台区的E值
+相对高于以WPU2系列薄膜的平台区的E值推测
+是因为与PCL4000相比采用PCL3000制备水性聚
+氨酯在形成交联后交联点间分子链的长度较小导
+致交联网络的模量较大
+由图2可知样品的WVP随着温度的升高均增
+大在35-50°℃之间涂层织物的WVP值明显增加.
+由表3可以看到大部分涂层织物在35C下的WVP
+低于1 kg/(m²× 24 h)而 50 ℃ 下的 WVP 高于 4
+kg/（m²x24h）。这是因为从热性能分析可知2K-
+WPU涂膜的结晶熔融温度T也在此温度区间、当
+温度较低时聚氨酯的软段处于结晶状态分子排列
+紧密分子内空隙少涂层的透湿性低。当温度升高
+到结晶熔融温度以上时结晶融化大分子之间的空
+隙明显增大，水蒸气的透过量增大。WVP和
+WVP的比值反映2K-WPU涂层在熔融转变过程中
+透湿性能的突变
+2K-WPU涂层织物的透湿量在35-50C之间提高
+了4-8倍-而且，采用WPU2制备的涂层织物的
+50℃透湿量整体高于采用WPU1制备的涂层织物
+的WVP这是因为PCL4000较PCL3000的结晶能力
+更强形状记忆能力好。
+2.4涂层织物的其他性能
+表4为2K-WPU涂层织物的耐静水压等性能
+纪风龙等·双组分水性形状记亿聚氨酯的合成及其涂层胶应用研究
+用量的增加而增加织物涂层的强度和耐水性提高。
+而且水洗10次后织物的耐静水压保留率也随交联
+剂用量的增加而提高这说明交联剂用量的增加有
+利于提高涂层对织物的附着性。WPUI系列涂层织
+物的撕破强力呈现出先升后降的趋势这可能是因
+为在交联剂量较少的情况下涂层胶的使用提高了
+单纱的力学强度随着涂层胶交联剂的用量增加涂
+膜对纱线的可移动性限制增加，使得织物的撕破强
+力下降.2K-WPU12、2KWPU13、2KWPU14、2K-
+WPU22、2K-WPU23这5种涂层织物的耐静水压达
+到5kPa以上能较好地满足涂层织物的日常要求。
+( 1. School of Textile and Clothing of Wuyi University , Jiangmen , Guangdong 529020 , China)
+( 2. Institute of Textiles and Clothing of Hong Kong Polytechnic University , Koufoon , Hong Kong , China)
+Abstraet: The hydroxyl terminated waterborme polyurethanes( WPUs) based on polycaprolactone diol( PCL)
+and toluene disocyanate ( TDI)  were synthesized. The two-component waterborne shape memory polyurethanes
+( 2KWPUs) were formulated with water-dispersible polyisocyanate crosslinker and the WPUs. The fabrics coated
+with the 2KWPUs were prepared. The influences of molecular of PCL and dosage of the crosslinker on thermal
+properties of 2KWPU films and on the thermal-sensitive water vapor permeability ( WVP) of the coated fabrics
+were investigated. The results showed that the coated fabrics exhibited significant thermal-sensitive WVP with ap-
+propriate dosage of crosslinker. The WVP of some coated fabrics increased by 4  8 times in the temperature range
+35  50 °C and the static water
+vas higher than 5 kPa
+作者简介纪风龙男1973年出生薄土从事功能纺积品和精猫化工材料的研究

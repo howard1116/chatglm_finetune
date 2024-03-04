@@ -1,0 +1,1081 @@
+环碳酸酯衍生物的制备及在非异氰酸酯聚氨
+PreparationofCyclicCarbonateDerivativesandThein
+ApplicationinNon-isocyanatePolyurethaneCoatings
+Candidate:WuZhijun
+Supervisor:Prof.QuJinqing
+ADissertationSubmittedfortheDegreeofDoctorofPhilosophy
+号：201610103581
+环碳酸酯衍生物的制备及在非异氰酸酯聚
+氨酯涂料中的应用
+钟理教授：黄洪教授：张心亚研究员：瞿金清教授
+学位论文原创性声明
+本人郑重声明：所呈交的论文是本人在导师的指导下独立进行研究所
+取得的研究成果。除了文中特别加以标注引用的内容外，本论文不包含任
+何其他个人或集体已经发表或撰写的成果作品。对本文的研究做出重要责
+献的个人和集体，均已在文中以明确方式标明。本人完全意识到本声明的
+法律后果由本人承担。
+学位论文版权使用授权书
+本学位论文作者完全了解学校有关保留、
+本学位论文作者完全了解学校有关保留、使用学位论文的规定，即：
+研究生在校攻读学位期间论文工作的知识产权单位属华南理工大学。学校
+有权保存并向国家有关部门或机构送交论文的复印件和电子版，允许学位
+论文被查阅（除在保密期内的保密论文外）；学校可以公布学位论文的全
+部或部分内容，可以充许采用影印、缩印或其它复制手段保存、汇编学位
+论文。本人电子文档的内容和纸质论文的内容相一致。
+不保密同意在校园网上发布，供校内师生和与学校有共享协议的单
+浏览：同意将本人学位论文编入有关数据库进行检索，传播学位论文的
+量异氰酸酯单体，这些单体对人体健康和环境有害。因此
+氨酯涂料具有较好的应用前景，其中采用环碳酸酯与多胺反应制备非异氰酸酯聚氨酯
+等有机溶剂，涂膜吸水率偏高和耐化学性不好等技术难题。鉴此，
+构与性能的调控规律
+1）以双酚A坏氧树脂E-51和CO为原料制备EC-51坏碳酸酯
+与伯胺按照物质的量的比为10:1-6制备环碳酸酯封端的预聚物EC-51-P，将环碳酸酯预
+聚体与聚乙烯亚胺（PEI）在室温条件下固化得到E-NIPU涂层。发现EC-51-P的分子量
+在2000-3
+55之间，且分子量随着IPDA含量的增加而增加。
+室温固化E-NIPU涂层具有高光泽度、高硬度、耐冲击、较好的柔韧性和附着力。涂层
+水甘油醚（PFGE)和CO为原料制备EC-AF环碳酸酯和PFGC环碳酸酯。然后拉
+性能提高。涂层表面对水、二碘甲烷和十六烷的接触角分别增加到106.7、80.2和72.7°。
+wt%的NaC1溶液中，经过500小时以后也没有发现涂层有任何变化，没有出现生锈的
+备了系列的S-WNIPUs涂层，该涂层具有优异的柔韧性能、附着力、光泽度和耐冲击性
+尔文粒度仪来研究水性TMC/PMDC/BTDC环碳酸酯分散体的粒径和Zeta电位，分散体
+关键词：环碳酸酯：非异氰酸酯聚氨酯：涂层：分散体：水性
+themolecular weights ofEC-51-Pincreasedwiththe increase ofmolar ratios of
+carbonate/IPDA.The resultant E-NIPU coatings displayed excellent glossiness,impact
+carbonates,bisphenol AF (EC-AF) and perfluorooctyl cyclic carbonate (PFGC) via the
+reaction of two different diglycidyl ethers (bisphenol AF (E-AF) and perfluorooctyl glycidy
+ether (PFGE), respectively). Then the cyclic carbonate with diamines was mixed according to
+The F-NIPU coatings have good hydrophobic and oleophobic properties. In addition, their
+hydrophobic and oleophobic properties were greatly improved with increasing of the PFGC
+content. Their films contact angle of water, diiodomethane, and hexadecane were high up to
+FTIR, all results showed that the anhydrides and hydroxyl react adequately to produce the
+carboxylic acid. Then
+cyclic
+omate
+neutralizedby
+/ TEA, followed by dispersing in
+benzophenone-3,3',4,4'-tetracarboxylicdianhydride
+Keywords: Cyclic carbonate; Non-isocyanate; Coatings; dispersion; Waterborr
+第三章疏水疏油非异氰酸酯聚氨酯涂料的制备及其性能研究….
+第四章山梨醇基环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料的制备与性能研
+Tetrabutylammonium bromide,TBAB
+Isophorondiamine, IPDA
+Number-average molecular weight, M
+Glycerine carbonate, GC
+1,2,4-Benzeneticarboxylic anhydride, TMA
+Pyromellitic dianhydride,PMDA
+非异氰酸酯聚氨酯（Non-isocyanatePolyurethane，简称NIPU）是一种新型环保材
+成本的局限性
+IPU的大规模工业化仍具有很广阔的研究空间15.16]
+引入氟基团制备具有疏水疏油和耐腐蚀功能的NIPU涂料，研究其构效规律。
+沃尔茨（Wurtz）教授在1849年使用硫酸烷基酯与氰酸钾进行复分解反应制得烷基
+从而为异氰酸酯未来的工业化奠定了基础。聚氨酯是在20世纪30年代由德国拜耳
+聚氨酯的大量开发和在许多领域的应用。第二次世界大战后，聚氨酯（PU）在涂料、
+的标准，无需使用含-NCO的原材料，从而解决了传统聚氨酯材
+中酸脂基团。聚氨脂的优异性能，以及它们可以替代其他材料，这微发了
+接下来的几年中，拜耳以较低的成本开发聚醚多元醇，可以生产适用于家具和汽车应用
+领域的软质聚氨酯泡沫。如今，PU已经大量应用在日常生活中：家具、汽车、服装、
+鞋子、弹性体、涂料、墙壁和屋顶隔热等17-20
+链剂或交联剂的反应。这种两步法可以避免多元醇之间反应性的差异
+材料的性能，通过这种方法来制备柔软和刚性相结合的聚氨酯材料。
+L.Eocmatsn.of-usosyanale.poepoymer
+Fig. 1-l Synthesis of polyurethane in a two-step process
+不同结构的聚氨酯可以在不同的领域应用，通过不同类型的异氰酸酯和多羟基化合
+物进行反应，可以合成出各种结构的聚氨酯材料，最后获得具有不同性质的聚氨酯高分
+同竞相开发聚氨酯材料，
+首先，异氰酸酯单体的合成需要使用光气（一种致命气体）将胺转化为异氰酸酯
+性）[2。这些物质对人类与环境都有害，如果长期接触会带来严重的健康风险，如哮嘴
+异氰酸酯基团和水会发生不可逆转的反应，产生二氧化碳导致产品质量降低，反应如图
+Fig. 1-2 Schcmatic illustration of the reaction between isocyanates and watei
+在20世纪50年代报道了环碳酸酯与胺的开环反应生成含有羟基官能团的氨基甲酸
+缩聚或双氨基甲酸酯和二醇进行缩聚反应：i）通过多官能环碳酸酯与二胺开环的逐步
+在过去的几十年里，NIPU在科学界引起了极大的关注。文献报道了四种合成路线：
+些NIPU的合成路线在最近都有相关的综述已经发表14.22.303，并提供
+成方法的完整概述。在图1-3中的缩聚路线，可
+制备非异氰酸酯聚氨酯。然而，这些合成路线都需要使用光气或其衍生物进行合成原料
+最后，在聚氨酯材料后期处理时，PU被烧毁或被放入垃圾
+些物质都是非常有害的
+(44]。该路线虽没有任何副产物产生，但环氨基甲酸酯通常需要光气制备，光气和氮
+些学者声称由于羟基产生额外的氢键提高材料的热稳定性。但也有学者报道，由于羟基
+对聚合物稳定性的影响，使得热稳定性降低3045]。
+图1-3NIPU合成路线的示意图[22]
+Fig. 1-3 Schematic illustration of NIPU synthctic routes
+应机理：第一步是胺对环碳酸酯进行亲核攻击形成四面体中间体，第二个胺分子再次攻
+使用脂族环氨基甲酸酯的开环聚合D-3或氮丙啶开环聚
+温度对生成伯醇和仲醇影响比较大，反应的溶剂和不同的胺也有一定的影响。研究反应
+图1-环碳酸脂与按的反应机理14
+Fig. 14 Reaction mechanism of reaction between cyclic carbonate and amine
+降解环保性、高沸点、低气味和低毒性被用做有机溶剂.30、锂离子电解液、合成聚合
+物，特别是聚氨酯合成的中间体313。环碳酸酯是有机合成中非常常见的中间体或产物
+丘年来，环碳酸酯的合成方法得到了广泛的研究，并且这个的合成方法也有大量报道和
+氯醇法是分子链结构上有氯取代，同时在相邻碳原子上连有一个羟基的结构即为邻氯
+醇，邻氯醇化合物与碳酸盐或碳酸氢盐在季铵盐的催化下，常压条件下就可以制备出环
+酯的制备。但是目前环氧化合物-CO插入法研究比较多，该方法是在高压反应釜的条
+般泛天注
+CO的反应制备五元坏碳酸酯和录碳酸酯可以实块
+00%的原子经济反应，这种路线合成的碳酸酯不使用有毒的光气合成路线，
+氧原子和路易斯酸互相作用下进行亲核攻击打开环氧环，CO
+化剂等69。环氧化合物和CO反应的均相金属配合物类催化剂研究比较多，配体进行
+亲核或者与其他亲核试剂协调进攻的共催化。目前研究金属配合物催化剂的金属有：Co
+化剂也有很多的报道8。也有学者对非均相催化剂进行大量研究，其中添加一种相转移
+剂进行协助提高催化效果。但是目前大多数的催化剂只有在高温高压的条件下才能合
+件下进行反应合成碳酸酯是至关重要
+对环氧官能团进行亲核攻击开环生成O离子，再插入CO生成环碳酸酯。反应机理
+品和活性低，以
+为化学原材料合成有价值的产品需要很高的自由能
+Fig. 1-5 Reaction mechanism of reaction between cyclic cpoxide and CO
+TBAB）为催化剂，30个大气压的二氧化碳氛围、120C反应10h后制备获得对应的
+环碳酸酯，最后用胺与坏碳酸酯进行固化得到非异氰酸酯聚氨酯。与传统的聚要
+没有有毒的异氰酸酯作为原材料，同时使用了二氧化碳作为其中一种原料，符合绿色环
+环碳酸酯（PEC）和三甲基内烷环碳酸酯（TMC）。其中GGC固定二氧化碳量为22.4wt%
+PEC固定二氧化碳量为29.5wt%，TMC固定二氧化碳量为28.3wt%
+图1-6甘油、季戊四醇和三甲基丙烷三缩水甘油醚在催化剂条件下固定二氧化碳合成环碳酸酯4]
+无需高压条件，但是这种方法的缺点是环碳酸酯的产率不高。
+用甘油、三甲基内烷和季戊四醇基缩水甘油醚在四丁基溴化铵
+图1-7甘落糖醇和山裂醇合成环碳酸酯*
+Fig. 1-7 Cyclic carbonates from erythritol and sorbitol
+1.4.2合成环碳酸酯的催化剂研究进展
+单金属配合物的配体具有亲核性，这种配合物经常被用来做催化剂，有时被用来与
+其他亲核试剂协同催化可以达到更好的催化效果。单金属配合物催化的机理是环氧化合
+化合物/CO催化合成环碳酸酯，其中Cu²，Zn2+这两种催化剂的催化效果都非常好，平
+好的催化效果r87，但是钻元素有毒，对人体健康有危害。Fe2取代Co3+离子的配合物
+醚、丁二醇二缩水甘油醚和己二醇二缩水甘油醚100%转化为环碳酸酯[88，Fe2离子的
+配合物Fe（BPMCDAC）结构式如图1-8：
+Fig.1-8StructuresofFcBPMCDAC
+上的转化率，但是反应温度低于80℃时转化率不是很理想，整个实验通
+1.4.2.2双金属配合物催化剂
+双金属配合物是由两个金属元素为中心的配合物或者两个单金属配合物连接在一
+应压强太高不利于产业化。双金属配合物也可以和四丁基溴化铵进行协同共催化
+离子进行扮演着环氧官能团的第二步开环作用，提高催化效率。
+在环氧化合物与CO的反应中使用非金属催化剂合成环碳酸酯在1993年就开始有
+MPa的压强下将不同环氧化合物在CO2氛围下转化为环碳酸酯I。为了提高胺盐催化
+化剂的催化活性，通过该方法将TBAB功能化之后PC在相同条件下的产率从70%左右
+氮的质子化作用也可以提高环氧化合物与CO的反应，该反应的机理和-OH功能化
+是可以重复循环3次以上还存在很好的活性。也有学者将催化剂功能化接上-COOH，由
+催化机理与-OH功能化的胺盐相似
+1.4.2.4均相与非均相催化齐
+强都比较高，达不到产业化要求4，。但是，现在已经有学者研究其他方法来制备非均
+科都是通过比较强的共价键来链接固定好催化剂，确保在催化反应期间保持很好的稳定
+通过负载的方式将催化剂固定在其他材料上可以提高其在环氧化合物与CO2的反
+应的活性，例如，在二氧化硅表面负载上磷盐催化剂（SiO-[PrBusP]Br），该催化剂将
+负载在二氧化硅上之后，硅表面含有丰富的Si-OH，Si-OH作为亲电子试剂将环氧化合
+物的氧原子极化有利于开环。
+图1-9催化环氧化合物与二氧化碳的反应机理%
+Fig. 1-9 Reaction mechanism of reaction between cyclic epoxide and CO:
+也有学者将非均相催化剂ZIF-67实现在室温条件下合成环碳酸酯4，很
+载型催化剂在合成环碳酸酯上的应用，另外咪唑类催化剂，金属配合
+不同碳原子数的环碳酸酯与胺的反应动力学中起到主导性作用。在很多文献上已经
+对五、六和七元环碳酸酯进行了总结，环碳酸酯的环越大，环碳酸酯与胺开环反应的速
+进行反制备对应的NIPU来应研究他们的反应活性。通过测试聚合物的分子量和观察反
+应速率发现六元环碳酸酯的反应速率比五元环碳酸脂的大。激活六元坏碳酸酯与胺
+Fig. 1-10 Synthetic routes of NIPU
+相应的速度常数分别为0.02、1.19和48.5。
+Yuen等人o研究了N-8-C八元坏碳酸酯、五元和六元坏碳酸酯的反应活性进行对
+，通过研究动力学确认了八元环碳酸酯的反应活性大于五-和六-元坏碳酸酯。
+酸酯、五元和六元坏碳酸酯的反应活性进行对
+图1-11N-8-C、6-C和5-C与不同胺在50°C反应6小时的转化率[1]
+Fig. 1-11 Conversions from reactions with N-8-C, 6-C, and 5-C with less
+reactive amines,reactions were carried out at 50 °C for 6 h
+最多的，并且很多五元环碳酸酯的反应条件都比较成熟了，更加容易产业化。合成五元
+环碳酸酯最多的方法是在CO存在的条件下与环氧化物进行环加成反应制备环碳酸酯
+可持续发展方面应该不鼓励或者禁止使用这种原材料。因此，只1
+制备五元环碳酸酯，例如环氧化合物与二氧化碳122或者可再生资源植物甘油来制备
+六元坏碳酸酯，但反应转化率很大程度上取决于前体的结构和催化剂。尽管
+1.5.2胺结构对反应活性的影响
+同时伯胺比仲胺的反应活性更强，这些研究结果也得到由Webster等人的证实（124)。Nohra
+图1-12环碳酸酯与不同胺反应活性
+Fig. 1-12 Cyclic carbonate reacts with different amines
+1.5.3环碳酸酯与胺反应的催化反应
+根据文献的报道，环碳酸酯与胺的反应主要是在70℃-120℃之间进行固化反应，
+二级胺的反应温度更高，需要在150C以上才能进行[12$-128。由于固化反应温度高和反
+短时间内将环碳酸酯与已二胺反应，其中TBD的效果最为明显。接着将TBD作为催化
+剂来研究双酚A二缩水环碳酸酯与1,8-辛烷二胺在室温下固化反应，使用催化剂的产物
+Fig. 1-13 Chemical structures of catalys
+M.Blain等su在RobertH的基础上深人研究无机催化剂与有机催化剂在坏碳酸酯
+与胺的反应，研究结果显示有机催化剂的催化效果比无机催化剂好，有机催
+与thiourea在室温下催化效果最佳，该结果与RobertH的研究结果一致。丙烯配
+与不同的一元胺反应时，TBD的催化效果比thiourea好。但是，已胺与六元环碳酸酯反
+应时，thiourea的催化效果明显比TBD好。
+Fig. 1-14 Catalytic effects of different catalysts
+根据上述文献报道可知TBD和thiourea的催化效果比较有前景，但是目前研究室温
+固化的催化剂都只是停留在小分子单官能团五元坏环碳酸酯与单官能团二元胺的反应，需
+固化反应，有利于加速NIPU在多个领域的应用。
+品的性能，NIPU肯定会在更广泛的领域中使用，成为业界的一个亮点。一般来说，NIP
+胶黏剂、弹性体和涂料等领域得到应用。
+NIPU可用于制备具有良好性能的胶黏剂。NIPU工艺可用作飞机、火箭电子和组件
+的保护性密封剂。NIPU良好的性能，是因为结构中存在分子内氢键。粘合力强和长寿
+合物还用于民用、化学工厂以及纺织工业14。例如，CormilleA等131将二元换碳酸酯和
+三羟甲基丙烷三元环碳酸酯与二元胺EDR-148和CBMA合成出多种胶黏剂，该胶黏剂
+NIPU可用于制备具有良好性能的弹性体[133]。NanclaresJ.等[134]将双酚A二缩水甘
+该弹性体比较柔软，断裂伸长率最大可以达到2479%。也有学者合成了多官能度的星形
+相应的断裂伸长率为300%-90%的弹性体
+NIPU产品不仅可以替代传统聚氨酯在弹性体和胶黏剂等方面的应用。它还可以
+CornilleA等[li刀用三羟甲基丙烷三环碳酸酯（TMP-Tri-Cs)和聚环氧丙烷环碳酸酯
+Fig 1-15 Picture of the different NIPU foams
+1.6.4非异氰酸酯聚氨酯在涂料中的应用
+传统聚氨酯涂料具有优良的耐化学和耐磨性能，同时其表现出比较丰满和很好的光
+泽度，而NIPU涂料作为传统PU的替代材料具有良好的前景。NIPU在涂料中
+SabnisA等ll42用腰果酚二缩水甘油醚（NC-514）合成环碳酸酯再分别与己二胺和
+图1-16腰果酚基非异氰酸酯聚氨脂涂层的制备142
+Fig. 1-16 Preparation of cardanol-bascd non-isocyanate polyurethane coating
+MulhauptR143通过多面体齐聚倍半硅氧烷（POSS）来制备POSS多官能环碳酸
+和季戊四醇环碳酸酯（PGC）来制备
+高到1400MPa，拉伸强度从12.5MPa提高到46.3MPa，玻球
+高可以提高到1400MPa提高率达到4400%，该研究说明无机物二氧化硅对NIPU的性
+图1-17多功能POSS坏碳酸酯结构式+
+Fig. 1-17 Chemical structures of multifunctional POSS cyclic carbonates
+1.7.1杂化非异氰酸酯聚氨酯
+杂化NIPU（HNIPU）是将例如环氧树脂、二氧化硅或硅氧烷的基团引入到NIPU
+夺于管架中以形成互穿网络4期。
+杂化后可以同时兼有NIPU和引入基团的特性，从
+而可以提高NIPU的性能。最常用的HNIPU是通过环碳酸酯基团、环氧基团和氨基低
+机物的改性。HNIPU应该是归类为有机改良NIPU。还有许多人研究了用可再生生物材
+NIPU，环氧树脂很容易与常见的固化剂-脂肪族多胺发生交联反应。考虑到环碳酸酯、
+杀化NIPL
+氧树脂似乎是非常理想的材料与坏碳酸酯进行制备杂化
+人在上世纪80年代通过双酚A环碳酸酯与双酚A环氧树脂和三乙烯四胺（TETA）进行反
+TETA固化的改性树脂进行了研究他的力学和热力学性能。发现热分解温度、耐冲击性
+能和铅笔硬度也都提高了。这和没有杂化改性的NIPU相比，是由于用环氧树脂提高了
+拉伸强度明显比未改性树脂的高。当环氧树脂的含量更高的时候，拉伸强度比未改性环
+方法得到使用。许多公司和世界各地的研究中心进行了密集的研究环碳的合成新方法和
+聚氨酯。目前非异氰酸酯材料开发是美国处在世界领导地，
+的环碳酸酯使NIPU获得一些新的性能I34133。含有氨基的低聚物可以与环碳酸酯反应
+形成含有硅氧烷的NIPU。孔振武等以没食子酸为原料来制备没食子酸基环碳酸酯
+然后再将多面体齐聚倍半硅氧烷（POSS）来改性没食子酸基环碳酸酯，最后再与不同
+图1-18POSS改性没食子酸基非异氰酸能聚氨脂涂层的制备1%
+Fig. 1-I8 Preparation of POSS-moditicd gallic acid-bascd NiPU coating
+孔振武等15还用有机硅环碳酸酯（CCPS）进行改性没食子酸基环碳酸酯制备杂化
+提高，热分解温度也得到提高，玻璃化温度呈现下降的趋势。孔振武和刘贵锋等3还用
+丙烯基缩水甘油醚和聚甲基硅氧烷（PMHS）在催化剂HPtCI·6HO的催化下进行
+强度可以达到35MPa。
+图1-19聚甲基硅氧烷基环碳酸酯的制备[137
+ig-1-19PreparatonofPMHS-bascdcvciiccarbonate
+米二氧化硅进行改性，提高NIPU涂层的硬度、韧性和其他方面的性能13。纳米二氧化
+随者有机硅坏碳酸酯含量的增加，改性后的涂层比改性前的涂层的铅笔硬
+宿水甘油醚，然后再将合成的缩水甘油醚与二氧化碳在2.0MPa、四丁基
+模量都相应的增加。通过热重分析的残余灰分和热分解温度的结果表明该纳米复合材料
+传统聚氨酯涂料已经被广泛应用在生活的各个领域，特别是经过改性赋予很多功
+通过引入含有机氟或者有机硅化合物进行改性聚氨酯涂层。特别是引入C-F基团后，含
+的静态接触角提高到110左右，表现出很好的疏水性能。这是由于接上全氟辛基乙醇之
+鼠酸酯聚氨酯涂料的功能化将成为未来的研究重点之一
+水、疏油、防污和耐腐蚀等功能。其中防污涂料表面通常含有低表面张力
+而，具有疏水、疏油和耐腐蚀等功能的非异氰酸酯聚氨酯涂料很少看到相关的报
+1.8水性聚氨酯涂料的研究
+传统溶剂型聚氨酯涂料含有大量的溶剂挥发性有机化合物（VOC），而VOC对大气
+和人类健康有毒和有害l62-16。在低VOC技术中，非溶剂型聚氨酯涂料是一种非常好的
+WPU在过去几十年的研究中发现其具有良好的耐磨性、桑
+口时化孚件171,173-179
+。水性聚氨酯的合成方法主要是外乳化法和自乳化法
+自乳化法，该方法不需要添加乳化剂，靠预聚体分子结构上的亲水基团实现水性化
+固化剂与乳液固化制备的涂层具有优异的硬度和、拉伸强度和耐水性性能。Esteves等180
+然而非异氰酸酯聚氨酯的制备大多数是使用DMF做溶剂，目
+的报道。所以水性非异氰酸酯聚氨酯涂料成为未来的研究重点。本论文将参考传统聚氨
+酯水性化的自乳化方法来实现非异氰酸酯聚氨酯的水性化
+传统的聚氨酯具有优异的性能并且被广泛应用在涂料领域。尽管聚氨酯具有良好的
+异氰酸酯和光气法对环境和人体健康都有很大的危害。相比而言，非异氰酸酯聚氨酯
+但是，制备聚氨酯需要使用异氰酸酯-NCO，而异氰酸酯的制备需要使用光气法
+酯聚氨酯涂料，研究其结构与性能的调控规律
+（1）以双酚A环氧树脂E-51和CO2为原料制备EC-51环碳酸酯，然后碳酸酯/伯胺
+的测试来研究涂层的光泽度、耐冲击、柔韧性、附者力、硬度、耐化学性能和热稳定性
+2.）双邮AF
+科制备EC-A
+通过研究不同比例的
+后制备的F-NIPU涂层
+研究不同比例的PFGC环碳酸酯对涂层表面的水、二碘
+时研究涂层对食用油、真空泵油的疏油效果和耐腐蚀效果、
+得到水性山梨醇基环碳酸酯分散体。通过马尔文粒度仪来研究水性山梨醇基环碳酸酯分
+和BTDC环碳酸酯水分散体分别与不同的二元胺固化后的涂层WNIPUs研究光泽度
+端的预聚物，将坏碳酸酯预聚体与PEI在室温条件下固化得到E-NIPU
+抗冲击性能、附着力、柔韧性和硬度、耐化学性能和热稳定性能规律。
+（1）将EC-51环碳酸酯与二元胺反应制备环碳酸酯封端的预聚物EC-51-P，再与
+PEI反应制备E-NIPU涂层，实现了E-NIPU的室温固化。该方法方便通过二元胺的种
+类和漆加量调控EC-51-P预聚物分子量和E-NIPU涂膜性能
+（2）为提高NIPU涂膜的耐化学品性，采用双酚AF环氧树脂和全氟辛基缩水甘油
+具有优异的防沾污性能，
+（3）分别采用丁二酸酐、马来酸酐和邻苯二甲酸酐与山梨醇基环碳酸酯SC的羟基
+发生半酯化反应，将羧基引入到环碳酸酯的分子链上，经中和、乳化，制备水性山梨醇
+酯水分散体。该技术制备的水性S-WNIPU，不含有机溶剂，涂膜具有优异的物理和
+优异耐化学品性和高硬度。采用该方法在常压下制备水性WNIPU涂料具有工艺简单、
+第二章室温固化非异氰酸酯聚氨酯的制备及性能研究
+聚氨酯被广泛用在涂料、粘合剂、泡沫、纺织和包装等领域，因为它具有优异的表
+酸酯化合物的毒性对环境和人体的健康是有害的1188-195]。因此，科
+按的开环反应制备非异氰酸酯聚氨酯（NIPU）这种环境发好型的合成路线越来越感兴
+7-甲基-1.5.7-三氮杂双环[4.4.0]癸-5-烯（MTBD）、硫脲、LiC1、1,8-二氮杂双环[5.4.0]十
+研究发现TBD具有较高的催化效率，并且能够在2.5小时后单官能度的环碳酸酯与胺可
+化剂的情况下实现在室温条件合成NIPU，Yuen等llo5人使用五元、六元和八元环碳酸酯
+碳酸酯与已二胺无需任何催化剂在室温的条件下获得了NIPU。然而，到目前为止没有
+看到任何五元环碳酸酯与胺无需任何催化剂在室温条件能够实现NIPU的合成200
+的硬度从2H提高到3H。他们还使用POSS来改性没食子酸和菇烯基NIPU涂料[156.203]，
+发现涂膜的硬度从1H增加到3H，使用POSS的量为16-20%，其中固化的温度为150℃
+性、耐磨性、时候性和耐化学性81-小。尽管聚氨酯具有良好的性能，但是异氰
+的试剂均未进一步处理直接使用，
+本章实验所使用的合成设备及分析测试仪器如表2-1所示
+表2-1实验设备及仅器
+Table 2-1 Instrumcnts and apparatus
+C-51，然后与
+有二元胺反应来合成不同分子量的坏碳酸酯基团的预聚物
+第二草室温固化非异氰酸能聚氨脂的刷备及性能研究
+得到粘稠液体的租产品，再溶解到二氯甲烷中，用水来萃取，重复3次完全除去粗产品
+将样品EC-51环碳酸酯溶解在二甲基甲酰胺（DMF）中，加入可变比例的异佛尔酮
+将环碳酸酯预聚体与聚乙烯亚胺（PEI）混合，其中环碳酸酯官能团：伯胺按照物
+质的量的比为1：1进行，搅拌3-10分钟后用50um的涂布器进行在木板、马
+板上进行刮膜，放在室内室温固化，然后测它的表干时间和实干时间，5天后进行测涂
+膜的各种性能，
+Fig. 2-1 Synthetic routes of E-NIPU coatings
+2.6.1EC-51环碳酸酯与E-NIPU涂层的红外测试
+红外光谱是属于分子的振动一转动光谱，它的吸收峰所在的位置和峰的强度可以反
+映该化合物分子的骨架结构特征，通过红外光谱图可以分析确定该化合物分子结构上所
+含有的某些特征官能团。使用KBr压片法，取少量的E-NIPU涂层研磨成粉末，将KB
+粉末搅拌均匀再压成KBr品片或将EC-51环碳酸酯树脂溶解在CHCL中，取微量的订
+液滴到KBr片上，用红外灯烘十KBr片后再进行红外测试，使用的是日本Shimadz
+2.2.6.2EC-51环碳酸脂的核磁共振氢谱
+核磁共振氢谱（HNMR，400MHz）。通过分析核磁氢谱图中特征峰的化学位移来分析
+从而确定环碳酸酯树脂结构
+利用美国Agilent公司1260型凝胶渗透色谱仪（配示差折光检测器）测试EC-51-
+预聚体样品的分子量及分子量分布指数。以四氢呋喇为流动相，流动相流速1mL/min
+环氧值的滴定按照标准GB/T1677-2008
+利用德国NETZSCH公司DSC214型差示扫描量热仪测试E-NIPU涂层样品的玻璃
+化转变温度（Tg）。称量5~10mg的样品，在N氛围，由-20°C升温到120°C，升温速
+率10°C/min
+利用美国TA仅器公司SDTQ600型热重-差热联用分析仪测试以EC-51-P预聚体和
+速100mL/min，升温速率为10°C/min先升温到100℃后保温5min，再升温到600℃。
+2.2.6.7E-NIPU漆膜的制备及漆膜性能测试
+以DMF为溶剂将EC-51-P预聚体稀释至固含量50%，按照环碳酸酯：伯胺摩尔比
+口铁和玻璃板上进行刮膜，放在室内室温固化5天后测试漆膜的附着力、抗冲击性、光
+9117-3和GB/T1728-1979（1989）：凝胶时间的测试标准按照ISO2535:2001：涂料施工
+活化期的测试使用NK-2型岩田黏度林（日本ANESTIWATA公司）
+在四聚氟乙烯模板上固化好E-NIPU涂层后，称量总质量为W，然后将涂层侵泡在
+为W，吸水率或吸申苯率用（W%表示，计算公式如下：
+通过不同的反应时间和压强来研究EC-51环碳酸酯的反应条件，图
+0压强和130°C反应8小时所制备的EC-51样品的红外光谱。红外图谱显示在913cm
+是环氧官能团的特征峰随者反应CO压强的逐渐增加而逐渐减弱，
+的峰随着反应中CO压强的增强而增强。表明CO成功插入环氧官能团生成了环碳酸酯
+时间的逐渐增加，在913cm处的环氧特征峰逐渐减弱，到反应时间为6小时之后，
+氧基团完全消失，说明此时环氧基团已经完全转化为环碳酸酯官能团。
+图2-2在不同压强和130°C反应8小时的EC-51红外光谱
+Fig. 2-2 FTIR spectra of EC-51 at 130 °C with different pressure for 8 h
+第二草室温固化非异氰酸能聚氨脂的刷备及性能研究
+图2-3在0.6MPa压强，130°C不同反应时间的EC-51红外光语
+Fig. 2-3 FTIR spectra of EC-51 at 130 °C with 0.6 MPa for different times
+2.3.2EC-51环碳酸酯的核磁共振氢谱
+Fig. 2-4 'H NMR spectrum of E-51 and EC-51
+图2-4是E-51环氧树脂和EC-51环碳酸酯的核磁共振氢谱。核磁氢谱显示在EC-51
+核磁图中对应的位置62.62-2.86ppm处的坏氧基团的特征峰完全消失了，而在6
+明了E-51环氧树脂已经完全转化为EC-51环碳酸酯。环
+催化剂，在130°C，0.6MPa的氛围反应6h
+.3.3EC-51-P预聚体的粘度及其凝胶渗透色谱
+表2-2是EC-51-P预聚体的粘度和GPC的测试结果分子量和分子量分布指数
+PDI），其结果显示随者坏碳酸酯：IPDA的比例的增加，预聚体的粘度
+同时对应的预聚体的分子量也逐渐增加，这是由于IPDA含量的增加，逐渐增大预聚体
+的链长从而是EC-51-P预聚体的分子量增大
+表2-2EC-51-P的分子量和粘度
+rable 2-2 The molecular weight and viscosities of EC -51-P
+mcasured by by Brookfield LVT rotational viscomcter
+图2-5是不同比例制备的预聚体的红外光谱，红
+外光谱图中的酯炭基（-C（O）O-）的特征吸收峰逐渐增强，说
+炭基的含量逐渐增多，这和前面的GPC和粘度的测试结果一致。
+图2-5EC-51-P预聚体的红外光谱
+2.3.5EC-51环碳酸酯与不同胺固化的红外光谱
+图2-6是EC-51环碳酸酯与丁二胺在室温固化的红外光谱。红外光谱显示EC-51环
+碳酸酯与丁二胺在室温固化5天后在红外光谱显示在1710cm归属于氨基甲酸酯中的
+酯颖基（一C（O）O一）的特征吸收蜂随者固化时间的增加逐渐增强，但是
+甲的脂规举（一
+酯与PEI-400可以在室温条件下无需其他催化剂就可以固化成膜。这是超支化结构的PEI
+环碳酸酯与PEI-400实现了在室温开环反应固化成膜
+非常明显，说明EC-51坏碳酸酯与丁二胺在室温不能完全固化，
+图2-6EC-51与丁二胺在室温固化的红外光谐
+Fig. 2-6 FTIR spectra of EC-51cured with butancdiamine at room temperaturc
+图2-7EC-51与PEI-400在室温固化的红外光谐
+Fig. 2-7 FTIR spcctra of EC-51cured with PE1-400 at room temperaturc
+3.6聚乙烯亚胺分子量对施工活化期的影响
+在室温固化的涂料需要考虑其活化期（potlife），活化期是指涂料在施工时的固含
+随着固化剂PEI的分子量从400到4000的增加趋势，涂料的活化期从90分钟遂渐降低
+所以活化期降低。综合考虑我们选择PEI-400作为固化剂
+表2-3聚乙烯亚胺的分子量对E-NIPU的活化期和干燥时间的影响
+Table 2-3 The M of PEIs on the pot life and dry properties of the E-NIPUs
+ The solid content of E-NIPUs was 50% in DMF
+2.3.7不同分子量预聚体EC-51-P对施工活化期的影响
+根据2.3.6的研究结果证明EC-51环碳酸酯与PEI-400直接反应的速率太快，活化
+期只有90分钟，凝胶时间只有3小时，没有达到正常涂料使用的要求，通过制备不同
+分子量的预聚体来提高涂料施工的活化期和凝胶时间
+表2-4EC-51-P对E-NIPU的活化期和干燥时间的影响
+Table 2-4 The pot life and dry properties of the E-NIPUs from EC-51-P
+ The solid content of NIPUs was 50% in DMF
+E-NIPU-6的活化期随着预聚体分子量的增加而减少，这是由于预聚体分子量太大并且
+2.3.8室温固化E-NIPU涂层的红外光谱
+预聚体与PEI-400已经充分反应了
+图 2-8 EC-51-P3、E-NIPU-0 和 E-NIPU-3 的红外光诸
+Fig. 2-8 1R spectra of EC-51-P3, E-NIPU-0 and E-NiPU-3
+表2-5E-NIPU涂层的性能
+Table 2-5 Properties of the E-NIPU coatings
+ Impact resistance was measured on the impact tester with maximum height of 1o0 cm and load of 1 kg:
+Adhcsion was tested by cross cut: ° The hardness was mcasured on glass platc
+过红外光谐来研务
+炭酸酯预聚体与PEI-400在室温固化成膜的反应情况。图2-8
+的吸水率都远远市
+这是由于E-NIPU涂层里结构中含有大量的亲水
+应的就减少了，导致涂层的交联密度有所下降，降低了涂膜的致密性，所以最终涂层的
+表2-6E-NIPU涂层的性能
+Table 2-6 Properties of the E-NIPU coatings
+DSC 10 K/min,-20-120 °C; *TGA, 10 K/min , 25600 °C, N.; ° Degree of swelling after 24 hours
+表2-7E-NIPU涂层的耐化学性能
+Table 2-7 Chcmical resistance properties of E-NIPU coatings
+A No effect; B  loss of gloss; C  blistering; D  film removes
+"The chemical resistance were evaluated by immersion method after 24 hours
+投有起泡之类的。但是5%HSO对涂层的影响非常大，24小时候发现涂层已经脱离地
+材，发黄起泡，这是由于H2SO4与涂层中的-NH2和-NH-发生反应生成-NH的原因。
+2.3.10E-NIPU涂层的玻璃化温度和热稳定性分析
+E-NIPU涂层的的玻璃化温度（Tg）通过DSC来测试，其测试结果如图2-9和表2-6
+所示。根据图2-9可以发现所有的E-NIPU都只有一个玻璃化温度，这说明所有的E-NIPU
+状结构，提高了涂层的玻璃化温度，这和涂层的硬度测试结果相吻合，在同一个涂层体
+系里面玻璃化温度越高，涂层的硬度也就越高，
+图2-10E-NIPU涂层的热分解温度
+Fig. 2-10 TG curves of the E-NIPU coatings
+着涂层中IPDA含量的增加，涂层的初始分解温度也逐渐提高，说明IPDA对涂层耐热
+性能有所提高，
+（2）以IPDA为扩链剂制备不同分子量的环碳酸酯预聚体，GPC数据显示EC-51-P
+环碳酸酯预聚体的分子
+55之间，分子量随春IPDA
+E-NIPU-3和E-NIPU-4的活化期都超过4小时，
+3E-NIPU涂层具有很好的光泽度、耐冲击、柔韧性、附者力和硬度。其中E-NIPU-0
+的铅笔硬度是最低的，从E-NIPU-0到E-NIPU-6随者IPDA比例的增加，涂层的硬度也
+是逐渐增加的趋势，最高达到2H，同时由于IPDA的含量增加，多官能度的PEI-400相
+三章疏水疏油非异氰酸酯聚氨酯涂料的制备及其性能
+研究
+传统的聚氨酯具有优异的性能并且被广泛应用在涂料领域习。然而，制备聚氨酯需
+使用异氨酸能-
+，而异氰酸酯的制备需要使用光气法，异氰酸酯和光气法对坏境
+和人体健康都有很大的危害42.206-209。为了避免这种前驱体对人类的危害，通过环确
+环碳酸酯后制备的NIPU材料，该研究发现当POSS的含量达到60%时，材料的吸水率
+可以降至22%。在本论文的第二章我们通过双酚A环氧树脂E-51和CO2在0.6MPa，
+山梨醇基非异氰酸酯聚氨酯，具有很好的物理性能，但是涂层的疏水疏油性能不理想，
+当光滑涂层表面上的水滴的接触角（CA）高于90时，认为涂层具有良好的疏水性
+将含氟化合物引入到非异氰酸酯聚氨酯链上将可以改善非异氰酸酯聚氨酯涂层的疏水
+非异氰酸酯聚氨酯涂料
+1.210.211，环碳酸酯通过环氧化合物与CO2在催化剂和高压条件下
+双龄AF坏氧树脂E-AF（工业级，环氧值为0.380mol/100
+0g，安徽恒远新材料有限
+公司）：全氟辛基缩水甘油醚PFGE（工业级，环氧值为0.187mol/100g，安徽恒远新材
+有限公司），四）基澳化铵（TBAB）（分析纯，上海阿拉」生化科技有限公司）：氢宰
+二甲基甲酰胺（分析纯，国药集团化学试剂有限公司）：试剂均未进一步处理直接使用。
+本章实验所使用的合成设备及分析测试仪器如表3-1所示
+表3-1实验设备及仅器
+Table 3-1 Instruments and apparatus
+3.2.3EC-AF环碳酸酯的制备
+EC-AF坏碳酸酯的制备流程如下：称量300g双酚AF环氧树脂E-AF，催化剂为
+时，反应结束之后，降温到60C之后，排空反应釜内的CO气体，取出产品，得到粘
+调液体的产品，样品冷却到室温之后是淡黄色固体，
+3.2.4PFGC环碳酸酯的制备
+PFGC环碳酸酯的制备流程如下：称量300g全氟辛基缩水甘油醚PFGE，催化剂为
+粘稠液体的产品，样品冷却到室温之后是淡黄色营状物
+将EC-AF环碳酸酯溶解在DMF溶剂中（PFGC环碳酸酯在涂层中的含量为
+6-3wt%），其中环碳酸酯官能团：伯胺按照物质的量的比为1：1进行。搅拌3-10
+钟后用50um的涂布器进行在马口铁和玻璃板上进行刮膜，在12
+图3-1PFGC，EC-AFandF-NIPU涂层的合成路线图
+Fig. 3-1 Synthetic routes of PFGC, EC-AF and NIPU coatings
+3.2.6结构表征与性能测试
+型傅里叶变换红外光谱仪采集样品的红外光谱图，扫描32次，扫描范围4000~400cm，
+以尔代二甲基业矾（DMSO-d6）为溶剂溶解EC-AF环碳酸酯树脂样品，以四甲基
+的核磁共振氢谱（HNMR，400MHz）。通过分析核磁氢谱图中特征峰的化学位移来分
+析从而确定环碳酸酯树脂结构
+CDC1-&）为溶剂溶解PFGC坏碳酸酯树脂样品，以四
+400MHz）。通过分析核磁氢谱图中特征峰的化学位移来分析从而确定环碳酸酯树脂结
+3.2.6.4EC-AF环氧值滴定
+环氧值的滴定按照标准GB/T1677-2008
+利用德国NETZSCH公司DSC214型差示扫描量热仪测试F-NIPU涂层样品的玻璃
+3.2.6.6F-NIPU涂层热稳定性
+利用美国TA仅器公司SDTQ600型热重-差热联用分析仪测试F-NIPU漆膜的热分
+解行为。称量5-10mg的样品，在N2氛围，其中N2流速100mL/min，升温速率为10°C/min
+先升温到100C后保温5min，再升温到600°C。
+3.2.6.7F-NIPU漆膜的制备及漆膜性能测试
+将EC-AF环碳酸酯溶解在DMF溶剂中（PFGC环碳酸酯在涂层中的含量为
+除层的接触角用接触角测量仪来测试，用于测接触角的液满体积为5正，在不同付
+在四聚氟乙烯模板上固化好F-NIPU涂层后，称量总质量为W，然后将涂层侵泡在
+水或者甲苯中，室温保持24小时后取出用滤纸吸干漆膜表面的水或甲苯再称量总质量
+EC-AF坏碳酸酯是迪过E-AF坏氧树脂和CO2在2wt%的TBAB催化剂，2.0MPa
+ () () 
+Fig. 3-2 FTTR spcctra of E-AF (a), EC-AF (b) or NiPU-4
+PFGC坏碳酸酯是通过PFGE环氧树脂和CO在2Wt%的TBAB催化剂，2.0MP
+是PFGE坏氧树脂和EC-AF坏碳酸酯的FTIR光谱。曲线
+征吸收峰已经完全消失了。说明了在该反应条件下PFGE环氧树脂已经完全转化为
+3.3.3EC-AF环碳酸酯的核磁共振氢谱
+通过H-NMR核磁共振氢谱和滴定方法测试环氧基团向环碳酸酯的转化率。图3-
+和图3-5分别是E-AF环氧树脂和EC-AF环碳酸酯的核磁共振氢谱，通过两个图的对比
+氧值滴定方法测试也没有发现环氧基团的残余，结合红外光谱和H-NMR核磁共振氢
+的结果，说明了E-AF坏氧树脂已经完全转化为EC-AF坏碳酸酯，
+3.3.4PFGC环碳酸酯的核磁共振氢谱
+3-6和图3-7分别是PFGE环氧树脂和PFGC环碳酸酯的核磁共振氢谱，通
+该峰归属于PFGC的坏碳酸酯基团特征吸收峰。并且
+环氧值滴定方法测试也没有发现环氧基团的残余，结合红外光谱和H-NMR核磁共振氢
+谱的结果，说明了PFGE坏氧树脂已经完全转化为PFGC坏碳酸酯
+3.3.5F-NIPU涂层的红外光谱
+3.3.6F-NIPU涂层的性能
+用不同的二元胺固化EC-AF坏碳酸酯制备疏水蔬油F-NIPU涂层，对应的涂层的性
+能列于表3-2和表3-3中。表3-2显示用IPDA做固化剂制备的F-NIPU-1涂层具有很高
+表现出优异的硬度和附着力。从F-NIPU-2到F-NIPU-5涂层随着二元胺碳链的增长，对
+优异的抗冲击性、柔韧性和相对比较高的硬度，
+Table 3-2 Propertics of the F-NIPU coatings
+sured on the impact tester with maximum height of 1o0 cm and load of 1 kg:
+Adhcsion was tested by cross cut: ° The hardness was measured on glass plates
+接触角（CA）值是F-NIPU涂层表面敏感性指标。在光滑涂层表面上，水或油的最
+大静态接触角永远不会超过120229,230]。疏水涂层的水静态接触角大于90°。F-NIPU涂
+通过测量水、二碘甲烷和十六烷的液满在这些涂层表面上的接触角
+吸水率稍微有所增加，这些都是归因于CF；含量在整个涂层中的密度的降低而导致的，
+表3-3F-NIPU涂层的性能
+Table 3-3 Properties of the F-NIPU coatings
+然而，通过二元胺直接与EC-AF固化制备的F-NIPU涂层的疏水疏油的性能还不是
+非常的理想。这些涂层的疏水疏油性能还需要进一步提高。综合考虑涂层的硬度、柔韧
+层的蔬水疏油性能已经没有再增加。这是由于当涂层中PFGC的含量大于2.5wt%时，
+、二碘甲烷和十六烷接触角分别为79.3~82.4，56.3~61.6°和
+击性。随者PFGC含量从F-NIPU-6增加到F-NIPU-11，它们的摆杆硬月
+司时考虑到F-NIPU涂层的物理性能和蔬水蔬油性能
+们选择F-NIPU-10涂层的性能是最佳的，
+表3-4F-NIPU涂层的性能
+Table 3-4 Propertics of the F-NIPU coatings
+n height of 100 cm and load of 1 kg: 
+r with maximum height of 1O0 cm and load of 1 kg:
+urcd ohi glass plate:
+Adhesion was tested by cross cut; * The hardness was measured on glass plates
+图3-8不同含量PFGC的F-NIPU涂层中水、二确甲烷和十六烷的接角
+通过原子力显微镜（AFM）来分析涂层的表面租糙程度，从3-9的
+只有1.6nm，表面租糙值（Rg）为0.43nm。
+Fig. 3-9 A three-dimensional (3D) AFM images of the F-NIPU coating
+肪族二元胺的结构更加柔软。表3-6显示，从F-NIPU-6到F-NIPU-11，随着PFGC含量
+增加，涂层的Tg值逐渐降低，这是因为PFGC是长链的软段结构
+表3-5F-NIPU涂层的性能
+Table 3-5 Properties of the F-NIPU coatings
+DSC 10 K/min, -20-120°C; * TGA, 10 K/min, 25600 °C, N2
+图3-9F-NIPU涂层的三维（3D）AFM图像
+第三章疏水疏油非异氰酸酯聚氨酯涂料的制备及其性能研究
+表3-6F-NIPU涂层的性能
+Table 3-6 Properties of the F-NIPU coatings
+DSC 10 K/min, -20-120°C: * TGA, 10 K/min, 25600 °C, N2
+Fig. 3-11 DSC curves of the F-NIPU coatings
+3.3.10疏水疏油F-NIPUs涂层热稳定性分析
+用TGA来研究F-NIPU涂层的热稳定性，测试结果如图3-12和图3-13所示。涂层
+热稳定性随着线性脂肪族二元胺的碳原子的增加而增加，这是因为涂层中氨基甲酸酯基
+Fig. 3-13 TG curves of the F-NIPU coatings
+3.3.11F-NIPU涂层的琉油性能研究
+具有很好的疏水疏油性能，进一步验证涂层对不同油的润湿效果，将该游
+铁上进行测试。将马口铁插入到装有食用油的烧杯中，然后提起马口铁，红色线的上端
+分的食用油完全收缩并且全部脱离了涂层表面，但是，红色线上端没有涂层的马口铁表
+油均匀的平铺在马口铁上，然后有涂层的那部分马口铁表面的真空泵油遂渐地收缩并且
+因。说明该系列的涂层具有非常好的疏水疏油和抗污性能，在一些输油管道或者其他工
+业领域有潜在的应用前景。
+在F-NIPU涂层表面和马口铁表面的行为图像
+Fig.3-14（a)Imagcsof1
+omethane, and hexadecanc
+on the coating; Behavior of the F-NiPU coatings coated and uncoated tin plates with cooking oil (b) and
+水、二碘甲烷和十六烷的静态接触角如图3-14（a）所示，涂层
+上水、二碘甲烷和十六烷液滴的接触角图像：食用油（b）和泵油（c）
+3.3.12F-NIPUs涂层的防腐性能研究
+为了增加涂层的应用领域，将涂层F-NIPU-10进行防腐蚀性能测试。将马口铁侵泡
+在浓度为10wt%的NaC1溶液中，侵泡不同的时间之后取出来用照片记录下来，测试结
+异的疏水疏油和队
+-NIPU-10涂层还可以保护金属基材避免在恶劣的化
+学环境中受到腐蚀，可以在海洋防腐蚀领域有潜在的应用
+图3-15将一块未涂覆和涂覆F-NIUP-10涂层的马口铁浸入10w1%NaC1溶液不同时间的照
+wt% NaCl solution for different times
+酯和PFGC环碳酸酯：然后按照环碳酸酯官能团：伯胺的摩尔比为1:1进行在120C下
+固化2小时制备一系列的F-NIPU涂层
+，通过研究不同比例的PFGC环碳酸酯与EC-AF环碳酸酯复合之后制备的F-NIPU
+面的水、二碘甲烷和十六烷的接触角分别增加到106.7°、80.2°和72.7°。
+有优异的疏水疏油性能，对食用油和真空泵油都有很好的疏油效果，同时
+具有很好的耐腐蚀效果，将马口铁侵泡在浓度为10wt%的NaC1溶液中，经过500
+时以后也没有发现有任何变化，没有出现生锈的现象，
+第四章山梨醇基环碳酸酯分散体及其水性非异氰酸酯聚
+氨酯涂料的制备与性能研究
+在聚合物材料中，聚氨酯（PU）材料因为具有广泛应用而闻名。它已被广泛用于密
+封剂、涂料、塑料、粘合剂、泡沫和纺织品等方面158232-234。传统的聚氨酯通常是通过
+最多的。五元环碳酸酯通常是通过环氧树脂和二氧化碳在高压条件下反应而获得[24248。
+二氧化碳被认为是主要的温室气体，同时也是一种很容易获得的碳源，它由于无毒、廉
+大多数NIPU的制备的原料都是来自石化资源，为了提高可持续发展，可再生资源，
+碳酸化的大豆油（CSBO）。然后，用二元胺固化CSBO制备NIPU材料，该材料的玻璃
+化转变温度为17C-60C。Br等[250人报道了一种菇烯基的非异氰酸酯聚氨酯，这种
+菇烯基的NIPU具有高杨氏模量，高玻璃化转变温度和低断裂伸长率，可用于生产弹性
+体、热塑性塑料和胶黏剂。
+然而，目前很多报道的环碳酸酯都只是能够溶解在有机溶剂中。Kong等202人使用
+松香基环碳酸酯和胺合成一系列松香基NIPU涂料，并使用多面体低聚倍半硅氧烷
+POSS）改性松香基NIPU涂料。该NIPU涂料的铅笔硬度从2H增加到3H，他们还研
+好的热稳定性I56.203。但是，这些NIPU涂料使用含有大量的有机溶剂，尤其是有毒的
+碳酸酯树脂（SC），再分别将丁二酸酐（SA）、邻苯二甲酸酐（PA）和马来酸酐（MAH）
+进行接枝改性引入-COOH，然后用三乙胺（TEA）将山梨醇基环碳酸酯改性引入亲水基
+S-WNIPU)。本章的研究目的是实现环碳酸酯的水性化，减少VOC排放。研究了不同
+的二元胺胺和HMDA/IPDA摩尔比对S-WNIPU涂层性能的影响，
+山梨醇环氧树脂（工业级，环氧值为4.1molmol，深圳市佳迪达化工有限公司）：
+国药集团化学试剂有限公司）：异佛尔酮二胺（工业级，淮南市科迪化工科技有限公司）
+本章实验所使用的合成设备及分析测试仪器如表41所示
+表41实验设备及仪器
+Table 4-1 Instrumcnts and apparatus
+（分析纯，国药集团化学试剂有限公司）：盐酸（分析纯，
+第四草山梨醇基环嫉酸酯分散体及其水性非异氰酸酯聚氨酯涂科的制备与性能研究
+4.2.3山梨醇基环碳酸酯的制备
+滴定测量证明环氧官能团完全转化为环碳酸酯时终止反应。通过加入不同量的TBAB
+改变反应温度和CO压强来研究坏氧基团转化为坏碳酸酯的动力学
+4.2.4丁二酸酐（SA）-马来酸酐（MAH）-邻苯二甲酸酐（PA）基环碳酸酯
+水分散体的制备
+将SC（200g）和SA/PA/MAH（理论酸值=25-40mgKOH/g）置于1L的三颈烧
+瓶中并用干燥氮气保护。将该混合物加热到（90-130C）反应，通过氢氧化钾滴定法测
+定产物的酸值达降到理论值时停止反应。然后将反应温度降到40℃，中途加入丙酮降
+将环碳酸酯水分散体和各种胺混合，其中环碳酸酯官能团：伯胺按照摩尔比为1:1进
+行分散，最后旋蒸除去丙酮得到30-40wt%固含的环碳酸酯水分散体。
+Fig.4-2 Synthetic routes of SSC, PSC and MSC
+4.2.6.1山梨醇基环碳酸酯与S-WNIPU涂层的红外测试
+红外光谱是属于分子的振动一转动光谱，它的吸收峰所在的位置和峰的强度可以反
+决该化合物分子的骨架结构特征，通过红外光谱可以分析确定该化合物分子结构上所
+CHC1中，取微量的该乳液滴到KBr片上，用红外灯烘十KBr片后再进行红外测试
+4.2.6.2山梨醇基坏碳酸酯的核磁共振氢谱
+III400型核磁共振谱仪采集样品的核磁共振氢谱（HNMR，400MHz）。通过分析核磁
+氢谱图中特征峰的化学位移来分析从而确定环碳酸酯树脂结构
+环氧值的滴定按照标准GB/T1677-2008
+利用德国NETZSCH公司DSC214型差示扫描量热仪测试S-WNIPU涂层样品的玻
+璃化转变温度（T）。称量5~10mg的样品，在N2氛围，由-20°C升温到120°C，升温
+速率10°C/min
+利用美国TA仅器公司SDTQ600型热重-差热联用分析仪测试以山梨醇基环碳酸酯
+4.2.6.6S-WNIPU漆膜的制备及漆膜性能测试
+以水为溶剂的环碳酸酯分散体，按照环碳酸酯：伯胺摩尔比为1.0加入聚不同的二
+元胺作为固化剂，搅拌
+4.2.6.7坏碳酸酯分散体粒径和Zeta电位的测试
+使用英国马尔文仪器有限公司的马尔文纳米粒度分析仪（ZSNanoS）对分散体的
+将环碳酸酯分散体用去离子稀释至固含为0.5%之后，再使用质量分数为1%的磷钙
+酸溶液对稀释后的分散体进行染色，然后将染色后的溶液滴到铜网上让其自然干，使月
+4.2.6.9酸值的测试
+改性后山梨醇环碳酸酯的酸值按照GB/T12008.5-2010进行检测
+4.3.1山梨醇环碳酸酯红外表征
+通过不同的反应温度、压强、催化剂用量和反应时间来研究山梨醇环碳酸酯SC的
+合成条件。SC的制备是通过SE和CO在TBAB存在下，分别在90°C、110°C或130°C
+温度条件下反应制备1至11小时，CO压强在1.0MPa、1.2MPa、1.5MPa和2.0MPa。
+温度条件下反应制备1至11小时，CO压强在1.0MPa、1.2MPa、1.5MPa和2.0MPa
+红外光谱。红外图谱显示在906cm一是对应的环氧官能团的特征峰完全消失，同时
+1795cm处出现了比较强的环碳酸酯特征峰峰，表明CO成功插入到山梨醇基环氧官
+能中，并且完全转化为山梨醇环碳酸酯SC
+团，所有的结果都表明SE中的环氧基团完全转化为SC的环碳酸酯基团。
+图44在130°C和2.0 Mpa不同时间下SE制备环碳酸酯的H NMR图诸
+Fig. 4-4 *H NMR spcctra of the SE carbonation at 130 °C and 2.0 Mpa for different times
+4.3.3山梨醇基环碳酸酯合成的动力学研究
+图4-5、4-6和4-7是研究反应温度、CO压强和催化剂用量对SC合成过程中反应
+谱。核磁共振氢谱结果表明，在8=2.55-3.16ppm处的坏氧基团峰的强
+11小时候后，坏氧基团完全转化为环碳酸酯。综合考虑，本章后面所合成的SC条件是
+在130°C下，1.5MPa的CO压强和2.0wt%的TBAB反应11小时
+图4-5以TBAB为催化剂，在90°C、110°C和130°C，2.0 MPa条件下SE环碳酸酯制备的动
+Fig. 4-5 Kinetics of SE carbonation at 90 °C, 110 °C or 130 °C under 2.0 MPa CO
+pressure with TBAB as catalyst
+图 4-6 以 TBAB 为催化剂，在 1.0 MPa、1.2 MPa、1.5 MPa 和 2.0 MPa，130 °C条件下 SE 环碳
+Fig. 4-6 Kinetics of SE carbonation under 1.0 MPa, 1.2 MPa, 1.5 MPa and 2.0 MPa CO:
+pressure at 130 °C with TBAB as catalyst
+第四章山梨醇基环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料的制备与性能研究
+847以不同含
+4.3.4丁二酸酐（SA）-马来酸酐（MAH）-邻苯二甲酸酐（PA）基环碳酸酯
+的红外光谱
+4-8 SC、PSC、MSC和 SSC的红外光诺
+Fig. 4-8 FTIR spectra of SC, PSC, MSC and SSC
+分别研究SA、MAH和PA与SC接枝反应，目的是通过酸酐与山梨醇基环碳酸酯
+）
+图4-9、4-10和4-11分别是SC与SA、MAH和PA接枝反应后的核磁共振氢谱，
+个新的峰，该处是-COOH的特征峰，说明了SA、MAH和PA都可以和SC成功进行开
+环反应，成功在SC分子结构上接上-COOH
+Fig. 411 'H NMR spectra of SC and PSC
+图4-12丁二酸酐在90°C、110°C和130°C条件下的动力学
+Fig. 4-12 Kinetics of succinic anhydride at 90 °C, 110 °C and 130 °C
+以，二酸酐和SC反应为例来研究它们的反应动力学，用氢氧化钾滴定法测量酸
+来研究反应进度。图4-12是丁二酸酐与SC在不同温度条件下反应不同时间酸值变化的
+的反应温度设定在110C进行
+4.3.7水性山梨醇基环碳酸酯分散体稳定性研究
+图4-13不同含量的丁二酸酐（SA）的水性环碳酸酯乳液的粒径、分布及其zeta电位（a:45
+mg·KOH/g, b:40 mg-KOH/g, c:35 mg-KOH/g, d:30 mg-KOH/g.
+ig.4-13 Partcle siz
+ of succihic ahhyc
+通过马尔文粒度仪来研究水性山梨醇基环碳酸酯分散体（WSC）粒径和Zeta电位。
+图4-13是不同酸值条件下制备的WSC的粒径和Zeta电位，结果显示分散体的酸值范围
+分钟也没有看到分层现
+现了严重的分层现象，表现出非常差的稳定性
+4.3.8水性山梨醇基环碳酸酯分散体微观形貌
+通过TEM来研究WSC的微观形貌，图4-14显示酸值在35mg-KOH/g的WSC的
+步说明了以马来酸酐来接枝改性SC制备的分散体是可以稳定保存
+图4-14丁二酸酐基（SA）水性环碳酸酯分散体的透射电镜图（35mg·KOH/g
+Fig. 4-I4 TEM images r
+通过红外光谱来表征IPDA与SSC固化制备涂层S-WNIPU的情况。图4-15通过对
+失，在1706cm-处归属于氨基甲酸酯中的酯炭基（-C（O）O-）
+Fig.4-ISF11Rspcctra of SSCandS-WNiPL
+出在1795cm处环碳酸酯的特征吸收峰几乎完全消
+4.3.10S-WNIPU涂层的性能
+表4-2S-WNIPU涂层的性能
+Table 4-2 Propcrtics of the S-WNIPU coatings
+Imipactrcsistahcewash
+f 100 cm and load of 1 kg
+Adhcsion was tested by cross cut: ° The hardness was measured on glass plates
+力都在1级以上，还有很好的硬度。其中IPDA做固化剂所制备出来的涂层的硬度最高
+达到2H，但是该涂层的冲击性能和柔韧性性能都不理想。这是由于IPDA的分子结构
+徐层的固化剂，再通过IPDA来与HMDA进行复配来调整涂层的各方面性能
+表4-3S-WNIPU涂层的性能
+Table 4-3 Propertics of the S-WNIPU coating
+能测试结果。从涂层S-WNIPU-6到S-WNIPU-11，随着刚性结构的IPDA比例的下降
+30cm增加到80cm，柔韧性和附者力都逐渐变得更好。当1
+下降到2B，摆杆硬度从0.82下降到0.45：涂层的抗冲击性能从
+第四章山梨醇基环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料的制备与性能研究
+表4-4S-WNIPU涂层的性能
+Table 4-4 Properties of the S-WNIPU coatings
+Adhcsion was tested by cross cut: ° The hardness was measured on glass plates
+表4-5S-WNIPU涂层的性能
+Table 4-5 Properties of the S-WNIPU coatings
+DSC 10 K/min, -20-120°C: * TGA, 10 K/min, 25600 °C, N2
+通过DSC来分析山梨醇基S-WNIPUs涂层的玻璃化转变温度（Tg），测试结果如图
+降，导致涂层中刚性结构比例下降的原因。以上这些结论和涂层的硬度相一致
+图4-18S-WNIPU涂层的DSC图谱
+Fig. 4-18 DSC curves of the S-WNIPU coatings
+4.3.12S-WNIPUs涂层的热稳定性分析
+通过热重分析来研究S-WNIPUs的热稳定性，结果如图4-19和图4-20的热重（TG）
+曲线，其中TG曲线对应的热分解温度列于（T）表43和表4-5，即失重5%时的温度，
+结果显示S-WNIPUs涂层都拥有很好的热稳定性，所有涂层
+由于氨基甲酸酯基团在涂层中的密度的逐渐减少的原因
+第四章山梨醇基环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料的制备与性能研究
+Fig. 4-20 TG curves of the S-WNIPU coatings
+（1）山梨醇基环氧树脂SE和CO为原料合成山梨醇基环碳酸酯SC，经过X
+条件的动力学研究之后确定SC的合成条件为反应温度130°C，1.5MPa的CO压力
+2.0w%的TBAB反应11小时，
+（2）分别用丁二酸酐、马来酸酐和邻苯二甲酸酐来改性SC，同时以丁二酸酐来研
+究与SC反应条件得出反应条件在110反应6h比较理想。通过红外和核磁共振氢谱证
+水件山裂牌基环候酸菌分散体的权径范围力
+73.3至-48.2n
+重的分层现象，表现出非常差的稳定性
+03.1C至58
+分解温度都高于246°℃，最高的初始分解温度为272°C
+第五章常压法制备环碳酸酯分散体及其水性非异氰酸酯
+聚氨酯涂料与性能研究
+非异氰酸酯聚氨脂（NIPU）成为了近年来的研究热点[2S1-233]，NIPU的制备不需要
+化合物-CO插入法[255
+代，同时在相邻碳原子上连有一个经基的结构即为邻氯醇，邻氯
+件下进行，不需要高压反应釜等设备，
+然而，目前大部分的文献报道的环碳酸酯几乎是只能够溶在有机溶剂中，例如N,N-
+可冉生资源258
+下进行反应制备含有羧基（-COOH的多元坏碳酸酯，将这些
+法制备水性非异氰酸酯聚氨脂涂料，减少VOC排放。
+此，本章找们使用羟甲基二氧杂戊坏酮（GC）为原材料分别与偏苯三酸酐
+3,3'，4,4-二苯酮四甲酸二酐（BTDA）（分析纯，上海阿拉）生化科技有限公司）：偏
+司）：内前（分析纯，国药集团化学试剂有限公司）：乙二胺（EDA），二胺（BDA），
+本章实验所使用的合成设备及分析测试仪器如表5-1所示
+表5-1实验设备及仅器
+Table 5-1 Instruments and apparatus
+2.3偏苯三酸酐基环碳酸酯（TMC）水分散体的制备
+偏苯三酸酐基环碳酸酯（TMC）水分散体的制备流程如下：称量偏苯三般TMA
+（40g），GC（73.75g），催化剂为对甲苯磺酸（反应底物质量分数的方分之五），二甲苯
+分析纯，上海阿拉丁生化科技有限公司）：均苯四甲酸酐（PMDA）
+后降温到50°C以下加人内酮降粘再加上二甲基乙醇胺进行中和，中和度
+后逐渐滴加水进行分散，最后旋蒸除去丙酮得到30-40wt%固含的偏苯三酸酐基环碳酸
+5.2.4均苯四甲酸酐基环碳酸酯（PMDC）水分散体的制备
+均苯四甲酸酐基环碳酸酯（PMDC）水分散体的制备流程如下：称量
+酐基坏碳酸酯水分散体。反应流程如图5-2所示
+二苯甲酮四甲酸二酐基环碳酸酯（BTDC）水分散体的制备流程如下：称量二苯甲
+86.57g），催化剂为对甲苯磺酸（反应底物质量分数的方分之五）
+温到1990C反应全
+到酸值降低到30-45mg-KOH/g之间停止搅拌等到二甲苯与
+小时之后，开温到190°C反应到酸值降低到30-45mg·KOH/g之间停止搅拌等到
+苯甲酮四甲酸二酐基环碳酸酯水分散体。反应流程如图5-3所示。
+图5-1偏苯三甲酸酐基环碳酸酯水分散体合成路线
+图5-2均苯四甲酸配基环碳酸酯水分散体合成路综
+Fig.5-2 Synthetic routes of PMDA-bascd aqueous cyclic carbonate dispersior
+第五章常压法制备环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料与性能研究
+图5-3二苯甲四甲酸二酐基坏碳酸酯水分散体合成路线
+Fig.5-3 Synthetic routes of BTDA-bascd aqueous cyclic carbonate dispersior
+TMC/PMDC/BTDC水分散体分别和各种胺混合，其中环碳酸酯官能团：伯胺
+先在90°C下固化1-2小时，再在120C下固化2小时，得到WNIPU涂层。涂层的厚
+5.2.7结构表征与性能测试
+5.2.7.1TMC/PMDC/BTDC坏碳酸酯与WNIPU涂层的红外测试
+红外光谱是属于分子的振动一转动光谱，它的吸收峰所在的位置和峰的强度可以反
+映该化合物分子的骨架结构特征，通过红外光谱可以分析确定该化合物分子结构上所含
+有的某些特征官能团。使用KBr压片法，取少量的WNIPU涂层研磨成粉末，将KB
+取微量的该乳液满到KBr片上，用红外灯烘干KBr片后再进行红外测试，使用的是
+本Shimadzu公司FTIR-8100型傅里叶变换红外光谱仪采集样品的红外光谱图，扫描32
+次，扫描范围4000~400cm，分辨率为2cm-
+5.2.7.2TMC/PMDC/BTDC坏碳酸酯的核磁共振氢谱
+采集样品的核磁共振氢谱（HNMR，400MHz）。通过分析核磁氢谱图中特征峰的化学
+位移来分析从而确定环碳酸酯树脂结构
+.2.7.3WNIPU涂层的玻璃化转变温度
+化转变温度（Tg）。称量5~10mg的样品，在N2氛围，由-20°C升温到120°C，升温速
+利用美国TA仪器公司SDTQ600型热重-差热联用分析仪测试以
+到100C后保温5min，再升温到600C
+5.2.7.5WNIPU漆膜的制备及漆膜性能测试
+1.0加人个同的
+玻璃板上进行刮膜，放在室内室温固化5天后测试漆膜的附着力、抗冲击性、光泽度、
+5.2.7.6坏碳酸酯分散体粒径和Zeta电位的测试
+粒径分布和Zeta电位进行测试，测试样品的质量分数稀释至为0.01%
+IMC/PMDC/BTDC坏碳酸脂的酸值按照GB/T12008.5-2010进行检测
+3.1偏苯三甲酸酐基环碳酸酯红外表征
+偏苯三甲酸酐基环碳酸酯的红外光谱如图5-4所示。在3498cmr附件出现较强的吸
+处的吸收峰归属于业甲基
+的伸缩振动吸收峰。在1801cm处出现的强吸收峰
+图5-4偏苯三甲酸酐基环碳酸酯和涂层的红外光谱图
+Fig.5-4F1RsDcctraof1MCand1-WNP
+5.3.2均苯四甲酸酐基环碳酸酯红外表征
+图5-5均苯四甲酸酐基环嫉酸能基坏碳酸酯和涂层的红外光请图
+ig.5-5F1RspcctraofPDMCandP-WNPt
+均苯四甲酸酐基环碳酸酯的红外光谱如图5-5所示。在3496cm附件出现较强的吸
+收峰认为是PDMC中未反应完的羧基中的羟基（-OH）的特征吸收峰。在2956cmr1附
+5.3.3二苯甲酮四甲酸二酐基环碳酸酯红外表征
+二苯甲酮四甲酸二酐基环碳酸酯的红外光谱如图5-6所示。在3441cmr附近出现较
+的吸收峰认大
+中未反应完的羧基中的羟基（-OH）的特征吸收峰。在2970cm
+附近处的吸收峰归属于亚甲基（-CH-）的伸缩振动吸收峰。在1801cm处出现的强吸
+收峰归属于-C-O-的伸缩振动吸收峰。通过红外表征的结果说明了GC与均苯四甲酸酐成
+图5-6苯甲酮四甲酸二酐基环碳酸酯基环碳酸酯和涂层的红外光谱图
+Fig.5-6F1iRspcctraofBIDCandB-WNiPL
+3.4偏苯三甲酸酐基环碳酸酯的核磁共振氢谱
+图5-7是TMC的核磁共振氢谱，核磁共振氢谱峰归属如下：在8=3.08-4.96ppm之
+相对面积计算出偏苯三酸酐与GC反应转化率为87.3%，即
+氢氧化钾滴定法测量酸值，TMC的酸值为42.78mg·KOH/g，该滴定结果和核磁计算结
+图5-7偏苯三甲酸酐基环碳酸酯的HNMR图谱
+5.3.5均苯四甲酸酐基环碳酸酯的核磁共振氢谱
+图5-8是PDMC的核磁共振氢谱，核磁共振氢谱峰归属如下：在8=3.16-4.92ppm
+之间的相对面积积分为15.70的峰归属于1、3、4、6、10和12号位置的亚甲基峰氢：
+6=4.92-5.86ppm之间的相对面积积分为3.88的峰归属于2、5和11号位置的环碳酸酯
+该滴定结果和核磁计算结果比较接近
+图5-8均苯四甲酸酐基环碳酸酯基环碳酸酯的HNMR图谱
+Fig. 5-8 'H NMR spectra of PDMC
+苯环上羧基的氢：根据积分的相对面积计算出均苯四甲酸酐与GC反应转化率为86.1%，
+mg·KOH/g，该滴定结果和核磁计算结果比较接近
+第五章常压法制备环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料与性能研究
+图5-9苯甲酮四甲酸二酐基环碳酸酯基环碳酸酯的HNMR图诺
+Fig. 5-9 'H NMR spectra of BTDC
+方法制备的三种水性环碳酸酯分散体的Zeta电位值都小于-30mv。其中酸值越
+5-10水性环横
+rbonate latex (a: TMC,
+通过红外光谱来分别表征TMC/PMDC/BTDC水分散体与IPDA固化制备涂层
+征吸收峰儿乎完全消失，在1726cm-处归属于氨基甲酸酯中的酯颖基（一C（OO-）的
+特征吸收峰明显增强，同时也出现了一个1546cmr-新的吸收峰，这个是氨基甲酸酯中
+几乎完全消失，在1710cm处归属于氨基甲酸酯中的酯炭基（-C（O)O-）的特征吸收
+峰明显增强，同时也出现了一个1544cm新的吸收峰，这个是氨基甲酸酯中的氨基N-H
+的特征吸收峰，说明固化剂IPDA与PMDC已经充分反应了；图5-6通过对比P-WNIPU
+说明固化剂IPDA与TMC已经充分反应了。通过红外表征说明TMC/PMDC/BTDC水分
+散体与IPDA在该固化条件下能够充分的反应成膜，
+TMC/PMDC/BTDC水分散体与不同的二元胺固化制备涂层T-WNIPU、P-WNIPU和
+寺征吸收峰，说明固化剂IPDA与TMC已经充分反应了：图5-5通过对
+PMDC光谱：
+看出在1802cm处PMDC的环碳酸酯的特征吸收峰
+ML具和B1
+时候PMDC和BTDC涂层的交联密度比TMC涂层大的缘故，
+表5-2WNIPU涂层的性能
+Table 5-2 Properties of the WNIPU coatings
+Adhesion was tested by cross cut; * The hardness was measured on glass plato
+NaOH发生了反应导致涂层耐碱性很差
+表5-3WNIPU涂层的耐化学性能
+Table 5-3 Chemical resistance properties of WNIPUs coatings
+A  No effect; B  loss of gloss; C - blistering: D - film removcs
+The chemical resistance were evaluated by immcrsion method after 24 hours
+5.3.10WNIPUs涂层的玻璃化温度分析
+B-WNIPU涂层每个样品
+WNIPUs涂层都
+是均相体系，没有出现相分离现象。T-WNIPU体系的的Tg值在56.0°C至90.9°C的范
+环碳酸酯分别与不同的胺制备的涂层的硬度和玻璃化温度的规律都是一致
+Table 5-4 Properties of the WNIPU coatings
+DSC 10 K/min, -20-120 °C: *TGA, 10 K/min, 25600 °C, N
+图5-11 T-WNIPU涂层的 DSC图谐
+Fig. 5-11 DSC curves of the T-WNIPU coatings
+图5-13B-WNIPU涂层的 DSC图诺
+Fig. 5-13 DSC curves of the B-WNIPU coatings
+5.3.11WNIPUs涂层的热稳定性分析
+通过热重分析来研究WNIPUs的热稳定性，结果如图5-14、5-15和图5-16的热重
+TG）曲线，其中TG曲线对应的热分解温度列于（Ta）表5-4，即失重5%时的温度。
+除层的初始分解温度
+在244-266C之间，B-WNIPU涂层的初始分解温度在245-256C之间，即所有
+初始分解温度都在242℃℃以上，涂层都拥有很好的热稳定性
+第五章常压法制备环碳酸酯分散体及其水性非异氰酸酯聚氨酯涂料与性能研究
+图5-15P-WNIPU涂层的热分解曲线
+Fig. 5-15 TG curves of the P-WNIPU coatings
+Fig. 5-16 TG curves of the B-WNIPU coatings
+值降低到30-45mg·KOH/g之间停止反应得到TMC/PMDC/BTDC坏碳酸酯
+2）用二甲基乙醇胺进行中和制备好的TMC/PMDC/BTDC环碳酸酯
+TMC/PMDC/BTDC环碳酸酯分散体的粒径和Zeta电位。其中TMC水分散体胶粒的粒
+通过这种常压法制备的三种水性环碳酸酯分散体的Zeta电位值都小于-30mv。同时通过
+在5000r/min离心60分钟也没有看到分层现象，说明这三种水分散体都具有很好的稳
+3）TMC/PMDC/BTDC环碳酸酯水分散体分别与不同的二元胺固化后的涂层
+B-WNIPU三种涂层都有很好的耐化学性能，涂层对二甲苯、甲苯、50%酒精和5%HSO
+熔液具有很好的耐化学性能。但是，这三种涂层对耐碱性比较差
+C的范围之旧
+为WNIPUs涂层都拥有很好的热稳定性，初始温度都高
+在室温条件下固化得到E-NIPU涂层，该涂膜具有很好的光泽度、
+（2）将E-AF/全氟辛基缩水甘油醚PFGE和CO反应制备EC-AF环碳酸酯和PFGC
+环碳酸酯比例制备的F-NIPU涂层表面对水、二碘甲烷
+和十六烷的接触角分别可增加到106.7、80.2和72.7。F-NIPU涂层具有优异的疏水疏
+油性能，对食用油和真空泵油都有很好的疏油效果，还具有极好的耐腐蚀性能（浸泡10
+wt%NaC1溶液中500h涂层没有明显变化）
+S-WNIPUs涂层表现出优异的硬度、光泽度、柔韧性和附者力。所有S-WNIPUs涂层Tg
+百在103.10
+间。S-WNIPUs涂层初始热分解温度都高于246°C
+Table 6-1 Propertics of the NIPU coatings
+TMC/PMDC/BTDC坏碳酸酯，其环碳酸酯的取代度分别为2.62、3.72和3.43
+TMC/PMDC/BTDC环碳酸酯水分散体具有很好的稳定性，其固化涂层WNIPUs都具有
+（1）将EC-51环碳酸酯按照碳酸酯/伯胺的物质的量的比为10:1-6制备环碳酸酯
+用丁二酸酐、马来酸酐和邻苯二甲酸酐改性山梨醇基坏碳酸酯SC，经中
+作溶剂，降低涂料的挥发性有机化合物（VOC）含量：P-WNIPU无需高压反应签
+本论文通过不同的路线制备了一系列的非异氰酸酯聚氨酯（NIPU）涂料，所制各
+（1）本文从环碳酸酯化合物的设计与合成上调控NIPU涂膜性能，
+构设计与合成来调控NIPU涂膜性能。现有多腰化合物成本高，种类少
+ianocomposites dispers
+muiSp.riogieSs1
+nt advances in synthesis
+YuanZ..SchmidtJ..et al.Depolvmerizationofligninsandtheir
+epolyurethane wooc
+B., et al. On the versatility of urethane/urea bonds
+Kathalewar M.S., Joshi P.B., Sabnis A.S., et al. Non-isocyanate polyurethanes: from
+需周.聚氨酯应用现状和前景展望].建设科技，2005，（22）：43-44
+9ArshadN.,Zia K.M..J
+onofnovelchitosar
+routesfornon-isocvaniate
+梁，吕满庚.丙烯酸改性水性聚氨酯研究进展[J].涂料工业，2005，35（3）：39-44
+Murethanefoams:mechanisim
+and evaluation of flame retardance9]. Combustion and Flame, 19/5, 24: 217-230
+c ring-opening polymerization of trimethylene
+Study[J]. Macromolecules, 1997, 30(5): 1289-1297
+38]Neffgen S., Keul H., Hocker H. Polymerization of 2,2-dimethyltrimethylene urethane; a
+KiCKIU.NO
+esis, properties, and applications [°]
+askarD.V.Aurelie
+nthesis: an overview[0]. European Polymer Journal, 2014, 61: 45-63
+Etienne D., Jean-Pierre P., Bernard B., et al. On the versatility of urethane/urea bonds
+oCormilleA.,GuilletC.,Benyal
+ahya S., et al. Room temperature flexible isocyanate-free
+ethane foamsJ]. European Polymer Journal, 2016, 84: 873-888
+Diakounak
+ased polyurethanes derived upon
+he reaction of amines with cyclocarbonate resinsJ]. Macromolecular Symposia, 2004
+cyclocarbonates[]. Polymer Chemistry, 2013, 4(17): 4545-4561
+BurkR.M..K
+of1,2-and1,3-diol
+enY.LuoF
+leterogeneousPOP
+NakanioK.,Kainad
+ozaki K.Selective formation of polycarbonate over cyclic
+abuR..KimS.H..K
+ournal of Materials Chemistry A
+7]Wu S.S., Zhang X.W., Dai W.L., et al. ZnBr2 Ph4PI as highly efficient catalyst for
+moieties in the side chaino]. Journal of Polymer Science Part A Polymer Chemistry
+3uttner H., Lau K.,Spai
+O and epoxides: discovery, reactivity, optimization, and mechanism]. Angewandte
+rostB.M..Aponi
+lylic alkylation of meso- and
+catalyst for non-isocyanate polyurethane synthesis?]. Gireen Chemistry, 2015,17(
+orepared via the non-isocyanate route with catalytic carbon dioxide fixation?]. Gireer
+Mazurek-Budzynska M.M., Rokicki G., Drzewicz M., et al. Bis(cyclic carbonate) based
+opolvimerization-Nev
+ournal of Molecular Catalysis A Chemical, 2016, 418-419: 78-85
+dsynthesis of cyclic
+liccarbonate
+Journal of Polymer Science Part A Polymer Chemistry, 2001, 39(23): 4091-4100
+aliphatic polycarbonate production[J]. Macromolecules, 2010, 43(14): 5996-6003
+and cesium carbonate5]. Green Chemistry, 2013, 15(8): 2086-2090
+110] Xu B.H., Wang J.Q., Sun J., et al. Fixation of CO2 into cyclic carbonates catalyzed by
+Tomita H.,Sanda F.,Endo T.Polyaddition of bis(seven-membered cyclic carbonate)
+A.,Cloutet E.,TassaingT.,et al.Solubility in CO and carbonation studies of
+investigationJ]. Journal of Co2 Utilization, 2017,19: 257-26
+building block for tomorrow:Synthesis,reactivity, properties and applications[]
+A.,JasiakK.
+An efficient method for the synthesis of cyclic
+ez-LopezC.,et al.A Briel
+elechelic oligomersJ]. Polymer Bulletin, 1993, 30(2): 155-162
+of their photo-crosslinking0]. European Polymer Journal, 2016, 84: 828-836
+LambethR.H..
+of (poly)hydroxyurethanes
+134] Nanclares J., Petrovic Z.S., Javni I., et al. Segmented polyurethane elastomers by
+BurgelT.,Fedtke M.,Fra
+onates with amines: Linear
+carbonate intermediates and di-or polyamines in the context of structurepropertie
+Cornille A., Michaud G., Simon F., et al. Promising mechanical and adhesive properties
+[144] Parzuchowski P.G., Kizlinska M., Rokicki G. New hyperbranched polyether containing
+n and characterization of
+Progress in Organic Coatings, 2010, 69(4): 366-37:
+hesis and characterization
+Angewandte Makromolekulare Chemte, 1987, 148(1): 53-66
+159Hosgor Z.,Kayar
+ocyanatepolyurethane/silica
+贵锋，吴国民，陵
+有机硅改性没食子酸非异氰酸酯聚氨酯的制备及性
+oolyurethane-acrylate and its application for simulated iron cultural relic protection3
+ournal of Coatings Technology & Research, 2018,15:535-541
+of a novelbulk-matte
+Sun Z.,Fan H.,Chen Y.,et al.Synthesis of self -matting waterborne polyurethane
+[174]Rui L.,Shan Z. Enhancement of thermal conductivity of PEG-PPG-based waterborne
+anticorrosive properties of waterborne polyurethane coatings].Composites Scier
+180]Wu J.,Chen D.Synthesis and characterization of waterborne polyurethane based on
+gas permeation barrier[J]. Macromolecules, 2003, 36(26): 9851-9858
+composite as a suitable scaffoldforbonetissue regenerationp].Mater SciEng
+SchiimipfV..RitterB.S.
+feskinfam M., Bertoldi S., Albanese N., et al. Polyurethane foam/nano hydroxyapatite
+Xu X.,Lin G.,Liu D.,et al.Electrically conductive graphene-coated polyurethan
+.SongL.S
+polyurethanesforlong-termimplants[o]- Acs
+hermoplasticsJ]. Macromolecules, 2017, 50(3): 231239
+199Nifant'EV1.Shly
+and experimental studies of
+thermosets ashighperformance adhesives for aluminum substratesJ].Polym
+207Deng Y.J., Zhou C., Zhang M.Y., et al. Effects of the reagent ratio on the properties of
+Liu G., Wu G.,Chen J.,et al.Synthesis,modification and properties of rosin-based
+anchireddy S., Thomassin J.M., Girignard B., et al. Reinforced poly(hydroxyurethane)
+waterborne polyurethanes-acrylate for application in damping coating[J].Progress in
+[215] Barkakaty B., Morino K., Sudo A., et al. Amidine-mediated delivery of CO: from gas
+from cyclic carbonates with amines:substituent effect on the reactivity and selectivity
+ment ofhydroxy-containing
+Hu.,MaJ.,LiuH..e
+an efficient catalyst for chemical
+224AovagiN.F
+2 into epoxides: application to
+ourmalofPolvme
+Science Part A Polymer Chemistry, 2018, 56(9): 986-993
+/arious substrates[J]. Chemical Engineering Journal, 2018, 345: 659-668
+[230] Martinelli E., Fantoni
+polyperfluorooctylethyl acrylate
+liblockcopolymers:
+natedmesogenicchainison
+AY
+DietenichD.P
+.Chemie in Unserer
+et al. Chemically-crosslinked zwitterionic polyurethanes
+shape memory effect[0]. Polymer, 2018, 148: 119-126
+9Rokickiu..Par
+Part A Polymer Chemistrv.2015,38(13):2375-2380
+cohols asbio-basedamine
+51Hu1 D., Zhao Y., Li Q., et al. Synthesis and characterization of waterborne polyurethane
+adhesive from MDI and HDI[].Journal of Applied Polymer Science,2010, 110(
+hane plastic sheets produced from
+257Ochia1 B., Koda K., Endo T. Branched cationic polyurethane prepared by polyadditioi
+攻读博土学位期间取得的研究成果
+、已发表（包括已接受待发表）的论文，以及已投稿、或已成文打算投稿、或拟成文投稿的
+酸酯聚氨酯涂料中的应用.公开号：CN108546262A：申请日：2018年04月12日
+4.星金清，吴志军.双酚AF基疏水疏油非异氰酸酯聚氨酯及其制备方法与应用.申
+请号：201811384640.1：申请日：2018年11月20日。
+荣华.一种室温固化坏碳酸酯预聚体及其制备方法
+金清，吴志军，陈荣华.水性山梨醇环碳酸酯乳液及其制备方法与在水性非异
+吴志军.一种山梨醇基非异氰酸酯聚氨酯涂料及其制备方法.公开号
+本论文是在我的博士导师瞿金清教授的悉心指导下完成的。在此，我由衷的感谢瞿
+师在找的论文选题和课题的开展方面给予的指导和建议。特别是在我的课题研究过程
+与作：霍老师乐观积极向上的生活态度也深深地影响者找。
+本论文的顺利完成特别感谢嘉宝莉化工集团股份有限公司提供的科研平台，感谢嘉
+师、夏正斌老师、沈慧芳老师、叶代勇老师、司徒粤老师和胡剑峰老师对本人科研工作
+和生活提高的支持
+感谢同门黄山师兄、汤柳燕师姐、汪磊师兄在科研和生活上给予的帮助。感谢同门
+宾博士给予的关心和帮助
+两位弟弟吴志宁和吴志腾在我的求学生涯给予的支持和鼓励，
+感谢我的妻子刘灿群在我博士期间课题遇到困难时给予的安慰和鼓励，感谢你一路
+最后，向参加本论文评审和答辩的各位专家和老师表示由衷的感谢，
+（主要内容包括：1.对论文的综合评价：2.对论文主要工作和创造性成果的简要介绍：
+3.对作者掌握基础理论、专业知识程度、独立从事科研工作能力以及在答辩中表现的评价：
+4.存在的不足之处和建议：5.答辩委员会结论意见等）
+（1）将EC-51环碳酸酯按照碳酸酯/伯胺的物质的量的比为10:1-6制备环碳
+酸酯封端的预聚物EC-51-P，然后与PEI在室温条件下固化得到E-NIPU涂层，该
+涂膜对甲苯、二甲苯、50%的酒精等都有很好的耐性。
+（2）将E-AF/全氟辛基缩水甘油醚PFGE和CO反应制备EC-AF环碳酸酯和
+PFGC环碳酸酯，调节PFGC与EC-AF环碳酸酯比例制备的F-NIPU涂层表面对水、
+二碘甲烷和十六烷的接触角分别可增加到106.7°、80.2°和72.7°。F-NIPU涂层具有
+优异的疏水疏油性能。
+（3）分别用丁二酸、马来酸酐和邻苯二甲酸酐改性山梨醇基环碳酸酯SC，
+经中和乳化制备稳定的水性山梨醇基环碳酸酯分散体，其涂层Tg值在103.1°C至
+8.6C月
+（4）将GC分别与TMA/PMDA/BTDA进行反应，通过常压法制备
+TMC/PMDC/BTDC环碳酸酯及其水分散体，其中PMDC涂层的铅笔硬度最高达到
+3H，摆杆硬度最高达到0.89。三种涂层都有很好的耐化学性能
+论文研究思路清晰，实验方案合理，观点明确，实验数据充分，叙述层次清
+楚，写作规范，表明作者具有扎实的理论基础和系统的专业知识，
+研的能力，答辩过程中讲述流畅，回答问题正确
+有独立从事科
+过无记名投票，
+答群委员会通过认真讨论并经
+一致认为论文已经达到博士学位论文水平，通过其论文答辩，建

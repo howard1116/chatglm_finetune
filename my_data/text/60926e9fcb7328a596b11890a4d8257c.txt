@@ -1,0 +1,430 @@
+Preparation and properties of super hydrophobic films from siloxane
+SiO2
+Guomin Wuab,-, Di Liu", Jian Chen, Guifeng Liu", Zhenwu Kong
+try af Fa
+ogF ef Far
+00091, Chins
+AB STRAC T
+1.Introductiot
+With the increasing strict environmental regulation of volatile or
+squa (SdVH) sueqnjod ape smoprezerq pue (SOOA) spumoduoo o{ue8
+sions, the use of solvent based polyurethanes has been widely restricted
+in coatings and adhesives industries.
+Waterborme polyurethanes
+(WPUs), as a lkind of green organic polymer materials, have been widely
+applied in adbesives, coatings and inks industries due to their ad-
+vantages in environmental friendly, non-toxic and fire safety compared
+with solvent based systems [15]. However, most WPUs are linear
+thermoplastic polymers with hydrophilic ionic groups in the main
+chain, so the mechanical properties and water resistance of wPU are
+lower than those of solvent-based counterparts [68]. Two-component
+waterborme polyurethane (2K-WPU), which typically consists of hy-
+isocyanate, is an extemal cross-linking way to offer attractive potential
+droxy-functional resin dispersion and hydrophilically modified poly
+in WPU enhancement by increasing cross-linking density among water
+t.2018.06.016
+nred
+Namocomposite hiln
+he svrface of sili
+with super hydrophobtc
+SiO. Firstly, nano SiOz prepared by StOber
+with trimethylethoxysilane (TMES), in order to cover a layer of hydrophob
+nano SIO. Then, a series of nar
+SiO, on the
+and hydrophobicity of film
+surface were investigated. The
+became
+rougher and the 
+films was increased obviously with the increase of the content of hydrophobic nano SiO?. Super hydrophob
+posite film with water contact angle over 15o" was saccessfully fabricated by using polysiloxae
+SiO2 as
+dispersed particles. 2K-WPU has almost the same high performance of
+wonedde Apeuouuoo umou8 seq pue sueaunijod paseq puaapos
+in coating and adhesive fields over the last decade [912]. However,
+unlike the homogeneous flm formation of solvent-based two-compo
+nent polyurethane systems, the film formation of 2K-WPU is a com
+plicated heterogeneous phase process including water volatilizing,
+particle merging and chemical croslinking, and the film compactness
+of 2K-WPU is not as good as that of solvent-based film. Moreover, due
+to the presence of hydrophilic groups in the main chain, the water and
+stain resistance of 2K-WPU are still weaker compared with traditional
+solvent-based polyurethane, and are still needed improvement to satisfy
+the highly diversified demands of society.
+surface
+higl
+WPU
+publications were about investigation of siloxane-modified 2K-WPU.
+Faai Zhang et al. prepared siloxane-modified 2K-WPU using a siloxane-
+showed the amount of siloxane had an important effect on the prop-
+modified acrylic emulsion as the hydroxyl component and the results
+erties of 2K-WPU [17]. Shujing Yue et al. modified 2K-WPU with 3-
+aminopropyltriethoxysilane, and the modified 2K-WPU films had ex-
+cellent thermal stability, tensile strength, and solvent resistance [18].
+Zhen Ge et al. synthesized a series of siloxane-modified 2K-WPU with
+better thermal stability owing to the formation of SiOSi croslinking
+network and good surface properties due to the enrichment of siloxane
+chains on the surface of films compared with conventional 2K-WPU
+[61】
+Materials with super hydrophobic surfaces have recently attracted
+great interests for the wide applications in self-cleaning surfaces, anti-
+fouling or antifog coatings, stain resistant textiles [2023]. There are
+Lotus state (aspecial case of Cassie's state), Wenze’s state, ecko state,
+several states of super hydrophobic surfaces identified: Cassie's state,
+and so on [24]. Among them, Lotus state super hydrophobic surface
+with a water contact angle greater than 150°has received significant
+attention due to its easy fabrication and potential in industrial appli-
+cations [2527]. Research reveals that both micro/nanostructure sur-
+face roughness and low surface energy account for the super hydro-
+phobicity.Inour  previous
+ work, bydroxypropyl terminated
+polydimethylsiloxane (HTPDMS) was introduced into the molecular
+The results showed water contact angle of the films increased from 71°
+structure of 2K-WPU to improve the water resistance of the films [28].
+5.0% when HTPDMS content in the films increased from 0% to 10%.
+to 96° and water absorption ratio of the films decreased from 6.6% to
+However, the water contract angle kept invariant despite the HTPDMS
+content increased continuously over 10%. So only introducing low
+surface energy materials into films could not create a super hydro-
+phobic surface. In this paper, we tried to creating micro/nanostructure
+on the surfaces of the siloxane-modified 2K-WPU flms from epoxy resin
+(EP) / polyurethane (PU) composite polymer by incorporating hydro-
+phobic modified nano SiO, The effects of nano SiO content on surface
+morphology, hydrophobicity and thermal properties of the films were
+investigated by scanning electron microscope (SEM), contact angle
+analyzer, thermo gravimetric analyzer (TG) and differential scanning
+calorimetry (DsC), respectively.
+.Experumenta
+2.1. Materials
+Terpene-maleic ester type epoxy resin (TME) with endocyclic
+structure (Fig. 1) and epoxy value of 3.5 mmol g, was synthesized
+from turpentine, maleic anhydride and epichlorohydrin [29]. 2,4-to-
+luene disocyanate (TDl) was supplied by Gansu Yinguang Chemical
+uA
+Industry Group  Co.,  Ltd. Hydroxypropyl terminated  poly-
+dimethylsiloxane (HTPDMS, M, = 2000) was obtained from Shanghai
+Silicone Industry and Trade Co., Ltd. Neopentyl glycol (NPG), 2,2-bis
+(hydroxymethyl) propionic acid (DMPA), tetraethoxysilane (TEOS),
+methyl triethoxysilane (MTES) and trimethylethoxysilane (TMES) were
+purchased from Aladdin Industrial Co., China. N, N-dimethylethanola-
+mine and boron fluoride ethyl ether were supplied by Shanghai Ling-
+feng Chemical Reagent, Co., Ltd., China. Acetone, ammonia and alcohol
+were obtained from Nanjing Chemical Reagent, Co., Ltd., China. The
+hydrophilically modified hexamethylene disocyanate (HDl) tripolymer
+(Fig. 1) with isocyanate group (-NCO) content of 13% and solid content
+of 80 wt % was supplied by Wuhan Shiquanxing Polyurethane Tech-
+nology Co., Ltd., China.
+2.2.PreparatianorH7PDMS-modlhedTMEbasedpoyoldisperstor
+Firstly, a TME based polyol (T-N) was synthesized as follow (Schel
+1): A 500 mL four-necked flask equipped with stirrer, dropping funel,
+thermometer, condenser, and heating mantle was charged with 100.0 g
+TME, 36.4 g NPG and 5.0 g acetone. After the reactants well-mixed,
+1.0 g boron fluoride ethyl ether was added drop by drop in about 1 min
+with constant stirring when the temperature was raised to 90 °℃. The
+reaction was continued for 1 h at 100110°C. The product was diluted
+in acetone with a concentration of 70% (w/w), and a yellow trans-
+parent product T-N was obtained.
+134.3136.0 (CHCHin endocyelic structure); 63.969.7
+T-N,
+(OCH, CHOH, CHOH); 54.2 (OC0CH); 43.5 (quaternary
+carbon connected with isopropyl:; 32.135.9(CHCHg in en
+docyclic structure); 30.1 (quaternary carbon connected with methyl);
+28.7 (CH in isopropyl); 22.4 (CHs connected with quatermary
+carbon); 16.1, 18.6 (CH in isopropyl). FT-IR (cm~#): 3000370
+(OH, NH); 1738 (CO); 2954, 2876, 1458, 1376 (CHs, CH); 1161,
+1066, 1024 (COC, COH).
+placed in a 500 mL four-necked fliask equipped with stirrer, dropping
+as follow (Scheme 2): 4.2 g DMPA, 10.9 g TDI and 15.6 g acetone were
+funnel, thermometer, condenser, and heating mantle. The mixture was
+heated to 56 °C (the reflux temperature of acetone) and reacted for 3 h
+with constant stirring. Then, 46.9 g T-N and 4.9 g HTPMDS were added
+into the four-necked flask. The reaction was continued for 45 h at
+about 60 °C, and a yellow product was obtained. 2.8 gN, N-dimethy-
+lethanolamine was added drop by drop in about 1 min and continued
+stirring for 30 min. The reaction product was dispersed with water di-
+rectly at stirring rate of 5001000 rpm at 60°C, and the water was
+added drop by drop in about 30 min and then continued stirring for
+30 min. Finally, an anionic HTPDMS-modified TME based polyol
+(ASTP) dispersion with a solid content of 35 wt % was obtained after
+removal of acetone by a rotary evaporator under reduced pressure. The
+Table 1
+ASTP, H NMR (300 MHz, CD,COCD, 8): &.80 (OCONH);
+5.856.15(CH=CH in  endocyelic structure);
+7.027.16,
+7.658.20
+sualopfu
+Jo
+4.014.20
+benzene);
+(CHOCONH); 3.403.80 (OCH, CHOH, CHOH);
+2.102.26 (CH,C); 0.11 (CHsSi). 13C NMR (300 MHz, CD,COCD,
+8): 172.5 (CC00); 152.6 (0C0NH); 136.5, 130.1, 125.1,
+114.1, 112.6 (aromatic carbon); 61.670.5 (OCHz, CHOH,
+(CHC); 0.02 (CHSi). FT-IR (cm): 30003700 (OH, NH);
+CHOH); 20.4 (CHs); 40.8, 30.0 (quatermary carbon); 16.8
+1730, 1710 (CO); 2954, 2869, 1462, 1375 (CH, CH,); 1600, 1532
+(benzene ring); 1260, 800 (Si(CH)); 1178, 1110, 1057 (-C0C,
+(HO‘ISO!S
+Scheme 1. Synthesis of TME based polyol modified with neopentyl glycol
+2.3. Preparation and hydrophobic modification of nano SiO
+Nano SiO, was prepared according to Stober method [30]. A 250 mL
+four-necked flask equipped with stirrer, dropping funnel, thermometer,
+condenser and heating mantle was charged with 84 g alcohol, 1.0 g
+ammonia and 3.46 g distilled water. The mixture was heated to 60 °C
+with constant stirring, and a mixing solution of 20 g TE0S and 42 g
+alcohol were added into the flask quickly. Afer the mixture reacted for
+u paueqo sem is oueu papoun jo osuadsns e09 1e q
+a mixing solution of 1.0 g TMES and 4.0 g alcohol was added into the
+flask and the reaction was continued for 2h at 60 °C to modify the nano
+SiO. Then the suspension was repeatedly centrifuged and washed with
+alcohol till the solution appeared to be neutral. After vacuum drying,
+hydrophobic modified nano SiOz powder was obtained.
+Technical parameters of ASTP resin and its dispersion.
+Seheme 3. Preparation of hydrophobic nano SiO
+2.4. Preparation of 
+modlfted 2K-WPL
+The nano SiO powder was mixed in the ASTP dispersion under
+sonication for 10 min at a 900 W ultrasonic power. Then the mixture
+was further blended with the hydrophilically modified HDI tripolymer
+in molar ratio of hydroxyl group to isocyanate group 1:1.2. The well-
+mixed blend dispersion was diluted with distilled water to the solid
+content of 30 wt %, and then degassed under vacuum at ambient
+temperature. Subsequently, the resulting dispersion was cast on clean
+the reaction between NCO groups and OH groups, samples were
+tin plates and dried for 24 h at room temperature. In order to complete
+im sug ajsodoooueu jo saas y s aoj , 0 le uaso aq u paun
+a thickness of approximately 0.5 mm were obtained by regulating the
+content of SiO over the range of 0%, 5%, 10%, 15%, 20% by weight in
+relation to siloxane modified 2K-WPU, and denoted as 0%, 5%, 10%,
+15% and 20%, respectively.
+2.5. Chorecterisations
+FT-IR spectra of the samples were recorded on a Nicolet IS10
+Fourier transform infrared spectrophotometer (Nicolet, Mad
+USA) in an attenuated total reflection (ATR) mode. An average of 32
+NMR spectra were obtained on an AVANCE AV-300 nuclear
+NMR spectra were obtained on an AVANCE AV-300 nuclear ma
+acetone as solvent. Chemical shifts were calculated relative to TMS 
+netic resonance spectrometer (Bruker, Switzerland) with deuterat
+NMR control
+Particle size analysis was carried out on a Nano-ZS ZEN3600 Zeta-
+sizer (Malvern Instrument Co., UK). The polyol dispersions were diluted
+with deionized water to a solids content of 0.2%  0.3%, and 1 mlL. of
+the dispersion was placed in a cuvette
+1550 GPC
+2487
+were
+eze GPC softwar
+was
+ased to
+of the ASTP
+10 mg ml.
+ples
+tetrahydro
+of diluted nano-StO, alcohol
+for 12 h for transmission electron microscopy (TEM) measurement. The
+dispersion was dripped on a C-coated Cu grid, and dried under vacuum
+particle size and morphology of nano-SiO, were observed with a Tecnai
+G2 20 S-TWIN transmission electron microscopy (FEI, USA)
+ured with a c
+goniometer (DSA 100, Kruss Ltd., Germany) at room temperature, 10 μL
+films. The image was then captured using a telescope fitted with a video
+camera. All the results were expressed as the average value of at least
+micrograph
+ere captured by
+im
+ning electron
+opy (SEM) (Hitach S4300 N, Japan) at 15 kV. The
+PC/PG thermogravimetric analyzer (Netzsch Co., Germany) at a
+Ivermograv
+heating rate of 10 °C min
+600 °C.
+The glass transition temperature was measured with differe
+diferential scanning calorimeter (PerkinElmer Diamond, USA) at
+*uu u oz jo mog seg ualonju pue _uju x oz jo aeu sueaq
+ 50 °C to 150 °C.
+men was crumple-sealed in alu
+3.Kesultsanddiscussioi
+Nano SiO, particles were prepared by using TEOS as precursor by
+jo aoejms aq uo sdnoug txoapq jo siof auam aiaq poa sagons
+nano SiO prepared with TEOS. By a further reaction of hydrolytic
+condensation between ethoxy groups of MTES or TMES and hydroxy1
+groups of nano SiO, the hydrophobicity of nano SiO could be sig-
+nificantly improved by replacing parts of hydroxyl groups on the sur-
+face with methyl groups (Scheme 3). The water contact angle of the
+hydrophobic nano SiO2 was larger than 150° and the drop of water
+could roll freely on the surface of hydrophobic nano SiOz powder
+(Fig. 2). Compared with modifying with MTES, the particles size of
+tribution was narrow. MTES had three ethoxy groups, so the hydrolytic
+nano SiO modified with TMES was homogeneous and the size dis-
+condensation could take place on one SiOg nanoparticle surface or
+between different SiO, nanoparticles, leading to a result of wide dis-
+tribution of particle size. While TMES had only one ethoxy group, the
+Fig. 2. Hydrophobic property od TafES modiried nano SiO:
+Fig- 3, TEM image of TMES modified nano SiO;
+nanoparticle surface, keeping a narrow distribution of particle size. The
+TEM figure showed that the TMES modified SiOz nanoparticles were
+spherical particles with uniform particle size distribution and a dia-
+meter of about 100 nm (Fig, 3).
+3.2. FT-IR cheracterisation of nano SiO;
+FT-IR spectra of nano SiO and the hydrophobic modified nano SiO2
+were shown in Fig. 4, respectively. The absorption peaks at 1050 and
+the stretching vibration absorption of SiOSi. In the spectrum of
+795 cm  appeared in both spectra of the two kinds of nano SiO, were
+unmodified nano SiO, there was a small absorption peak at 948 cm1
+which was attributed to the stretching vibration absorption of SiOH
+[31]. This result indicated the existence of SiOH on the surface of
+unmodified nano SiO> After the hydrophobic modification with TMES,
+the stretching vibration absorption of SiOH became obviously weak
+and new absorption peaks appeared at 2963 and 1259 cm, which
+Fig. 5. TGA curves of nano SiO
+were the stretching vibration absorption of
+CH, These
+dicated bydroxyl groups on the surface of nano SiO had been replaced
+partly by methyl groups, and methyl groups had been grafted success
+fully on the structure of the hydrophobic modified nano SiO The re-
+plact
+ement of SiOH by SiCH, made the nano SiO become hydro
+phobic
+3.3. Thermal stabiity of nano StO;
+Fig. 5 showed the thermal gravimetric analysis of nano SiO before
+and after hydrophobic modification. The thermal weight loss of the
+unmodified nano SiO 0ccurred between 100 °C and 200°C was the
+volatilization of the absorbed water on the surface of nano SiO. Be
+cause the abundant hydroxyl groups on the surface of nano SiO could
+absorb water. The stability of nano SiO, between 200 and 300 °C was
+quite stable. When the temperature rose above 300 °C, there was ant-
+other weight loss of nano SiOz, which was duo to the dehydration
+the losing of hydration. After modified with TMES, the thermal weight
+condensation reaction between the hydroxyl groups of nano SiOz and
+loss of the hydrophobic modified nano SiO between 100 °C and 200 °C
+became more obvious, due to the thermal decomposition of SiCH as
+well as the volatilization of the absorbed water on the surface of the
+200 °C, the thermal decomposition tendency of the hydrophobic mod-
+hydrophobic modified nano SiO [32]. When the temperature was over
+ified nano SiO was basically the same as that of the unmodified nano
+SiO. Anyhow, the thermal stability of nano SiO, slightly decreased
+after modified with TMES. At the temperature of 600 °C, the percentage
+of residual weight of the unmodified nano SiO was 91%, while that of
+the hydrophobic modified nano SiO was 88%, Although the thermal
+stability of the modified nano SiO was slightly worse than that of the
+unmodified nano SiOz, it could still meet the requirements for pre-
+paration of super hydrophobic self-cleaning coatings.
+3.4. Effect of nano SiO2 content on hydrophobic property of the
+nanocomposite films
+Hydrophobic films were prepared by incorporating different con-
+siloxane-modified 2K-WPU films, respectively. The effects of nano SiO
+tents of unmodifed nano SiO and TMES modified nano SiO into the
+content on water contact angles of the hydrophobic films were shown in
+Fig. 6. The results showed that the water contact angles of the films
+increased with the increase of nano SiO content. When the nano SiO
+content was small, SiO, nanoparticles totally encapsulated in the
+polymer network, and could not effectively build a rough structure on
+polymer surface. With the increase of nano SiO, content, SiO, nano-
+particles gradually came up to the surface of the films, resulting to a
+rough surface structure, which led to the increase of water contact
+angle. The water contact angles of the films incorporated with un-
+with TMES modified nano SiO at the same content level. The reason
+modified nano SiOz were lower than those of the films incorporated
+was that the unmodified nano SiO, had a large number of hydroxyl
+groups on the surface, and the hydrophility of hydroxyl groups made
+the unmodified nano SiO cannot result a significant increase of water
+contact angle of the nanocomposite film. After modified with TMES, the
+sturface of the nano SiO was covered with a large number of methy1
+groups, which made the nano SiO more hydrophobic. When the con-
+tent of TMES modified nano SiO reached 15%, the surface contact
+angle of the film was higher than 150', and the water droplets could roll
+freely on the surface of the films, achieving the property of super hy-
+drophobicity (Fig. 7). Therefore, hydrophobic modified nano SiO was
+more available for the preparation of super bydrophobic self-cleaning
+surface.
+Fig. 7. Photos of the nanocomposite films with different contents of TMES modified nano SiO2
+films
+the surface of the lotus state films, which build a micro/nanostructure
+According to the lotus effect theoey, there are lots of protrusions on
+on the surface. A certain amount of air is sealed in the pore when liquid
+drops on a micro/nanostructure surface, which leads to a high water
+contact angle and super hydrophobic property of the film [33]. In the
+SiO, would aggregate and form micron size range aggregation, which
+process of casting and curing of the nanocomposite films, parts of nano
+was conducive to the construction of micro/nanostructure structure on
+a surface. The effects of different TMES modified nano SiO, contents on
+the surface structures of the nanocomposite films was observed with
+SEM, and the results were shown in Fig. 8. The surface of the pure
+siloxane-modified 2K-WPU films without adding SiO (Fig. 8a) was
+quite smooth, showed good hydrophobicity with a water contact angle
+mass of pure solid resin, the surface of the nanocomposite film became
+of about 95’. When adding 5% TMES modified nano SiO, based on the
+rough (Fig. Sb), and the water contact angle increased to 104'., Most
+nano SiO was wrapped under the surface of the nanocomposite film
+when the addition dosage of nano SiO was small. The surface rough-
+ness increased slightly, resulting a little effect on water contact angle.
+became rougher, with water contact angle of 130°and some granular
+When the addition dosage of nano SiOz reached 10%, the film sturface
+bulges on the surface (Fig. 8c). Increasing the addition dosage of nano
+SiO to 15%, there were enough nano SiO which could not be com-
+pletely wrapped under the surface of film and came up on the surface of
+to bond the nano SiO particles together (Fig. 8d). The water contact
+the film. At this condition, the 2k-WPU resin played a role as adhesive
+angle of film came to 154', achieving the demand of super hydrophobic
+surface. When the addition dosage of nano SiO reached 20%, the na-
+nocomposite film surface was no longer a continuous whole and
+cracked (Fig. Be) The cracking phenomenon was favorable for the in-
+crease of water contact angle of the film, because the appearance of
+small gaps on the surface of the film could help water droplets to
+capture more air and the surface was more difficult to be wetted by
+However, due to presence of to much nano SiO, the integrity of the
+water droplets. The water contact angle of the film increased to 162",
+nnocomposite film was destroyed, and the appearance and mechanical
+properties of the film were affected. Therefore, the proper addition
+dosage of nano SiO was 15%, under which a super bydrophobic sur-
+films
+DSC was used to evaluate the effect of TMES modified 1
+SiO
+(Fig. 9). When the addition dosage of nano SiO, increased from 0 to
+20%, Ty of the films increased from 55 °C to 66°C. Most nano SiO was
+wrapped in the polyurethane network and acted as another type of
+inkedpoints
+due
+format
+lopgjo
+a. 0%; b. 5%; c. 10%; d. 15%; e. 20%
+Fig. 9. DSC curves of nanc
+modibied namo SiOz
+Fig. 10, TGA and DTG curves of na
+TMES modified nano SIOz
+K-WPU
+y
+igid
+Effect of nano SiOz content on thermal stability of the nano-
+composite films was studied by TG (Fig. 10). The trends of thermal
+degradation of nanocomposite films with different nano SiO contents
+were similar to that of the neat 2K-WPU, and the rapid weight loss
+stages all occurred above 250 °C. Changing TMES modified nano SiO
+content from 0% to 20%, the 50% weight loss temperature of the films
+increased from 327 °C to 338 °C. And the weight residues at 600 °C in-
+creased with the increase of nano SiO, contents. Because of the good
+thermal stability of nano SiO showed in Fig. 5, the thermal stability of
+the nanocomposite films was enhanced by incorporating nano SiO
+4. Conclusions
+Hydrophobicity of nano SiO modified with TMES was significantly
+improved by replacing parts of bydroxyl groups on the surface with
+methyl groups. Super hydrophobic nanocomposite films were success
+fully formed by incorporating hydrophobic modified nano SiO, into the
+siloxane-modifed 2K-WPU, Due to the formation of rough micro/na-
+nostructure built by nano SiO on the film surface, the water contact
+angles of the nanocomposite films increased with the increase of hy-
+interaction between the residual hydroxyl groups of nano SiO and the
+drophobic modified nano SiO content. Due to the formation of strong
+2K-WPU matrix, glass transition temperature of the nanoc
+films shifted toward higher temperature with the increase
+ofSiOz
+content, and the thermal stability of the nan
+hanced by incorporating nar
+nposite hlms
+0 SiOinto 2K-WPU matri
+Acknowledgement
+The authors gratefully acknowledge the financial support from the
+Fundamental Research Funds for the Central Non-profit Research
+Institution of Chinese Academy of Forestry (CAFYBB2017ZC005) and
+the 948 Project of the State Forestry Administration of China (2015-4-
+43J
+References

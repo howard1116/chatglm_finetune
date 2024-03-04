@@ -1,0 +1,254 @@
+DOI:10.13531/j.cnki.china.coatings.2014.06.006
+SynthesisofWaterbornePolyurethane
+withHydroxylGroupsandPreparationof
+FlexibleWaterborneWoodClearcoat
+LoilegeofCemicafandPhiarmceufrcalSciences,WahwrlnsfatufeofTechnonogy,Wuian4so0/3,Chane
+Abstract: One kind of hydroxyl waterborme polyurethane is synthesized after neutralization and dispersant with water of the
+reactions with the polyester diols(PE-1000), dimethylolpropionic acid(DMPA), 1,6-hexanediol(HDO), trimethylolpropane(TMP)
+and isophorone diisocyanate (IPDl). Flexible waterborne wood clearcoat is made by the prepared resin, Bayhydrol
+XP2655,defoaming agent, leveling agent, additives and solvents. The properties of the emulsion and its film were
+characterized by Fourier transform infrared spectroscopy (FT-IR), differential scanning calorimetry(DSC),thermal gravimetric
+analyzer(TGA),particle size analyzer and tensile test machine and other equipment. Test results indicated when the molecular
+weight of the resin was designed for 5 000 to 6 000, the total amount of DMPA from 4.5% to 5.0%, the content of HDO from
+8% to 10%, the content of TMP from 5.0% to 5.5%, neutralization degree at about 1.0, the prepared resin has low particle size,
+viscosity and water absorption rate with shelf life above one year. The prepared waterborme wood clearcoat has good properties
+e and alcohol resistance
+Key words: waterbome polyurethane with hydroxyl groups, waterbome wood clearcoat, softness
+羟基型水性聚氨酯树脂以水为分散介质，符合
+现在低VOC排放的要求，且具有无毒、易操作等优
+点，理化性能可与溶剂型聚氨酯涂料相媲美”目前
+市面上出现的树脂多为线性结构，面且相对分子质
+量低，固含量不高，对固化剂的分散性不强，涂膜干
+燥速度慢，光泽差。同时配制出来的双组分水性聚氨
+酯涂料耐溶剂性不好
+针对现有技术的不足，自主合成了羟基型水性
+聚氨酯，其数均分子量理论值设计为5000~6000以
+实现柔性。在制备过程中引人了三羟甲基丙烷调整
+羟值及其平均官能度，由于三羟甲基丙烷的引人提
+高了交联密度，使耐醇性提高.通过加人1.6-己二
+醇，可以改变涂膜软硬度。将其与水性多异氰酸酯固
+化剂混合配制成水性木器清漆，配制的清漆手感柔
+软光滑、固含量较高、耐溶剂性强。
+聚酯二醇(PE-1000)、1,6-己二醇(HDO)、三羟甲
+基丙烷(TMP)、异佛尔酮二异氰酸酯(IPDI)、二羟甲
+基丙酸(DMPA),水性固化剂BayhydrolXP2655,工业
+品：三乙胺，AR级，天津国药化学制剂有限公司：二月
+桂酸二丁基锡、丙酮，AR级，天津市化学试剂一厂。
+1.2试验步骤
+将聚酯二元醇、DMPA、HDO、TMP加人反应容
+器混合并脱水.降温到60~65C下缓慢滴加二异氰
+酸酯，约1h滴加完-加人催化剂(0.05%），升温至65~
+70℃并保温反应，检测异氰酸酯含量达到小于或等
+于0.1%（质量分数）时停止加热-降温至40~50℃，用
+丙酮调节黏度，并用三乙胺中和.在35~40C高速搅
+拌下加人去离子水分散30min,65C减压脱除丙酮
+即得到羟基型水性聚氨酯。
+即得到羟基型水性聚氨酯
+将上述制备的羟基型水性聚氨酯树脂在中速搅
+拌下依次加入消泡剂、流平剂、乳化蜡和增稠剂分散
+均匀，然后按一定的物质的量配比加人水性固化剂
+进行混合，200目尼龙网过滤，即得水性木器清漆。
+(1)傅里叶红外光谱(FT-IR)测试：将树脂和水
+性木器清漆涂在干净的玻璃板上，充分干燥后揭
+下薄膜采用美国Perkin Elmer公司的Perkin Elmer
+Spectrum2000型傅里叶红外光谱仪进行表征
+（4）拉伸强度和断裂伸长率的测定：用CMT6104
+型号电子拉力机在25C条件下试样的拉伸强度和断
+裂伸长率，拉伸速度为250mm/min.样条裁成哑铃形
+状，其中有效部分为20mm×10mm，测出变形断裂
+时的长度记为L（mm）。
+（5）柔感评价方法：手触模涂料表面，依据感觉将
+柔感分为5级：5级手感最好，1级最差
+(7耐水性：将清漆涂在木板上，放置温度为90
+C的恒温烘箱烘烤1h后，冷却至室温.然后将玻璃样
+板的2/3浸泡至水中，水温一般为室温.观察涂膜表面
+是否有失光、起泡、脱落等现象
+（8）贮存稳定性：先用去离子水稀释，V羟基型水
+性聚氨酯树脂）：V（去离子水）=1：9，然后取一部分
+静置1d，观察是否有沉淀物或者是分层。
+(9）摆杆硬度：按GB/T1730—93将预涂物均匀涂
+覆在干燥洁净的玻璃板上，烘干后，将玻璃板置干摆
+杆硬度计测试，记录摆动的次数，并选择3个不同的
+地方进行测量，取其平均值，利用平均值除以标准板
+的参比值，即得到硬度的数值
+.1轻基型水性聚氨能树脂的红外光造分变
+由图1可以看出3 333.40cm处为—OH和—NH
+的重叠吸收峰，峰较宽，同时在1450~1300cm和
+1160~1000cm区间内有明显的峰，表明有O—H
+的面内变形振动和C—O的伸缩振动-在2280~2200
+cm处没有特征吸收峰出现，说明体系中不存在游离
+的—NCO基团_1728.56cm处强的吸收峰是—C=0
+的伸缩振动峰，1533.54cm、1224.44cm²为N—H变
+形、C—N伸展振动吸收峰：1600.84 cm、767.87 cm
+为苯环的特征吸收峰
+2.2数均分子量对树脂和水性木器清漆的影响
+采用PE-1000作为聚酯二元醇，将小分子二元醇
+HDO的含量控制为10%（质量分数），亲水单体DMPA
+的含量控制为5%，多元醇TMP的含量控制为5%，中
+和度控制在100%，改变树脂的数均分子量观察其对
+水性树脂的影响，见表1。
+由表1看出随着树脂数均分子量的增大，粒径减
+小，黏度增大，因为当平均分子量增大时，一条大分
+子链上亲水单体的个数增多，亲水官能团均匀地分
+布在乳胶粒子表面，乳胶粒子间的排斥力大，乳化分
+散过程中在高速剪切力的作用下，更容易形成较小、
+均匀的乳胶粒子-面粒径越小粒子间的空隙越小，粒
+子运动越困难，黏度越大。
+将水性树脂与固化剂BayhydrolXP2655按1
+1.2的物质的量比进行配漆，制板涂膜，进行各种性能
+测试，性能如表2
+由表2看出随着树脂平均分子量的增大，木器清
+漆的玻璃化转变温度也逐渐增大-因为聚合物的链
+节各组成成分的差异影响了链的规整性-规整性好，
+图1羟基型水性聚氨酯树脂红外光谱图
+Fig. 1 FTIR Spectrum of Waterborne Polyurethane Resin with Hydroxyl Groups
+表1不同平均分子量对水性树脂的影响
+表1不同平均分子量对水性树脂的影响
+Table 1 Effects of Different Average Molecular Weight on Resin
+表2树脂的不同平均分子量对木器清漆涂膜的影响
+Table 2 Effects of Varying Average Molecular Weight on Paint Film
+利于分子的致集，限制了分子的内旋转，使玻璃化温
+度T升高所以从分子量效应看，随树脂平均分子
+量的增加，端基分率减小，自由体积减小，链的自由
+度也减小，T值则升高。为了获得柔性水性木器清漆，
+玻璃化转变温度在适当的范围内越低越好，因此，从
+以上几个方面的影响综合考虑，将羟基型水性聚氨
+酯树脂的平均分子量控制在5000~6000较为合适
+仅用DMPA作为亲水单体，考察DMPA的不同含量对
+树脂外观及其性能的影响，见表3。
+由表3看出水性树脂的外观随着DMPA含量的增
+大泛蓝光现象越来越明显，透明度增加，粒径越来越
+小，但黏度越来越大，吸水率也越来越大。因为亲水
+单体越多，乳胶粒相互之间的排斥力增大，在高速剪
+切力的作用下，乳液分散的更加均匀，粒径更小同
+时当亲水单体增多时，一COO的含量增多，与水的氢
+键的缔合作用增强。随着聚合物总表面积的增大，分
+散相的体积增大，因此分散液的黏度增大"，亲水单
+Table 3 Effects of Different Hvdrophilic Monomers on Resir
+同时用上述水性树脂和固化剂配制水性木器清
+漆，对涂膜耐水性的影响见表4
+表5不同中和座对羟基型水性聚氨酯的影取
+Table S Effects of Different Neutralization Degree on Waterborne Polyurethane Resin
+由表5看出随着中和度的增加树脂的粒径先减
+小再增大，黏度一直增大.因为随着中和度的增大，
+大部分或者全部的羧基被中和形成有效的离子中
+心，具有更好的亲水性，从而树脂的粒径越小但是
+当中和度大于1.0时，由于羧基都已参与反应，中和剂
+过量，会成为单纯的电解质增加分散介质的离子强
+度，分散介质中的离子会压迫双电层降低粒子的电
+位，使乳胶粒粒径增大。
+黏度增大因为随着中和度的提高，有效亲水基
+团越多，乳胶粒的水合层增大，
+导致离于运动困难
+表6不同HDO的含量对轻基型水性聚氨酯性能的影响
+Table 6Effects of Different HDO Contents on Waterborne Polyurethane Resin
+为了得到较合适的树脂及其合适的水性木器清
+漆粒径、黏度以及较小的吸水率和良好的忙存性，将
+亲水单体DMPA控制在4.5%~5.0%为宜
+2.4中和度对树脂的影响
+将树脂的平均分子量控制在6000,HDO的含量
+控制在10%，DMPA的含量控制在5%，TMP的含量控
+制在5%，以三乙胺为中和剂，考察不同的比例中和反
+应中羧基的量对树脂粒径及其黏度等性能的影响，
+见表5。
+黏度增大。当中和度超过1.0时，树脂的外观逐渐增
+黄，对体系会起到一定的增稠作用，体系的离子浓度
+急剧增高，转相点滞后，需要加入大量的水才能使预
+聚体分散开来，加水分散后的树脂分散不均一，导致
+树脂容易分层且黏度会越来越大.因此将中和度控
+制在1.0左右最佳
+2.5小分子单体（HDO）的影响
+将树脂的数均分子质量控制在6000，亲水单体
+含量控制为5%，三羟甲基丙烷的含量控制为5%，改
+变HDO的含量，考察对树脂的影响，见表6
+由表6看出，随着HDO含量增加，树脂的平均粒
+径逐渐增大，粒径分布变宽，黏度降低，同时硬度逐
+渐增大。因为HDO作为硬段，随着含量的增加，刚性
+基团氨基甲酸酯增多，大分子链刚性增加，不利于亲
+水基团有效参与形成双电层，形成的聚合物亲水性
+下降，粒径增大，同时硬度增大，粒径增大使得溶胶
+表7不同HDO的含量对水性木器清漆涂膜性能的影响
+Table 7 Effects of Different HDO Content on Paint Film
+注：于感5为最好，后网，
+表8不同TMIP的含量对经基型水性聚氨酯性能的影霜
+Table 8 Effects of Different TMP Contents on Waterborne Polyurethane Resin
+由表8看出，当TMP的含量逐渐增多时，树脂涂
+膜的吸水率下降，耐水性增强，拉伸强度增大，断裂
+伸长率降低-因为TMP是三官能度的小分子单体，3
+个羟基具有一样的反应度-3个羟基与异氰酸酯基发
+生反应，形成网状交联结构，既可以起到交联作用，
+又可以起到扩链作用，当形成结构紧密稳定的网状
+表9不同TMIP的含量对双组分水性聚氨酯色漆涂膜性能的影响
+表9不同TMP的含量对双组分水性聚氨酯色漆涂膜性能的影响
+Table 9 Effects of Different TMP Co
+Table 9 Effects of Different TMP Contents on Waterborne Polyurethane Colored Paint Film
+由表9可知，加人水性固化剂后，当TMP的含量
+增多时，涂膜的拉伸强度逐渐增大，而断裂伸长率和
+粒子表面的电荷密度降低，双电层厚度变小，胶粒之
+间的斥力减小胶粒尺寸较大时单位体积内粒子数
+减少，相互碰撞机会减小，从而黏度减小
+同时用上述不同HDO含量制成的树脂和水性固
+化剂合成水性木器清漆，
+交联结构时，阻碍了分子之间的运动，同时树脂的涂
+膜塑感性更强，从而吸水率降低，拉伸强度逐渐增
+大，断裂伸长率逐渐降低。
+同时用上述不同TMP含量制成的树脂和固化剂
+附着力却逐渐减小.因此综上条件考虑，将TMP的含
+量控制在5.0%～5.5%较为合适。
+表10不同n—NCO)Vn（—OH）配比对水性木器清漆涂膜的影响
+Eable101
+由表10可知，r（—NCO）（—OH）基团比越小，
+涂膜的手感越好，耐溶醇性和硬度越低.n（一NCO）
+r（一OH）的比例较大程度影响了涂膜的交联密度。
+r（—NCO）n（—OH）越大，交联越好，涂膜越致密，铅
+笔硬度和耐化学试剂性能越高，手感损失越大.本试
+验中，当n（—NCO)r（—OH）基团比在1.2~1.6时，涂
+膜可以获得较为综合的手感和耐化学试剂性能。
+图2为合成的羟基型水性聚氨酯树脂和水性木
+器清漆的热重分析曲线。由图2可见两曲线都是于
+100℃开始分解失重，可归因为水分以及小分子物质
+的分解挥发；当继续升温，在250～450C出现极大的
+分解率，这些是聚合物的整体分解，说明涂膜的分解
+较为单一。从图2中可以看出水性木器清漆的分解温
+度要大于羟基型水性聚氨酯树脂，这说明当树脂加
+入水性多异氰酸酯固化剂固化之后，涂膜的耐热性
+能增加。
+表11柔性水性木器清漆的参考配方
+表11柔性水性木器清漆的参考配方
+Table 11Referene
+ilaofFlexibleWaterbo
+Table 11 Reference Formula of Flexible Waterborne Wood Clearcoat
+(1)考察了不同平均分子量对树脂的影响，通过
+对粒径、黏度以及玻璃化转变温度的考察，选择数均
+分子量为5000～6000时，树脂和木器清漆的综合性
+能较好。
+（2)分析了亲水单体含量对树脂性能的影响，考
+虑了树脂外观、固含量、粒径、黏度、吸水率、贮存稳
+2.9羟基型水性聚氨酯合成水性木器清漆（见表11
+定性等几个方面的因素，同时考虑了水性木器清漆
+涂膜的耐水性，确定亲水单体DMPA的最佳用量在
+4.5%～5.0%，最佳中和度在1.0左右
+(3)从粒径、黏度、硬度、吸水率、拉伸强度、断裂
+伸长率等方面考察了HDO、TMP的含量对树脂的影
+响_确定小分子二元醇HDO的最佳用量在8%～10%，
+（下转第45页)
+表18表明，以硅溶胶为主要成膜物的水性木器
+透明底漆，与水性丙烯酸树脂体系的水性木器透明
+底漆相比，硬度、干速、耐水性、初期抗压和防涨筋效
+果等性能都胜出一筹，达到本研究的目的。
+综合以上，以硅溶胶为主要成膜物，占配方比例
+为65%，开发出的水性透明底漆，具有硬度高、干速快
+硬度建立快、初期抗压性好、耐水性优、附着力好、打
+磨性好等优势
+多元醇TMP的含量为5.0%～5.5%时，树脂及其木器
+清漆的上述考察各项性能最好。
+（4）固化时固化剂与羟基水性聚氨酯组分的
+比例对涂膜硬度及手感性能影响较大m（—NCO）/
+n（一OH）基团比越大，涂膜的手感越差，耐溶剂性和
+硬度越高_m（—NCO)/n（—OH）为1.2~1.6时，涂膜的
+综合性能最好。
+（5）对产品的红外光谱图和热重进行了分析，发
+现固化后的水性木器清漆的热稳定性优于羟基型水
+性聚氨酯树脂
+参考文献
+政福日期2014-04-22

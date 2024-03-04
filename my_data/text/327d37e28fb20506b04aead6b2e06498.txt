@@ -1,0 +1,237 @@
+有机氟硅共改性水性聚氨酯乳液的合成及其性能
+王贺之侯彩英马国章王少辉吉轩
+（1.太原理工大学化学化工学院太原030024；2.涂装高分子功能材料
+山西省重点实验室山西省应用化学研究所太原030027）
+摘要：将异佛尔酮二胺（IPDA）和甲基丙烯酸十二氟庚酯（DFMA）进行Micheal加成反应合成
+端仲胺基的有机氟化合物（DFMA-IPDA）。以该化合物为扩链剂、聚醚改性聚二甲基硅氧烷（PDMS）
+为二元醇与异佛尔酮二异氰酸酯（IPDI）、聚氧化丙烯二醇（PPG）、二羟甲基丙酸（DMPA）聚合制备
+了有机氟和硅改性的水性聚氨酯（WPU）研究了有机氟和/或硅用量对WPU乳液性能和胶膜性能的
+影响。结果表明：用该方法合成的DFMA-IPDA纯度达99.2%和一定量的PDMS共改性可合成稳定
+的WPU乳液。随两者用量的增加，WPU乳液的平均粒径增大胶膜的热稳定性、耐水性提高表面水
+接触角增大。PDMS可提高WPU胶膜的柔性，而DFMA-IPDA可提高胶膜的韧性。用PDMS和
+DFMA-IPDA共改性能获得综合性能优异的WPU当扩链剂完全采用DFMA-IPDAPDMS用量为4%
+时，WPU胶膜的吸水率为4.5%水接触角达到102.3°。
+关键词：有机氟：聚硅氧烷：水性聚氨酯：扩链剂
+中图分类号：TQ630.4
+文献标识码：A
+文章编号：02534312(2018) 03000607
+ModifiedWaterbornePolyurethaneEmulsions
+Wang Hezhi' ² , Hou Caiying' ², Ma Guozhang’ ^ , Wang Shaohui' 2 Ji Xuan²
+( 1. Coflege of Chemistry and Chemical Engineering , Taiyuan Unin
+Taiyuan 030024 , China; 2. Shanxi Key Laboralory for Functional Polymers of Coating
+Shanxi Research Institute of Applied Chemistry , Taiyuan 030027 , China)
+Abstract: A secondary amine =terminated fluorocarbon compound ( DFMA IPDA) was
+synthesized via Michael addition reaction between dodecafluoroheptyl methacrylate ( DFMA)
+and isophorone diamine ( iPDA) . The compound was used as chain extender and hydroxye-
+thoxypropyl  terminated polydimethylsiloxane ( PDMS)
+wasusedasdioltoreactwith
+( DMPA) to synthesize organofluorine and silicon modified waterbome polyurethane ( WPU)
+were investigated. The results showed that the purity of DFMA IPDA was 99. 2% and could be
+used for preparation of the stable WPU emulsions with a certain amount of PDMS. As the
+基金项目】山西省国际科技合作基金（2015081
+1019)：科技部中小企业技术
+mount of PDMS and /or DFMAIPDA increased , the average particle size of the emulsions in-
+creased and the thermostability , water resistance and surface water contact angle of the result-
+ant films were also improved. PDMS modification led to an increase in the flexibility of the
+films , whereas the DFMAIPDA modification can improve their toughness, Thus , PDMS and
+DFMAIPDA co=modified WPU behaved excellent comprehensive properties. When DFMA
+IPDA was used as extender and the amount of PDMS was 4 wt% , the water absorption rate of
+the WPU film was 4. 5% and its water contact angle was 102°
+KeyWords:organofluorine;polvsiloxane;waterbornepolvurethane;chainextendei
+水性聚氨酯（WPU）以水为溶剂安全环保使用
+方使兼具成膜性能好、附着力强、耐磨性好等特点，
+在皮革涂饰、纤维处理、表面防护等方面得到了广泛
+应用。然而，WPU胶膜的耐热性较差分子链上含
+有亲水性基团胶膜及其表面的耐水性不足-”。为
+了提高这些性能在WPU分子结构中引I入功能基团
+成为该领域的研究热点。
+聚硅氧烷具有机和无机化合物的特点，表面能
+低耐氧化性、耐水性、耐热性好，将其引入到WPU
+分子链中，可赋予WPU胶膜良好的疏水性和耐热
+性.含氟化合物中C一F键短键能大表面能低，
+表现出较好的疏水疏油性以含氟二元醇或含氟异氟
+酸酯为原料，可合成氟改性WPU乳液。在成膜过程
+中含氟基团向表面迁移涂膜的表面能降低疏水性
+和耐腐蚀性都得到了不同程度的提高[]。然而，仅
+用聚硅氧烷或含氟化合物改性的WPU还存在着一
+定程度的不足如聚硅氧烷和WPU的软硬段相容性
+差，当其用量达到一定程度时WPU胶膜的机械性能
+变差。而可用于聚氨酯合成的含氟化合物品种
+少价格高随含氟化合物用量的增加乳液稳定性能
+变差胶膜脆性增大。利用两者的各自特点对
+WPU共改性以提高其综合性能成为解决这一问题
+的重要途径-0
+本研究以甲基丙烯酸十二氟庚酯（DFMA）和异
+佛尔酮二胺（IPDA）为原料通过Micheal加成反应合
+成端仲胺基的DFMA-IPDA加成物。以该加成物为
+扩链剂，以聚醚改性聚二甲基硅氧烷为二元醇和异
+佛尔酮二异氰酸酯、聚氧化丙烯二醇、二羟甲基丙酸
+等聚合合成侧链含氟、主链含硅的聚氨酯再经中和、
+乳化合成有机硅和氟改性的WPU乳液。通过研究
+含氟化合物、有机硅化合物用量对WPU性能的影
+聚丙二醇（PPGM，=2000)：工业级江苏钟山
+化工有限公司：聚醚改性聚二甲基硅氧烷N2147
+（PDMSM=2000）：工业级上海泰格聚合物技术有
+限公司；异佛尔酮二异氟酸酯（IPDI）、异佛尔酮二胺
+（IPDA）：工业级，巴斯夫；甲基丙烯酸十二氟庚酯
+（DFMA）：工业级哈尔滨雪佳氟硅化学有限公司：二
+羟甲基丙酸（DMPA）：工业级南京润邦化工有限公
+司；1，4-丁二醇（BDO）、三乙胺（TEA）、乙二胺
+（EDA）、VN-二甲基甲酰胺（DMF）、二月桂酸二丁
+基锡（DBTDL）、乙醇：分析纯国药集团化学试剂有
+限公司，
+在带搅拌、N保护装置和温度计的500mL四口
+瓶中加入100 mL无水乙醇25.8g(0.15 mol) IPDA
+和120.0g（0.3mol）DFMA通入N于室温下搅拌
+反应24h65℃减压桑馏除去乙醇得到浅黄色透明
+油状液体记为DFMA-IPDA。收率98.7%
+为了比较有机硅化合物和有机氟化合物含量对
+WPU乳液及胶膜性能的影响固定（二异氟酸酯）：
+n（多元醇）=4.5DMPA质量分数为4.6%盐化率为
+85%：在固定这些条件的前提下其他原料的用量如
+表1所示。
+王贺之等：有机氟硅共改性水性聚氨酯乳液的合成及其性
+Table 1Formulation of organofluorine and silicone modified WPU
+按表1配方将PPG和PDMS加入带有搅拌器
+冷凝器、N，保护装置和温度计的500mL的四口烧瓶
+中在110-120°℃的温度下真空脱水120min.降温
+至 50~60℃加入 IPDI 和1滴催化剂(DBTDL)并
+升温至80℃，在N的保护下反应120min。加入
+DMPA 继续反应 30 min 后 加入 DFMAIPDA、BDO
+反应至一NCO质量分数达到理论值加入一定量的丙
+酮降低体系黏度，降温至50℃，滴加TEA搅拌30
+min降温至20-25C缓慢加入去离子水并快速分散
+10 min缓慢滴加EDA扩链反应120min抽真空脱
+除丙酮得到固含量约为30%的WPU乳液。
+以甲醇为流动相，用配有紫外检测器的Uli-
+mate3000型高效液相色谱仪（HPLC美国热电公司）
+对样品进行分析，以氛代氯仿为溶剂，采用
+DMX500FX-90Q型核磁共振仪（NMR，德国Bruker
+公司）对DFMA-IPDA进行'H-NMR分析。采用
+Nicolet360型傅里叶红外光谱仪（美国热电公司）对
+样品进行FT-IR分析扫描范围为4000-400cm，
+扫描次数为32次。采用HCT-1型热天平（北京恒久
+科学仪器厂）在N流量为30mL/min、升温速率为
+10°℃C/min的条件下对胶膜进行TG分析升温范围
+为25800℃。
+将乳液置于15mL离心试管中在离心机上以
+室温下采用DSA20接触角测定仪（德国Kruss公
+司）测试玻璃板涂层的表面静态水接触角水滴在涂
+层表面15后测量接触角大小，每个样品取3个不
+同的点测试结果取平均值。
+将膜裁剪成30mm×30mm的正方形称质量
+m：室温下置于去离子水中24h用吸水纸除去膜表
+面的水分称质量㎡胶膜吸水率按照式（1)计算平
+行测定3次取平均值。
+式（1）
+IPDA分子中含有2个—NH基团，该基团中的
+N—H可与 DFMA中的C=C双键发生Michael 加成
+反应[。1 mol的 IPDA 和2 mol 的 DFMA反应转化
+为两端为仲胺基的DFMA-IPDA加产物合成路线如
+式（2)所示。为了使IPDA与DFMA充分反应选用
+乙醇作为溶剂所得产物为浅黄色油状液体
+用高效液相色谱仪对DFMA-IPDA进行分析其
+色谱如图1所示。在保留时间为10min时样品只
+出现一个强的吸收峰用面积归一化法处理，该化合
+王贺之等：有机氟硅共改性水性聚氨酯乳液的合成及其性
+由图2可知，曲线（a）中，在1742cm处出现
+DFMA的C=O伸缩振动吸收峰。曲线（b）中，在
+收峰是由—NH基团中2个N—H键偶合裂分所
+致(1-。在曲线（c)中N—H键的吸收峰变为单峰，
+并位移到3424cm处表现出典型的仲胺特征吸收
+峰[13].而C=0吸收峰位移到1750cm处。1500
+产物有6种不同化学位置的氢在其H-NMR图
+谱上产生了复杂的化学位移。在8=0.78-1.10内的
+多重峰归属于化合物分子中一CH，基团以及IPDA中
+六元环上—CH—中部分氢6=1.64-1.89范围内的
+峰则对应于IPDA六元环上氨基、氨甲基相邻的
+—CH—中的氢，而6=2.46-2.76范围内的峰则是
+N—CH—上的氢（-9=3.52和8=4.01分别对应
+CFH—和—OCH—CF中的氢[-]。FT-IR 和H-
+NMR 的分析表明 DFMA 和 IPDA 通过 Michael 加成，
+合成了目标产物DFMA-IPDA。
+未改性WPU为半透明的淡蓝色乳液，D为
+246nm。在软硬段比例和DMPA用量不变的前提
+下引I入PDMS使乳液从淡蓝色转为微白色，随
+PDMS 用量的增加 D增加。而引入 DFMA-IPDA后
+乳液呈淡黄色D随DFMA-IPDA用量的增加而增
+加。将DFMA-IPDA全部代替 BDO,PDMS用量在
+4%内仍能得到稳定的淡黄色WPU乳液乳液D随
+有机氟化合物和有机硅化合物用量的增加而增加。
+当PDMS用量达到6%时，乳液稳定性变差，说明
+WPU在水中溶解乳化性能变差。其原因是DFMA-
+王贺之等：有机氟硅共改性水性聚氨酯乳液的合成及其性
+IPDA和PDMS中分别含有疏水的氟碳和有机硅基
+团将其引入聚氨酯分子链中在乳化过程中这2种
+基团或链段被亲水的羧基基团包裹而形成稳定的乳
+液（2A-5川.随2种基团量的增加粒径增大乳液透
+明性变差。当其含量达到一定程度后胶粒互相碰撞
+结合而产生沉淀稳定性变差
+WPU胶膜是经过其乳液水分挥发、胶粒的无规
+则运动及破裂、分子链缠结等过程形成的胶膜的
+性能与分子结构、软硬段含量、微相分离程度、化学键
+强度和分子间作用力有关-。用拉伸测定仪研
+究有机硅化合物和有机氟化合物用量对WPU胶膜
+拉伸应变行为的影响结果如图4所示。
+由图4可知未改性的WPU胶膜的拉伸强度和
+断裂伸长率分别为4.4MPa和1152%。PDMS用量
+为2%和4%时，WPU胶膜的拉伸强度分别降低到
+3.8 MPa 和 3.5 MPa,断裂伸长率增加到1 230%和
+1310%。而用DFMAIPDA替代50%和100%的
+BDO，WPU胶膜的拉伸强度分别增加到4.8MPa和
+5.4MPa断裂伸长率降低到940%和910%。但有机
+硅和有机氟化合物用量分别增加到6%和100%时
+说明PDMS的5人可明显地
+胶膜的力学性能变差。说明PDMS的引I入可明显地
+提高其柔性，而DFMA-IPDA可提高膜的韧性-
+PDMS表面能低与WPU分子链的相容性差，导致
+WPU膜中的软硬段相分离程度增加分子链间氢键
+化程度降低链段移动能力增加拉伸强度降低断裂
+伸长率增加。氟的电负性较大引入有机氟使
+WPU分子链间的氢键化程度大幅增加-，WPU胶
+膜的拉伸强度提高。将PDMS和DFMA-IPDA共同
+引入WPU分子链中，可得到拉伸强度和断裂伸长率
+适中、综合机械性能较好的WPU.
+对WPU胶膜进行FT-IR分析，可有效地说明这
+一点。WPU成膜后，其分子链上的氨基甲酸酯中的
+氨基（N—H)可与羰基（C=O）及聚醚基团中的氧、
+氟碳链中的氟形成氢键使大分子相互作用而形成网
+状交联结构。非氢键结合的N—H伸缩振动吸收
+峰位于3530cm处而氢键结合N—H伸缩振动吸收
+峰位于3337cm处[1。用高斯函数和傅里叶自解
+卷积（FSD)对不同WPU胶膜的吸收峰进行分峰处理
+图5
+未改性WPU中，氢键化的N—H为82.83%，用
+PDMS或 DFMA-IPDA改性后,氢键化N—H随 PDMS
+用量的增加而降低随DFMA-IPDA用量的增加而增
+由表4可以看出，有机硅或有机氟均可明显降低
+WPU胶吸水率，氟硅共改性时，WPU胶膜吸水率由
+8.6%降至4.5%。其原因是由于胶体粒子聚集组成
+的WPU膜存在间隙遇水后，其分子链上的羧基和
+水以氢键的形式结合而使膜溶胀。引入有机氟
+或有机硅后一方面膜表面富集的有机硅或有机氟可
+阻止水分向膜内渗透另一方面分布在膜中的氟或硅
+基团有效阻止了水与亲水的羧酸盐粒子的接触从而
+降低膜的吸水率[-]。硅氟共改性的聚氨酯因含氟
+表4不同氟硅含量的WPU胶膜的水接触角和吸水率
+基团和含硅基团的协同作用，使得胶膜的吸水率较
+氟、硅单独改性的更好
+作为涂装用高分子材料，WPU胶膜的表面疏水
+性能是衡量其性能的重要指标之一[。由表4可以
+看出有机硅和有机氟均能显著改善WPU胶膜的疏
+水性能将4%的PDMS引I入完全采用DFMA-IPDA
+扩链的WPU后，胶膜的水接触角由70°提高至
+102.3°，因为有机硅和有机氟表面能低成膜过程中
+向膜表面迁移降低了胶膜的表面张力。另外有机硅
+王贺之等：有机氟硅共改性水性聚氨酯乳液的合成及其性
+（1）以异佛尔酮二胺和甲基丙烯酸十二氟庚酯
+为原料用Micheal加成反应在室温下合成了端仲胺
+基团的含氟有机化合物DFPA-IPDA收率为98.7%，
+纯度为99.2%
+（2）以DFPA-IPDA为扩链剂PDMS为软段二
+元醇和IPDI、PPG、DMPA合成聚氨酯预聚物经中
+和、乳化制备了WPU乳液。当扩链剂完全采用
+DFPA-IPDA且PDMS 用量为 4%时,WPU乳液的机
+械性能稳定乳液平均粒径随DFPA-IPDA、PDMS的
+用量的增加而增大。
+lluorinated polyacrylate [J ]- Journal of Macromolecular Sci-

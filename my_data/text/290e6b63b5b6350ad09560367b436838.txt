@@ -1,0 +1,137 @@
+含柔性链超支化聚氨酯丙烯酸酯的制备及表征
+摘要：以异佛尔酮二异氟酸酯（IPDI)和二乙醇胺（DEOA）为原料经一步法自缩聚反应制备超
+支化聚氨酯（HPU-OH）。再以聚乙二醇（PEG200）、IPDI和丙烯酸羟乙酯（HEA）为原料合成一端为
+异氰酸基团、另一端为双键的预聚体IPDI/PEG200/HEA将其接枝到HPU-OH后合成含柔性链超支
+化聚氨酯丙烯酸酯（HPUA）。优化了合成条件；并采用FT-IR、HNMR和GPC对其结构和组成进行
+了表征。以1-羟基环已基苯基甲酮（Irgacure184）作为光引发剂对HPUA涂膜紫外光固化后进行测
+试。结果表明：优化后IPDI/PEG200/HEA的合成条件为温度35C、催化剂二月桂酸二丁基锡（DBT-
+DL)用量为丙烯酸羟乙酯质量的0.0375%、反应时间为120min;优化后HPUA的合成条件为温度70
+℃、DBTDL用量为0.05%、反应时间为120min-含成的HPUA产品数均相对分子质量（M）为
+13683相对分子质量分布指数（PDI）为2.1：与同类产品相比其固化速度快且涂膜柔韧性优异光固
+化速度为3柔韧性1mm船笔硬度2H附着力1级
+SynthesisandCharacterizationofHyperbranched
+PolvurethaneAcrvlatewithFlexibleChains
+Dong Haihui ,Xiang Hongping ,Liu Xiaoxuar
+School of Materials and Energy , Guangdong Unuversity of Technology , Guang=hou 5lO006 , Chuna
+isophorone disocyanate ( IPDI) and diethanolamine ( DEOA) via selfcondensation. Mean-
+while , a prepolymer IPDI/PEG200/HEA having isocyanate and double bond was synthesized
+from polyethylene glycol ( PEG200) , IPDI and 2hydroxyethyl acrylate ( HEA) . Then a hy
+perbranched polyurethane acrylate ( HPUA) with flexible chains was synthesized by graft reac-
+tion of the prepared prepolymer and HPU OH. The synthesis conditions were optimized. The
+structure and composition of HPUA were characterized by FTIR , H NMR and GPC. Using 1
+hydroxy=cyclohexylphenylketone ( Irgacure184) as a photoinitiator , the cured film of the
+UV curable HPUA was tested. The optimal synthesis conditions of IPDI/PEG200/HEA was
+that the composition was reacted at 35 °C for 120 min at the presence of DBTDL as a catalyst
+with its dosage O. 037 5% of the weight of HEA. And the optimal synthesis conditions of
+HPUA was that the composition was reacted at 70 °C for 120 min at the presence of DBTDL
+（广东工业大学材料与能源学院广州S10006）
+超支化聚合物是一类具有高度支化结构的聚
+合物由于其分子结构中含有大量的外部官能团和
+空腔结构，且具有无缠结、非结晶等特点所以该聚
+合物具有溶解性较好和紫外固化速度快等优
+点[-]。超支化聚氨酯丙烯酸酯是一种新型的功能
+性树脂，它不仅具有聚氨酯丙烯酸树脂优良的耐蘑
+性、耐化学腐蚀性、耐候性等特点而且还具有超支
+化聚合物的优点，使其广泛应用于涂料、胶粘剂等
+领域4-5]。近年来，研究者制备紫外光固化超支化
+聚氨酯内烯酸酯方法主要有2种。一种是先合成
+端羟基超支化聚酯[]再引入氨基甲酸酯和双键
+对其改性后得到超支化聚氨酯丙烯酸酯，该方法氨
+基甲酸酯基较少，无法充分体现聚氨酯的特性，柔
+韧性相对较差。Asif等以22-二羟甲基丙酸和
+三羟甲基丙烷为原料合成不同代数超支化聚酯，再
+与IPDI-HEA合成超支化聚氨酯丙烯酸酯。张林
+雅等以季戊四醇和22-二羟甲基丙酸等为原料
+合成不同代数超支化聚酯丙烯酸酯紫外光固化后
+柔韧性较差。另一种方法是直接通过二异氰酸酯
+与二乙醇胺（DEOA）反应后得到超支化聚氨酯，再
+引人双键得到超支化聚氨留内烯酸酯，该方法合成
+的树脂硬而脆附着力不佳[10-11。Gan等[12以二异
+氰酸酯和多羟基单胺基单体等为原料，通过耦合单
+体法合成出具有高度支化结构的超支化聚氨酯。
+Bao等[以DEOA和IPDI等为原料合成超支化聚
+氨酯再通过IPDI/HEA对其进行双键改性后得到
+超支化聚氨酯内烯酸留：针对以上分析，本文以
+IPDI和DEOA为原料，一步法合成超支化聚氨酯；
+将扩链剂PEG200与IPDI合成预聚体IPDI/
+PEG200再将HEA与IPDI/PEG200反应合成一端
+为双键、另一端为异氟酸基团的IPDI/PEG200/
+HEA预聚体最后接枝到超支化聚氨酯末端，合成
+出超支化聚氨酯丙烯酸酯，对其进行结构表征，并
+测试了其光固化膜的性能
+异佛尔酮二异氟酸酯（IPDI)：工业级广州化学
+试剂厂；二乙醇胺（DEOA）、二正丁胺、无水乙醇、无
+水乙醚：分析纯天津致远化学试剂厂；NN-二甲基
+乙酰胺（DMA）、聚乙二醇（PEG200）、二月桂酸二丁
+基锡（DBTDL）对羟基苯甲醚（MEHQ）：分析纯，阿
+拉丁试剂公司；丙烯酸羟乙酯（HEA)：分析纯，麦克
+林试剂公司；超支化聚氨酯丙烯酸酯（RJ544）：工业
+级广州市利厚贸易有限公司。
+在装有温度计、氮气管、机械搅拌器和分液漏斗
+的500mL四口烧瓶中加入0.15molIPDI和等量
+DMA溶液待溶液冷却至0℃时缓慢滴加0.15mol
+DEOA和等量DMA溶液滴完后在0℃下反应2h，
+缓慢升温至50C每隔20min测定其一NC0含量
+通过理论计算得出第四代产物对应的一NCO含量约
+为0.4%加入过量二正丁胺进行封端，最后用无水
+乙髓进行沉降分离在真空干燥箱进行干燥后得到第
+四代端羟基超支化聚氨酯（HPU-OH）。
+在装有温度计、搅拌器和冷凝管的四口瓶中在
+60°℃、氮气条件下加入0.1molIPDI和等量DMA
+溶液缓慢滴加0.05molPEG200和等量DMA溶液
+滴完后用二正丁胺法测定一NCO含量，达到理论值
+（6.52%）后，调节温度，缓慢滴加溶有DBTDL、
+MEHQ -HEA( 0. 065 mol) 和 DMA( 0. 065 mol) 的混合
+溶液滴完后每隔20min测定一NC0含量，当达到理
+论值（2.76%)时停止反应得到IPDI/PEG200/HEA
+董海端等：含柔性链超支化聚氨酯丙烯酸酯的制备及表征
+通过乙酸酐-吡啶法[测定1.2中得到的HPU
+-OH羟值，在40C下，加入一定量DBTDL和
+MEHQ缓慢滴入与HPU-OH等羟基物质的量的
+IPDI/PEG200/HEA滴完后升高到一定温度下进行
+反应每隔20min测定—NCO含量，直至一NCO含量
+不变后加入过量二正丁胺进行封端，通过无水乙醚
+进行沉降再用丙酮洗涤、过滤最后在真空干燥箱中
+干燥后得到HPUA。
+85%的树脂溶液加入4%光引发剂Irgacure184振荡
+溶解后，在马口铁上进行涂布，厚度为22μm，在
+60°℃烘箱中干燥5min后用LT-UV102型紫外光固
+化机进行固化并记录固化时间，
+采用美国Nicolet公司的Magna360型傅里叶变
+换红外光谱仪测定红外光谱，使用漠化钾片涂膜法
+由图3可知不加催化剂反应转化率较低随着
+催化剂用量增加反应速率增加。固定温度为35℃
+%
+至2.76%时所需时间为120min继续增加催化剂用
+量所需时间变化不大。固定催化剂用量为0.0375%
+时当反应温度设定为30℃时反应速率相对较慢，
+一NC0含量降低较慢：温度为40℃时反应较快，体系
+黏度增大副反应增多从而引起凝胶，温度为35℃，
+反应速率较快且稳定反应时间为120min。
+由图4可知不加催化剂时反应转化率较低随
+着催化剂用量增加反应速率升高。固定反应温度为
+50℃当催化剂用量增加至0.05%时—NC0含量基
+本不变的时间为140min继续增加催化剂用量反应
+时间变化对一NCO含量的影响不大。固定催化剂用
+量为0.05%时，当反应温度设定为50℃时反应相对
+缓慢转化率相对较低；升高温度反应速率增大，当
+温度为70C时反应速率较高且比较稳定，一NC0含
+量基本不变的时间为120mmm
+董海端等：含柔性链超支化聚氨酯丙烯酸酯的制备及表征
+由图7可知：HPUA实测数均相对分子质量M
+为13683相对分子质量分布为2.1。而理论相对分
+子质量为17079，实测值低于理论值，主要是超支化
+代数越大空间位阻越大分子缺陷越多，且GPC色
+谱柱是以一种线性高分子作为校正标准流体力学体
+积不同，相对分子质量分布较宽，主要是反应物
+转化率较大超支化分子的结构缺陷越多
+通过一步法缩聚合成了超支化聚氨酯丙烯酸酯
+（HPUA）。合成IPDI/PEG200/HEA的最优反应条件
+为：温度为35℃、催化剂用量为0.0375%反应时间
+为120min;合成HPUA的最优反应条件为：温度为
+70°℃，催化剂用量为0.05%，反应时间为120min。
+用FT-IR、'HNMR和GPC等测试手段对其结构与组
+成进行了表征结果表明已成功合成HPUA数均相
+对分子质量为13683PDI为2.1.HPUA结构中，分
+子末端大量柔性单元和双键使其光固化涂膜具有较
+快的固化速度和优异的柔韧性
