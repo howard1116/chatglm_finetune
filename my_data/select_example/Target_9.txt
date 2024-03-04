@@ -1,0 +1,13 @@
+```json
+[{"subject":"聚天门冬氨酸酯",
+"predicate":"最大热解速率对应温度",
+"object":"469°C"},
+
+{"subject":"水性聚天门冬氨酸酯",
+"predicate":"最大热解速率对应温度",
+"object":"468°C"},
+
+{"subject":"聚天门冬氨酸酯",
+"predicate":"水性化后的稳定性",
+"object":"没有变化"}]
+```

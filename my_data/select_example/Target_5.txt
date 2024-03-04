@@ -1,0 +1,5 @@
+```json
+[{"subject":"AdecaledinEP-4088S",
+"predicate":"特性",
+"object":{"低氯含量","高附着力","低粘度"}}]
+```

@@ -1,0 +1,9 @@
+```json
+[{"subject":"DMPA",
+"predicate":"分子含有",
+"object":"侧甲基"},
+
+{"subject":"DMPA",
+"predicate":"引入量增加时的特性",
+"object":"削弱WPU的结品性"}]
+```

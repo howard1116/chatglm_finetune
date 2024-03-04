@@ -1,0 +1,9 @@
+```json
+[{"subject":"MAPP",
+"predicate":"固含量小于35%时的特性",
+"object":"乳液均为半透明，泛蓝色荧光"},
+
+{"subject":"MAPP",
+"predicate":"固含量大于35%后的特性",
+"object":{"乳液逐渐变为乳白色","稳定性降低"}}]
+```

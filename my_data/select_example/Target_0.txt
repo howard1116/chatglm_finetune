@@ -1,0 +1,17 @@
+```json
+[{"subject":"涂层阻抗谱",
+"predicate":"容抗弧",
+"object":"单一的"},
+
+{"subject":"涂层阻抗谱容抗弧",
+"predicate":"曲率半径",
+"object":"较大"},
+
+{"subject":"涂层长期浸泡腐蚀后",
+"predicate":"特性",
+"object":{"屏蔽性","防腐性"}},
+
+{"subject":{"涂层阻抗", "涂层电容"},
+"predicate":"随浸泡时间增加的变化趋势",
+"object":"相反"}]
+```
