@@ -1,5 +1,9 @@
 # chatglm_finetune
 
+此为项目[https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/chatglm_finetune](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/chatglm_finetune)的复制（手动复制，不是fork），原readme见[readme_official.md](readme_official.md)
+
+This is a copy from [https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/chatglm_finetune](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/chatglm_finetune) (I copy it manually, not from 'fork'), and official readme is [here](readme_official.md)
+
 ## 建立环境
 
 ```sh
